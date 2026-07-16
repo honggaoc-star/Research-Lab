@@ -1,0 +1,298 @@
+# State Space
+
+## Dynamic Social Systems Research Program
+
+**Repository**
+
+`Research-Lab/Social-Systems/Framework/State-Space.md`
+
+**Status**
+
+Working Draft
+
+**Phase**
+
+III — Framework Validation
+
+**Depends on**
+
+* `Research-Lab/Social-Systems/README.md`
+* `Research-Lab/Social-Systems/Framework/Framework-Validation.md`
+* `Research-Lab/Social-Systems/Framework/README.md`
+
+---
+
+# Purpose
+
+This document defines the state space of the Dynamic Social Systems framework.
+
+The purpose is to identify the minimum information required to describe a social system at any point in time and to distinguish the system's current condition from the mechanisms that cause it to evolve.
+
+This document deliberately avoids specifying the law of motion. It focuses exclusively on the definition of the state.
+
+---
+
+# 1. What Is the System?
+
+A social system is a collection of interacting individuals, organizations, and institutions that continuously allocate opportunities, resources, influence, responsibilities, and risks through decentralized decision-making and recursive feedback.
+
+The framework is intended to be scale-independent.
+
+Possible system boundaries include:
+
+* organizations;
+* cities;
+* regions;
+* nations;
+* groups of nations;
+* civilizations.
+
+Every empirical application must explicitly define the system boundary before identifying state variables.
+
+---
+
+# 2. What Is a State?
+
+A state is the minimum collection of variables that completely characterizes the condition of the system at a given time for the purposes of predicting its subsequent evolution.
+
+A state is descriptive rather than causal.
+
+Mechanisms change the state.
+
+The state itself does not explain why it exists.
+
+---
+
+# 3. Candidate State Variables
+
+The framework currently proposes the following categories.
+
+## A. Development
+
+The level of social outcomes.
+
+Illustrative measures include:
+
+* income;
+* productivity;
+* wealth;
+* education;
+* health;
+* capabilities.
+
+Development describes the average or aggregate level of social outcomes.
+
+---
+
+## B. Allocation
+
+The distribution of social outcomes.
+
+Illustrative measures include:
+
+* income distribution;
+* wealth distribution;
+* opportunity distribution;
+* political influence;
+* educational access;
+* mobility.
+
+Inequality is treated as one observable property of this allocation dimension.
+
+---
+
+## C. Institutional State
+
+Institutional characteristics governing social interactions.
+
+Illustrative components include:
+
+* property rights;
+* legal systems;
+* political institutions;
+* administrative capacity;
+* adaptive capacity;
+* institutional legitimacy.
+
+---
+
+## D. Capability State
+
+The productive and adaptive capacities of the population.
+
+Illustrative measures include:
+
+* education;
+* knowledge;
+* technology adoption;
+* human capital;
+* organizational capability.
+
+---
+
+## E. Social Coordination
+
+Variables describing interactions among individuals and organizations.
+
+Examples include:
+
+* social trust;
+* cooperation;
+* network connectivity;
+* collective-action capacity.
+
+---
+
+# 4. Observable and Latent State Variables
+
+Some state variables can be measured directly.
+
+Examples:
+
+* income;
+* population;
+* educational attainment;
+* public expenditures.
+
+Others are latent.
+
+Examples:
+
+* beliefs;
+* expectations;
+* institutional legitimacy;
+* perceived fairness;
+* social cohesion.
+
+Latent variables may require indirect measurement through surveys, behavioral indicators, or statistical estimation.
+
+---
+
+# 5. Endogenous and Exogenous Variables
+
+The framework distinguishes between variables generated within the system and external influences.
+
+## Endogenous
+
+Examples:
+
+* institutions;
+* allocation;
+* political coalitions;
+* organizational structures;
+* capabilities.
+
+## Exogenous
+
+Examples:
+
+* natural disasters;
+* major technological breakthroughs originating outside the system;
+* geopolitical shocks;
+* pandemics;
+* climatic events.
+
+Whether a variable is treated as endogenous or exogenous depends upon the system boundary.
+
+---
+
+# 6. State Constraints
+
+Not every theoretical combination of state variables is feasible.
+
+Some combinations may be:
+
+* physically impossible;
+* institutionally impossible;
+* dynamically unstable;
+* politically unsustainable.
+
+One objective of the framework is to identify feasible regions within the broader state space.
+
+---
+
+# 7. State Transitions
+
+The state evolves through interactions among:
+
+* heterogeneous actors;
+* institutions;
+* decision rules;
+* evolutionary mechanisms;
+* historical contingencies;
+* recursive feedback.
+
+The transition function itself is developed separately in the Law of Motion document.
+
+---
+
+# 8. The Development–Allocation Question
+
+A central objective of Phase III is determining whether Development is a fundamental state variable.
+
+The framework will evaluate two competing hypotheses.
+
+## Hypothesis A
+
+Development is a fundamental component of the state.
+
+Removing it reduces explanatory power.
+
+---
+
+## Hypothesis B
+
+Development is an emergent outcome generated by other state variables.
+
+Including it unnecessarily enlarges the state space.
+
+This question will be resolved through conceptual analysis, historical comparison, and empirical evaluation rather than assumption.
+
+---
+
+# 9. Criteria for Inclusion
+
+A variable should become part of the state only if it satisfies all of the following.
+
+1. It represents the current condition of the system rather than a mechanism.
+2. It cannot be reconstructed reliably from the remaining state variables.
+3. It contributes additional explanatory or predictive power.
+4. It is conceptually well defined.
+5. It can, in principle, be observed or approximated empirically.
+
+Variables failing these criteria should remain mechanisms, parameters, or derived quantities rather than state variables.
+
+---
+
+# 10. Open Research Questions
+
+The following questions remain unresolved.
+
+* What is the minimum sufficient state vector?
+* Should development remain a fundamental state variable?
+* Which institutional characteristics belong in the state rather than the transition mechanism?
+* How should latent variables be represented?
+* Which state variables are universal across applications?
+* Which state variables are application-specific?
+
+---
+
+# Working Principle
+
+The objective is not to maximize the number of state variables.
+
+The objective is to identify the smallest state space capable of explaining the evolution of social systems across multiple historical and institutional contexts.
+
+A successful theory should increase explanatory power while minimizing conceptual complexity.
+
+---
+
+# Future Documents
+
+This document will be followed by:
+
+1. `Research-Lab/Social-Systems/Framework/Law-of-Motion.md`
+2. `Research-Lab/Social-Systems/Framework/Transition-Operator.md`
+3. `Research-Lab/Social-Systems/Framework/Empirical-State-Variables.md`
+
+Together, these documents will define the formal dynamic structure of the framework.
