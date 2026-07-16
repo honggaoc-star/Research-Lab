@@ -65,6 +65,8 @@ Social evolution is therefore modeled as an emergent outcome of distributed deci
 - `Framework/` — foundational theory, axioms, architecture, and formal development;
 - `Applications/` — substantive applications of the framework;
 - `Literature/` — literature reviews and source maps;
+- `Validation/` — cross-literature synthesis, contribution assessment, 
+  testable propositions, falsification criteria, and readiness evaluation;
 - `Figures/` — conceptual diagrams and visual models;
 - `Red-Team/` — internal critiques, unresolved challenges, and falsification tests;
 - `Archive/` — superseded drafts and historical project records.
