@@ -6,29 +6,48 @@
 
 `Research-Lab/Social-Systems/Framework/Transition-Operator.md`
 
+**Version**
+
+2.0
+
 **Status**
 
-Working Draft
+Conceptual Architecture
 
-**Phase**
+**Role**
 
-III — Framework Validation
+Defines the abstract conceptual mapping that transforms one admissible social state into another.
 
-**Depends on**
+**Related Documents**
 
-* `Research-Lab/Social-Systems/Framework/State-Space.md`
-* `Research-Lab/Social-Systems/Framework/Transition-Mechanisms.md`
-* `Research-Lab/Social-Systems/Framework/Law-of-Motion.md`
+- `Framework/State-Space.md`
+- `Framework/Transition-Mechanisms.md`
+- `Framework/Law-of-Motion.md`
+- `Formalization/Endogenous-Transition-Dynamics/`
 
 ---
 
 # Purpose
 
-This document defines the conceptual Transition Operator of the Dynamic Social Systems framework.
+The Transition Operator is the conceptual interface between the Framework and Formalization.
 
-Unlike the Law of Motion, which specifies the governing principle of system evolution, the Transition Operator specifies the abstract mapping that transforms one admissible system state into another.
+It specifies the abstract mapping required to update a social system without committing to any particular mathematical or computational implementation.
 
-The Transition Operator remains independent of any particular mathematical implementation.
+Conceptually:
+
+```text
+State Space
+      ↓
+Transition Mechanisms
+      ↓
+Law of Motion
+      ↓
+Transition Operator
+      ↓
+Mathematical Implementation
+```
+
+Unlike the Law of Motion, which explains **why** evolution occurs, the Transition Operator identifies the information required to perform the transition.
 
 ---
 
@@ -36,254 +55,166 @@ The Transition Operator remains independent of any particular mathematical imple
 
 Let
 
-* (S(t)) denote the system state at time (t),
-* (M(t)) denote the collection of transition mechanisms,
-* (E(t)) denote external disturbances,
-* (\Theta) denote structural parameters.
+- \\(\\mathbf X_t\\) denote the current state,
+- \\(\\mathbf M_t\\) the active mechanism configuration,
+- \\(\\boldsymbol\\theta\\) structural parameters,
+- \\(\\boldsymbol\\varepsilon_t\\) external disturbances.
 
-The Transition Operator, denoted by (\mathcal{T}), is the abstract mapping
+The conceptual transition operator is
 
-[
-S(t+1)
-======
+\\[
+\\mathbf X_{t+1}=\\mathcal T(\\mathbf X_t,\\mathbf M_t,\\boldsymbol\\theta,\\boldsymbol\\varepsilon_t).
+\\]
 
-\mathcal{T}
-\left(
-S(t),
-M(t),
-E(t),
-\Theta
-\right).
-]
-
-This expression is conceptual rather than computational.
-
-Its purpose is to identify the information required to update the system.
+This expression defines an abstract mapping rather than a computational algorithm.
 
 ---
 
 # 2. Inputs
 
-The operator receives four categories of inputs.
+The operator receives four categories of information:
 
-## Current State
+* Current state
+* Active transition mechanisms
+* Structural parameters
+* External shocks and contingencies
 
-The complete state vector describing the system at time (t).
-
-Examples include:
-
-* development;
-* allocation;
-* institutional state;
-* capability state;
-* coordination state.
+Each formal implementation may represent these differently while preserving the same conceptual architecture.
 
 ---
 
-## Transition Mechanisms
+# 3. Internal Architecture
 
-Mechanisms responsible for changing state variables.
+The operator should be viewed as a sequence of conceptual transformations rather than a single calculation.
 
-Examples include:
-
-* institutional translation;
-* cumulative advantage;
-* adaptive intervention;
-* role-dependent rationality;
-* institutional learning;
-* recursive feedback.
-
----
-
-## External Conditions
-
-External influences that modify trajectories.
-
-Examples include:
-
-* technological shocks;
-* demographic change;
-* geopolitical events;
-* environmental shocks.
-
----
-
-## Structural Parameters
-
-Relatively stable characteristics governing the operation of mechanisms.
-
-Examples include:
-
-* institutional responsiveness;
-* administrative capacity;
-* legal rigidity;
-* social trust;
-* network density.
-
----
-
-# 3. Internal Structure
-
-The Transition Operator is not assumed to consist of a single calculation.
-
-Instead, it represents a sequence of transformations.
-
-Conceptually,
-
+```text
 Current State
-
-↓
-
+      ↓
 Behavioral Responses
-
-↓
-
-Institutional Responses
-
-↓
-
-Evolutionary Mechanisms
-
-↓
-
+      ↓
+Institutional Translation
+      ↓
+Evolutionary Processes
+      ↓
+Recursive Feedback
+      ↓
 Updated State
+```
 
-This sequence may occur simultaneously, recursively, or iteratively depending on the application.
+Individual implementations may compute these stages simultaneously, iteratively, recursively, or probabilistically.
 
 ---
 
 # 4. Outputs
 
-The primary output is
+Primary output:
 
-[
-S(t+1).
-]
+- Updated state \\(\\mathbf X_{t+1}\\)
 
-Additional outputs may include:
+Possible secondary outputs include:
 
-* observable outcomes;
-* uncertainty estimates;
-* stability indicators;
-* transition diagnostics;
-* policy sensitivities.
+- observable outcomes;
+- transition diagnostics;
+- stability indicators;
+- uncertainty measures;
+- policy sensitivities.
 
 ---
 
 # 5. Desired Properties
 
-A valid Transition Operator should possess several conceptual properties.
+A conceptual Transition Operator should satisfy:
 
-## Consistency
+- consistency;
+- modularity;
+- scalability;
+- adaptability;
+- robustness;
+- admissibility preservation;
+- transparency of inputs and outputs.
 
-Identical states subjected to identical mechanisms should produce identical transitions under the same assumptions.
-
----
-
-## Adaptability
-
-The operator should permit institutional learning and changing decision rules.
-
----
-
-## Modularity
-
-Individual mechanisms should be modified without redesigning the entire operator.
+The operator should map admissible states into admissible states.
 
 ---
 
-## Scalability
+# 6. Relationship to the Law of Motion
 
-The same operator should apply to organizations, cities, nations, and civilizations through changes in state definition rather than architectural redesign.
+The Law of Motion answers:
 
----
+> Why does the system evolve?
 
-## Robustness
+The Transition Operator answers:
 
-Minor disturbances should not necessarily produce major structural changes.
+> How is that conceptual evolution represented as an abstract state transformation?
 
-The framework should also allow tipping points under appropriate conditions.
+The Law provides the governing principle.
 
----
-
-# 6. Alternative Implementations
-
-The Transition Operator deliberately remains independent of implementation.
-
-Possible implementations include:
-
-* nonlinear dynamical systems;
-* stochastic state-space models;
-* agent-based simulations;
-* network models;
-* Bayesian updating systems;
-* hybrid computational architectures.
-
-Each implementation should preserve the same conceptual operator while differing only in computational representation.
+The Operator provides the conceptual mapping.
 
 ---
 
-# 7. Relationship to the Law of Motion
+# 7. Relationship to Formalization
 
-The Law of Motion answers
+Formalization develops concrete realizations of this operator.
 
-> **Why does the system evolve?**
+Possible realizations include:
 
-The Transition Operator answers
+- nonlinear dynamical systems;
+- stochastic state-space models;
+- agent-based simulations;
+- network models;
+- probabilistic transition operators;
+- hybrid computational architectures.
 
-> **How is the evolution computed?**
-
-The Law is theoretical.
-
-The Operator is implementational.
+These are implementations—not different conceptual operators.
 
 ---
 
-# 8. Relationship to Empirical Work
+# 8. Relationship to Evidence
 
-Empirical applications estimate components of the Transition Operator.
+Evidence estimates or evaluates components of particular operator implementations.
 
 Examples include:
 
-* estimating institutional responsiveness;
-* measuring adaptive capacity;
-* quantifying behavioral responses;
-* estimating transition probabilities;
-* validating predicted trajectories.
+- transition probabilities;
+- institutional responsiveness;
+- adaptive capacity;
+- behavioral elasticities;
+- stability regimes.
 
-Different empirical methods estimate different components while preserving the same theoretical architecture.
-
----
-
-# 9. Open Questions
-
-The following remain active research questions.
-
-* Should the operator be deterministic or stochastic?
-* Which mechanisms interact multiplicatively rather than additively?
-* How should latent variables be represented?
-* How should uncertainty accumulate over time?
-* Under what conditions do regime transitions occur?
-* Can the operator be decomposed into nested operators operating at fast, medium, and slow time scales?
+Evidence validates implementations rather than redefining the conceptual operator.
 
 ---
 
-# Working Principle
+# 9. Scope
 
-The Transition Operator should remain the interface between conceptual theory and mathematical implementation.
+The Transition Operator is intentionally independent of:
 
-The objective is not to commit to one computational technique, but to define a common architecture capable of supporting multiple analytical and empirical approaches.
+- programming language;
+- numerical solver;
+- optimization method;
+- simulation platform;
+- statistical estimation technique.
+
+Its role is architectural rather than computational.
 
 ---
 
-# Future Development
+# 10. Working Principle
 
-Following completion of the conceptual architecture, subsequent work should move to
+The Transition Operator forms the bridge between conceptual theory and mathematical implementation.
 
-```text
-Research-Lab/
-└── Social-Systems/
-    └── Formalization/
-```
+Every formal model should be interpretable as one bounded realization of this operator while preserving the common conceptual architecture of the Dynamic Social Systems framework.
 
-where candidate mathematical formulations of the Transition Operator will be developed, compared, and validated against historical evidence.
+---
+
+# 11. Version 2 Revision Summary
+
+Version 2:
+
+- reclassifies the document as Conceptual Architecture;
+- removes obsolete Phase III references;
+- aligns with State Space, Transition Mechanisms, and Law of Motion Version 2;
+- positions the Transition Operator as the interface between Framework and Formalization;
+- replaces future-work language with the current repository architecture;
+- strengthens the distinction between conceptual mapping and mathematical implementation.
