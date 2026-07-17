@@ -1,683 +1,214 @@
 # Working Paper
 
-## Integrated Manuscript Development for the Dynamic Social Systems Research Program
+## Purpose
+
+The **Working Paper** transforms the Social Systems Repository into a coherent scholarly manuscript.
+
+The repository documents the complete research program, including conceptual development, mathematical formalization, literature review, empirical methodology, validation, and supporting materials. The working paper has a different objective: to present the essential scientific argument in a concise, logically organized, and publication-oriented form.
+
+Accordingly, the working paper should be viewed as a synthesis of the repository rather than a replacement for it.
+
+---
+
+# Relationship to the Repository
+
+The repository and the working paper serve complementary purposes.
 
 **Repository**
 
-`Research-Lab/Social-Systems/Working-Paper/README.md`
+* Complete research record
+* Full theoretical development
+* Mathematical formalization
+* Supporting literature
+* Evidence methodology
+* Validation documents
+* Historical development
+* Future extensions
 
-**Status**
+**Working Paper**
 
-Active Development
+* Scientific narrative
+* Principal contributions
+* Essential formalization
+* Representative evidence
+* Validation summary
+* Discussion and implications
 
-**Purpose**
+The repository provides depth and transparency.
 
-To develop the integrated scholarly manuscript presenting the Dynamic Social Systems framework, its intellectual foundations, formal models, propositions, evidence, limitations, and initial application to social inequality.
-
----
-
-# 1. Role of the Working-Paper Folder
-
-The `Working-Paper/` folder contains the integrated manuscript and its publication-supporting materials.
-
-It is not the primary location for developing individual conceptual, formal, historical, empirical, or application-specific components.
-
-Those components remain in their specialized folders:
-
-* `Framework/`;
-* `Literature/`;
-* `Validation/`;
-* `Formalization/`;
-* `Evidence/`;
-* `Applications/`;
-* `Figures/`;
-* `Red-Team/`.
-
-The Working Paper draws from those sources and combines only the materials necessary to support one coherent academic argument.
+The working paper provides clarity and communication.
 
 ---
 
-# 2. Manuscript Objective
+# Intended Audience
 
-The manuscript should answer the following question:
+The working paper is written for researchers interested in:
 
-> Can the Dynamic Social Systems framework provide a tractable and scientifically useful explanation of how heterogeneous actors, institutions, contingencies, and recursive feedback jointly shape the evolution of development and allocation?
+* economics,
+* political science,
+* sociology,
+* complexity science,
+* public policy,
+* systems science,
+* interdisciplinary social research.
 
-The Working Paper should not attempt to summarize the entire repository.
-
-It should present one clear contribution supported by:
-
-* precise concepts;
-* accurate literature positioning;
-* a bounded formal or analytical structure;
-* testable propositions;
-* historical or empirical evidence;
-* explicit limitations;
-* falsification conditions.
+The manuscript assumes familiarity with scientific reasoning but does not require readers to study the complete repository.
 
 ---
 
-# 3. Current Contribution Position
+# Publication Philosophy
 
-The defensible contribution statement is:
+The manuscript should emphasize:
 
-> The Dynamic Social Systems framework contributes an explicit integrative architecture for analyzing how heterogeneous actors, institutional translation, historical contingency, behavioral adaptation, political processes, and recursive feedback jointly shape the evolution of development and allocation.
+* conceptual clarity,
+* scientific rigor,
+* explicit assumptions,
+* mathematical transparency,
+* empirical testability,
+* balanced discussion of strengths and limitations.
 
-A stronger prospective contribution is:
+The paper should distinguish clearly between:
 
-> The framework explains how institutions, political responses, and behavioral adaptation endogenously modify the transition dynamics governing future social outcomes.
+* established knowledge drawn from existing scholarship,
+* new organizational contributions introduced by the Social Systems Framework,
+* future research directions.
 
-The Working Paper should use the first statement as the current established position.
-
-The second should be advanced only to the extent supported by formalization and evidence.
-
----
-
-# 4. Manuscript Identity
-
-## Project Name
-
-**Dynamic Social Systems**
-
-## Working Title
-
-**Dynamic Social Systems: An Integrative Framework for Institutional and Distributional Evolution**
-
-## Initial Application
-
-**The evolution of social inequality**
-
-## Research Position
-
-An integrative positive framework situated at the intersection of:
-
-* Evolutionary Economics;
-* Complexity Science;
-* Institutional Economics;
-* Political Economy;
-* Distribution Dynamics.
+Claims of novelty should remain precise, modest, and evidence-based.
 
 ---
 
-# 5. Folder Structure
+# Proposed Structure
 
 ```text
-Research-Lab/Social-Systems/Working-Paper/
-├── README.md
-├── Dynamic-Social-Systems-Working-Paper.md
-├── Drafts/
-├── Supporting-Materials/
-└── Submission/
+Working-Paper/
+
+README.md
+
+01-Executive-Summary.md
+
+02-Introduction.md
+
+03-Research-Positioning.md
+
+04-Motivation.md
+
+05-Social-Systems-Framework.md
+
+06-Mathematical-Formalization.md
+
+07-Empirical-Methodology.md
+
+08-Validation.md
+
+09-Discussion.md
+
+10-Limitations.md
+
+11-Future-Research.md
+
+12-Conclusion.md
 ```
 
-## Canonical Manuscript
+This structure follows the natural progression expected by academic readers:
 
-`Dynamic-Social-Systems-Working-Paper.md`
+Problem
 
-This file should serve as the current integrated source document.
+↓
 
-## Drafts
+Motivation
 
-Contains dated or versioned manuscript snapshots and Word exports.
+↓
 
-## Supporting Materials
+Contribution
 
-Contains appendices, supplementary propositions, extended tables, technical notes, robustness materials, and content not included in the main manuscript.
+↓
 
-## Submission
+Framework
 
-Contains journal-specific versions, cover letters, response documents, and final submission packages.
+↓
 
-The `Submission/` folder should be created only when a concrete submission process begins.
+Formalization
 
----
+↓
 
-# 6. Source-of-Truth Principle
+Evidence
 
-The specialized repository folders remain the source of truth for their respective content.
+↓
 
-For example:
+Validation
 
-* axioms and architecture come from `Framework/`;
-* literature findings come from `Literature/`;
-* contribution claims come from `Validation/02-Contribution-Assessment.md`;
-* research positioning comes from `Validation/03-Research-Positioning.md`;
-* propositions come from `Validation/04-Testable-Propositions.md`;
-* falsification standards come from `Validation/05-Falsification-Criteria.md`;
-* readiness decisions come from `Validation/07-Readiness-Assessment.md` and `Validation/08-Validation-Summary.md`;
-* formal results come from `Formalization/`;
-* historical and empirical findings come from `Evidence/`;
-* substantive domain analysis comes from `Applications/`.
+↓
 
-The Working Paper should not independently redefine these components without corresponding changes to the relevant source documents.
+Discussion
+
+↓
+
+Conclusion
+
+rather than mirroring the repository's internal development process.
 
 ---
 
-# 7. Recommended Manuscript Structure
+# Relationship Between Chapters and Repository
 
-## Abstract
+Each chapter summarizes one or more sections of the repository.
 
-State:
+| Working Paper Chapter      | Primary Repository Sources |
+| -------------------------- | -------------------------- |
+| Executive Summary          | Entire repository          |
+| Introduction               | Framework, Literature      |
+| Research Positioning       | Validation                 |
+| Motivation                 | Framework, Literature      |
+| Social Systems Framework   | Framework                  |
+| Mathematical Formalization | Formalization              |
+| Empirical Methodology      | Evidence                   |
+| Validation                 | Validation                 |
+| Discussion                 | Framework, Validation      |
+| Limitations                | Validation                 |
+| Future Research            | Evidence, Validation       |
+| Conclusion                 | Entire repository          |
 
-* the research problem;
-* the framework;
-* the contribution;
-* the principal mechanism;
-* the evidence or formal result;
-* the main limitation.
+The repository remains the authoritative technical reference.
 
----
-
-## 1. Introduction
-
-Explain:
-
-* why social outcomes require dynamic analysis;
-* why existing literatures remain fragmented;
-* the central research question;
-* the contribution;
-* the manuscript roadmap.
+The working paper presents the essential scientific narrative.
 
 ---
 
-## 2. Intellectual Positioning
+# Writing Principles
 
-Position the framework relative to:
+Every chapter should:
 
-* Institutional Economics;
-* Evolutionary Economics;
-* Complexity Science;
-* Political Economy;
-* Distribution Dynamics.
+* communicate one central idea,
+* avoid unnecessary repetition,
+* reference established literature appropriately,
+* summarize technical material rather than reproduce repository documents,
+* maintain consistent terminology throughout the manuscript.
 
-This section should acknowledge overlap and avoid broad novelty claims.
-
----
-
-## 3. Foundational Architecture
-
-Present:
-
-* Heterogeneity;
-* Institutional Translation;
-* Contingency;
-* Recursive Feedback.
-
-Distinguish:
-
-* states;
-* mechanisms;
-* observables;
-* normative evaluation.
+Supporting mathematical details, extended discussions, and implementation notes should remain within the repository whenever possible.
 
 ---
 
-## 4. State Space and Transition Structure
+# Current Status
 
-Define the general architecture:
+The repository has completed the principal stages of:
 
-[
-S_{t+1}=\mathcal{T}(S_t,M_t,E_t,\Theta_t).
-]
+* Framework
+* Formalization
+* Literature
+* Evidence
+* Validation
 
-Clarify that this is an abstract scaffold rather than a completed mathematical theory.
-
-Identify the bounded state representation used in the manuscript.
-
----
-
-## 5. Core Formal Model
-
-Present one reduced model.
-
-The recommended first model concerns:
-
-* Endogenous Transition Dynamics; or
-* Institutional Translation.
-
-The manuscript should not contain several disconnected models unless each is necessary to support the central contribution.
+The primary objective of the Working Paper is now to synthesize these completed components into a coherent manuscript suitable for scholarly review and future publication.
 
 ---
 
-## 6. Testable Propositions
+# Long-Term Vision
 
-Present only the propositions derived directly from the selected formal or analytical model.
+The repository should continue evolving as an open research program.
 
-The full preliminary proposition set may remain in:
+The working paper should evolve more conservatively, representing stable milestones in the development of the Social Systems Framework.
 
-`Research-Lab/Social-Systems/Validation/04-Testable-Propositions.md`
+Future versions of the manuscript should incorporate new theoretical developments only after they have been fully documented, formalized, and validated within the repository.
 
-or in Supporting Materials.
+In this way, the repository serves as the research laboratory, while the working paper serves as its principal scientific publication.
 
----
-
-## 7. Historical or Empirical Evidence
-
-Evaluate the core propositions using:
-
-* one strong historical comparison;
-* one empirical design;
-* or a limited mixed-method combination.
-
-Evidence should be compared with simpler explanations.
-
----
-
-## 8. Initial Application to Social Inequality
-
-Show how the framework clarifies:
-
-* inequality as an observable property of allocation;
-* mobility as an observable property of transitions;
-* institutional mediation of heterogeneous characteristics;
-* cumulative advantage;
-* political and behavioral feedback.
-
-This section should demonstrate application without attempting to cover every dimension of inequality.
-
----
-
-## 9. Counterfactual Analysis
-
-Use the formal or historical model to examine one limited alternative institutional scenario.
-
-The counterfactual should be:
-
-* specific;
-* historically or institutionally feasible;
-* mechanism based;
-* bounded;
-* explicit about uncertainty.
-
----
-
-## 10. Limitations and Falsification
-
-State:
-
-* what the framework does not explain;
-* which assumptions remain provisional;
-* what evidence would weaken the model;
-* where simpler theories may be sufficient;
-* what remains unvalidated.
-
----
-
-## 11. Conclusion
-
-Summarize:
-
-* the contribution;
-* the principal finding;
-* the limitations;
-* the next research step.
-
-The conclusion should not introduce new concepts.
-
----
-
-# 8. Manuscript Discipline
-
-The Working Paper should follow several rules.
-
-* One central research question.
-* One primary contribution.
-* One bounded formalization target.
-* A limited set of propositions.
-* Evidence selected to challenge the framework.
-* Explicit comparison with simpler theories.
-* Stable terminology.
-* Positive–normative separation.
-* No claim of a complete theory of society.
-* No novelty claim based only on terminology or breadth.
-* No inclusion of repository material merely because it exists.
-
----
-
-# 9. Relationship to the Framework
-
-The Working Paper should accurately reflect the framework stored in:
-
-`Research-Lab/Social-Systems/Framework/`
-
-The foundational architecture is provisionally frozen.
-
-The manuscript may simplify the framework for exposition, but it should not:
-
-* introduce new axioms;
-* redefine existing state categories;
-* add new foundational mechanisms;
-* collapse states, mechanisms, and observables without explanation;
-* imply that an application-specific model represents the complete architecture.
-
-Any substantive framework revision should occur first in `Framework/`.
-
----
-
-# 10. Relationship to Literature and Validation
-
-The manuscript’s literature claims should remain consistent with:
-
-`Research-Lab/Social-Systems/Literature/`
-
-and:
-
-`Research-Lab/Social-Systems/Validation/`
-
-The manuscript should acknowledge that:
-
-* the individual components of the framework are grounded in existing scholarship;
-* the current contribution is primarily integrative and architectural;
-* substantive theoretical novelty remains to be demonstrated;
-* Evolutionary Economics and Complexity Science are the closest neighboring traditions;
-* Institutional Economics, Political Economy, and Distribution Dynamics provide major substantive foundations.
-
-The literature section should be selective rather than reproducing all ten comparative reviews.
-
----
-
-# 11. Relationship to Formalization
-
-Formal work included in the manuscript should originate in:
-
-`Research-Lab/Social-Systems/Formalization/`
-
-The manuscript should include only models that:
-
-* address the central research question;
-* use a minimum sufficient state vector;
-* specify explicit mechanisms;
-* generate distinctive propositions;
-* identify boundary conditions;
-* provide a simpler benchmark;
-* connect to evidence.
-
-Exploratory or abandoned models should remain outside the main manuscript.
-
----
-
-# 12. Relationship to Evidence
-
-Historical and empirical findings should originate in:
-
-`Research-Lab/Social-Systems/Evidence/`
-
-The manuscript should distinguish clearly among:
-
-* descriptive evidence;
-* causal evidence;
-* mechanism evidence;
-* historical interpretation;
-* suggestive patterns;
-* unresolved uncertainty.
-
-Evidence should not be promoted from suggestive to causal merely because it is consistent with the framework.
-
----
-
-# 13. Relationship to Applications
-
-The initial application is social inequality.
-
-Application-specific material should originate in:
-
-`Research-Lab/Social-Systems/Applications/Social-Inequality/`
-
-The Working Paper should use the application to demonstrate the value of the general framework.
-
-It should not allow the application to redefine the foundational theory without explicit revision.
-
----
-
-# 14. Versioning
-
-The manuscript should use explicit version numbers.
-
-Recommended naming:
-
-```text
-Dynamic-Social-Systems-Working-Paper-v0.5.md
-Dynamic-Social-Systems-Working-Paper-v0.6.md
-Dynamic-Social-Systems-Working-Paper-v1.0.md
-```
-
-The canonical current file may remain:
-
-```text
-Dynamic-Social-Systems-Working-Paper.md
-```
-
-Versioned copies should be stored in:
-
-```text
-Research-Lab/Social-Systems/Working-Paper/Drafts/
-```
-
-Each major version should record:
-
-* date;
-* status;
-* principal changes;
-* source dependencies;
-* unresolved issues;
-* next decision gate.
-
----
-
-# 15. Markdown and Word Outputs
-
-Markdown should remain the primary modular drafting format.
-
-Word versions should be created for:
-
-* formal archival milestones;
-* external review;
-* tracked editing;
-* journal submission;
-* publication-oriented formatting.
-
-Recommended path:
-
-```text
-Research-Lab/Social-Systems/Working-Paper/Drafts/
-└── Dynamic-Social-Systems-Working-Paper-vX.X.docx
-```
-
-The Word filename and internal title should use the same version number.
-
----
-
-# 16. Supporting Materials
-
-The `Supporting-Materials/` folder may contain:
-
-* extended literature tables;
-* complete proposition lists;
-* additional derivations;
-* simulation specifications;
-* robustness analyses;
-* historical timelines;
-* data appendices;
-* variable dictionaries;
-* alternative models;
-* supplementary figures.
-
-Each supporting artifact should either be referenced by the manuscript or retained for a documented research purpose.
-
-The folder should not become a general location for unrelated notes.
-
----
-
-# 17. Figures
-
-Canonical figures should remain in:
-
-`Research-Lab/Social-Systems/Figures/`
-
-The Working-Paper folder may contain publication-specific copies where required.
-
-Figures should distinguish among:
-
-* conceptual architecture;
-* formal relationships;
-* causal mechanisms;
-* historical sequences;
-* empirical results.
-
-A conceptual diagram should not be presented as evidence.
-
----
-
-# 18. Red Team Review
-
-Each major manuscript version should receive adversarial review.
-
-Relevant critiques should be stored in:
-
-`Research-Lab/Social-Systems/Red-Team/`
-
-Review should examine:
-
-* exaggerated novelty;
-* hidden assumptions;
-* conceptual inconsistency;
-* omitted literature;
-* weak causal identification;
-* post hoc reasoning;
-* unsupported counterfactuals;
-* mismatch between formal model and prose;
-* failure to address negative evidence;
-* overgeneralization from one application.
-
-The project should record which criticisms were:
-
-* accepted;
-* rejected;
-* resolved;
-* deferred.
-
----
-
-# 19. Publication Positioning
-
-The initial manuscript is likely to fit best in an interdisciplinary theory-development context.
-
-A conventional economics outlet would likely require:
-
-* a formal model;
-* distinctive propositions;
-* clear comparative implications;
-* empirical or historical validation;
-* disciplined scope.
-
-An interdisciplinary outlet may place greater value on integration but will still require:
-
-* a clear contribution;
-* accurate research positioning;
-* conceptual precision;
-* evidence of added value.
-
-Journal selection should occur only after the central model and evidence strategy are established.
-
----
-
-# 20. Manuscript Readiness Gates
-
-The manuscript should not advance to a publication-oriented version until it satisfies the following gates.
-
-## Contribution Gate
-
-Is the contribution stated narrowly and defensibly?
-
-## Positioning Gate
-
-Is the relationship to neighboring theories clear?
-
-## Formalization Gate
-
-Does the paper contain a bounded and interpretable model?
-
-## Proposition Gate
-
-Does the model generate distinctive implications?
-
-## Evidence Gate
-
-Is there credible historical or empirical evaluation?
-
-## Benchmark Gate
-
-Is the framework compared with a simpler explanation?
-
-## Falsification Gate
-
-Does the paper state what would weaken its claims?
-
-## Coherence Gate
-
-Do the conceptual, formal, empirical, and application sections use consistent definitions?
-
----
-
-# 21. Immediate Manuscript Priority
-
-The next manuscript version should not attempt to integrate every completed repository artifact.
-
-It should focus on:
-
-1. the narrowed contribution;
-2. the framework’s intellectual position;
-3. one reduced formal model;
-4. a small set of testable propositions;
-5. one evidence strategy;
-6. social inequality as the initial application.
-
-The strongest current candidate is a manuscript centered on:
-
-> Endogenous Transition Dynamics
-
-This manuscript would examine how institutions and recursive outcomes alter mobility, persistence, or other transition probabilities.
-
----
-
-# 22. Success Criteria
-
-The Working Paper phase will be considered successful when the manuscript:
-
-* presents one coherent argument;
-* makes a defensible contribution claim;
-* uses the literature accurately;
-* formalizes at least one central mechanism;
-* generates distinctive propositions;
-* evaluates those propositions with evidence;
-* compares the framework with simpler alternatives;
-* states clear limitations and falsification criteria;
-* demonstrates value through the social-inequality application.
-
----
-
-# 23. Failure Criteria
-
-The manuscript strategy should be reconsidered if:
-
-* the paper becomes a summary of the entire repository;
-* the architectural contribution produces no analytical consequence;
-* the formal model is disconnected from the framework;
-* evidence is selected only for compatibility;
-* the manuscript relies on breadth rather than precision;
-* the social-inequality application remains purely illustrative;
-* established theories explain the central result equally well;
-* terminology changes across sections;
-* the paper cannot state what would falsify its claims.
-
----
-
-# Current Priority
-
-The immediate task is to prepare the next integrated manuscript outline around one approved formalization target.
-
-The Working Paper should now move from framework description to scientific demonstration.
-
-The central question is:
-
-> Can the Dynamic Social Systems framework explain why social transition processes change as institutions, behavior, political responses, and prior outcomes evolve?
