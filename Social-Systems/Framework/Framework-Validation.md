@@ -4,7 +4,7 @@
 
 **Repository Path**
 
-`Research-Lab/Social-Systems/Framework/Framework-Validation.md`
+`Research-Lab/Social-Systems/Archive/Framework-Legacy/Framework-Validation.md
 
 ---
 
