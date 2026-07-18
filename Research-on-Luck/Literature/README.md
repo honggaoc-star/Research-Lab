@@ -2,11 +2,11 @@
 
 ## Overview
 
-The **Literature** directory surveys, organizes, and critically evaluates existing scholarship relevant to the **Research on Luck** project.
+The **Literature** directory examines how humanity's understanding of luck has evolved and how different academic disciplines have come to investigate different aspects of the phenomenon.
 
-The objective is not merely to summarize previous work, but to establish the current state of knowledge, identify areas of consensus and disagreement, and reveal opportunities for original contributions. Every theoretical development within this repository should be informed by an understanding of the existing literature.
+Rather than serving as a collection of independent literature reviews, this directory provides an intellectual map of the study of luck. It traces the historical development of ideas, surveys the contemporary research landscape, and critically evaluates the contributions of individual disciplines.
 
-Because the study of luck spans multiple disciplines, this directory adopts an interdisciplinary perspective rather than treating any single field as authoritative.
+The objective is not merely to summarize previous work, but to understand how existing scholarship has shaped current knowledge, where important questions remain unresolved, and how diverse perspectives may be integrated into a coherent scientific framework.
 
 ---
 
@@ -14,126 +14,101 @@ Because the study of luck spans multiple disciplines, this directory adopts an i
 
 The primary objectives of this directory are to:
 
-* Survey major theories related to luck.
-* Review important conceptual and empirical contributions.
-* Compare perspectives across different disciplines.
-* Identify unresolved questions and research gaps.
-* Evaluate the strengths and limitations of existing approaches.
-* Provide a foundation for subsequent theoretical and empirical work.
+* Trace the historical evolution of the study of luck.
+* Survey the contemporary academic landscape.
+* Review major disciplinary perspectives.
+* Identify the principal concepts, theories, and debates.
+* Compare different approaches to understanding luck.
+* Evaluate the strengths and limitations of existing research.
+* Identify opportunities for interdisciplinary synthesis.
 
----
-
-# Scope
-
-The literature review covers disciplines in which luck plays a significant conceptual or empirical role, including:
-
-* Philosophy
-* Economics
-* Psychology
-* Sociology
-* Political Philosophy
-* Complexity Science
-* Management and Organization Studies
-* Evolutionary Theory
-* Decision Science
-* Statistics and Probability
-
-Additional disciplines may be incorporated as the project evolves.
+The emphasis is on understanding how different research traditions contribute to the broader study of luck.
 
 ---
 
 # Organization
 
-The directory is organized by discipline rather than chronology.
+The Literature section progresses from historical development to contemporary disciplinary research.
 
-```text
+```text id="q7p2jr"
 Literature/
+│
+├── README.md
+├── 00-Evolution-of-the-Study-of-Luck.md
+├── 01-Literature-Overview.md
 │
 ├── Philosophy/
 ├── Economics/
+├── Statistics/
 ├── Psychology/
-├── Sociology/
-├── Political-Philosophy/
-├── Complexity-Science/
-├── Management/
-├── Evolutionary-Theory/
-├── Decision-Science/
-└── Statistics/
+└── ...
 ```
 
-Within each discipline, documents should progress from broad surveys to more specialized topics.
+This organization reflects the intellectual development of the field rather than simply listing academic disciplines.
+
+* **00** explains how human understanding of luck evolved.
+* **01** surveys the contemporary research landscape.
+* Subsequent directories examine the major disciplinary traditions individually.
 
 ---
 
 # Review Methodology
 
-Literature reviews should strive to:
+Each disciplinary review follows a common analytical framework.
 
-* accurately represent existing arguments;
-* distinguish established findings from ongoing debates;
-* compare competing viewpoints fairly;
-* identify conceptual ambiguities;
-* evaluate methodological strengths and weaknesses;
-* clearly separate evidence from interpretation.
+1. Overview
+2. Major Research Traditions
+3. Principal Contributions
+4. Limitations
+5. Implications for the Research on Luck Project
+6. Open Questions
 
-The purpose is critical evaluation rather than exhaustive summary.
-
----
-
-# Research Questions
-
-The literature review seeks to answer questions such as:
-
-* How has luck been defined across disciplines?
-* Which aspects of luck have been studied extensively?
-* Which questions remain unresolved?
-* Where do different disciplines agree or disagree?
-* Which existing theories appear compatible?
-* Which assumptions require reconsideration?
-
-The answers to these questions will guide the project's conceptual and theoretical development.
-
----
-
-# Relationship to Other Directories
-
-The literature review informs every subsequent stage of the project.
-
-```text
-Foundations
-      ↓
-Literature
-      ↓
-Formalization
-      ↓
-Measurement
-      ↓
-Applications
-```
-
-* **Foundations** establish the project's own conceptual framework.
-* **Literature** evaluates existing scholarship in relation to that framework.
-* **Formalization** develops new theoretical and mathematical models where existing theories are incomplete.
-* **Measurement** investigates empirical approaches.
-* **Applications** explores implications across different domains.
+Using a consistent structure facilitates systematic comparison across disciplines while preserving the unique perspectives of each field.
 
 ---
 
 # Guiding Principles
 
-Documents in this directory should adhere to the following principles.
+The Literature section follows several guiding principles.
 
-* Represent existing work accurately and fairly.
-* Cite primary sources whenever possible.
-* Distinguish facts, interpretations, and opinions.
-* Identify both strengths and limitations of existing theories.
-* Avoid advocacy for a particular viewpoint before evidence is evaluated.
-* Emphasize synthesis over simple summary.
+* Understand before evaluating.
+* Represent each discipline accurately and fairly.
+* Distinguish historical development from contemporary research.
+* Compare disciplines according to their research questions rather than their terminology.
+* Recognize that different disciplines often investigate different dimensions of the same phenomenon.
+* Seek interdisciplinary synthesis rather than disciplinary competition.
+
+The objective is to understand why different perspectives emerged before attempting to integrate them.
+
+---
+
+# Relationship to the Research on Luck Project
+
+The Literature section provides the intellectual context for the broader **Research on Luck** project.
+
+Rather than attempting to replace existing theories, the project seeks to understand how different disciplines investigate complementary aspects of luck.
+
+For example:
+
+* Philosophy examines the nature of luck.
+* Economics studies the influence of luck on outcomes.
+* Statistics develops methods for analyzing uncertainty.
+* Psychology investigates human perception and belief.
+* Complexity science examines dynamic interactions and emergence.
+
+Together, these perspectives provide the foundation for subsequent theoretical formalization, empirical investigation, and interdisciplinary synthesis.
 
 ---
 
 # Long-Term Goal
 
-The long-term goal of the **Literature** directory is to establish a comprehensive interdisciplinary map of current knowledge on luck.
+The long-term goal of the Literature section is to develop a comprehensive interdisciplinary understanding of the study of luck.
 
-Rather than serving as a static bibliography, this directory should become a critical research resource that identifies opportunities for theoretical innovation, empirical investigation, and future collaboration. It provides the scholarly context within which the **Research on Luck** project develops its own original contributions.
+Rather than functioning solely as a bibliography or survey, this directory aims to explain:
+
+* how humanity's understanding of luck has evolved,
+* why different disciplines ask different questions,
+* where current knowledge remains incomplete,
+* and how diverse perspectives may be integrated into a coherent scientific framework.
+
+By establishing this intellectual context, the Literature section provides the scholarly foundation upon which the **Research on Luck** project develops its own original conceptual, theoretical, and empirical contributions.
