@@ -1,4 +1,4 @@
-### Research Lab
+# Research Lab
 
 ## Mission
 
@@ -15,10 +15,10 @@ The Research Lab develops general scientific frameworks for understanding comple
 
 ## Research Programs
 
-# Dynamic Social Systems
+### Dynamic Social Systems
     Status: Active
 
-# Luck
+### Luck
     Status: Exploratory
 
 ## Repository Architecture
