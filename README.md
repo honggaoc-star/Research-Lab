@@ -1,10 +1,10 @@
-Research Lab
+# Research Lab
 
-Mission
+## Mission
 
 The Research Lab develops general scientific frameworks for understanding complex social, economic, institutional, and technological systems.
 
-Research Principles
+## Research Principles
 
 • Conceptual clarity
 • Mathematical rigor
@@ -13,16 +13,16 @@ Research Principles
 • Reproducibility
 • Modular development
 
-Research Programs
+## Research Programs
 
-Dynamic Social Systems
+### Dynamic Social Systems
     Status: Active
 
-Luck
+### Luck
     Status: Exploratory
 
-Repository Architecture
+## Repository Architecture
 
-How to Navigate
+## How to Navigate
 
-Current Priorities
+## Current Priorities
