@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Research on Luck
 
 ## Overview
@@ -175,3 +176,8 @@ Current priorities include:
 This repository is expected to evolve continuously as new theoretical insights, mathematical developments, and empirical evidence become available.
 
 
+=======
+### Research on Luck
+
+The "Research on Luck" project investigates how luck is understood, interpreted and "developed" in theory and in practice across various domains or disciplines.
+>>>>>>> 2cff96bbe94161ae59461120ca1cacc032509e7c
