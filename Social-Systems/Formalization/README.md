@@ -10,13 +10,10 @@
 
 Active Development
 
-**Phase**
-
-VI — Formalization
 
 **Purpose**
 
-To translate the validated conceptual architecture of the Dynamic Social Systems framework into bounded, explicit, and testable mathematical or computational models.
+To translate the conditionally validated conceptual architecture of the Dynamic Social Systems framework into bounded, explicit, and testable mathematical or computational models.
 
 ---
 
@@ -41,7 +38,7 @@ Each model should therefore be treated as a limited instantiation of the broader
 
 # 2. Starting Point
 
-Formalization begins after completion of the Validation phase:
+Formalization begins following the initial Validation assessment:
 
 `Research-Lab/Social-Systems/Validation/`
 
@@ -51,9 +48,9 @@ The Validation phase concluded that the framework is:
 
 The strongest approved formalization targets are:
 
-1. Institutional Translation;
-2. Endogenous Transition Dynamics;
-3. Adaptive Intervention Dynamics.
+1. Institutional Translation — active;
+2. Endogenous Transition Dynamics — active;
+3. Adaptive Intervention Dynamics — approved; not yet initiated.
 
 Formalization should begin with one bounded problem rather than an attempt to model the entire social system.
 
@@ -365,7 +362,7 @@ Normative analysis should identify:
 
 The standard workflow is:
 
-1. select one validated proposition;
+1. select one conditionally supported proposition;
 2. define the system boundary;
 3. identify the minimum sufficient state vector;
 4. specify actor and institutional rules;
@@ -444,13 +441,17 @@ Exploratory models may remain in `Formalization/` without appearing in the manus
 ```text
 Research-Lab/Social-Systems/Formalization/
 ├── README.md
+├── 01-Formalization-Roadmap.md
+├── 02-Mathematical-Notation.md
+├── 03-Minimum-State-Vector.md
 ├── Institutional-Translation/
 ├── Endogenous-Transition-Dynamics/
-├── Adaptive-Intervention/
 └── Shared/
 ```
 
-The subfolders should be created only as active work begins.
+Current implementation reflects active work only.
+
+The approved `Adaptive-Intervention/` track has not yet been initiated. Its folder should be created only when formal development begins.
 
 The `Shared/` folder may contain:
 

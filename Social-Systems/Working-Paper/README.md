@@ -4,7 +4,7 @@
 
 The **Working Paper** transforms the Social Systems Repository into a coherent scholarly manuscript.
 
-The repository documents the complete research program, including conceptual development, mathematical formalization, literature review, empirical methodology, validation, and supporting materials. The working paper has a different objective: to present the essential scientific argument in a concise, logically organized, and publication-oriented form.
+The repository has substantially developed its Framework, Literature, and Validation components. Formalization and Evidence development remain active. The Working Paper now provides a first integrated manuscript while those technical and empirical components continue to mature.
 
 Accordingly, the working paper should be viewed as a synthesis of the repository rather than a replacement for it.
 
@@ -77,7 +77,7 @@ Claims of novelty should remain precise, modest, and evidence-based.
 
 ---
 
-# Proposed Structure
+# Current Manuscript Structure
 
 ```text
 Working-Paper/
@@ -107,6 +107,8 @@ README.md
 11-Future-Research.md
 
 12-Conclusion.md
+
+13-Bibliography.md
 ```
 
 This structure follows the natural progression expected by academic readers:

@@ -10,9 +10,6 @@
 
 Active Development
 
-**Phase**
-
-VI — Evidence Development
 
 **Purpose**
 

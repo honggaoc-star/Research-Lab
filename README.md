@@ -11,3 +11,7 @@ The `Social-Systems` program develops a general framework for understanding how 
 Its first major application is the evolution of social inequality.
 
 See [`Social-Systems/README.md`](Social-Systems/README.md).
+
+### Luck
+
+The "Luck" project investigates how luck is understood, interpreted and "developed" in theory and in practice across various domains or disciplines.
