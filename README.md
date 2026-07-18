@@ -1,17 +1,28 @@
-# Research Lab
+Research Lab
 
-Research projects exploring theoretical, empirical, and broader intellectual questions about society, institutions, technology, and human development.
+Mission
 
-## Active Programs
+The Research Lab develops general scientific frameworks for understanding complex social, economic, institutional, and technological systems.
 
-### Dynamic Social Systems
+Research Principles
 
-The `Social-Systems` program develops a general framework for understanding how social systems evolve through interactions among heterogeneous actors, institutions, decision rules, historical contingencies, and recursive feedback.
+• Conceptual clarity
+• Mathematical rigor
+• Empirical testability
+• Explicit validation
+• Reproducibility
+• Modular development
 
-Its first major application is the evolution of social inequality.
+Research Programs
 
-See [`Social-Systems/README.md`](Social-Systems/README.md).
+Dynamic Social Systems
+    Status: Active
 
-### Luck
+Luck
+    Status: Exploratory
 
-The "Luck" project investigates how luck is understood, interpreted and "developed" in theory and in practice across various domains or disciplines.
+Repository Architecture
+
+How to Navigate
+
+Current Priorities
