@@ -1,0 +1,203 @@
+Folder PATH listing for volume OS
+Volume serial number is 00000082 4C32:1C56
+C:.
+¦   README.md
+¦   RESEARCH-IDEAS.md
+¦   tree.txt
+¦   
++---Research-on-Luck
+¦   ¦   README.md
+¦   ¦   ROADMAP.md
+¦   ¦   
+¦   +---Applications
+¦   +---Case Studies
+¦   +---Formalization
+¦   ¦       01-Mathematical-Representation.md
+¦   ¦       02-Stochastic-Events.md
+¦   ¦       03-Dynamics-of-Luck.md
+¦   ¦       04-Path-Dependence.md
+¦   ¦       05-Feedback-and-Amplification.md
+¦   ¦       06-Network-Effects.md
+¦   ¦       07-General-Theoretical-Framework.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---Foundations
+¦   ¦       01-Defining-Luck.md
+¦   ¦       02-Taxonomy-of-Luck.md
+¦   ¦       03-Luck-vs.-Randomness.md
+¦   ¦       04-Luck-Risk-and-Uncertainty.txt
+¦   ¦       05-Origins-and-Mechanisms-of-Luck.md
+¦   ¦       06-Foundational-Problems-in-the-Study-of-Luck.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---Literature
+¦   ¦   ¦   00-Evolution-of-the-Study-of-Luck.md
+¦   ¦   ¦   01-Literature-Overview.md
+¦   ¦   ¦   02-Cross-Disciplinary-Synthesis.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---Economics
+¦   ¦   ¦       01-Overview.md
+¦   ¦   ¦       02-Distinguishing-Luck-from-Skill.md
+¦   ¦   ¦       03-Luck-and-Economic-Inequality.md
+¦   ¦   ¦       04-Social-Mobility-and-Opportunity.md
+¦   ¦   ¦       05Institutions-and-Opportunity.md
+¦   ¦   ¦       06-Limitations-of-the-Economic-Perspective.md
+¦   ¦   ¦       07-Open-Questions.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Philosophy
+¦   ¦   ¦       01-Overview.md
+¦   ¦   ¦       02-Moral-Luck.md
+¦   ¦   ¦       03-Epistemic-Luck.md
+¦   ¦   ¦       04-Free-Will-and-Luck.md
+¦   ¦   ¦       05-Chance-and-Coincidence.md
+¦   ¦   ¦       06-Luck-Egalitarianism.md
+¦   ¦   ¦       07-Open-Questions.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Psychology
+¦   ¦   ¦       01-Overview.md
+¦   ¦   ¦       02-Perception-o- Luck.md
+¦   ¦   ¦       03-Cognitive-Biases-and-Heuristics.md
+¦   ¦   ¦       04-Attribution-Agency-and-Control.md
+¦   ¦   ¦       05-Decision-Making-Under-Uncertainty.md
+¦   ¦   ¦       06-Limitations-of-the-Psychological-Perspective.md
+¦   ¦   ¦       07-Open-Questions.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---Statistics
+¦   ¦           01-Overview.md
+¦   ¦           02-Probability-Uncertainty-and-Chance.md
+¦   ¦           03-Randomness-and-Stochastic-Process.md
+¦   ¦           04-Statistical-Inference-and-Model-Uncertainty.md
+¦   ¦           05-Residuals-Measurement-Error-and-Luck.md
+¦   ¦           06-Limitations-of-the-Statistical-Perspective.md
+¦   ¦           07-Open-Questions.md
+¦   ¦           README.md
+¦   ¦           
+¦   +---Measurement
+¦   +---Notes
+¦   +---References
++---Social-Systems
+    ¦   README.md
+    ¦   
+    +---Applications
+    ¦   ¦   README.md
+    ¦   ¦   
+    ¦   +---Social-Inequality
+    ¦           readme.md
+    ¦           
+    +---Archive
+    ¦   ¦   reame.md
+    ¦   ¦   
+    ¦   +---Framework-Legacy
+    ¦           Framework-Validation.md
+    ¦           
+    +---Evidence
+    ¦       01-Evidence-Taxonomy.md
+    ¦       02-State-Variable-Operationalization.md
+    ¦       03-Observable-Proxies.md
+    ¦       04-Data-Sources.md
+    ¦       05.-Measurement-and-Uncertainty.md
+    ¦       06-Empirical-Identification.md
+    ¦       07-Historical-Evidence.md
+    ¦       08-Evidence-Gaps-and-Research-Roadmap.md
+    ¦       README.md
+    ¦       
+    +---Figures
+    ¦       Figure-01-Research-Landscape-v0.1.png
+    ¦       Figure-01-Research-Landscape.md
+    ¦       Figure-02-Social-Systems-Framework-v0.1.png
+    ¦       Figure-02-Social-Systems-Framework.md
+    ¦       Figure-03-Mathematical-Representation-v0.1.png
+    ¦       Figure-03-Mathematical-Representation.md
+    ¦       Figure-04-Theory-Evidence-Validation-Pipeline-v0.1.png
+    ¦       Figure-04-Theory-Evidence-Validation-Pipeline.md
+    ¦       readme.md
+    ¦       
+    +---Formalization
+    ¦   ¦   01-Formalization-Roadmap.md
+    ¦   ¦   02-Mathematical-Notation.md
+    ¦   ¦   03-Minimum-State-Vector.md
+    ¦   ¦   README.md
+    ¦   ¦   
+    ¦   +---Adaptive-Intervention-Dynamics
+    ¦   ¦       01-Problem-Formulation.md
+    ¦   ¦       02-Conceptual-Mechanisms.md
+    ¦   ¦       README.md
+    ¦   ¦       
+    ¦   +---Endogenous-Transition-Dynamics
+    ¦   ¦       01-Law-of-Motion.md
+    ¦   ¦       02-Transition-Operator.md
+    ¦   ¦       03-Feedback-Mechanisms.md
+    ¦   ¦       04-Equilibrium-and-Steady-States.md
+    ¦   ¦       05-Stability-Analysis.md
+    ¦   ¦       06-Path-Dependence.md
+    ¦   ¦       07-Nonlinear-Dynamics.md
+    ¦   ¦       08-Bifurcation-and-Regime-Transitions.md
+    ¦   ¦       09-Asymptotic-Behavior.md
+    ¦   ¦       10-Open-Mathematical-Problems.md
+    ¦   ¦       README.md
+    ¦   ¦       
+    ¦   +---Institutional-Translation
+    ¦           01-Baseline-Model.md
+    ¦           02-Translation-Function.md
+    ¦           03-Dynamic-Extension.md
+    ¦           04-Testable-Implications.md
+    ¦           05-Empirical-Strategy.md
+    ¦           06-Historical-Cases.md
+    ¦           07-Counterfactuals.md
+    ¦           08-Red-Team-Review.md
+    ¦           README.md
+    ¦           
+    +---Framework
+    ¦       Four-Foundational-Axioms.md
+    ¦       Law-of-Motion.md
+    ¦       README.md
+    ¦       State-Space.md
+    ¦       Transition-Mechanisms.md
+    ¦       Transition-Operator.md
+    ¦       
+    +---Literature
+    ¦       01-Institutional-Economics.md
+    ¦       02-Human-Capital-Theory.md
+    ¦       03-Political-Economy.md
+    ¦       04-Behavioral-Economics.md
+    ¦       05-Complexity-Science.md
+    ¦       06-Distribution-Dynamics.md
+    ¦       07-Evolutionary-Economics.md
+    ¦       08-Welfare-Economics.md
+    ¦       09-Social-Mobility.md
+    ¦       10-Inequality-Measurement.md
+    ¦       readme.md
+    ¦       
+    +---Red-Team
+    ¦       readme.md
+    ¦       
+    +---Validation
+    ¦       01-Literature-Validation-Synthesis.md
+    ¦       02-Contribution-Assessment.md
+    ¦       04-Testable-Propositions.md
+    ¦       05-Falsification-Criteria.md
+    ¦       06-Historical-Validation.md
+    ¦       07-Readiness-Assessment.md
+    ¦       08-Validation-Summary.md
+    ¦       readme.md
+    ¦       
+    +---Working-Paper
+            01-Executive-Summary.md
+            02-Introduction.md
+            03-Research-Positioning.md
+            04-Framework-Design-Objectives.md
+            05-Social-Systems-Framework.md
+            06-Mathematical-Formalization.md
+            07-Empirical-Methodology.md
+            08-Validation.md
+            09-Discussion.md
+            10-Limitations.md
+            11-Future-Research.md
+            12-Conclusion.md
+            13-Bibliography.md
+            README.md
+            

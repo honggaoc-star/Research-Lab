@@ -2,11 +2,15 @@
 
 ## Overview
 
-The **Formalization** directory develops rigorous theoretical and mathematical representations of the concepts introduced in the **Research on Luck** project.
+The **Formalization** directory develops rigorous theoretical, logical, computational, and mathematical representations of the concepts introduced in the **Research on Luck** project.
 
-While the **Foundations** directory establishes conceptual definitions and the **Literature** directory surveys existing scholarship, **Formalization** transforms those ideas into explicit models that can be analyzed, tested, and extended.
+While the **Foundations** directory establishes conceptual definitions and classification frameworks, and the **Literature** directory synthesizes existing scholarship, **Formalization** transforms those ideas into explicit theoretical models that can be analyzed, compared, tested, and extended.
 
-The objective is not mathematical complexity for its own sake, but conceptual precision. Formal models provide an unambiguous language for expressing assumptions, relationships, mechanisms, and predictions.
+The objective is not mathematical complexity for its own sake, but conceptual precision. Formal models provide an unambiguous language for expressing assumptions, mechanisms, relationships, dynamics, and predictions.
+
+Formalization should be understood as the process of making ideas precise. Mathematics is one important language for this purpose, but equally valuable are logical models, causal structures, dynamic systems, network representations, computational models, and algorithmic frameworks.
+
+The models developed in this directory constitute the **formal theoretical foundation** upon which subsequent empirical investigation and the evolving **General Theory** are built.
 
 ---
 
@@ -16,10 +20,11 @@ The primary objectives of this directory are to:
 
 * Translate conceptual ideas into formal representations.
 * Develop internally consistent theoretical models.
-* Clearly define assumptions and variables.
-* Identify relationships among key concepts.
+* Explicitly define variables, assumptions, and mechanisms.
+* Describe how different dimensions of luck interact.
+* Compare competing theoretical explanations.
 * Generate testable propositions and hypotheses.
-* Provide a foundation for empirical investigation.
+* Establish the formal foundation for empirical investigation.
 
 ---
 
@@ -27,18 +32,57 @@ The primary objectives of this directory are to:
 
 Topics appropriate for this directory include:
 
-* Mathematical representation of luck
+* Mathematical representations of luck
+* Logical and conceptual models
 * Stochastic processes
+* Dynamic systems
 * Probability models
 * State-space representations
-* Dynamic systems
 * Path dependence
-* Feedback mechanisms
+* Feedback and amplification
+* Dynamics of luck
+* Competing theoretical models
 * Network models
 * Agent-based formulations
 * Formal theoretical propositions
 
-Conceptual discussions belong in **Foundations**, while empirical methods belong in **Measurement**.
+Conceptual definitions belong in **Foundations**, while empirical estimation, statistical testing, and observational studies belong in **Measurement**.
+
+---
+
+# Relationship to Foundations
+
+The models developed in this directory assume the conceptual framework established in **Foundations**, including the multidimensional taxonomy of luck.
+
+Rather than redefining luck, Formalization seeks to represent its dimensions, mechanisms, interactions, and consequences using explicit theoretical models.
+
+The taxonomy provides the conceptual vocabulary.
+
+Formalization provides the theoretical language.
+
+---
+
+# Relationship to the General Theory
+
+Formalization should not be viewed as the final theory of the Research on Luck project.
+
+Instead,
+
+it develops the formal mechanisms that later contribute to the evolving **General Theory**.
+
+The distinction is important.
+
+Formalization asks:
+
+> **How might luck operate?**
+
+The General Theory asks:
+
+> **What does the accumulated theoretical and empirical evidence currently support?**
+
+Accordingly,
+
+the models developed here should be regarded as formal theoretical components whose broader scientific significance will be evaluated through Measurement, Case Studies, and subsequent theoretical synthesis.
 
 ---
 
@@ -46,19 +90,19 @@ Conceptual discussions belong in **Foundations**, while empirical methods belong
 
 Documents are organized according to increasing levels of theoretical development.
 
-A typical progression may include:
+A representative progression includes:
 
 ```text
 Formalization/
 │
 ├── README.md
 ├── 01-Mathematical-Representation.md
-├── 02-Stochastic-Processes.md
-├── 03-State-Space-Models.md
+├── 02-Stochastic-Events.md
+├── 03-Dynamics-of-Luck.md
 ├── 04-Path-Dependence.md
 ├── 05-Feedback-and-Amplification.md
 ├── 06-Network-Effects.md
-└── 07-General-Framework.md
+└── 07-General-Theoretical-Framework.md
 ```
 
 The exact structure may evolve as the research program develops.
@@ -67,22 +111,48 @@ The exact structure may evolve as the research program develops.
 
 # Modeling Principles
 
-Formal models developed in this directory should adhere to the following principles.
+Formal models developed in this directory should adhere to several principles.
 
 * Every model should have a clearly stated purpose.
-* Variables and assumptions should be explicitly defined.
+* Variables, assumptions, and domains of applicability should be explicitly defined.
 * Mathematical notation should remain consistent throughout the project.
 * Simplicity should be preferred whenever it adequately explains the phenomenon.
 * Additional complexity should only be introduced when justified by explanatory value.
-* Models should remain interpretable and scientifically meaningful.
+* Models should remain interpretable, logically consistent, and scientifically meaningful.
+* Whenever possible, models should generate predictions that are empirically testable.
 
 The objective is to improve understanding rather than maximize mathematical sophistication.
 
 ---
 
+# Competing Models
+
+Formalization should not assume that a single model fully explains luck.
+
+Instead, this directory encourages the development and comparison of multiple theoretical frameworks, including:
+
+* independent stochastic models,
+* dynamic systems models,
+* institutional amplification models,
+* cumulative advantage models,
+* selection and survivorship models,
+* alternative philosophical conceptions where appropriate.
+
+Competing models should be evaluated according to:
+
+* internal logical consistency,
+* explanatory power,
+* predictive capability,
+* mathematical coherence,
+* empirical support.
+
+Scientific progress emerges through comparison, refinement, and integration rather than commitment to a single theoretical perspective.
+
+---
+
 # Relationship to Other Directories
 
-Formalization occupies the central position within the research workflow.
+Formalization occupies the central theoretical position within the overall research workflow.
 
 ```text
 Foundations
@@ -93,16 +163,24 @@ Formalization
       ↓
 Measurement
       ↓
+Case Studies
+      ↓
+General Theory
+      ↓
 Applications
 ```
 
-* **Foundations** define concepts.
-* **Literature** reviews existing theories and evidence.
-* **Formalization** develops original theoretical models.
-* **Measurement** evaluates those models empirically.
-* **Applications** explores their implications across different domains.
+Each stage contributes a distinct function.
 
-Each stage builds upon the previous one.
+* **Foundations** define concepts.
+* **Literature** synthesizes existing scholarship.
+* **Formalization** develops theoretical mechanisms.
+* **Measurement** operationalizes those mechanisms.
+* **Case Studies** evaluate them across multiple domains.
+* **General Theory** integrates the accumulated theoretical and empirical evidence.
+* **Applications** extend validated knowledge into practical use.
+
+Each stage both depends upon and informs the others.
 
 ---
 
@@ -110,15 +188,17 @@ Each stage builds upon the previous one.
 
 Research in this directory may produce:
 
-* Conceptual models
-* Mathematical formulations
-* Dynamic system models
-* Theoretical propositions
-* Simulation frameworks
-* Analytical results
-* Testable hypotheses
+* conceptual models,
+* logical frameworks,
+* mathematical formulations,
+* dynamic system models,
+* computational models,
+* simulation frameworks,
+* network representations,
+* analytical results,
+* formal hypotheses.
 
-These outputs should provide a bridge between conceptual reasoning and empirical investigation.
+These outputs establish the theoretical foundation connecting conceptual reasoning with empirical investigation.
 
 ---
 
@@ -126,21 +206,27 @@ These outputs should provide a bridge between conceptual reasoning and empirical
 
 Documents in this directory should:
 
-* Maintain internal logical consistency.
-* Clearly distinguish assumptions from conclusions.
-* State the domain of applicability of each model.
-* Avoid unnecessary notation.
-* Remain accessible to researchers from multiple disciplines whenever possible.
-* Encourage refinement, comparison, and extension of competing models.
+* maintain internal logical consistency;
+* clearly distinguish assumptions from conclusions;
+* explicitly state domains of applicability;
+* avoid unnecessary notation or complexity;
+* remain accessible to researchers from multiple disciplines;
+* encourage refinement and comparison of competing models;
+* clearly distinguish descriptive, explanatory, and normative models.
 
-No single model is expected to fully explain the role of luck. Instead, this directory serves as an evolving collection of theoretical frameworks that progressively improve our understanding of the phenomenon.
+The objective is to construct increasingly rigorous theoretical explanations rather than definitive answers.
 
 ---
 
 # Long-Term Goal
 
-The long-term goal of the **Formalization** directory is to develop a coherent theoretical framework for studying luck as a scientifically tractable phenomenon.
+The long-term goal of the **Formalization** directory is to develop rigorous theoretical mechanisms capable of explaining how luck operates within evolving systems.
 
-Rather than treating luck as an unexplained residual or an informal concept, the models developed here seek to represent its mechanisms, interactions, and consequences in a form that is logically rigorous, mathematically precise, and empirically testable.
+Rather than treating luck as an unexplained residual, an intuitive concept, or merely a statistical anomaly, the models developed here seek to represent its mechanisms, dynamics, interactions, and consequences in forms that are logically rigorous, mathematically precise where appropriate, computationally implementable, and empirically testable.
 
-Ultimately, this directory provides the theoretical foundation upon which future empirical studies, simulations, and applications can be built.
+These models are not the final product of the Research on Luck project.
+
+Instead, they provide the formal foundation upon which empirical investigation, cross-domain comparison, and the evolving **General Theory** progressively build.
+
+Ultimately, Formalization seeks to explain **how** luck operates, while the broader research program determines **which** mechanisms consistently survive empirical evaluation across diverse domains of human activity.
+
