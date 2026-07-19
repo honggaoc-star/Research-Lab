@@ -1,220 +1,167 @@
 # Research Lab
 
-## Mission
-
-The **Research Lab** develops rigorous scientific research programs for understanding complex social, economic, institutional, technological, and human phenomena.
-
-Rather than serving as a collection of independent papers, the Research Lab provides a structured environment for developing long-term interdisciplinary research programs that integrate conceptual analysis, theoretical formalization, empirical investigation, and practical applications.
-
-Its objective is to build coherent scientific frameworks that are conceptually precise, mathematically rigorous, empirically testable, and continuously open to refinement.
+## An Interdisciplinary Research Program on Adaptive Systems, Opportunity, Intelligence, and Institutional Evolution
 
 ---
 
-# Research Principles
+## Overview
 
-Every research program within the Research Lab is guided by the following principles.
+Research Lab is a long-term interdisciplinary research program dedicated to understanding how complex systems evolve under uncertainty.
 
-* Conceptual clarity
-* Interdisciplinary synthesis
-* Mathematical rigor
-* Empirical testability
-* Explicit validation
-* Reproducibility
-* Modular development
-* Continuous refinement
+Rather than focusing on a single academic discipline, the Lab investigates recurring mechanisms that appear across social systems, scientific discovery, technological innovation, institutions, organizations, markets, public policy, and human decision-making.
 
-These principles apply consistently across all research programs regardless of subject area.
+Each repository explores a distinct research question while contributing evidence toward a broader understanding of adaptive systems and their evolution.
+
+The objective is not merely to produce individual studies, but to develop a cumulative research program in which evidence collected from multiple domains progressively refines broader theoretical understanding.
 
 ---
 
-# Research Methodology
+# Research Philosophy
 
-Each research program follows a common development process.
+The Lab follows four guiding principles.
 
-```text
-Conceptual Foundations
-        ↓
-Literature Review
-        ↓
-Formalization
-        ↓
-Measurement
-        ↓
-Applications
-        ↓
-Synthesis
-```
+## 1. Cross-Disciplinary Research
 
-This progression emphasizes understanding before formalization, and formalization before empirical investigation.
+Complex phenomena rarely respect disciplinary boundaries.
 
-Research is intentionally iterative. New evidence, theoretical insights, or empirical findings may require revisiting and refining earlier stages.
+The Lab therefore synthesizes ideas from philosophy, economics, psychology, statistics, computer science, sociology, political science, management, engineering, history, and related fields.
+
+Different disciplines contribute complementary perspectives rather than competing explanations.
 
 ---
 
-# Research Program Lifecycle
+## 2. Evidence Before Theory
 
-Research programs typically evolve through the following stages.
+The Lab does not begin with predetermined conclusions.
 
-```text
-Concept Development
-        ↓
-Foundations
-        ↓
-Literature
-        ↓
-Formalization
-        ↓
-Measurement
-        ↓
-Applications
-        ↓
-Synthesis
-        ↓
-Maintenance
-```
+Instead, theory develops through an iterative process involving literature review, formalization, measurement, empirical investigation, comparative synthesis, and continual revision.
 
-Progress is not strictly linear. Research programs may revisit earlier stages whenever new understanding requires conceptual or theoretical revision.
+General theories are therefore regarded as evolving products of accumulated evidence rather than fixed starting assumptions.
 
 ---
 
-# Active Research Programs
+## 3. Independent Validation
+
+Each research domain functions as an independent source of evidence.
+
+Patterns observed repeatedly across multiple domains provide stronger support than observations confined to a single field.
+
+Differences between domains are treated as opportunities for theoretical refinement rather than inconsistencies to be eliminated.
+
+---
+
+## 4. Continuous Refinement
+
+Scientific understanding evolves.
+
+Repositories, models, and theoretical frameworks are expected to change as additional evidence becomes available.
+
+Revision is considered a normal part of scientific progress.
+
+---
+
+# Research Architecture
+
+Individual repositories investigate different aspects of complex adaptive systems.
+
+Each repository maintains its own literature, formalization, empirical evidence, and domain-specific conclusions.
+
+At the same time, repositories contribute to a broader research program by identifying mechanisms that may recur across multiple domains.
+
+Knowledge therefore develops both vertically within each repository and horizontally across repositories.
+
+---
+
+# Current Research Programs
 
 ## Dynamic Social Systems
 
-**Current Stage:** Formalization / Validation
-
-Develops a general theoretical framework for understanding the evolution, adaptation, and interaction of social systems.
-
-Representative topics include:
-
-* Institutions
-* Collective decision-making
-* Inequality
-* Social dynamics
-* Dynamic system modeling
+Investigates how institutions, individuals, incentives, and social interactions produce the long-term evolution of complex social systems.
 
 ---
 
 ## Research on Luck
 
-**Current Stage:** Foundations / Literature
-
-Develops an interdisciplinary scientific framework for understanding luck as a determinant of human outcomes.
-
-Representative topics include:
-
-* Conceptual foundations
-* Philosophy of luck
-* Mathematical formalization
-* Measurement
-* Applications across science, economics, business, and society
+Investigates luck, uncertainty, opportunity, discovery, and innovation across multiple disciplines through literature synthesis, formalization, measurement, comparative case studies, and evolving theoretical development.
 
 ---
 
-# Emerging Research Directions
+## Emerging Research Directions
 
-The Research Lab encourages the systematic identification of promising research directions that emerge naturally during ongoing investigations.
+Several additional research programs are under active consideration.
 
-These directions are **not active research programs**. Instead, they represent recurring observations or conceptual themes that may eventually mature into independent research programs if they continue to demonstrate scientific significance across multiple lines of inquiry.
+Current directions include:
 
-The objective is to preserve valuable insights while maintaining discipline in project selection.
+* Intelligence as adaptive mechanism
+* Decision-making under uncertainty
+* Opportunity dynamics
+* Institutional adaptation
+* Evolution of knowledge
+* Complex adaptive systems
 
-## Research on Discovery *(Exploratory)*
-
-Current work on **Research on Luck**, particularly the study of **epistemic luck**, has revealed recurring questions concerning scientific discovery, innovation, learning, creativity, and knowledge creation.
-
-These observations suggest the possibility of a future interdisciplinary research program investigating how genuinely new knowledge is generated and how unexpected observations become scientific discoveries.
-
-At present, **Research on Discovery** remains an emerging research direction rather than an active project. Its future development will depend upon whether similar themes continue to arise independently across multiple research programs.
-
----
-
-# Advancement Principle
-
-An emerging research direction should become an independent research program only after it demonstrates sustained conceptual significance across multiple independent lines of investigation.
-
-The typical progression is:
-
-```text
-Interesting Observation
-        ↓
-Repeated Emergence
-        ↓
-Emerging Research Direction
-        ↓
-Research Program
-```
-
-This principle encourages disciplined expansion of the Research Lab while avoiding unnecessary project proliferation.
+These topics will mature through exploratory work before becoming independent repositories.
 
 ---
 
-# Repository Architecture
+# Common Research Workflow
 
-Each research program is organized independently while following a common structure.
+Although each repository addresses different questions, they generally follow a common research process:
 
-```text
-Research Program/
-│
-├── README.md
-├── ROADMAP.md
-├── Foundations/
-├── Literature/
-├── Formalization/
-├── Measurement/
-├── Applications/
-├── Notes/
-└── References/
-```
+Literature
 
-Individual programs may extend this structure according to their specific research needs while preserving overall consistency across the Research Lab.
+↓
 
----
+Foundations
 
-# How to Navigate
+↓
 
-The repository is organized hierarchically.
+Formalization
 
-```text
-Research Lab
-        ↓
-Research Program
-        ↓
-Research Area
-        ↓
-Research Paper
-```
+↓
 
-Each level serves a distinct purpose.
+Measurement
 
-| Level            | Purpose                                                        |
-| ---------------- | -------------------------------------------------------------- |
-| Research Lab     | Defines the overall mission, methodology, and governance.      |
-| Research Program | Defines the scope and objectives of a long-term investigation. |
-| Research Area    | Organizes related topics within a research program.            |
-| Research Paper   | Addresses one specific research question or problem.           |
+↓
 
----
+Case Studies
 
-# Current Priorities
+↓
 
-Current development focuses on:
+Comparative Synthesis
 
-1. Advancing the **Dynamic Social Systems** framework through formalization and validation.
-2. Establishing the conceptual and philosophical foundations of **Research on Luck**.
-3. Developing rigorous mathematical models across research programs.
-4. Building comprehensive interdisciplinary literature reviews.
-5. Refining the Research Lab methodology through practical experience.
+↓
+
+General Theory
+
+↓
+
+Applications
+
+This workflow allows theoretical understanding to emerge progressively from multiple independent forms of evidence.
 
 ---
 
 # Long-Term Vision
 
-The Research Lab seeks to become more than a repository of research documents.
+The long-term objective of the Research Lab is to construct a coherent, empirically grounded understanding of how adaptive systems evolve.
 
-Its long-term objective is to develop a disciplined methodology for creating, evaluating, and refining scientific research programs.
+Rather than producing isolated theories for individual disciplines, the Lab seeks to identify recurring mechanisms that remain robust across diverse domains of human activity.
 
-Individual projects may evolve, merge, conclude, or inspire entirely new directions. Throughout this process, the Research Lab remains committed to conceptual precision, theoretical coherence, empirical relevance, and intellectual openness.
+As additional repositories are completed, relationships among their findings will be continually evaluated.
 
-Success will ultimately be measured not only by the quality of individual research programs, but also by the robustness, reproducibility, and adaptability of the methodology through which those programs are developed.
+Over time, this cumulative process may contribute toward an increasingly integrated scientific understanding of adaptation, opportunity, intelligence, institutions, and societal evolution.
+
+---
+
+# Current Status
+
+Research Lab is an evolving scientific program.
+
+Individual repositories are intentionally developed at different stages of maturity.
+
+Some emphasize literature synthesis.
+
+Others focus on empirical evidence or theoretical refinement.
+
+The Lab itself is expected to evolve continuously as new questions emerge and existing theories are revised in light of additional evidence.
 
