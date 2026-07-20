@@ -234,3 +234,34 @@ Instead, the corpus indicates that discovery arises through recurring interactio
 These mechanisms should presently be regarded as the strongest scientific contributions of the Science domain to the evolving Research on Luck framework.
 
 Future domains will determine which of these mechanisms remain domain-specific and which contribute to a broader general theory of adaptive opportunity.
+
+---
+
+# Architecture-Alignment Assessment
+
+## System, environment, and level
+
+The corpus moves among individual investigators, research teams, institutions, scientific communities, and wider knowledge systems. These levels are analytically useful but should not be treated as interchangeable. Case-level audits should specify when an investigator is the focal system, when an institution is the focal system, and how cross-level effects are transmitted.
+
+## Relationship evidence
+
+Within the present Science corpus, the strongest candidate relationships are:
+
+* access to prior knowledge and instruments enables opportunity recognition;
+* recognition and sustained investigation enable opportunity development;
+* validation processes mediate movement from claim to accepted knowledge;
+* institutions both enable and constrain investigation;
+* persistence interacts with uncertainty rather than guaranteeing discovery;
+* scientific visibility is shaped by selection into publication and historical memory.
+
+These relationships are recurrent within the sampled cases and often supported by process evidence. They should be described as **mechanism-supported within the current corpus**, not universally validated.
+
+## Uncertainty and unrealized alternatives
+
+The dedicated unrealized-opportunities study materially improves the domain by challenging a survivor-only account. Nevertheless, unrealized opportunities remain more difficult to observe than successful discoveries. Their feasibility, accessibility, and recognition status should be graded rather than treated as equally documented.
+
+## Attribution and boundary conditions
+
+Discovery should not be attributed to chance, preparation, institutions, or persistence alone. Their roles vary with scientific field, historical period, available instruments, validation regime, and level of analysis.
+
+The synthesis therefore supports candidate scientific mechanisms and boundary conditions. Cross-domain promotion remains a task for Comparative Studies.
