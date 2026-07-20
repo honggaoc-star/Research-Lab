@@ -2,400 +2,191 @@
 
 ## Purpose
 
-The **Formalization** directory develops explicit theoretical representations of the concepts introduced throughout the **Research on Luck** project.
+The **Formalization** directory translates the conceptual architecture of the **Research on Luck** project into explicit relationships, mechanisms, states, transitions, and testable propositions.
 
-While **Foundations** establishes conceptual definitions and **Literature** examines existing scholarship, Formalization asks a different question:
+It contains two complementary layers:
 
-> **How might luck operate as a set of identifiable mechanisms within adaptive systems?**
+- files **01–07**, which preserve the project’s original mathematical and theoretical development;
+- files **10–15**, which introduce the newer relationship-centered formal architecture.
 
-Its objective is to transform conceptual ideas into precise explanatory models that can later be evaluated through empirical observation, comparative analysis, and theoretical refinement.
-
-Formalization should therefore be understood as the process of making ideas explicit.
-
-Mathematics is one important language for this purpose, but not the only one.
-
-Logical structures, causal models, dynamic systems, computational representations, network models, state-transition frameworks, and algorithmic descriptions are equally valuable forms of formalization.
+The numbering offset is intentional. The additive series does not overwrite or silently retrofit the original work.
 
 ---
 
-# Why Formalization?
+## Role in the Research Program
 
-Concepts alone are often too flexible to generate rigorous scientific explanations.
-
-Without explicit mechanisms it becomes difficult to:
-
-* distinguish competing explanations,
-* identify assumptions,
-* generate predictions,
-* define measurable quantities,
-* compare alternative models,
-* or determine why different adaptive systems produce different outcomes.
-
-Formalization addresses these problems by making theoretical reasoning explicit.
-
-Rather than asking only:
-
-> **What is luck?**
+[Foundations](../Foundations/README.md) defines canonical concepts and assumptions.
 
 Formalization asks:
 
-> **Through what mechanisms could luck influence adaptive systems?**
+> How can relationships among systems, environments, interactions, uncertainty, opportunity, capability, adaptation, and trajectory be stated precisely enough for measurement and testing?
+
+Formalization does not establish empirical truth. It makes assumptions and hypotheses explicit.
+
+[Measurement](../Measurement/README.md) connects formal constructs to indicators and identification strategies. [Empirical Studies](../Empirical%20Studies/README.md) examines them across Science, Technology, Business, History, and Politics. **Comparative Studies** evaluates recurrence and boundary conditions. [General Theory](../General%20Theory/README.md) should include only relationships that survive sufficient scrutiny.
 
 ---
 
-# Central Research Question
+## Architectural Commitments
 
-The guiding question is:
+The working primitives are:
 
-> **What formal mechanisms best explain how contingent variation influences adaptive systems operating under uncertainty?**
+1. **System**
+2. **Environment**
+3. **Interaction**
+4. **Uncertainty**
 
-More specifically:
+Luck is not a primitive, causal force, unexplained error term, synonym for stochasticity, or residual after known variables are removed.
 
-* How should luck be represented theoretically?
-* How do stochastic events differ from opportunity transformation?
-* How do opportunities emerge and evolve?
-* How does path dependence influence future possibilities?
-* How do institutions mediate adaptive response?
-* How does learning modify future trajectories?
-* Which mechanisms appear capable of generating the recurring empirical patterns observed across multiple domains?
+Concepts are analytical nodes. Relationships are hypotheses.
 
-Formalization develops candidate mechanisms.
+The working relationship taxonomy is:
 
-It does not determine which mechanisms are ultimately correct.
+- constitutive;
+- causal;
+- enabling;
+- constraining;
+- feedback.
 
-That evaluation occurs later through Measurement, Empirical Studies, Comparative Studies, and General Theory.
-
----
-
-# Scope
-
-Topics appropriate for this directory include:
-
-* logical representations,
-* mathematical formulations,
-* stochastic processes,
-* dynamic systems,
-* state-transition models,
-* causal structures,
-* opportunity dynamics,
-* path dependence,
-* feedback,
-* network effects,
-* adaptive systems,
-* institutional mediation,
-* learning dynamics,
-* trajectory evolution,
-* computational models,
-* and competing theoretical frameworks.
-
-The objective is conceptual precision rather than mathematical sophistication.
-
-A simple model that explains an important mechanism is preferable to a complex model with little explanatory value.
+The layered architecture proceeds from primitives through derived conditions, system capabilities, dynamic processes, long-term effects, and outcome evaluation.
 
 ---
 
-# Current Organization
+## Preserved Original Layer: 01–07
 
-The directory currently develops several major theoretical components.
+These documents remain substantively intact.
 
-```text id="o75bo4"
-Formalization/
-│
-├── README.md
-├── 01-Mathematical-Representation.md
-├── 02-Stochastic-Events.md
-├── 03-Dynamics-of-Luck.md
-├── 04-Path-Dependence.md
-├── 05-Feedback-and-Amplification.md
-├── 06-Network-Effects.md
-└── 07-General-Theoretical-Framework.md
-```
+| Document | Original focus |
+| --- | --- |
+| [01-Mathematical-Representation.md](01-Mathematical-Representation.md) | Mathematical representation of luck and state transitions |
+| [02-Stochastic-Events.md](02-Stochastic-Events.md) | Stochastic events, probability spaces, and uncertainty |
+| [03-Dynamics-of-Luck.md](03-Dynamics-of-Luck.md) | Persistence, amplification, attenuation, selection, and dynamic trajectories |
+| [04-Path-Dependence.md](04-Path-Dependence.md) | Branching paths, opportunity spaces, and historical dependence |
+| [05-Feedback-and-Amplification.md](05-Feedback-and-Amplification.md) | Feedback loops, thresholds, amplification, and attenuation |
+| [06-Network-Effects.md](06-Network-Effects.md) | Diffusion, centrality, cascades, resilience, and network inequality |
+| [07-General-Theoretical-Framework.md](07-General-Theoretical-Framework.md) | Original attempt to integrate the project’s formal components |
 
-These documents establish the project's initial formal mechanisms.
-
-Future revisions may introduce additional models when comparative evidence demonstrates that new mechanisms require explicit theoretical representation.
+These files document the project’s earlier intellectual stage. Differences from the later architecture should remain visible.
 
 ---
 
-# Levels of Formalization
+## Additive Relationship-Centered Layer: 10–15
 
-Formalization within this project may occur at several levels.
+| Document | Purpose |
+| --- | --- |
+| [10-Relationship-Types.md](10-Relationship-Types.md) | Defines constitutive, causal, enabling, constraining, and feedback relationships and provides a specification template. |
+| [11-System-States-and-Transitions.md](11-System-States-and-Transitions.md) | Formalizes system, environment, interaction, state, transition, trajectory, nesting, and changing boundaries. |
+| [12-Opportunity-Dynamics.md](12-Opportunity-Dynamics.md) | Formalizes potential, access, recognition, pursuit, realization, foreclosure, and unrealized opportunity. |
+| [13-Adaptive-Processes.md](13-Adaptive-Processes.md) | Formalizes perception, search, learning, coordination, adaptation, discovery, innovation, and selection. |
+| [14-Feedback-Path-Dependence-and-Regime-Change.md](14-Feedback-Path-Dependence-and-Regime-Change.md) | Distinguishes feedback, cumulative processes, path dependence, lock-in, resilience, and regime transition. |
+| [15-Formalization-Summary.md](15-Formalization-Summary.md) | Integrates the new formal architecture and bridges it to Measurement and empirical testing. |
 
-## Conceptual Models
-
-Clarify relationships among core concepts.
-
-Examples include:
-
-* uncertainty,
-* contingency,
-* opportunity,
-* adaptive capacity,
-* and trajectory.
+Files 08 and 09 are intentionally unused.
 
 ---
 
-## Logical Models
+## Minimum Bounded Model
 
-Specify assumptions, conditions, and causal relationships without requiring mathematical notation.
+A formal model should normally specify:
 
----
+1. focal system;
+2. analytical boundary and level;
+3. environmental scope;
+4. system and environmental states;
+5. interaction structure;
+6. time scale;
+7. uncertainty structure;
+8. feasible actions and transitions;
+9. relationship types;
+10. mechanisms;
+11. feedback;
+12. realized and unrealized alternatives;
+13. evaluative horizon;
+14. observable implications;
+15. and revision conditions.
 
-## Mathematical Models
-
-Represent mechanisms using probability, stochastic processes, differential equations, optimization, graph theory, or related techniques where appropriate.
-
----
-
-## Dynamic Systems Models
-
-Describe how adaptive systems evolve through interaction among opportunity, learning, institutions, and feedback.
-
----
-
-## Computational Models
-
-Represent adaptive processes through simulations, algorithms, or agent-based models.
-
-Different mechanisms may require different forms of representation.
-
-No single modeling language is expected to capture every aspect of luck.
+Not every model requires the same variables or mathematical language. Omissions should be justified by the bounded question.
 
 ---
 
-# Core Formal Mechanisms
+## Formal Languages
 
-The project currently emphasizes several interconnected mechanisms.
+Appropriate tools may include:
 
-## Uncertainty
+- conceptual and logical models;
+- probability models;
+- causal structures;
+- state-space representations;
+- stochastic processes;
+- dynamic systems;
+- network models;
+- agent-based formulations;
+- game-theoretic models;
+- and counterfactual models.
 
-Conditions under which multiple future trajectories remain possible.
+No single method is assumed to represent every domain. Mathematical notation should clarify relationships rather than display complexity.
 
----
-
-## Contingent Variation
-
-Unexpected events or unequal exposures that alter future development.
-
----
-
-## Opportunity Transformation
-
-Changes in opportunities, constraints, timing, or exposure resulting from contingent variation.
-
----
-
-## Path Dependence
-
-Historical conditions shaping future opportunity landscapes.
+Every symbol should be defined in plain language.
 
 ---
 
-## Institutional Mediation
+## Core Distinctions
 
-Processes through which organizations and institutions amplify, suppress, redirect, or preserve opportunities.
+Formal work should preserve the distinctions between:
 
----
+- uncertainty and randomness;
+- risk and uncertainty;
+- system state and trajectory;
+- event and exposure;
+- capability and outcome;
+- mechanism and correlation;
+- selection and superiority;
+- adaptation and improvement;
+- state change and regime change;
+- realized and unrealized opportunity;
+- ex ante possibility and ex post attribution.
 
-## Learning
-
-Mechanisms through which adaptive systems revise future responses based on experience.
-
----
-
-## Feedback
-
-Processes through which early differences become amplified, attenuated, or redirected.
-
----
-
-## Adaptive Systems
-
-The broader structures integrating these mechanisms into long-term trajectories.
-
-Formalization investigates how these mechanisms interact.
-
-General Theory later evaluates which interactions receive the strongest empirical support.
+These distinctions are necessary for defensible measurement and comparison.
 
 ---
 
-# Relationship to Other Sections
+## Relationship to Design and Figures
 
-Formalization occupies the central theoretical layer of the repository.
+[Design/01-Conceptual-Architecture.md](../Design/01-Conceptual-Architecture.md) records the conceptual development and freeze underlying this additive layer.
 
-```text id="lajysn"
-Foundations
-        ↓
-Literature
-        ↓
-Formalization
-        ↓
-Measurement
-        ↓
-Empirical Studies
-        ↓
-Comparative Studies
-        ↓
-General Theory
-```
+[Figures/README.md](../Figures/README.md) defines the repository-wide visual program, including Figure 01, **Conceptual Architecture of Adaptive Systems Under Uncertainty**.
 
-Each section performs a distinct role.
-
-### Foundations
-
-Defines concepts.
-
-### Literature
-
-Reviews existing scholarship.
-
-### Formalization
-
-Develops explicit candidate mechanisms.
-
-### Measurement
-
-Investigates how those mechanisms may be observed and evaluated.
-
-### Empirical Studies
-
-Examines how proposed mechanisms appear across multiple domains.
-
-### Comparative Studies
-
-Identifies recurring adaptive mechanisms.
-
-### General Theory
-
-Determines which mechanisms currently receive the strongest integrated support.
-
-Formalization therefore represents the project's primary mechanism-development layer.
+Formalization should supply precise relationship content for the figure without turning the figure into a claim of empirical validation.
 
 ---
 
-# Relationship to Measurement
+## Luck Sequence
 
-Formalization and Measurement perform complementary functions.
+The formal architecture preserves:
 
-Formalization asks:
+1. **Ex ante — Luck Potential:** uncertain exposures, opportunities, constraints, and feasible branches.
+2. **Transition — Luck Realization:** interaction, recognition, response, feedback, and adaptation produce one trajectory.
+3. **Ex post — Luck Attribution:** the trajectory is evaluated relative to feasible alternatives and prior control.
 
-> **How might luck operate?**
-
-Measurement asks:
-
-> **How could those mechanisms be investigated empirically?**
-
-Every formal construct should eventually correspond to observable evidence, qualitative indicators, measurable variables, or defensible empirical methods.
-
-Theoretical elegance without empirical interpretability provides limited scientific value.
+Luck is attributed across the sequence. It is not represented by a stochastic shock or residual term alone.
 
 ---
 
-# Relationship to Comparative Studies
+## Current Status
 
-Comparative Studies provides an important source of feedback for Formalization.
+The additive Formalization architecture is complete through file 15.
 
-The completed empirical work suggests that future formal models may require stronger representation of:
+The next stage is to revise Measurement so that it operationalizes:
 
-* opportunity recognition,
-* adaptive capacity,
-* institutional learning,
-* unrealized opportunities,
-* opportunity migration,
-* recursive adaptation,
-* and dynamic opportunity landscapes.
+- system and environmental states;
+- interaction and exposure;
+- uncertainty;
+- opportunity stages;
+- capability and adaptive processes;
+- feedback;
+- trajectory;
+- selection;
+- regime change;
+- and counterfactual feasibility.
 
-Formalization should therefore evolve together with empirical evidence.
-
-Models that receive little empirical support should be revised, replaced, or abandoned.
-
----
-
-# Modeling Principles
-
-Research developed within this directory should follow several principles.
-
-## Explicit assumptions
-
-Every model should clearly identify its assumptions and domain of applicability.
-
----
-
-## Mechanism before mathematics
-
-Mathematics should clarify mechanisms rather than substitute for explanation.
-
----
-
-## Multiple competing models
-
-Different mechanisms should be compared rather than assuming a single formal representation.
-
----
-
-## Empirical interpretability
-
-Formal constructs should remain connected to observable evidence whenever possible.
-
----
-
-## Simplicity
-
-Additional complexity should be introduced only when it improves explanatory power.
-
----
-
-## Revision
-
-Formal models are provisional.
-
-They should evolve as comparative evidence improves.
-
----
-
-# Scope and Limitations
-
-Formalization is not the final theory of luck.
-
-Nor is every conceptual idea expected to possess a complete mathematical representation.
-
-Some mechanisms may remain:
-
-* qualitative,
-* partially specified,
-* computational,
-* or conceptually formal rather than mathematically formal.
-
-The project therefore values explanatory precision more than symbolic complexity.
-
----
-
-# Current Status
-
-The Formalization directory currently establishes the project's first generation of theoretical mechanisms.
-
-Completion of the Empirical Studies and Comparative Studies has identified several opportunities for future refinement, particularly regarding:
-
-* adaptive systems,
-* opportunity evolution,
-* opportunity recognition,
-* unrealized opportunities,
-* and institutional adaptation.
-
-Accordingly, Formalization should be regarded as an evolving theoretical component rather than a completed mathematical framework.
-
----
-
-# Long-Term Goal
-
-The long-term goal of the **Formalization** directory is to develop rigorous theoretical representations explaining how luck operates within adaptive systems under uncertainty.
-
-Rather than treating luck as an unexplained residual or purely intuitive concept, Formalization seeks to represent its mechanisms explicitly enough that they can be compared, criticized, measured, and refined.
-
-Its success will not be determined by mathematical complexity.
-
-It will be determined by whether the proposed mechanisms improve explanation, support empirical investigation, generate testable propositions, and contribute to a progressively stronger General Theory.
-
-Formalization therefore serves as the mechanism-development layer of the **Research on Luck** project, connecting conceptual understanding with empirical science.
-
-
+Formal relationships remain provisional until they are operationalized and tested.
