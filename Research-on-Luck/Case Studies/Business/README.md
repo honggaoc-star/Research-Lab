@@ -1,148 +1,116 @@
-# Business
+# Business/ README
 
-## Understanding Luck, Opportunity, Entrepreneurship, and Competitive Advantage
+## Purpose
 
----
+Business provides an empirical perspective on how opportunities are recognized, evaluated, developed, and transformed into sustained economic value. Unlike research that explains business success primarily through managerial skill or market conditions, this collection examines the interaction between strategic decision-making, organizational capabilities, institutional environments, and chance events. The objective is to understand when luck influences business outcomes, when it merely amplifies existing advantages, and how organizations can systematically improve their ability to recognize and exploit emerging opportunities.
 
-# Overview
-
-Business provides a unique perspective on the dynamics of luck because it lies at the intersection of uncertainty, opportunity, decision-making, competition, innovation, and resource allocation.
-
-Unlike scientific discovery, where success often depends upon recognizing previously unknown phenomena, or technology, where recognized opportunities become practical capabilities, business focuses on identifying, evaluating, mobilizing, and sustaining opportunities within competitive environments.
-
-Successful businesses rarely depend upon luck alone. Instead, they emerge from complex interactions among entrepreneurial judgment, organizational capability, market conditions, institutional environments, technological change, timing, and stochastic events.
-
-This section examines how luck influences business development while recognizing that opportunity realization depends upon much more than fortunate circumstances.
+Business occupies a distinct position within the broader *Research on Luck* project. Scientific discovery generates new knowledge. Technology transforms knowledge into practical capability. Business determines whether those capabilities become scalable products, services, and economic systems. Studying business therefore reveals how opportunities move from possibility to realization.
 
 ---
 
-# Research Objectives
+# Research Questions
 
-The Business case studies seek to investigate several questions:
+This collection investigates several fundamental questions:
 
-* How do successful businesses recognize opportunities?
-* What role does uncertainty play in entrepreneurial success?
-* How do organizations transform opportunities into sustainable competitive advantage?
-* Which mechanisms repeatedly distinguish successful opportunity realization from unrealized potential?
-* Which observed mechanisms are unique to business, and which recur across other domains?
+* How do organizations recognize opportunities before competitors?
+* What distinguishes realized opportunities from unrealized ones?
+* How does strategic timing influence business success?
+* When does organizational adaptability outweigh initial advantages?
+* How do firms allocate resources under uncertainty?
+* How do ecosystems and networks amplify or constrain opportunity?
+* What role does luck play relative to planning, execution, and institutional context?
 
-These questions extend the broader Research on Luck framework into the dynamics of markets and entrepreneurship.
-
----
-
-# Scope
-
-The Business domain emphasizes:
-
-* entrepreneurship,
-* company formation,
-* strategic decision-making,
-* innovation,
-* market creation,
-* competitive advantage,
-* business adaptation,
-* organizational growth.
-
-The objective is not to identify the "best" companies, but to examine situations in which uncertainty and opportunity fundamentally influenced long-term business outcomes.
+Rather than asking why particular companies became successful, the emphasis is on identifying general mechanisms that repeatedly shape business outcomes across industries, historical periods, and organizational forms.
 
 ---
 
-# Relationship to Previous Domains
+# Research Themes
 
-The previous domains established important foundations.
+## 1. Opportunity Recognition
 
-Science primarily examined how opportunities become recognized through discovery.
-
-Technology explored how recognized opportunities become translated, integrated, interconnected, democratized, repurposed, and orchestrated into increasingly complex technological systems.
-
-Business investigates a different stage of opportunity evolution.
-
-Organizations must evaluate opportunities under uncertainty, allocate scarce resources, coordinate people, respond to competitors, adapt to changing markets, and sustain value over time.
-
-Business therefore introduces competitive selection as an important context for opportunity development.
+Organizations differ substantially in their ability to identify opportunities that are not yet visible to the broader market. This section investigates how information, experience, experimentation, and strategic perspective contribute to opportunity recognition, and how chance discoveries become commercial possibilities.
 
 ---
 
-# Research Approach
+## 2. Strategic Timing
 
-Each case study examines:
-
-* historical context,
-* initial conditions,
-* stochastic events,
-* opportunity recognition,
-* decision-making,
-* resource mobilization,
-* organizational adaptation,
-* institutional influences,
-* feedback mechanisms,
-* counterfactual scenarios,
-* alternative explanations,
-* implications for the Research on Luck framework.
-
-Rather than attributing success to luck alone, each case investigates how organizations responded to uncertainty and transformed opportunities into long-term outcomes.
+Business opportunities are highly sensitive to timing. Entering a market too early may exhaust resources before demand emerges, while entering too late may leave little room for competitive advantage. This theme examines how organizations navigate uncertain timing and how favorable circumstances interact with strategic judgment.
 
 ---
 
-# Comparative Perspective
+## 3. Organizational Adaptation
 
-Business differs from previous domains in one important respect.
-
-Scientific discoveries and technological innovations often create new possibilities.
-
-Businesses must decide which opportunities deserve investment while competing against alternative strategies under conditions of incomplete information.
-
-The central question therefore shifts from:
-
-*"What opportunities exist?"*
-
-to
-
-*"Which opportunities should be pursued, and how?"*
-
-This distinction may reveal mechanisms that differ substantially from those observed in Science and Technology.
+Markets continually evolve through technological, economic, regulatory, and social change. Organizations must adapt their strategies, structures, and capabilities accordingly. This section studies why some firms successfully reinvent themselves while others remain constrained by previous success or institutional inertia.
 
 ---
 
-# Candidate Research Themes
+## 4. Resource Reallocation
 
-The Business domain will explore several recurring themes, including:
-
-* entrepreneurial judgment,
-* timing,
-* strategic adaptation,
-* market creation,
-* competitive advantage,
-* resource allocation,
-* organizational learning,
-* business model innovation,
-* ecosystem development,
-* long-term value creation.
-
-These themes represent working directions rather than established theoretical categories.
-
-Comparative analysis across the completed case studies will determine whether recurring mechanisms emerge.
+Business success depends not only on acquiring resources but also on reallocating capital, talent, information, and managerial attention toward changing opportunities. This theme explores adaptive capital allocation under uncertainty and the relationship between resource flexibility and long-term organizational performance.
 
 ---
 
-# Relationship to the General Theory
+## 5. Unrealized Business Opportunities
 
-As in all repositories within the Research on Luck project, the objective is not to illustrate an existing theory.
-
-Instead, each case serves as an independent source of evidence capable of supporting, refining, or challenging the evolving General Theory.
-
-Mechanisms identified in Business will be compared with those emerging from Science and Technology.
-
-Some may prove domain-specific.
-
-Others may recur across multiple domains and contribute to broader theoretical development.
+Many important opportunities are recognized too late, dismissed, poorly executed, or prevented by institutional constraints. Examining unsuccessful decisions provides insight into the mechanisms through which potentially valuable opportunities remain unrealized, offering an essential complement to studies of successful firms.
 
 ---
 
-# Looking Ahead
+## 6. Business Ecosystem Evolution
 
-Business represents the first domain in which opportunity is evaluated under sustained competitive pressure.
+Organizations rarely operate independently. Suppliers, customers, competitors, regulators, investors, technological platforms, and complementary industries jointly shape opportunity landscapes. This section investigates how business ecosystems emerge, evolve, and influence both the creation and realization of economic opportunities.
 
-The resulting evidence may reveal mechanisms governing entrepreneurial judgment, strategic adaptation, and organizational evolution that differ from those observed in scientific discovery or technological innovation.
+---
 
-Whether these mechanisms prove unique to business or contribute to a broader understanding of opportunity across adaptive systems remains an open empirical question to be investigated through the following case studies.
+## Comparative Perspective
+
+Individual business cases provide valuable empirical evidence, but broader understanding emerges through systematic comparison. The Comparative Synthesis analyzes recurring patterns across industries, organizational structures, technological transitions, institutional environments, and historical periods to identify general mechanisms governing opportunity realization.
+
+Recurring comparison dimensions include:
+
+* Opportunity recognition
+* Information asymmetry
+* Strategic timing
+* Organizational adaptation
+* Resource allocation
+* Institutional constraints
+* Competitive dynamics
+* Ecosystem development
+* Path dependence
+* Realized versus unrealized opportunities
+* Interactions between skill, strategy, and luck
+
+---
+
+# Repository Structure
+
+```text
+Business/
+├── README.md
+├── 01-...
+├── 02-...
+├── 03-...
+├── 04-...
+├── 05-...
+├── 06-...
+├── 07-Opportunity-Recognition.md
+├── 08-Strategic-Timing.md
+├── 09-Organizational-Adaptation.md
+├── 10-Resource-Reallocation.md
+├── 11-Unrealized-Business-Opportunities.md
+├── 12-Business-Ecosystem-Evolution.md
+└── 13-Comparative-Synthesis.md
+```
+
+---
+
+# Position within the Research Program
+
+Business complements the other empirical disciplines in the Research on Luck repository.
+
+* **Science** investigates how discoveries emerge.
+* **Technology** examines how discoveries become practical capabilities.
+* **Business** studies how capabilities become scalable economic value.
+
+Together, these perspectives reveal that luck is neither an isolated event nor a sufficient explanation for success. Instead, favorable outcomes emerge through dynamic interactions among opportunity, preparation, organizational adaptation, institutional context, and chance. Understanding these interactions provides a more complete explanation of why some opportunities are realized while many equally promising ones are not.
+
