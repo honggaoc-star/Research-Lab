@@ -6,7 +6,7 @@ The French Revolution stands as one of the most influential political transforma
 
 Traditional historical accounts emphasize revolutionary events, ideological conflict, or individual leaders. From the perspective of the *Research on Luck* project, however, the French Revolution illustrates a broader political mechanism: the transformation of political legitimacy. Political systems remain stable only while their institutions are widely accepted as legitimate. When legitimacy erodes, even long-established institutions may undergo rapid and profound change.
 
-This case demonstrates that political stability depends not only on institutional design or coercive power, but also on the continual renewal of public legitimacy under changing social and economic conditions.
+This case treats legitimacy as one relational condition of political stability, alongside coercive capacity, organization, resources, conflict, and external conditions.
 
 ---
 
@@ -93,7 +93,7 @@ The French Revolution illustrates that political opportunities often emerge unde
 
 # Luck and Revolutionary Change
 
-Luck influenced the Revolution in multiple ways.
+The revolutionary trajectory was exposed to consequential uncertainty in multiple ways.
 
 Poor harvests, fiscal crises, international developments, leadership decisions, and unforeseen political events all shaped the pace and direction of revolutionary change.
 
@@ -103,9 +103,23 @@ Many immediate events accelerated transformation.
 
 They did not independently create it.
 
-Luck influenced the timing of political change.
+Contingent events affected timing, coalition formation, and available actions. Their longer effects emerged through legitimacy claims, coercion, war, organization, institutional experiments, and subsequent feedback.
 
-Institutional legitimacy determined its long-term significance.
+---
+
+# Architecture-Alignment Assessment
+
+## Systems, Actors, and Legitimacy
+
+The monarchy, fiscal state, estates, revolutionary assemblies, urban movements, rural communities, and foreign powers were distinct interacting systems. “Public legitimacy” was neither uniform nor directly observable: groups advanced competing claims about sovereignty, equality, religion, property, and political membership. Legitimacy should therefore be specified as a relationship between particular institutions and constituencies at a given time.
+
+## Transition Under Ex Ante Uncertainty
+
+Actors faced uncertainty about fiscal reform, royal action, popular mobilization, military loyalty, foreign intervention, and the viability of new constitutional arrangements. Revolutionary opportunity moved through access, recognition, coalition pursuit, realization, reversal, and foreclosure. Later prominence of particular institutions or ideas does not show that their victory was foreseeable or that alternatives lacked feasibility.
+
+## Selection, Counterfactuals, and Evidence
+
+The sequence from monarchy through republic, terror, directory, consulate, and empire cautions against evaluating “the Revolution” as one state transition. Surviving reforms are a selected subset; abandoned constitutions, defeated coalitions, repression, and war belong in the analysis. Feasible alternatives include successful fiscal compromise, constitutional monarchy, different war timing, and other coalition alignments. The current case identifies plausible relations between legitimacy and transformation but does not establish legitimacy as a sufficient cause or later institutional survival as proof of superiority.
 
 ---
 
@@ -129,7 +143,7 @@ Finally, durable political systems maintain legitimacy by adapting before system
 
 The French Revolution reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck may influence the timing of political crises, but the long-term trajectory of political systems depends upon their ability to maintain legitimacy, adapt institutions, and respond to changing societal expectations.
+> Luck may be attributed ex post when consequential uncertainty altered the timing or direction of crisis. Long-term trajectories require analysis of legitimacy, coercion, organization, conflict, institutional change, and external interaction.
 
 Unlike the United States Constitution, which illustrates adaptive institutional design, the French Revolution demonstrates **institutional transformation following the erosion of political legitimacy**.
 
