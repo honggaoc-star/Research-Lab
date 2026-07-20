@@ -37,7 +37,7 @@ These diverse pathways demonstrate that democratic development has no single his
 
 Democratic transitions involve more than holding elections.
 
-Successful adaptation generally requires the simultaneous evolution of multiple institutions, including:
+Durable representative governance may depend on the interaction of multiple institutions, including:
 
 * Constitutional frameworks.
 * Independent judicial systems.
@@ -89,13 +89,13 @@ Common challenges include:
 * Leadership succession.
 * Security concerns.
 
-Successful transitions manage uncertainty by preserving institutional flexibility while maintaining sufficient stability for gradual reform.
+Transition strategies vary in how they distribute risk between flexibility, continuity, inclusion, and control; observed durability cannot establish which balance was optimal ex ante.
 
 ---
 
 # Luck and Democratic Development
 
-Luck influences democratic transitions through changing historical circumstances.
+Democratic transitions are exposed to consequential uncertainty through changing historical circumstances.
 
 Economic crises, international developments, leadership changes, technological innovation, geopolitical shifts, and unexpected public movements frequently create opportunities for institutional reform.
 
@@ -103,9 +103,23 @@ However, similar external conditions produce very different outcomes across soci
 
 Long-term success depends upon institutional preparedness, political compromise, leadership, and adaptive governance rather than favorable circumstances alone.
 
-Luck creates opportunities for transition.
+Changing conditions may create transition potential. Access, coalition formation, institutional design, coercive relations, external support, public participation, and further uncertainty shape whether and how a new regime is realized.
 
-Institutions determine whether those opportunities become durable political systems.
+---
+
+# Architecture-Alignment Assessment
+
+## Unit of Analysis and Transition States
+
+“Democratic transition” may refer to liberalization, authoritarian breakdown, negotiated transfer, founding elections, consolidation, reversal, or changes in participation. These are distinct states and transitions. The focal system may be a regime, state, party system, civil society network, or polity; treating the country as a single adapting actor obscures conflict and unequal stakes.
+
+## Ex Ante Opportunity and Uncertainty
+
+Actors face uncertainty about incumbent coercion, opposition coordination, military behavior, electoral rules, economic disruption, foreign support, and public response. Transition potential does not ensure access or coordinated pursuit, and elections do not complete realization. Unrealized and foreclosed paths—including failed negotiations, suppressed movements, coups, and democratic erosion—belong in the evidence base.
+
+## Selection, Evaluation, and Counterfactuals
+
+Cases labeled successful are selected on later survival and may overrepresent favorable geopolitical, economic, or institutional conditions. Survival is not sufficient evidence of adaptive capacity, legitimacy, or superiority. Evaluation must state criteria—participation, rights, accountability, stability, distribution, or another outcome—and whose perspective counts. Feasible counterfactuals include different sequencing, electoral rules, elite guarantees, international conditions, and coalition structures. Cross-case comparison is required before promoting general claims about democratization.
 
 ---
 
@@ -129,7 +143,7 @@ Finally, societies that preserve opportunities for peaceful institutional adjust
 
 Democratic transitions reinforce one of the central propositions of the *Research on Luck* project:
 
-> Luck may create opportunities for political reform, but long-term democratic development depends upon institutions capable of adapting, learning, and maintaining legitimacy under changing social conditions.
+> Luck may be attributed ex post when consequential uncertainty altered transition opportunities or trajectories. Institutional capability must be measured independently of democratic survival and assessed alongside power, participation, coercion, and external conditions.
 
 Unlike the United States Constitution, which illustrates adaptive constitutional design; the French Revolution, which demonstrates transformation through declining legitimacy; and European Integration, which explores adaptive cooperation among states, democratic transitions illustrate a fourth mechanism of political evolution: **institutional adaptation through expanding political participation**.
 
