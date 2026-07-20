@@ -25,7 +25,7 @@ Across every empirical domain, success depends upon interactions among:
 * Collective coordination.
 * Adaptive capacity.
 
-Luck changes environmental conditions.
+Environmental conditions change under uncertainty.
 
 It does not replace these mechanisms.
 
@@ -178,10 +178,10 @@ Examining the limits of the Luck framework represents an essential stage in deve
 
 The comparative evidence accumulated across Science, Technology, Business, History, and Politics supports a balanced proposition:
 
-> Luck significantly influences adaptive systems by reshaping opportunities, constraints, and uncertainties. However, long-term outcomes emerge through interactions among luck, institutions, learning, coordination, leadership, and adaptive capacity. No single mechanism—including luck—adequately explains the evolution of complex human systems.
+> Luck attribution concerns the ex post significance of consequential uncertainty for a bounded trajectory. Outcomes require analysis of institutions, learning, coordination, leadership, power, selection, capability, and environmental interaction; luck is not an additional mechanism in that causal set.
 
 Recognizing these limitations strengthens the overall framework by clarifying its appropriate scope.
 
-Rather than presenting luck as a universal explanation, the *Research on Luck* project proposes a more modest but more robust conclusion: luck is a relational ex post evaluation within the analysis of adaptive systems, whose influence becomes understandable only when examined alongside the broader processes of learning, institutional evolution, and continuous adaptation.
+Rather than presenting luck as a universal explanation, the *Research on Luck* project treats it as a relational ex post evaluation whose meaning depends on explicit systems, references, alternatives, outcomes, and uncertainty.
 
 This perspective provides a disciplined empirical foundation while leaving room for continued theoretical refinement within the broader study of complex adaptive social systems.
