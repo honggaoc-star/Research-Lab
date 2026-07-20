@@ -1,30 +1,69 @@
 # Formalization
 
-## Overview
+## Purpose
 
-The **Formalization** directory develops rigorous theoretical, logical, computational, and mathematical representations of the concepts introduced in the **Research on Luck** project.
+The **Formalization** directory develops explicit theoretical representations of the concepts introduced throughout the **Research on Luck** project.
 
-While the **Foundations** directory establishes conceptual definitions and classification frameworks, and the **Literature** directory synthesizes existing scholarship, **Formalization** transforms those ideas into explicit theoretical models that can be analyzed, compared, tested, and extended.
+While **Foundations** establishes conceptual definitions and **Literature** examines existing scholarship, Formalization asks a different question:
 
-The objective is not mathematical complexity for its own sake, but conceptual precision. Formal models provide an unambiguous language for expressing assumptions, mechanisms, relationships, dynamics, and predictions.
+> **How might luck operate as a set of identifiable mechanisms within adaptive systems?**
 
-Formalization should be understood as the process of making ideas precise. Mathematics is one important language for this purpose, but equally valuable are logical models, causal structures, dynamic systems, network representations, computational models, and algorithmic frameworks.
+Its objective is to transform conceptual ideas into precise explanatory models that can later be evaluated through empirical observation, comparative analysis, and theoretical refinement.
 
-The models developed in this directory constitute the **formal theoretical foundation** upon which subsequent empirical investigation and the evolving **General Theory** are built.
+Formalization should therefore be understood as the process of making ideas explicit.
+
+Mathematics is one important language for this purpose, but not the only one.
+
+Logical structures, causal models, dynamic systems, computational representations, network models, state-transition frameworks, and algorithmic descriptions are equally valuable forms of formalization.
 
 ---
 
-# Objectives
+# Why Formalization?
 
-The primary objectives of this directory are to:
+Concepts alone are often too flexible to generate rigorous scientific explanations.
 
-* Translate conceptual ideas into formal representations.
-* Develop internally consistent theoretical models.
-* Explicitly define variables, assumptions, and mechanisms.
-* Describe how different dimensions of luck interact.
-* Compare competing theoretical explanations.
-* Generate testable propositions and hypotheses.
-* Establish the formal foundation for empirical investigation.
+Without explicit mechanisms it becomes difficult to:
+
+* distinguish competing explanations,
+* identify assumptions,
+* generate predictions,
+* define measurable quantities,
+* compare alternative models,
+* or determine why different adaptive systems produce different outcomes.
+
+Formalization addresses these problems by making theoretical reasoning explicit.
+
+Rather than asking only:
+
+> **What is luck?**
+
+Formalization asks:
+
+> **Through what mechanisms could luck influence adaptive systems?**
+
+---
+
+# Central Research Question
+
+The guiding question is:
+
+> **What formal mechanisms best explain how contingent variation influences adaptive systems operating under uncertainty?**
+
+More specifically:
+
+* How should luck be represented theoretically?
+* How do stochastic events differ from opportunity transformation?
+* How do opportunities emerge and evolve?
+* How does path dependence influence future possibilities?
+* How do institutions mediate adaptive response?
+* How does learning modify future trajectories?
+* Which mechanisms appear capable of generating the recurring empirical patterns observed across multiple domains?
+
+Formalization develops candidate mechanisms.
+
+It does not determine which mechanisms are ultimately correct.
+
+That evaluation occurs later through Measurement, Empirical Studies, Comparative Studies, and General Theory.
 
 ---
 
@@ -32,67 +71,34 @@ The primary objectives of this directory are to:
 
 Topics appropriate for this directory include:
 
-* Mathematical representations of luck
-* Logical and conceptual models
-* Stochastic processes
-* Dynamic systems
-* Probability models
-* State-space representations
-* Path dependence
-* Feedback and amplification
-* Dynamics of luck
-* Competing theoretical models
-* Network models
-* Agent-based formulations
-* Formal theoretical propositions
+* logical representations,
+* mathematical formulations,
+* stochastic processes,
+* dynamic systems,
+* state-transition models,
+* causal structures,
+* opportunity dynamics,
+* path dependence,
+* feedback,
+* network effects,
+* adaptive systems,
+* institutional mediation,
+* learning dynamics,
+* trajectory evolution,
+* computational models,
+* and competing theoretical frameworks.
 
-Conceptual definitions belong in **Foundations**, while empirical estimation, statistical testing, and observational studies belong in **Measurement**.
+The objective is conceptual precision rather than mathematical sophistication.
 
----
-
-# Relationship to Foundations
-
-The models developed in this directory assume the conceptual framework established in **Foundations**, including the multidimensional taxonomy of luck.
-
-Rather than redefining luck, Formalization seeks to represent its dimensions, mechanisms, interactions, and consequences using explicit theoretical models.
-
-The taxonomy provides the conceptual vocabulary.
-
-Formalization provides the theoretical language.
+A simple model that explains an important mechanism is preferable to a complex model with little explanatory value.
 
 ---
 
-# Relationship to the General Theory
+# Current Organization
 
-Formalization should not be viewed as the final theory of the Research on Luck project.
+The directory currently develops several major theoretical components.
 
-Instead,
-
-it develops the formal mechanisms that later contribute to the evolving **General Theory**.
-
-The distinction is important.
-
-Formalization asks:
-
-> **How might luck operate?**
-
-The General Theory asks:
-
-> **What does the accumulated theoretical and empirical evidence currently support?**
-
-Accordingly,
-
-the models developed here should be regarded as formal theoretical components whose broader scientific significance will be evaluated through Measurement, Case Studies, and subsequent theoretical synthesis.
-
----
-
-# Organization
-
-Documents are organized according to increasing levels of theoretical development.
-
-A representative progression includes:
-
-```text
+```text id="o75bo4"
 Formalization/
 │
 ├── README.md
@@ -105,128 +111,291 @@ Formalization/
 └── 07-General-Theoretical-Framework.md
 ```
 
-The exact structure may evolve as the research program develops.
+These documents establish the project's initial formal mechanisms.
+
+Future revisions may introduce additional models when comparative evidence demonstrates that new mechanisms require explicit theoretical representation.
+
+---
+
+# Levels of Formalization
+
+Formalization within this project may occur at several levels.
+
+## Conceptual Models
+
+Clarify relationships among core concepts.
+
+Examples include:
+
+* uncertainty,
+* contingency,
+* opportunity,
+* adaptive capacity,
+* and trajectory.
+
+---
+
+## Logical Models
+
+Specify assumptions, conditions, and causal relationships without requiring mathematical notation.
+
+---
+
+## Mathematical Models
+
+Represent mechanisms using probability, stochastic processes, differential equations, optimization, graph theory, or related techniques where appropriate.
+
+---
+
+## Dynamic Systems Models
+
+Describe how adaptive systems evolve through interaction among opportunity, learning, institutions, and feedback.
+
+---
+
+## Computational Models
+
+Represent adaptive processes through simulations, algorithms, or agent-based models.
+
+Different mechanisms may require different forms of representation.
+
+No single modeling language is expected to capture every aspect of luck.
+
+---
+
+# Core Formal Mechanisms
+
+The project currently emphasizes several interconnected mechanisms.
+
+## Uncertainty
+
+Conditions under which multiple future trajectories remain possible.
+
+---
+
+## Contingent Variation
+
+Unexpected events or unequal exposures that alter future development.
+
+---
+
+## Opportunity Transformation
+
+Changes in opportunities, constraints, timing, or exposure resulting from contingent variation.
+
+---
+
+## Path Dependence
+
+Historical conditions shaping future opportunity landscapes.
+
+---
+
+## Institutional Mediation
+
+Processes through which organizations and institutions amplify, suppress, redirect, or preserve opportunities.
+
+---
+
+## Learning
+
+Mechanisms through which adaptive systems revise future responses based on experience.
+
+---
+
+## Feedback
+
+Processes through which early differences become amplified, attenuated, or redirected.
+
+---
+
+## Adaptive Systems
+
+The broader structures integrating these mechanisms into long-term trajectories.
+
+Formalization investigates how these mechanisms interact.
+
+General Theory later evaluates which interactions receive the strongest empirical support.
+
+---
+
+# Relationship to Other Sections
+
+Formalization occupies the central theoretical layer of the repository.
+
+```text id="lajysn"
+Foundations
+        ↓
+Literature
+        ↓
+Formalization
+        ↓
+Measurement
+        ↓
+Empirical Studies
+        ↓
+Comparative Studies
+        ↓
+General Theory
+```
+
+Each section performs a distinct role.
+
+### Foundations
+
+Defines concepts.
+
+### Literature
+
+Reviews existing scholarship.
+
+### Formalization
+
+Develops explicit candidate mechanisms.
+
+### Measurement
+
+Investigates how those mechanisms may be observed and evaluated.
+
+### Empirical Studies
+
+Examines how proposed mechanisms appear across multiple domains.
+
+### Comparative Studies
+
+Identifies recurring adaptive mechanisms.
+
+### General Theory
+
+Determines which mechanisms currently receive the strongest integrated support.
+
+Formalization therefore represents the project's primary mechanism-development layer.
+
+---
+
+# Relationship to Measurement
+
+Formalization and Measurement perform complementary functions.
+
+Formalization asks:
+
+> **How might luck operate?**
+
+Measurement asks:
+
+> **How could those mechanisms be investigated empirically?**
+
+Every formal construct should eventually correspond to observable evidence, qualitative indicators, measurable variables, or defensible empirical methods.
+
+Theoretical elegance without empirical interpretability provides limited scientific value.
+
+---
+
+# Relationship to Comparative Studies
+
+Comparative Studies provides an important source of feedback for Formalization.
+
+The completed empirical work suggests that future formal models may require stronger representation of:
+
+* opportunity recognition,
+* adaptive capacity,
+* institutional learning,
+* unrealized opportunities,
+* opportunity migration,
+* recursive adaptation,
+* and dynamic opportunity landscapes.
+
+Formalization should therefore evolve together with empirical evidence.
+
+Models that receive little empirical support should be revised, replaced, or abandoned.
 
 ---
 
 # Modeling Principles
 
-Formal models developed in this directory should adhere to several principles.
+Research developed within this directory should follow several principles.
 
-* Every model should have a clearly stated purpose.
-* Variables, assumptions, and domains of applicability should be explicitly defined.
-* Mathematical notation should remain consistent throughout the project.
-* Simplicity should be preferred whenever it adequately explains the phenomenon.
-* Additional complexity should only be introduced when justified by explanatory value.
-* Models should remain interpretable, logically consistent, and scientifically meaningful.
-* Whenever possible, models should generate predictions that are empirically testable.
+## Explicit assumptions
 
-The objective is to improve understanding rather than maximize mathematical sophistication.
+Every model should clearly identify its assumptions and domain of applicability.
 
 ---
 
-# Competing Models
+## Mechanism before mathematics
 
-Formalization should not assume that a single model fully explains luck.
-
-Instead, this directory encourages the development and comparison of multiple theoretical frameworks, including:
-
-* independent stochastic models,
-* dynamic systems models,
-* institutional amplification models,
-* cumulative advantage models,
-* selection and survivorship models,
-* alternative philosophical conceptions where appropriate.
-
-Competing models should be evaluated according to:
-
-* internal logical consistency,
-* explanatory power,
-* predictive capability,
-* mathematical coherence,
-* empirical support.
-
-Scientific progress emerges through comparison, refinement, and integration rather than commitment to a single theoretical perspective.
+Mathematics should clarify mechanisms rather than substitute for explanation.
 
 ---
 
-# Relationship to Other Directories
+## Multiple competing models
 
-Formalization occupies the central theoretical position within the overall research workflow.
-
-```text
-Foundations
-      ↓
-Literature
-      ↓
-Formalization
-      ↓
-Measurement
-      ↓
-Case Studies
-      ↓
-General Theory
-      ↓
-Applications
-```
-
-Each stage contributes a distinct function.
-
-* **Foundations** define concepts.
-* **Literature** synthesizes existing scholarship.
-* **Formalization** develops theoretical mechanisms.
-* **Measurement** operationalizes those mechanisms.
-* **Case Studies** evaluate them across multiple domains.
-* **General Theory** integrates the accumulated theoretical and empirical evidence.
-* **Applications** extend validated knowledge into practical use.
-
-Each stage both depends upon and informs the others.
+Different mechanisms should be compared rather than assuming a single formal representation.
 
 ---
 
-# Expected Outputs
+## Empirical interpretability
 
-Research in this directory may produce:
-
-* conceptual models,
-* logical frameworks,
-* mathematical formulations,
-* dynamic system models,
-* computational models,
-* simulation frameworks,
-* network representations,
-* analytical results,
-* formal hypotheses.
-
-These outputs establish the theoretical foundation connecting conceptual reasoning with empirical investigation.
+Formal constructs should remain connected to observable evidence whenever possible.
 
 ---
 
-# Guiding Principles
+## Simplicity
 
-Documents in this directory should:
+Additional complexity should be introduced only when it improves explanatory power.
 
-* maintain internal logical consistency;
-* clearly distinguish assumptions from conclusions;
-* explicitly state domains of applicability;
-* avoid unnecessary notation or complexity;
-* remain accessible to researchers from multiple disciplines;
-* encourage refinement and comparison of competing models;
-* clearly distinguish descriptive, explanatory, and normative models.
+---
 
-The objective is to construct increasingly rigorous theoretical explanations rather than definitive answers.
+## Revision
+
+Formal models are provisional.
+
+They should evolve as comparative evidence improves.
+
+---
+
+# Scope and Limitations
+
+Formalization is not the final theory of luck.
+
+Nor is every conceptual idea expected to possess a complete mathematical representation.
+
+Some mechanisms may remain:
+
+* qualitative,
+* partially specified,
+* computational,
+* or conceptually formal rather than mathematically formal.
+
+The project therefore values explanatory precision more than symbolic complexity.
+
+---
+
+# Current Status
+
+The Formalization directory currently establishes the project's first generation of theoretical mechanisms.
+
+Completion of the Empirical Studies and Comparative Studies has identified several opportunities for future refinement, particularly regarding:
+
+* adaptive systems,
+* opportunity evolution,
+* opportunity recognition,
+* unrealized opportunities,
+* and institutional adaptation.
+
+Accordingly, Formalization should be regarded as an evolving theoretical component rather than a completed mathematical framework.
 
 ---
 
 # Long-Term Goal
 
-The long-term goal of the **Formalization** directory is to develop rigorous theoretical mechanisms capable of explaining how luck operates within evolving systems.
+The long-term goal of the **Formalization** directory is to develop rigorous theoretical representations explaining how luck operates within adaptive systems under uncertainty.
 
-Rather than treating luck as an unexplained residual, an intuitive concept, or merely a statistical anomaly, the models developed here seek to represent its mechanisms, dynamics, interactions, and consequences in forms that are logically rigorous, mathematically precise where appropriate, computationally implementable, and empirically testable.
+Rather than treating luck as an unexplained residual or purely intuitive concept, Formalization seeks to represent its mechanisms explicitly enough that they can be compared, criticized, measured, and refined.
 
-These models are not the final product of the Research on Luck project.
+Its success will not be determined by mathematical complexity.
 
-Instead, they provide the formal foundation upon which empirical investigation, cross-domain comparison, and the evolving **General Theory** progressively build.
+It will be determined by whether the proposed mechanisms improve explanation, support empirical investigation, generate testable propositions, and contribute to a progressively stronger General Theory.
 
-Ultimately, Formalization seeks to explain **how** luck operates, while the broader research program determines **which** mechanisms consistently survive empirical evaluation across diverse domains of human activity.
+Formalization therefore serves as the mechanism-development layer of the **Research on Luck** project, connecting conceptual understanding with empirical science.
+
 

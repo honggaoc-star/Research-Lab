@@ -2,155 +2,257 @@
 
 ## Purpose
 
-The **Research on Luck** project seeks to contribute to the study of luck by integrating evidence across multiple disciplines rather than treating luck as an isolated philosophical, psychological, economic, or statistical concept.
+The **Research on Luck** project seeks to contribute to the scientific study of luck by developing a comparative empirical framework that integrates evidence across multiple disciplines.
 
-The project does not claim that every individual idea presented here is entirely novel. Instead, its primary contribution lies in developing a coherent comparative framework that identifies recurring adaptive mechanisms across diverse domains of human activity.
+The project does **not** claim that every individual concept presented here is entirely novel.
 
-The following summarizes the principal contributions of the repository.
+Ideas concerning uncertainty, contingency, path dependence, learning, institutions, adaptive systems, and opportunity have been developed independently across many research traditions.
+
+The principal contribution of this project lies elsewhere.
+
+It lies in integrating these ideas into a coherent comparative framework for investigating how contingent variation influences adaptive systems across diverse forms of human activity.
+
+The following sections summarize the project's principal contributions.
 
 ---
 
-# 1. Reframing Luck
+# 1. Reframing the Study of Luck
 
-The project proposes a different interpretation of luck.
-
-Rather than viewing luck as:
+Traditional discussions often describe luck as:
 
 * random success,
 * unexplained variation,
-* or an alternative to skill,
+* fortune,
+* chance,
+* or the opposite of skill.
 
-the repository treats luck as **an environmental mechanism that continually reshapes opportunities, constraints, and uncertainty**.
+The Research on Luck project proposes a different perspective.
 
-This shifts the study of luck from outcome attribution toward adaptive processes.
+Rather than treating luck as an outcome or residual explanation, the project investigates how consequential variation arising under uncertainty alters opportunities, constraints, exposures, and trajectories confronting adaptive systems.
+
+This shifts the study of luck away from outcome attribution and toward adaptive processes.
 
 ---
 
 # 2. A Comparative Research Framework
 
-Most existing studies investigate luck within individual disciplines.
+Most existing scholarship investigates luck within individual disciplines.
 
-This repository compares empirical evidence across:
+Examples include:
 
-* Science
-* Technology
-* Business
-* History
-* Politics
+* philosophy,
+* psychology,
+* economics,
+* statistics,
+* history,
+* and organizational studies.
 
-The objective is to identify mechanisms that recur across independent domains rather than developing domain-specific explanations.
+The present project instead compares empirical evidence across:
 
-This comparative methodology represents one of the central contributions of the project.
+* Science,
+* Technology,
+* Business,
+* History,
+* and Politics.
 
----
+The objective is to identify recurring mechanisms that appear across independent domains rather than developing domain-specific explanations.
 
-# 3. Identification of Universal Adaptive Mechanisms
-
-Comparative analysis consistently identifies recurring mechanisms including:
-
-* Opportunity recognition
-* Timing and contingency
-* Path dependence
-* Institutional adaptation
-* Learning
-* Unrealized opportunities
-
-The repeated appearance of these mechanisms across multiple domains suggests that they represent general properties of adaptive systems rather than isolated disciplinary observations.
+This comparative design constitutes one of the project's central methodological contributions.
 
 ---
 
-# 4. Adaptive Systems as the Common Unit of Analysis
+# 3. Adaptive Systems as a Common Unit of Analysis
 
-The project proposes that the most useful unit of comparative analysis is neither the individual nor the institution alone.
+The project proposes that many apparently unrelated domains may be understood through the broader concept of the adaptive system.
 
-Instead, it identifies **adaptive systems** as the common empirical framework underlying:
+Adaptive systems include, among others:
 
 * scientific communities,
 * technological ecosystems,
 * business organizations,
-* civilizations,
-* and political systems.
+* political institutions,
+* governments,
+* and civilizations.
 
-This perspective provides a common language for comparing otherwise very different domains.
+Although these systems differ substantially in purpose, scale, and historical context, they repeatedly confront similar challenges involving uncertainty, opportunity, coordination, learning, institutional adaptation, and long-term development.
 
----
-
-# 5. Unrealized Opportunities
-
-One of the most distinctive themes developed throughout the repository is the systematic study of unrealized opportunities.
-
-Rather than focusing exclusively on successful outcomes, the project argues that understanding adaptive systems requires examining opportunities that remained:
-
-* undiscovered,
-* undeveloped,
-* unimplemented,
-* or unrealized.
-
-This perspective extends across all empirical domains and provides a useful complement to traditional success-oriented analysis.
+This perspective provides a common analytical language for interdisciplinary comparison while preserving domain-specific differences.
 
 ---
 
-# 6. Luck as an Adaptive Mechanism
+# 4. Opportunity as the Principal Mediating Mechanism
 
-The comparative evidence consistently suggests that luck influences adaptive systems indirectly.
+The project proposes that luck influences development primarily by changing opportunity landscapes rather than directly determining outcomes.
 
-Luck changes environments.
+Contingent variation may:
 
-Adaptive systems respond.
+* create opportunities,
+* remove opportunities,
+* alter timing,
+* change constraints,
+* redistribute access,
+* or redirect trajectories.
 
-Long-term outcomes emerge from the interaction between environmental change and adaptive capacity rather than from luck alone.
+Adaptive systems then differ in their capacity to recognize, interpret, coordinate, develop, and preserve those opportunities.
 
-This framework moves beyond the traditional opposition between "luck" and "skill."
-
----
-
-# 7. Integration Across Disciplines
-
-The project demonstrates that scientific discovery, technological innovation, business development, historical evolution, and political adaptation exhibit remarkably similar adaptive structures despite substantial differences in subject matter.
-
-This convergence provides empirical support for interdisciplinary investigation of adaptive processes.
+This emphasis on opportunity provides a mechanism connecting contingent variation with long-term development.
 
 ---
 
-# 8. Mechanism-Oriented Case Studies
+# 5. Identification of Recurring Adaptive Mechanisms
 
-Case studies throughout the repository are selected to illuminate adaptive mechanisms rather than to provide comprehensive historical coverage.
+Comparative investigation across the five empirical domains repeatedly identifies several mechanisms, including:
 
-This design philosophy emphasizes explanatory value over encyclopedic completeness.
+* opportunity recognition,
+* timing and contingency,
+* path dependence,
+* institutional mediation,
+* learning,
+* feedback,
+* adaptive capacity,
+* and unrealized opportunities.
 
-Future expansion will therefore be guided by theoretical necessity rather than topical completeness.
+The project does not claim that these mechanisms operate identically in every context.
+
+Instead, it proposes that they recur sufficiently often to justify broader theoretical investigation.
+
+These recurring mechanisms provide the empirical foundation for the project's evolving General Theory.
 
 ---
 
-# 9. A Layered Research Architecture
+# 6. Systematic Study of Unrealized Opportunities
 
-The repository adopts a layered structure progressing from:
+One of the most distinctive themes developed throughout the repository is the systematic investigation of unrealized opportunities.
+
+Rather than focusing exclusively on realized success, the project examines opportunities that remained:
+
+* unnoticed,
+* delayed,
+* rejected,
+* institutionally blocked,
+* technically premature,
+* underdeveloped,
+* or transferred elsewhere.
+
+Studying unrealized opportunities broadens empirical investigation beyond visible success and helps explain the adaptive limitations of individuals, organizations, institutions, and societies.
+
+---
+
+# 7. A Layered Research Architecture
+
+The project adopts a structured research process progressing from conceptual development toward theoretical integration.
+
+```text id="9blf0r"
+Foundations
+        ↓
+Literature
+        ↓
+Formalization
+        ↓
+Measurement
+        ↓
+Empirical Studies
+        ↓
+Comparative Studies
+        ↓
+General Theory
+```
+
+Each layer performs a distinct scientific function.
+
+This architecture separates:
+
+* concepts,
+* scholarship,
+* mechanisms,
+* methodology,
+* evidence,
+* comparative synthesis,
+* and theory.
+
+Maintaining these distinctions improves conceptual clarity while encouraging cumulative refinement.
+
+---
+
+# 8. Integration of Multiple Research Traditions
+
+Rather than replacing existing scholarship, the project integrates contributions from multiple disciplines.
+
+It draws upon work concerning:
+
+* uncertainty,
+* stochastic processes,
+* path dependence,
+* organizational learning,
+* institutional theory,
+* historical contingency,
+* complexity,
+* and adaptive systems.
+
+The contribution lies not in redefining each field individually, but in bringing these perspectives together within a coherent comparative framework.
+
+---
+
+# 9. A Research Program Rather Than a Closed Theory
+
+The project intentionally avoids presenting a finished or universal theory of luck.
+
+Instead, it establishes:
 
 * conceptual foundations,
-* literature synthesis,
-* formalization,
-* measurement,
-* empirical case studies,
-* comparative analysis,
-* and general theory.
+* candidate mechanisms,
+* empirical methodology,
+* comparative evidence,
+* and evolving theoretical propositions.
 
-This architecture allows conceptual development while maintaining a clear distinction between theory, evidence, and synthesis.
+The framework is designed to remain open to:
+
+* new empirical domains,
+* competing explanations,
+* methodological refinement,
+* disconfirming evidence,
+* and theoretical revision.
+
+Scientific progress is understood as iterative rather than final.
 
 ---
 
 # 10. An Empirical Foundation for Future Research
 
-The project does not present a final theory of luck.
-
-Instead, it establishes a comparative empirical foundation that may support future work in:
+The repository establishes a structured foundation for future work concerning:
 
 * adaptive systems,
+* opportunity dynamics,
 * institutional evolution,
 * organizational learning,
 * complex social systems,
-* and interdisciplinary studies of uncertainty.
+* comparative historical analysis,
+* interdisciplinary studies of uncertainty,
+* and broader theories of adaptive development.
 
-In this sense, the repository is intended to serve as a platform for continued theoretical development rather than a closed body of conclusions.
+Future work may strengthen, qualify, or reject particular mechanisms.
+
+The value of the repository lies in providing a disciplined framework through which those questions can be investigated systematically.
+
+---
+
+# Scope of the Contributions
+
+The project does **not** claim:
+
+* a universal theory of luck;
+* a complete explanation of human development;
+* a single quantitative measure of luck;
+* or the replacement of existing disciplinary theories.
+
+Its contributions are more limited and therefore more defensible.
+
+The project contributes:
+
+* a comparative research strategy,
+* an integrated conceptual framework,
+* a mechanism-oriented empirical methodology,
+* and an evolving theoretical synthesis connecting contingent variation with adaptive development.
 
 ---
 
@@ -158,7 +260,13 @@ In this sense, the repository is intended to serve as a platform for continued t
 
 Taken together, these contributions support one overarching proposition:
 
-> Luck is most productively understood not as random fortune or unexplained success, but as a mechanism that continually reshapes the environments within which adaptive systems operate. Long-term outcomes emerge through the interaction of opportunity recognition, timing, path dependence, institutional adaptation, learning, and continuous adaptation across changing environments.
+> Luck is most productively understood as consequential variation arising under uncertainty that alters the opportunities, constraints, exposures, or trajectories confronting adaptive systems. Long-term development emerges through the interaction of opportunity recognition, inherited conditions, institutional mediation, learning, adaptive capacity, and continual response to changing environments.
 
-The principal contribution of the **Research on Luck** project is therefore not the study of luck in isolation, but the development of a comparative empirical framework that explains how adaptive systems transform uncertainty into long-term scientific, technological, economic, historical, and political development.
+Accordingly, the principal contribution of the **Research on Luck** project is not the study of luck in isolation.
+
+It is the development of a comparative empirical framework for understanding how adaptive systems transform uncertainty into long-term scientific, technological, economic, historical, and political development.
+
+Whether that framework ultimately proves sufficiently general remains an empirical question.
+
+The project is intended to provide a disciplined foundation for answering that question through continued research rather than assuming its conclusion.
 

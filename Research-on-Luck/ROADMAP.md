@@ -2,26 +2,35 @@
 
 ## Purpose
 
-This roadmap outlines the long-term development strategy for the **Research on Luck** project.
+This roadmap outlines the long-term development strategy of the **Research on Luck** project.
 
-The project does **not** seek encyclopedic coverage of every domain in which luck appears. Instead, its objective is to identify and validate a coherent set of adaptive mechanisms that consistently explain how luck influences long-term outcomes across diverse forms of human activity.
+The objective is **not** to maximize the number of empirical domains, documents, or theoretical concepts.
 
-Accordingly, expansion is guided by **theoretical necessity rather than topical completeness**.
+Instead, the project seeks to develop an increasingly rigorous comparative research program for understanding how contingent variation influences adaptive systems operating under uncertainty.
+
+Future development will therefore be guided by:
+
+* empirical evidence,
+* theoretical necessity,
+* conceptual consistency,
+* and scientific refinement.
+
+Expansion is justified only when it improves explanation.
 
 ---
 
 # Current Status
 
-The core empirical framework has been established.
+The repository has completed its primary research architecture.
 
-## Foundations
+## Conceptual Foundation
 
 * ✓ Foundations
-* ✓ Literature Review
+* ✓ Literature
 * ✓ Formalization
 * ✓ Measurement
 
-## Empirical Case Studies
+## Empirical Investigation
 
 * ✓ Science
 * ✓ Technology
@@ -29,129 +38,278 @@ The core empirical framework has been established.
 * ✓ History
 * ✓ Politics
 
-## Comparative Synthesis
+## Comparative Integration
 
 * ✓ Comparative Studies
 
-## Theory
+## Theoretical Development
 
-* ✓ General Theory (initial)
+* ✓ General Theory (Version 2.0)
 
-The primary architecture of the repository is therefore complete.
+The repository now contains a complete conceptual, methodological, empirical, comparative, and theoretical framework.
+
+The next phase emphasizes refinement rather than structural expansion.
 
 ---
 
 # Development Philosophy
 
-Future development follows four principles.
+The project follows several long-term principles.
 
-## 1. Mechanism-Oriented Research
+## 1. Refinement Before Expansion
 
-Case studies exist to identify and validate adaptive mechanisms.
+The principal task is no longer adding new material.
 
-The objective is not comprehensive historical coverage, but empirical understanding.
+It is improving:
 
-Additional domains will be added only when they introduce genuinely new mechanisms that are not already supported by existing comparative evidence.
+* conceptual precision,
+* empirical support,
+* theoretical consistency,
+* cross-domain integration,
+* and methodological rigor.
 
----
-
-## 2. Comparative Before Expansion
-
-Future effort should prioritize:
-
-* comparative refinement
-* theoretical clarification
-* empirical integration
-
-before expanding into additional empirical domains.
-
-Depth is preferred over breadth.
+Future expansion should occur only when it produces demonstrable scientific value.
 
 ---
 
-## 3. Continuous Refinement
+## 2. Mechanisms Before Topics
 
-As the repository matures, future work will increasingly emphasize:
+Empirical domains exist to investigate adaptive mechanisms.
 
-* improving conceptual clarity
-* strengthening cross-references
-* refining theoretical propositions
-* improving visual architecture
-* incorporating new empirical evidence where appropriate
+They are not intended to provide comprehensive coverage of every field in which luck appears.
 
-The project is expected to evolve through refinement rather than continual expansion.
+Additional domains should therefore be added only when they reveal mechanisms that cannot be investigated adequately within the existing five-domain framework.
 
 ---
 
-## 4. Evidence-Driven Evolution
+## 3. Evidence Before Theory
 
-The framework remains open to revision.
+General Theory should continue evolving through empirical investigation.
 
-New evidence may:
+Comparative recurrence provides evidence.
 
-* strengthen existing mechanisms,
-* modify current interpretations,
-* introduce additional mechanisms,
-* or identify important limitations.
+It does not automatically establish universal validity.
 
-The repository therefore remains an evolving research program rather than a fixed body of conclusions.
+Future theoretical refinement should therefore remain closely tied to:
+
+* comparative evidence,
+* competing explanations,
+* methodological improvement,
+* and empirical criticism.
 
 ---
 
-# Future Priorities
+## 4. Integration Before Complexity
 
-The highest priorities are now repository refinement rather than expansion.
+The project should avoid unnecessary conceptual expansion.
+
+Adding more concepts, models, or mechanisms does not necessarily improve explanation.
+
+Future development should prioritize stronger integration among existing components before introducing additional complexity.
+
+---
+
+## 5. Revision as a Scientific Principle
+
+The framework is intentionally provisional.
+
+Concepts, mechanisms, measurements, and theoretical propositions should all remain open to revision when new evidence or better explanations emerge.
+
+Scientific progress depends upon disciplined correction rather than conceptual permanence.
+
+---
+
+# Near-Term Priorities
+
+The next stage of development should focus primarily on repository quality.
 
 ## High Priority
 
-* Refine repository documentation.
-* Strengthen conceptual consistency.
-* Improve cross-linking between sections.
-* Develop repository-wide conceptual figures.
-* Continue improving theoretical precision.
+### Repository Synchronization
+
+Continue aligning all documents with the completed repository architecture.
+
+Priority tasks include:
+
+* consistent terminology,
+* updated workflow diagrams,
+* improved cross-references,
+* and removal of obsolete material.
 
 ---
 
-## Medium Priority
+### General Theory Refinement
 
-Expand the General Theory section by integrating findings from Comparative Studies into a more coherent empirical framework.
+Continue strengthening:
 
----
-
-## Lower Priority
-
-Additional empirical domains—including Finance, Organizations, Culture, or other areas—will be considered only if comparative analysis demonstrates that they contribute fundamentally new adaptive mechanisms beyond those already identified.
-
-At present, existing empirical evidence appears sufficient to support the project's central framework.
+* theoretical propositions,
+* conceptual boundaries,
+* supporting evidence,
+* and links to Comparative Studies.
 
 ---
 
-# Relationship to the Research Lab
+### Conceptual Consistency
 
-Research on Luck represents one empirical component of the broader Research Lab.
+Review the repository for consistent use of terms including:
 
-Its primary objective is to identify recurring adaptive mechanisms through comparative empirical investigation.
+* luck,
+* uncertainty,
+* contingency,
+* opportunity,
+* adaptive capacity,
+* institution,
+* learning,
+* path dependence,
+* trajectory,
+* and unrealized opportunity.
 
-Broader theoretical integration—including formal models of adaptive social evolution—is pursued separately within the **Social Systems** repository.
+---
 
-The two projects are complementary.
+### Evidence Strengthening
 
-Research on Luck emphasizes empirical comparison.
+Expand scholarly references supporting:
 
-Social Systems emphasizes theoretical integration.
+* empirical claims,
+* historical interpretation,
+* theoretical mechanisms,
+* and comparative conclusions.
+
+The project's long-term credibility depends increasingly upon evidence rather than conceptual development alone.
+
+---
+
+# Medium-Term Priorities
+
+## Comparative Refinement
+
+Continue strengthening comparison among the completed empirical domains.
+
+Future work should include:
+
+* clearer comparison tables,
+* stronger cross-domain references,
+* improved visualization,
+* and additional analysis of competing explanations.
+
+---
+
+## Formalization Version 2.0
+
+The completed empirical work suggests opportunities for expanding the formal mechanisms.
+
+Potential future topics include:
+
+* adaptive capacity,
+* opportunity recognition,
+* opportunity evolution,
+* institutional learning,
+* recursive adaptation,
+* and unrealized opportunity spaces.
+
+Such additions should be driven by empirical need rather than mathematical completeness.
+
+---
+
+## Measurement Version 2.0
+
+Continue developing empirical methodologies for investigating:
+
+* opportunity recognition,
+* adaptive capacity,
+* institutional mediation,
+* unrealized opportunities,
+* longitudinal trajectories,
+* and mixed-method comparative analysis.
+
+---
+
+# Long-Term Research Opportunities
+
+Additional empirical domains remain possible.
+
+Examples might include:
+
+* culture,
+* education,
+* healthcare,
+* environmental adaptation,
+* law,
+* or international relations.
+
+However, such expansion should occur only if these domains contribute genuinely new adaptive mechanisms beyond those already represented.
+
+The criterion is explanatory value rather than topical completeness.
+
+---
+
+# Evidence Development
+
+As the project matures, increasing effort should be devoted to strengthening empirical support.
+
+Important future activities include:
+
+* expanding scholarly references,
+* incorporating competing interpretations,
+* improving historical documentation,
+* identifying disconfirming evidence,
+* and strengthening methodological transparency.
+
+A mature research program depends as much upon evidence quality as conceptual originality.
+
+---
+
+# Theoretical Development
+
+General Theory should continue evolving through interaction with empirical evidence.
+
+Future refinement should seek to:
+
+* clarify boundary conditions,
+* identify competing mechanisms,
+* distinguish stronger from weaker propositions,
+* improve testability,
+* and reduce unnecessary generalization.
+
+The objective is progressively stronger explanation rather than progressively broader theory.
+
+---
+
+# Repository Development
+
+Future repository improvements should emphasize quality.
+
+Examples include:
+
+* stronger navigation,
+* improved diagrams,
+* repository-wide glossary,
+* consistent terminology,
+* enhanced cross-linking,
+* citation management,
+* and clearer relationships among documents.
+
+These improvements increase coherence without requiring major conceptual expansion.
 
 ---
 
 # Long-Term Vision
 
-The long-term success of this project should not be measured by the number of case studies or empirical domains it contains.
+The long-term ambition of the **Research on Luck** project is not to become the largest collection of material concerning luck.
 
-Instead, success will be measured by the clarity, consistency, and explanatory power of the adaptive mechanisms identified through comparative evidence.
+Its goal is to become a coherent comparative research program capable of explaining how contingent variation influences adaptive systems across multiple domains of human activity.
 
-The ultimate goal is to establish a rigorous empirical framework explaining how luck interacts with opportunity, institutions, learning, and adaptation across multiple domains of human activity.
+Success should therefore be evaluated according to:
 
-If future evidence continues to support these mechanisms, expansion will become increasingly selective while refinement becomes the primary direction of development.
+* conceptual clarity,
+* empirical quality,
+* methodological rigor,
+* comparative integration,
+* theoretical discipline,
+* and openness to revision.
 
-In this sense, the roadmap itself reflects one of the central principles of the project:
+The project should mature by improving the quality of its explanations rather than continually expanding its scope.
 
-**Adaptive systems mature by improving their internal coherence rather than expanding indefinitely.**
+In this sense, the roadmap reflects one of the project's own central conclusions:
+
+> Adaptive systems achieve long-term success not by expanding indefinitely, but by continually improving how they learn, integrate, and respond to changing environments.

@@ -2,47 +2,99 @@
 
 ## Overview
 
-Luck is one of the most frequently invoked yet least systematically studied concepts in human thought. It appears in scientific discovery, technological innovation, business success, political development, historical transformation, and everyday decision-making. Despite its apparent importance, luck is often treated either as unexplained randomness or as a residual explanation after accounting for skill, intelligence, effort, or institutional quality.
+Luck is one of the most frequently invoked yet least systematically studied concepts in human thought.
+
+It appears in scientific discovery, technological innovation, business development, political change, historical transformation, and everyday decision-making. Despite its apparent importance, luck is commonly treated either as unexplained randomness or as a residual explanation after accounting for intelligence, effort, skill, institutions, or circumstance.
 
 The **Research on Luck** project investigates luck from a different perspective.
 
-Rather than asking whether success results from luck or skill, this research asks:
+Rather than asking whether outcomes result from luck or capability, the project asks:
 
-* How does luck influence adaptive systems?
-* How do opportunities emerge?
+* How does contingent variation influence adaptive systems?
+* How do opportunities emerge, change, and disappear?
 * Why do similar opportunities produce different outcomes?
 * Why are some opportunities realized while many others remain unrealized?
 * How do individuals, organizations, institutions, and societies adapt to continually changing environments?
+* Which mechanisms recur across different domains of human activity?
 
-The central objective is to develop a rigorous, interdisciplinary, and empirically grounded understanding of luck as one component of adaptive evolution rather than as an isolated phenomenon.
+The objective is to develop a rigorous, interdisciplinary, and empirically grounded understanding of luck as one component of adaptive evolution rather than as an isolated phenomenon.
 
 ---
 
 # Research Philosophy
 
-This repository is built upon several guiding principles.
+The project is guided by several fundamental principles.
 
-### Luck is not random success.
+## Luck is not random success.
 
-Luck continually reshapes the environments within which adaptive systems operate by creating new opportunities, constraints, and uncertainties.
+Luck is not defined as success without merit.
 
-### Adaptive systems determine outcomes.
+Instead, luck refers to consequential variation arising under uncertainty that alters opportunities, constraints, exposures, or future trajectories.
 
-Scientific communities, technological ecosystems, businesses, political institutions, and civilizations differ primarily in their ability to recognize opportunities, coordinate action, learn from experience, and adapt to changing environments.
+Luck changes environments.
 
-### Comparative evidence matters.
+Adaptive systems respond.
 
-Rather than studying luck within a single discipline, this repository compares multiple domains to identify recurring mechanisms that transcend traditional disciplinary boundaries.
+Long-term development emerges through that interaction.
 
-### Mechanisms are more important than examples.
+---
 
-Case studies are selected because they illuminate adaptive mechanisms, not because they provide comprehensive historical coverage.
+## Adaptive systems determine long-term outcomes.
+
+Scientific communities, technological ecosystems, business organizations, political institutions, governments, and civilizations all operate as adaptive systems.
+
+They differ not because they avoid uncertainty, but because they differ in their ability to:
+
+* recognize opportunities,
+* coordinate action,
+* allocate resources,
+* learn from experience,
+* revise institutions,
+* and continually adapt to changing conditions.
+
+---
+
+## Opportunities matter more than outcomes.
+
+Traditional discussions of luck often begin with successful outcomes.
+
+This project instead begins with opportunities.
+
+Many opportunities are:
+
+* never recognized,
+* recognized but not pursued,
+* pursued unsuccessfully,
+* transferred to other systems,
+* or permanently lost.
+
+Understanding luck therefore requires examining both realized and unrealized possibilities.
+
+---
+
+## Comparative evidence is essential.
+
+Rather than studying luck within a single discipline, the project compares multiple empirical domains to identify recurring mechanisms that transcend traditional disciplinary boundaries.
+
+The objective is not to demonstrate that every domain behaves identically.
+
+Instead, it is to determine whether similar adaptive processes repeatedly emerge under different historical, institutional, technological, and organizational conditions.
+
+---
+
+## Mechanisms are more important than examples.
+
+Individual cases are not selected because they are famous or historically comprehensive.
+
+They are selected because they illuminate adaptive mechanisms.
+
+The project therefore emphasizes explanatory value rather than encyclopedic coverage.
 
 ---
 
 # Repository Structure
 
-The repository is organized as a progression from conceptual foundations to comparative empirical synthesis.
+The repository follows a layered research architecture progressing from conceptual foundations toward theoretical synthesis.
 
 ```text
 Research on Luck
@@ -52,7 +104,7 @@ Research on Luck
 ├── Formalization/
 ├── Measurement/
 │
-├── Case Studies/
+├── Empirical Studies/
 │   ├── Science/
 │   ├── Technology/
 │   ├── Business/
@@ -61,30 +113,33 @@ Research on Luck
 │
 ├── Comparative Studies/
 │
-└── General Theory/
+├── General Theory/
+│
+├── References/
+└── Notes/
 ```
 
-Each section serves a distinct purpose.
+Each section performs a distinct role within the overall research program.
 
-### Foundations
+## Foundations
 
-Defines the fundamental concepts of luck, uncertainty, opportunity, and related terminology.
+Develops precise conceptual definitions, distinctions, assumptions, and research questions.
 
-### Literature
+## Literature
 
-Reviews existing scholarship across philosophy, psychology, economics, and statistics while identifying unresolved questions.
+Examines how different academic disciplines have investigated luck and identifies unresolved opportunities for interdisciplinary synthesis.
 
-### Formalization
+## Formalization
 
-Develops conceptual and mathematical representations of recurring mechanisms such as path dependence, stochastic processes, feedback, and adaptive dynamics.
+Develops logical, mathematical, computational, and causal representations of proposed mechanisms.
 
-### Measurement
+## Measurement
 
-Investigates how luck and opportunity may be operationalized and studied empirically.
+Investigates how theoretical concepts may be operationalized, observed, and evaluated empirically.
 
-### Case Studies
+## Empirical Studies
 
-Examines luck across five major domains of human activity:
+Examines adaptive mechanisms across five complementary domains:
 
 * Science
 * Technology
@@ -92,50 +147,68 @@ Examines luck across five major domains of human activity:
 * History
 * Politics
 
-The objective is not encyclopedic coverage, but empirical validation of recurring adaptive mechanisms.
+The objective is not exhaustive historical coverage, but carefully selected evidence illustrating recurring mechanisms.
 
-### Comparative Studies
+## Comparative Studies
 
-Synthesizes evidence across all five domains to identify universal adaptive mechanisms including:
+Synthesizes evidence across the five empirical domains.
 
-* Opportunity recognition
-* Timing and contingency
-* Path dependence
-* Institutional adaptation
-* Learning
-* Unrealized opportunities
-* Adaptive systems
+Its purpose is to identify recurring adaptive mechanisms including:
 
-### General Theory
+* opportunity recognition,
+* timing and contingency,
+* path dependence,
+* institutional mediation,
+* learning,
+* adaptive systems,
+* and unrealized opportunities.
 
-Presents the integrated empirical framework emerging from the comparative evidence.
+Comparative Studies provides the immediate empirical foundation for the General Theory.
+
+## General Theory
+
+Develops the highest-level theoretical synthesis supported by the completed conceptual, formal, and comparative work.
+
+Rather than presenting a final theory, this section records the project's current best explanations while remaining open to revision.
+
+## References
+
+Serves as the long-term scholarly and bibliographic foundation supporting future refinement and validation.
+
+## Notes
+
+Contains supplementary observations, exploratory ideas, and research materials that do not yet belong within the formal framework.
 
 ---
 
-# Core Findings
+# Central Research Perspective
 
-The comparative evidence developed throughout the repository consistently supports several observations.
+The project currently supports the following general perspective:
 
-* Opportunities continually emerge as environments evolve.
+> Luck consists of consequential variation arising under uncertainty that alters the opportunities, constraints, exposures, or trajectories confronting adaptive systems. Its long-term consequences depend upon how those systems recognize, interpret, coordinate, learn from, and adapt to the resulting changes.
+
+This perspective shifts attention away from the traditional opposition between luck and skill.
+
+Instead, it emphasizes the interaction between contingent variation and adaptive response.
+
+---
+
+# Current Comparative Findings
+
+The completed comparative work across Science, Technology, Business, History, and Politics consistently suggests several recurring patterns.
+
+* Opportunities continually emerge and evolve.
 * Opportunity recognition is selective rather than universal.
-* Timing and contingency influence realization.
+* Timing influences realization.
 * Historical paths shape future possibilities.
-* Institutions mediate adaptive responses.
-* Learning improves long-term resilience.
+* Institutions mediate adaptive response.
+* Learning strengthens long-term resilience.
 * Unrealized opportunities substantially outnumber realized successes.
-* Adaptive systems consistently outperform static systems under uncertainty.
+* Adaptive capacity strongly influences long-term trajectories.
 
-Together, these findings suggest that luck operates primarily by reshaping adaptive environments rather than directly determining outcomes.
+These observations appear repeatedly across the selected domains despite major differences in subject matter.
 
----
-
-# Central Proposition
-
-The research developed throughout this repository supports the following proposition:
-
-> Luck does not directly determine long-term success. Instead, it continually reshapes the distribution of opportunities, constraints, and uncertainties confronting adaptive systems. Long-term outcomes emerge through the interaction of opportunity recognition, timing, path dependence, institutional adaptation, learning, and continuous adaptation.
-
-This proposition is supported through comparative evidence rather than reliance upon any single discipline or theoretical tradition.
+They therefore provide a basis for broader theoretical integration while remaining open to further empirical evaluation.
 
 ---
 
@@ -143,11 +216,13 @@ This proposition is supported through comparative evidence rather than reliance 
 
 The purpose of this repository is not to explain every aspect of human behavior.
 
-Nor is it intended to provide exhaustive coverage of every domain in which luck appears.
+Nor is it intended to provide exhaustive coverage of every field in which luck appears.
 
-Instead, the project seeks to identify a coherent set of adaptive mechanisms that consistently explain how luck influences long-term development across diverse forms of human activity.
+Instead, the project seeks to identify a coherent set of adaptive mechanisms that consistently improve our understanding of how contingent variation influences long-term development across diverse forms of human activity.
 
-Additional case domains will be pursued only if they contribute fundamentally new adaptive mechanisms beyond those already identified through comparative analysis.
+Additional empirical domains will be investigated only when they contribute fundamentally new mechanisms beyond those already supported by comparative evidence.
+
+Depth is preferred over breadth.
 
 ---
 
@@ -157,21 +232,53 @@ Additional case domains will be pursued only if they contribute fundamentally ne
 
 Within the Research Lab:
 
-* **Research on Luck** develops an empirical understanding of how luck operates across multiple domains.
+* **Research on Luck** develops a comparative empirical understanding of how luck influences adaptive systems operating under uncertainty.
 * **Social Systems** develops broader theoretical models explaining how adaptive mechanisms interact within complex societies.
 
 The two repositories are complementary.
 
-Research on Luck emphasizes comparative empirical evidence.
+Research on Luck emphasizes empirical comparison and mechanism identification.
 
-Social Systems emphasizes theoretical integration.
+Social Systems emphasizes theoretical integration and broader models of adaptive social evolution.
+
+Together they form a larger research program investigating how complex human systems change through interaction between uncertainty, opportunity, institutions, and adaptation.
 
 ---
 
-# Conclusion
+# Current Status
 
-The study of luck is ultimately the study of adaptation under uncertainty.
+The repository has completed five empirical domains:
 
-Across scientific discovery, technological innovation, business development, historical evolution, and political governance, the same recurring pattern appears: changing environments continually create new opportunities, while adaptive systems differ in their capacity to recognize, coordinate, learn from, and realize those opportunities.
+* Science
+* Technology
+* Business
+* History
+* Politics
 
-Understanding luck therefore requires moving beyond the traditional distinction between fortune and skill. It requires understanding the adaptive processes through which complex human systems continually reshape their own futures.
+These have been integrated through a completed Comparative Studies section, providing the empirical basis for the current General Theory.
+
+The present phase of the project emphasizes:
+
+* theoretical refinement,
+* conceptual consistency,
+* stronger cross-linking,
+* evidence consolidation,
+* and continued empirical evaluation.
+
+The repository should therefore be viewed as a mature but evolving research program rather than a finished body of knowledge.
+
+---
+
+# Long-Term Vision
+
+The long-term ambition of the **Research on Luck** project is not simply to produce another theory of luck.
+
+It is to establish a comparative framework explaining how contingent variation interacts with opportunity, institutions, learning, and adaptive capacity across multiple domains of human activity.
+
+Whether this framework ultimately proves sufficiently general remains an empirical question.
+
+Its value will be determined not by the number of concepts it introduces, but by the clarity of its mechanisms, the strength of its comparative evidence, and its ability to generate increasingly rigorous explanations of both realized and unrealized trajectories.
+
+The study of luck is therefore not merely the study of chance.
+
+It is the study of how adaptive systems evolve under uncertainty.

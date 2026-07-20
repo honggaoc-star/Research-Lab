@@ -1,116 +1,253 @@
-# Business/ README
+# Business
 
 ## Purpose
 
-Business provides an empirical perspective on how opportunities are recognized, evaluated, developed, and transformed into sustained economic value. Unlike research that explains business success primarily through managerial skill or market conditions, this collection examines the interaction between strategic decision-making, organizational capabilities, institutional environments, and chance events. The objective is to understand when luck influences business outcomes, when it merely amplifies existing advantages, and how organizations can systematically improve their ability to recognize and exploit emerging opportunities.
+The **Business** section investigates how luck influences entrepreneurial opportunity, organizational adaptation, strategic decision-making, resource allocation, and the long-term creation of economic value.
 
-Business occupies a distinct position within the broader *Research on Luck* project. Scientific discovery generates new knowledge. Technology transforms knowledge into practical capability. Business determines whether those capabilities become scalable products, services, and economic systems. Studying business therefore reveals how opportunities move from possibility to realization.
+Business provides a distinctive empirical domain because organizations continually operate under conditions of uncertainty while competing to recognize opportunities, allocate resources effectively, coordinate action, and adapt to changing environments.
 
----
+Rather than treating successful companies as products of exceptional leadership or fortunate timing alone, this section examines the adaptive processes through which business organizations recognize opportunities, develop capabilities, respond to uncertainty, and sustain long-term competitive advantage.
 
-# Research Questions
+Its purpose is not to produce a comprehensive history of business.
 
-This collection investigates several fundamental questions:
-
-* How do organizations recognize opportunities before competitors?
-* What distinguishes realized opportunities from unrealized ones?
-* How does strategic timing influence business success?
-* When does organizational adaptability outweigh initial advantages?
-* How do firms allocate resources under uncertainty?
-* How do ecosystems and networks amplify or constrain opportunity?
-* What role does luck play relative to planning, execution, and institutional context?
-
-Rather than asking why particular companies became successful, the emphasis is on identifying general mechanisms that repeatedly shape business outcomes across industries, historical periods, and organizational forms.
+Instead, it uses carefully selected business case studies to investigate recurring adaptive mechanisms that later contribute to the broader comparative framework of the **Research on Luck** project.
 
 ---
 
-# Research Themes
+# Central Research Question
 
-## 1. Opportunity Recognition
+The Business section asks:
 
-Organizations differ substantially in their ability to identify opportunities that are not yet visible to the broader market. This section investigates how information, experience, experimentation, and strategic perspective contribute to opportunity recognition, and how chance discoveries become commercial possibilities.
+> **How does contingent variation influence business opportunity and the adaptive evolution of economic value?**
 
----
+More specifically:
 
-## 2. Strategic Timing
+* How do business opportunities emerge?
+* Why are some opportunities recognized while others remain unrealized?
+* How do organizations adapt to changing competitive environments?
+* What role do institutions, markets, and incentives play?
+* How do previous strategic decisions influence future opportunities?
+* Why do similar opportunities produce different organizational outcomes?
 
-Business opportunities are highly sensitive to timing. Entering a market too early may exhaust resources before demand emerges, while entering too late may leave little room for competitive advantage. This theme examines how organizations navigate uncertain timing and how favorable circumstances interact with strategic judgment.
-
----
-
-## 3. Organizational Adaptation
-
-Markets continually evolve through technological, economic, regulatory, and social change. Organizations must adapt their strategies, structures, and capabilities accordingly. This section studies why some firms successfully reinvent themselves while others remain constrained by previous success or institutional inertia.
-
----
-
-## 4. Resource Reallocation
-
-Business success depends not only on acquiring resources but also on reallocating capital, talent, information, and managerial attention toward changing opportunities. This theme explores adaptive capital allocation under uncertainty and the relationship between resource flexibility and long-term organizational performance.
+These questions are investigated through comparative business history rather than isolated success stories.
 
 ---
 
-## 5. Unrealized Business Opportunities
+# Why Business?
 
-Many important opportunities are recognized too late, dismissed, poorly executed, or prevented by institutional constraints. Examining unsuccessful decisions provides insight into the mechanisms through which potentially valuable opportunities remain unrealized, offering an essential complement to studies of successful firms.
+Business organizations continually confront changing environments.
 
----
+They must respond to:
 
-## 6. Business Ecosystem Evolution
+* technological innovation,
+* changing consumer preferences,
+* new competitors,
+* institutional change,
+* resource constraints,
+* economic shocks,
+* and evolving market opportunities.
 
-Organizations rarely operate independently. Suppliers, customers, competitors, regulators, investors, technological platforms, and complementary industries jointly shape opportunity landscapes. This section investigates how business ecosystems emerge, evolve, and influence both the creation and realization of economic opportunities.
+These characteristics make business an excellent empirical domain for studying how adaptive systems transform uncertain opportunities into long-term economic value.
 
----
+The objective is not to determine whether successful businesses were simply "lucky."
 
-## Comparative Perspective
-
-Individual business cases provide valuable empirical evidence, but broader understanding emerges through systematic comparison. The Comparative Synthesis analyzes recurring patterns across industries, organizational structures, technological transitions, institutional environments, and historical periods to identify general mechanisms governing opportunity realization.
-
-Recurring comparison dimensions include:
-
-* Opportunity recognition
-* Information asymmetry
-* Strategic timing
-* Organizational adaptation
-* Resource allocation
-* Institutional constraints
-* Competitive dynamics
-* Ecosystem development
-* Path dependence
-* Realized versus unrealized opportunities
-* Interactions between skill, strategy, and luck
+Instead, it is to understand how contingent variation interacts with organizational adaptation.
 
 ---
 
-# Repository Structure
+# Research Design
+
+The Business section follows the common analytical framework used throughout the Empirical Studies.
 
 ```text
-Business/
-├── README.md
-├── 01-...
-├── 02-...
-├── 03-...
-├── 04-...
-├── 05-...
-├── 06-...
-├── 07-Opportunity-Recognition.md
-├── 08-Strategic-Timing.md
-├── 09-Organizational-Adaptation.md
-├── 10-Resource-Reallocation.md
-├── 11-Unrealized-Business-Opportunities.md
-├── 12-Business-Ecosystem-Evolution.md
-└── 13-Comparative-Synthesis.md
+Contingent variation
+        ↓
+Business opportunity
+        ↓
+Recognition and strategic evaluation
+        ↓
+Resource allocation
+        ↓
+Organizational adaptation
+        ↓
+Learning and competitive evolution
+        ↓
+Long-term organizational trajectory
 ```
+
+Individual businesses differ substantially.
+
+Nevertheless, they may reveal recurring adaptive mechanisms that later become candidates for broader comparative analysis.
 
 ---
 
-# Position within the Research Program
+# Organization
 
-Business complements the other empirical disciplines in the Research on Luck repository.
+The Business section contains three complementary components.
 
-* **Science** investigates how discoveries emerge.
-* **Technology** examines how discoveries become practical capabilities.
-* **Business** studies how capabilities become scalable economic value.
+## Empirical Cases
 
-Together, these perspectives reveal that luck is neither an isolated event nor a sufficient explanation for success. Instead, favorable outcomes emerge through dynamic interactions among opportunity, preparation, organizational adaptation, institutional context, and chance. Understanding these interactions provides a more complete explanation of why some opportunities are realized while many equally promising ones are not.
+Individual case studies investigate major episodes in business development.
+
+Cases are selected because they illuminate important adaptive mechanisms rather than because they represent the largest or most famous companies.
+
+---
+
+## Thematic Studies
+
+Thematic studies compare multiple cases to investigate recurring processes including:
+
+* opportunity recognition,
+* strategic timing,
+* organizational adaptation,
+* resource allocation,
+* business ecosystems,
+* and unrealized business opportunities.
+
+These documents move beyond individual firms toward broader empirical interpretation.
+
+---
+
+## Comparative Synthesis
+
+The final section synthesizes findings across the completed Business domain.
+
+Its purpose is to identify recurring adaptive mechanisms that may later be compared with Science, Technology, History, and Politics.
+
+The Business synthesis therefore contributes evidence rather than final theory.
+
+---
+
+# Principal Themes
+
+The Business domain currently investigates several recurring themes.
+
+## Opportunity Recognition
+
+Business opportunities frequently exist before they become widely recognized.
+
+Recognition depends upon:
+
+* information,
+* organizational vision,
+* entrepreneurial judgment,
+* market awareness,
+* and institutional conditions.
+
+---
+
+## Timing and Contingency
+
+Business success often depends upon timing.
+
+The same strategy may succeed or fail depending upon market conditions, technological readiness, institutional change, or competitive dynamics.
+
+---
+
+## Resource Allocation
+
+Organizations continually decide how to allocate:
+
+* capital,
+* labor,
+* knowledge,
+* managerial attention,
+* and technological capability.
+
+These allocation decisions strongly influence long-term adaptive performance.
+
+---
+
+## Organizational Adaptation
+
+Successful organizations continually modify:
+
+* strategy,
+* structure,
+* products,
+* capabilities,
+* and business models
+
+as environments evolve.
+
+Adaptation often matters more than initial advantage.
+
+---
+
+## Learning
+
+Business organizations improve through experimentation, experience, competitive feedback, organizational learning, and continual strategic revision.
+
+Learning enables firms to improve future opportunity recognition and resource allocation.
+
+---
+
+## Unrealized Business Opportunities
+
+Many commercial opportunities remain:
+
+* unnoticed,
+* underestimated,
+* poorly timed,
+* inadequately financed,
+* organizationally constrained,
+* or strategically abandoned.
+
+Studying unrealized opportunities broadens understanding beyond successful firms alone.
+
+---
+
+# Relationship to Other Empirical Domains
+
+Business represents one empirical perspective within the broader Research on Luck project.
+
+Unlike:
+
+* Science, which emphasizes the adaptive evolution of knowledge,
+* Technology, which emphasizes the adaptive evolution of capability,
+* History, which emphasizes the adaptive evolution of societies,
+* and Politics, which emphasizes the adaptive evolution of governance,
+
+Business emphasizes the adaptive evolution of economic value.
+
+Together, the five domains provide complementary evidence concerning how adaptive systems respond to uncertainty.
+
+---
+
+# Relationship to Comparative Studies
+
+The purpose of the Business section is not to establish a general theory.
+
+Its findings contribute evidence to **Comparative Studies**, where recurring mechanisms are compared across all completed empirical domains.
+
+Comparative Studies asks whether the adaptive processes observed within business also appear in:
+
+* scientific discovery,
+* technological innovation,
+* historical evolution,
+* and political development.
+
+The Business domain therefore provides one independent line of empirical evidence within the broader comparative research program.
+
+---
+
+# Scope and Limitations
+
+The selected business cases are not intended to represent every important company or entrepreneurial success.
+
+They are chosen because they illuminate recurring adaptive mechanisms.
+
+The resulting conclusions should therefore be interpreted as comparative empirical evidence rather than exhaustive business history or universal management theory.
+
+Future cases should be added only when they contribute genuinely new adaptive insights.
+
+---
+
+# Long-Term Goal
+
+The long-term goal of the **Business** section is to develop a comparative empirical understanding of how organizations create and sustain economic value under conditions of uncertainty.
+
+Rather than explaining business success solely through leadership, entrepreneurship, market conditions, or fortunate timing, this section investigates how contingent variation interacts with opportunity recognition, resource allocation, organizational adaptation, learning, and continual strategic response.
+
+The resulting evidence contributes one essential component of the broader **Research on Luck** framework, where business development is studied not in isolation but as one manifestation of adaptive systems operating under uncertainty.
 
