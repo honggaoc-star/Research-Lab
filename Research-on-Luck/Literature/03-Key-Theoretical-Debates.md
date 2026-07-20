@@ -1,248 +1,139 @@
 # Key Theoretical Debates
 
-## Major Questions in the Scientific Study of Luck
+## Purpose
 
----
+This document identifies unresolved debates relevant to the scientific study of luck. It distinguishes the project’s current working position from broader scholarly disagreement without presenting that position as consensus.
 
-# Abstract
+# 1. What Kind of Concept Is Luck?
 
-Although luck has been studied for centuries, no universally accepted theory exists. Different disciplines often approach luck using distinct assumptions, methodologies, and objectives, leading to persistent theoretical disagreements.
+Luck may be treated as:
 
-This document surveys the principal debates that continue to shape the scientific study of luck. Rather than attempting to resolve every disagreement, it identifies the competing perspectives, clarifies the assumptions underlying each position, and highlights opportunities for future research.
+- an objective feature of events;
+- subjective perception or attribution;
+- a relation among an event, agent, outcome, and control;
+- a modal or counterfactual property;
+- a moral or responsibility-relevant judgment;
+- or a cultural and linguistic category.
 
-Understanding these debates provides an important bridge between the interdisciplinary literature and the development of original theoretical models.
+The project adopts a relational attribution framework, but competing accounts remain important tests of its adequacy.
 
----
+# 2. Objective, Subjective, and Relational Accounts
 
-# 1. Introduction
+Objective accounts emphasize probability, control, or event structure. Subjective accounts emphasize knowledge, expectation, and interpretation. Relational accounts specify an affected system, outcome, reference, and alternatives.
 
-The preceding documents reviewed the literature within individual disciplines and synthesized their common themes.
+A central question is whether luck attribution can be defensible without becoming entirely observer-dependent.
 
-The next step is to identify the questions that remain unresolved.
+# 3. Luck, Chance, and Randomness
 
-Some disagreements arise because scholars define luck differently.
+Chance and randomness usually describe processes or formal properties. Luck evaluates the significance of uncertainty for an affected trajectory.
 
-Others result from different assumptions about probability, causality, responsibility, human cognition, or social systems.
+Randomness may contribute to luck potential, but the project does not treat randomness as necessary in every model. Epistemic, structural, interactive, and model uncertainty may also matter.
 
-These debates are not weaknesses of the field.
+# 4. Luck, Risk, and Uncertainty
 
-Rather, they define its research frontier.
+Risk is often reserved for situations with sufficiently specified possibilities and probabilities. Uncertainty may include unknown, contested, or model-dependent possibilities.
 
----
+Debate remains over whether luck requires objective indeterminacy or only uncertainty relative to the relevant information set.
 
-# 2. What Is Luck?
+# 5. Luck and Contingency
 
-Perhaps the most fundamental debate concerns the definition of luck itself.
+Contingency concerns dependence on conditions that could feasibly have differed. The unresolved issue is how to constrain those alternatives.
 
-One perspective treats luck as objectively occurring events involving uncertainty.
+If the alternative set is too narrow, meaningful uncertainty disappears. If it is unconstrained, nearly every trajectory can be redescribed as lucky.
 
-Another emphasizes subjective perception and interpretation.
+# 6. Counterfactual Dependence
 
-Others view luck as a relational concept that depends upon counterfactual alternatives.
+Many accounts require comparison with possible alternatives; others emphasize probability, lack of control, or surprise.
 
-Still others regard luck as a cultural or linguistic construct rather than an independently existing phenomenon.
+The project requires feasible alternatives for attribution but leaves open how reference classes, similarity, and contemporary feasibility should be established across domains.
 
-This disagreement influences every subsequent discussion.
+# 7. Ex Ante Potential and Ex Post Attribution
 
----
+A major problem is hindsight. Once an outcome is known, observers may overstate its predictability or reconstruct earlier choices around the realized path.
 
-# 3. Is Luck Objective or Subjective?
+The project separates luck potential, realization, and attribution. Research must still determine how ex ante information sets can be recovered reliably.
 
-Statistics generally emphasizes objective uncertainty.
+# 8. Luck and Control
 
-Psychology emphasizes subjective experience.
+Some theories connect luck to lack of control. Yet control is rarely binary, especially for organizations, institutions, and nested systems.
 
-Philosophy recognizes both interpretations.
+Questions include whose control matters, whether influence is sufficient, how partial control should be represented, and whether actions that change the environment alter later attribution.
 
-Economics often focuses on observable consequences.
+# 9. Luck, Skill, and Capability
 
-The central question becomes:
+Luck and capability are often framed as competing explanations. The project treats them as distinct analytical dimensions.
 
-Does luck exist independently of observers,
+The central empirical challenge is to measure capability independently of outcomes while accounting for exposure, inherited position, institutions, power, selection, and feedback.
 
-or is it fundamentally a human interpretation of uncertain events?
+# 10. Persistence and Compounding
 
----
+Does luck compound, or do the consequences of an attributed event compound through identifiable mechanisms?
 
-# 4. Luck versus Chance
+The project favors the latter formulation. Increasing returns, network effects, institutional reinforcement, and cumulative advantage may extend an initial difference without luck acting repeatedly as a force.
 
-The terms "luck" and "chance" are frequently used interchangeably.
+# 11. Individual and System-Level Attribution
 
-However,
+Luck may be attributed to individuals, groups, organizations, networks, states, or other systems. These levels can conflict.
 
-many scholars distinguish them.
+A system-level favorable outcome may impose adverse consequences on components or external populations. Analysis must specify boundaries, distribution, and whose outcome is being evaluated.
 
-Chance generally refers to stochastic processes.
+# 12. Selection, Survival, and Superiority
 
-Luck often refers to evaluations of realized outcomes.
+Observed winners and survivors dominate historical records. Their persistence may reflect capability, favorable exposure, coercion, inherited privilege, competitor failure, or selection.
 
-Whether these concepts should remain distinct continues to be debated.
+The debate concerns how to infer capability or institutional quality without treating survival as its own justification.
 
----
+# 13. Unrealized Opportunities
 
-# 5. Luck versus Randomness
+Unrealized possibilities may reduce outcome selection bias, but they are difficult to observe and easy to invent retrospectively.
 
-Randomness describes uncertainty.
+Research must distinguish inaccessible potential, missed recognition, rejected pursuit, failed realization, and foreclosure while requiring evidence of ex ante feasibility.
 
-Luck concerns the significance of realized outcomes.
+# 14. Measurement
 
-Some researchers regard these concepts as equivalent.
+Luck is not directly observed as one independent quantity under the current architecture. Researchers observe uncertainty, exposure, opportunity conditions, states, transitions, responses, outcomes, and alternatives, then assess attribution.
 
-Others argue that randomness provides only one necessary component of luck.
+Open questions include construct validity, reference-class sensitivity, counterfactual evidence, nested levels, and separation of luck attribution from residual error.
 
-This distinction becomes increasingly important when studying long-term consequences.
+# 15. Responsibility and Justice
 
----
+Moral luck, distributive justice, equality of opportunity, praise, blame, compensation, and merit remain central normative debates.
 
-# 6. Luck versus Fortune
+The descriptive framework does not resolve them. Boundary and reference choices can contain normative commitments even when the analysis claims neutrality.
 
-The distinction between luck and fortune appears throughout philosophy, history, and cultural traditions.
+# 16. Determinism and Epistemic Uncertainty
 
-Luck often refers to specific uncertain events.
+If physical processes are deterministic, can luck still be meaningful?
 
-Fortune frequently denotes broader patterns of prosperity or adversity extending across longer periods.
+One position denies objective luck under determinism. Another retains luck relative to limited information, control, or modal alternatives. The project works with uncertainty relative to an information set and therefore does not require resolution of metaphysical determinism, but the choice limits what kind of claim is being made.
 
-Whether fortune represents accumulated luck, persistent circumstances, or an entirely different concept remains unresolved.
+# 17. The Project’s Current Working Position
 
----
+Research on Luck currently treats:
 
-# 7. Does Luck Require Counterfactuals?
+- System, Environment, Interaction, and Uncertainty as working primitives;
+- luck as ex post relational attribution;
+- opportunity as a system–environment relationship;
+- capability as distinct from performance;
+- path dependence as requiring reinforcement;
+- adaptation as not automatically beneficial;
+- and survival as not sufficient evidence of superiority.
 
-Many philosophical theories argue that luck can only be understood relative to alternative possible outcomes.
+These are provisional architectural commitments. They should be revised if formal, measurement, or empirical work exposes contradictions or poor explanatory value.
 
-Without counterfactual comparison,
+# 18. Research Priorities
 
-luck loses meaning.
+Priority debates for the next phase are:
 
-Other perspectives focus instead on probability, uncertainty, or observed consequences without requiring explicit counterfactual reasoning.
+- reference-class and counterfactual construction;
+- independent measurement of capability;
+- selection-aware inference;
+- attribution across nested systems;
+- objective versus information-relative uncertainty;
+- and the evidentiary threshold for promoting comparative recurrence toward theory.
 
-This remains one of the central philosophical debates.
+# Conclusion
 
----
+The project’s value does not depend on eliminating disagreement. It depends on stating disagreements precisely enough that formalization, measurement, and evidence can distinguish among competing accounts.
 
-# 8. Is Luck Finite?
-
-Many cultural traditions suggest that luck behaves as though it were a finite resource.
-
-Examples include beliefs that:
-
-* good fortune must eventually be balanced by bad fortune;
-* individuals can "use up" their luck;
-* destiny allocates fixed quantities of luck.
-
-Modern probability theory provides little empirical support for these ideas, yet they remain influential across cultures.
-
----
-
-# 9. Can Luck Generate More Luck?
-
-An opposing perspective proposes that fortunate events create conditions leading to additional fortunate outcomes.
-
-Economics provides examples through cumulative advantage, increasing returns, and path dependence.
-
-Network science identifies preferential attachment.
-
-Institutional analysis emphasizes amplification.
-
-Whether luck itself compounds, or whether only its consequences compound, remains an important theoretical question.
-
----
-
-# 10. Is Luck Individual or Systemic?
-
-Traditional discussions frequently describe individuals as lucky or unlucky.
-
-Contemporary research increasingly recognizes that institutions, organizations, markets, and societies also experience stochastic events whose consequences propagate across interconnected systems.
-
-This raises the question of whether luck should primarily be viewed as an individual phenomenon or as a property of dynamic systems.
-
----
-
-# 11. Can Luck Be Measured?
-
-Opinions differ considerably.
-
-Some researchers argue that luck is inherently immeasurable.
-
-Others attempt indirect measurement through residual variation, counterfactual analysis, natural experiments, or probabilistic modeling.
-
-The absence of consensus motivates the development of the Measurement section of this research program.
-
----
-
-# 12. Luck, Responsibility, and Justice
-
-Another longstanding debate concerns moral responsibility.
-
-To what extent should individuals receive praise or blame for outcomes significantly influenced by luck?
-
-This question underlies discussions of:
-
-* moral luck,
-* distributive justice,
-* equality of opportunity,
-* compensation,
-* merit,
-* and responsibility.
-
-The debate remains central to both philosophy and public policy.
-
----
-
-# 13. Determinism and Free Will
-
-If the universe is entirely deterministic,
-
-can luck truly exist?
-
-Some philosophers argue that luck disappears under complete determinism.
-
-Others maintain that luck remains meaningful whenever uncertainty exists from the perspective of decision makers.
-
-The debate continues because it depends upon deeper questions regarding causality, knowledge, and free will.
-
----
-
-# 14. The Position of This Research
-
-This repository does not attempt to eliminate these debates.
-
-Instead,
-
-it adopts several working principles.
-
-Luck is treated as a scientifically meaningful phenomenon involving uncertainty.
-
-Randomness and luck are distinguished conceptually.
-
-The consequences of stochastic events are considered at least as important as the events themselves.
-
-Luck is viewed as operating within dynamic systems involving institutions, networks, and evolving opportunity spaces.
-
-These principles provide a framework for developing formal models while remaining compatible with multiple disciplinary perspectives.
-
----
-
-# 15. Future Directions
-
-Many debates reviewed here remain unresolved.
-
-Future empirical work may clarify:
-
-* whether opportunity spaces can be measured;
-* how institutions amplify or attenuate stochastic variation;
-* whether dynamic models outperform static descriptions;
-* how luck propagates through networks;
-* which competing theoretical models receive the strongest empirical support.
-
-Rather than ending debate, interdisciplinary research should progressively refine it.
-
----
-
-# 16. Conclusion
-
-The scientific study of luck remains characterized by productive disagreement. Questions concerning definition, randomness, counterfactuals, responsibility, measurement, persistence, and system dynamics continue to generate active research across multiple disciplines.
-
-These debates should not be viewed as obstacles. Instead, they identify the frontier of current knowledge and provide the motivation for developing more precise conceptual frameworks, formal theories, and empirical methods.
-
-The framework proposed in this repository does not claim to resolve every controversy. Rather, it offers a common language through which competing perspectives can be compared, evaluated, and progressively refined as theoretical and empirical evidence accumulates.
+A useful theory of luck should constrain attribution, expose its assumptions, and remain vulnerable to being wrong.
