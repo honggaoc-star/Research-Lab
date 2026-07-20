@@ -47,7 +47,7 @@ These files preserve the project’s earlier measurement stage.
 
 ---
 
-## Additive Operational and Validation Layer: 10–16
+## Additive Operational and Validation Layer: 10–17
 
 | Document | Purpose |
 | --- | --- |
@@ -58,6 +58,7 @@ These files preserve the project’s earlier measurement stage.
 | [14-Trajectory-Feedback-and-Counterfactuals.md](14-Trajectory-Feedback-and-Counterfactuals.md) | Measures trajectories, feedback, path dependence, resilience, regime change, and feasible alternatives. |
 | [15-Identification-Validation-and-Measurement-Summary.md](15-Identification-Validation-and-Measurement-Summary.md) | Integrates identification, validation, triangulation, robustness, evidence grading, and reporting. |
 | [16-Validation-Study-Recognition-Without-Realization.md](16-Validation-Study-Recognition-Without-Realization.md) | Specifies a construct-validation pilot for coding recognition independently of access, pursuit, realization, and hindsight. |
+| [17-Recognition-Episode-Coding-and-Source-Plan.md](17-Recognition-Episode-Coding-and-Source-Plan.md) | Provides the reusable episode record, source log, blinded coding forms, adjudication procedure, and the first packet specification. |
 
 ---
 
@@ -166,10 +167,10 @@ Depth remains preferable to adding further empirical domains.
 
 ## Current Status
 
-The additive measurement architecture is complete through file 15. File 16 begins the bounded validation-study phase.
+The additive measurement architecture is complete through file 15. Files 16–17 begin the bounded validation-study phase and provide both the pilot protocol and its reusable evidence instrument.
 
 The Empirical Studies architecture audit and the first proposition-to-evidence map are complete. Validation Study 1 now tests whether recognition can be coded separately from access, authority, pursuit, realization, and outcome hindsight.
 
-The protocol is a construct-validation pilot, not a causal estimate. Its five purposive cases test coding portability and expose ambiguity. Advancement to a within-domain study depends on reliable stage separation, recoverable ex ante information, and explicit decision rules.
+The protocol is a construct-validation pilot, not a causal estimate. Its five purposive cases test coding portability and expose ambiguity. The first preliminary source packet, for Fleming and penicillin, is maintained in [References](../References/02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md). Advancement to a within-domain study depends on reliable stage separation, recoverable ex ante information, and explicit decision rules.
 
 Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
