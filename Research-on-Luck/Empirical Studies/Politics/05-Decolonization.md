@@ -95,15 +95,29 @@ The global political system itself evolved through this redistribution.
 
 # Luck and Political Development
 
-Luck influenced decolonization in multiple ways.
+Decolonization was exposed to consequential uncertainty in multiple ways.
 
 The timing of global wars, geopolitical competition, economic conditions, leadership transitions, and international diplomatic developments created opportunities for independence that were not equally available across all regions.
 
 However, long-term political outcomes depended less upon the achievement of independence itself than upon the capacity of new states to establish effective institutions, maintain legitimacy, and adapt to changing domestic and international environments.
 
-Luck influenced the opportunity for independence.
+Global war, imperial capacity, mobilization, diplomacy, and geopolitical competition changed the feasibility and timing of independence. Post-independence trajectories emerged through inherited boundaries, institutions, conflict, external intervention, policy choices, resources, and further uncertainty.
 
-Institutional development influenced the success of independence.
+---
+
+# Architecture-Alignment Assessment
+
+## Systems, Boundaries, and Political Agency
+
+Colonial empires, colonial administrations, anticolonial movements, local communities, emergent states, and international institutions operated at different levels. Decolonization should not portray independence as an opportunity passively supplied by external events: organized movements created political pressure under coercive conditions. Colonial boundaries and administrative structures also shaped the systems later evaluated as states.
+
+## Opportunity, Constraint, and Ex Ante Uncertainty
+
+Independence trajectories involved potential, access, recognition, mobilization, negotiation or conflict, realization, and possible foreclosure. Actors faced uncertainty about imperial repression, coalition cohesion, borders, administrative succession, economic viability, foreign intervention, and international recognition. Formal sovereignty expanded some opportunity sets while inherited dependency, conflict, debt, and geopolitical competition constrained others.
+
+## Selection, Counterfactuals, and Evaluation
+
+The survival or economic performance of postcolonial states cannot by itself identify institutional capability or the quality of independence. Comparisons must account for colonial extraction, settler structures, war, border design, resource dependence, Cold War intervention, and selected observation of surviving movements and governments. Feasible alternatives include federal arrangements, different borders, negotiated transitions, delayed independence, and other international guarantees. “Success” requires explicit, plural criteria and distributional analysis rather than retrospective ranking by stability or growth alone.
 
 ---
 
@@ -127,7 +141,7 @@ Finally, successful political development depends upon balancing national self-d
 
 Decolonization reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck may reshape the global distribution of political opportunity, but long-term political success depends upon the ability of societies to build legitimate, adaptive, and resilient institutions after political transformation.
+> Luck may be attributed ex post when consequential uncertainty altered access to independence or later trajectories. Postcolonial outcomes require analysis of inherited structures, power, institution building, international constraints, distribution, and contested evaluative criteria.
 
 Unlike the United States Constitution, which illustrates adaptive constitutional design; the French Revolution, which demonstrates transformation through changing legitimacy; European Integration, which explores cooperative governance; and Democratic Transitions, which examine institutional adaptation through political participation, decolonization illustrates a fifth mechanism of political evolution: **the redistribution of political authority through self-determination and institution building**.
 
