@@ -121,9 +121,23 @@ Individual communities experienced varying levels of mortality through combinati
 
 However, long-term historical outcomes depended less upon the occurrence of the pandemic than upon how societies adapted afterward.
 
-Luck determined exposure.
+Exposure varied through geography, connectivity, demography, institutions, and unresolved contingency. Subsequent trajectories emerged through interactions among mortality, inherited structures, distributional conflict, institutional responses, and further uncertainty.
 
-Adaptation determined historical direction.
+---
+
+# Architecture-Alignment Assessment
+
+## Systems, Exposure, and Levels
+
+The focal system must be specified: a household, city, polity, labor market, or region will have different boundaries and states. Trade networks and disease ecologies may be environments for a polity or systems in their own right. “Society” should not be treated as a unitary actor when mortality, bargaining power, and institutional responses differed across classes, occupations, localities, and political jurisdictions.
+
+## Ex Ante Uncertainty and Opportunity Stages
+
+Affected populations faced uncertainty about transmission, mortality, recurrence, labor supply, authority, and social response. Post-pandemic opportunities should be separated into potential, access, recognition, pursuit, realization, and foreclosure. Higher wages or mobility for some survivors coexisted with death, coercive regulation, dispossession, and exclusion for others. Ex post institutional change should not make the direction of change appear predictable ex ante.
+
+## Alternative Trajectories and Evidence
+
+Relevant comparisons include regions with different mortality, labor institutions, land–labor ratios, and enforcement capacities. Feasible counterfactuals include stronger wage controls, different inheritance patterns, repeated outbreaks, and alternative bargaining coalitions. Path dependence requires evidence that earlier conditions generated self-reinforcing constraints or advantages, not merely that earlier events preceded later change. Claims about institutional flexibility or adaptive capacity require independent evidence and should not be inferred from survival or subsequent growth.
 
 ---
 
@@ -147,8 +161,8 @@ Finally, catastrophic events should not be interpreted solely through their dest
 
 The Black Death supports one of the central propositions of the *Research on Luck* project:
 
-> Luck frequently reshapes history by altering the distribution of opportunities rather than directly determining historical outcomes.
+> Luck may be attributed ex post when consequential uncertainty altered exposure, losses, and feasible trajectories; the attribution does not replace analysis of transmission, institutions, conflict, and response.
 
 The pandemic created one of history's largest episodes of systemic disruption. Yet its enduring significance lies not only in the scale of human loss, but in the diverse ways societies adapted to new demographic, economic, and institutional realities.
 
-This case establishes a recurring theme developed throughout the History section: historical change emerges from the interaction of contingent events, institutional evolution, human adaptation, and chance. Catastrophe creates new possibilities, but the realization of those possibilities depends upon the adaptive capacity of societies rather than the disruptive event itself.
+This case establishes a recurring theme developed throughout the History section: historical change emerges from the interaction of contingent events, institutional evolution, human adaptation, and chance. Catastrophe changes feasible trajectories unevenly. Realization depends on access, institutional response, conflict, timing, and environmental conditions; observed recovery alone is not sufficient evidence of adaptive capacity.
