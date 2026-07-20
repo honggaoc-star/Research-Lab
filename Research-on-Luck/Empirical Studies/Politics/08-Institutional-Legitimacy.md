@@ -4,7 +4,7 @@
 
 Political institutions derive their effectiveness not only from constitutional authority or administrative capacity, but also from legitimacy. Governments that are widely regarded as legitimate can coordinate collective action, resolve conflicts, implement policies, and adapt to changing conditions with relatively lower social and political costs. Conversely, when legitimacy declines, even formally powerful institutions may encounter increasing resistance, instability, or systemic transformation.
 
-Within the *Research on Luck* framework, institutional legitimacy represents the foundation upon which adaptive governance depends. Luck continually alters the political environment through economic change, technological innovation, demographic shifts, geopolitical developments, and unforeseen crises. Legitimacy determines whether political institutions possess sufficient public confidence to respond effectively to those changing conditions.
+Within the *Research on Luck* framework, institutional legitimacy is a relational and potentially enabling condition of adaptive governance. Consequential uncertainty changes political environments and public expectations, while legitimacy may affect coordination under specified boundary conditions. It does not determine response effectiveness by itself.
 
 Political stability therefore depends less upon preserving existing institutions than upon maintaining the legitimacy that allows those institutions to evolve.
 
@@ -52,7 +52,7 @@ Different political systems emphasize these sources differently.
 
 No single source alone guarantees long-term legitimacy.
 
-Successful governance typically combines several mutually reinforcing foundations.
+Governance systems may combine several mutually reinforcing sources, but their importance and compatibility vary across constituencies and contexts.
 
 ---
 
@@ -62,9 +62,7 @@ Changing social conditions continually test political legitimacy.
 
 Scientific advances, technological innovation, economic restructuring, demographic change, and international developments alter public expectations regarding government.
 
-Institutions that remain responsive to these evolving expectations generally strengthen long-term legitimacy.
-
-Institutions that consistently fail to adapt gradually weaken public confidence.
+Responsiveness may strengthen legitimacy for some constituencies, but its effect depends on procedures, outcomes, expectations, information, identity, and distribution. Adaptation can also reduce legitimacy when it violates valued commitments or imposes unequal costs.
 
 Political legitimacy therefore depends not only on historical foundations but also on continuous institutional learning.
 
@@ -108,7 +106,7 @@ Together, these cases demonstrate that legitimacy is neither permanent nor unifo
 
 # Institutional Legitimacy and Luck
 
-Luck influences legitimacy by changing the environment within which governments operate.
+Legitimacy is evaluated under conditions of consequential uncertainty that change the environment within which governments operate.
 
 Unexpected developments—including technological breakthroughs, economic crises, geopolitical change, natural disasters, and public health emergencies—create circumstances beyond the direct control of political institutions.
 
@@ -118,9 +116,23 @@ Governments cannot prevent every unexpected challenge.
 
 However, legitimacy increases their ability to coordinate effective collective responses.
 
-Luck changes political conditions.
+Changing conditions alter institutional demands and public evaluations. Legitimacy may enable coordination or constrain action, while resilience also depends on resources, coercion, organization, policy, and environmental feedback.
 
-Legitimacy shapes political resilience.
+---
+
+# Architecture-Alignment Assessment
+
+## Relational Definition and Levels
+
+Legitimacy is not an asset stored inside an institution. It is a relationship in which particular constituencies recognize an institution, office, rule, or decision as appropriately authoritative under specified criteria. A government may be legitimate to one group and rejected by another, while support for the regime, institution, incumbent, and particular policy may diverge. Analysis must state the object, audience, level, and time.
+
+## Measurement and Competing Mechanisms
+
+Compliance, stability, trust, approval, and legal validity are related indicators but not synonyms for legitimacy. Compliance may result from coercion, dependence, habit, lack of alternatives, or strategic calculation. Crisis performance can affect legitimacy, yet observed survival or coordination cannot prove it. Measurement should combine multiple sources and distinguish expressed support from behavior under constraint.
+
+## Dynamics, Uncertainty, and Counterfactuals
+
+Legitimacy may enable policy implementation, constrain available reforms, and feed back through performance, procedures, narratives, and distributional outcomes. Ex ante uncertainty concerns how constituencies will interpret decisions and how shocks will redistribute expectations. Relevant alternatives include other procedures, communication strategies, burden distributions, policy responses, and institutional arrangements. Claims about legitimacy’s effects therefore require explicit mechanisms, comparison, and evidence on dissenting or excluded groups as well as majorities.
 
 ---
 
@@ -146,6 +158,6 @@ Institutional legitimacy represents the second major mechanism through which luc
 
 The comparative evidence throughout this repository supports a broader proposition:
 
-> Luck continually changes the challenges confronting political systems, but institutional legitimacy determines whether governments possess the public confidence necessary to respond effectively, adapt successfully, and maintain long-term political stability.
+> Luck may be attributed ex post when consequential uncertainty altered institutional demands or legitimacy trajectories. Legitimacy is one hypothesized relationship affecting coordination; it neither guarantees effective adaptation nor validates institutions that survive.
 
 Politics therefore should not be understood simply as competition for power. At its core, it is the continual maintenance of legitimate institutions capable of coordinating collective action under uncertainty. Across political systems, legitimacy transforms institutional authority into adaptive governance, allowing societies to respond constructively as historical conditions evolve.
