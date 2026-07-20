@@ -4,7 +4,7 @@
 
 One of the strongest patterns emerging across Science, Technology, Business, History, and Politics is that long-term success depends less upon the initial quality of institutions than upon their capacity to adapt. Scientific organizations, technological ecosystems, businesses, governments, and civilizations all operate within environments that continually change. Institutions that learn, reorganize, and evolve generally sustain long-term development, while those that remain rigid gradually lose effectiveness.
 
-Within the *Research on Luck* project, institutional adaptation represents a candidate cross-domain mechanism through which adaptive systems transform uncertainty into resilience. Luck continually reshapes external environments by creating new opportunities and new constraints. Institutions determine how effectively societies, organizations, and communities respond to those changing conditions.
+Within the *Research on Luck* project, institutional adaptation is a candidate cross-domain process. External environments change under consequential uncertainty, while institutions may enable or constrain responses under specified conditions; neither adaptation nor resilience follows automatically.
 
 Institutional adaptation therefore connects opportunity recognition with long-term realization.
 
@@ -177,7 +177,7 @@ Institutional adaptation represents the fourth candidate cross-domain mechanism 
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck continually reshapes the environments in which adaptive systems operate, but institutions determine whether those changing circumstances become opportunities for long-term development or sources of persistent decline.
+> Consequential uncertainty changes system–environment relations. Institutional arrangements are candidate enabling or constraining mechanisms whose effects depend on boundaries, actors, power, and time horizons.
 
 This comparative perspective demonstrates that institutional adaptation is not confined to governments or formal organizations. It is a candidate cross-domain property of adaptive systems operating across human activity. Whether generating scientific knowledge, developing new technologies, allocating economic resources, governing societies, or shaping civilizations, institutions succeed by continually learning, reorganizing, and evolving in response to uncertainty.
 
