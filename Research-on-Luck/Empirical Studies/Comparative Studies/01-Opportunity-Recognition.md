@@ -6,7 +6,7 @@ Across every domain examined in the *Research on Luck* project, opportunities em
 
 This recurring pattern suggests that opportunity recognition is one of the most fundamental mechanisms through which luck influences long-term outcomes.
 
-Within the Comparative Studies section, opportunity recognition is examined not as a domain-specific phenomenon, but as a universal adaptive process that operates across scientific inquiry, technological development, economic activity, historical evolution, and political governance.
+Within the Comparative Studies section, opportunity recognition is examined not as a domain-specific phenomenon, but as a candidate cross-domain adaptive process that operates across scientific inquiry, technological development, economic activity, historical evolution, and political governance.
 
 ---
 
@@ -77,7 +77,7 @@ Rather, recognition differs because adaptive systems vary in:
 
 Consequently, identical external circumstances frequently produce very different adaptive responses.
 
-Luck creates opportunities.
+Consequential uncertainty changes opportunity potential and access.
 
 Recognition determines whether those opportunities become visible.
 
@@ -140,7 +140,7 @@ These developments generate new opportunities.
 
 However, only adaptive systems capable of recognizing changing conditions benefit from them.
 
-Luck creates the possibility.
+Consequential uncertainty changes what is possible and accessible.
 
 Recognition initiates adaptation.
 
@@ -164,12 +164,22 @@ These patterns appear consistently despite substantial differences among scienti
 
 ---
 
+# Architecture-Alignment Note
+
+Opportunity is a system–environment relationship, and recognition is only one stage between potential and realization. Comparative analysis must distinguish potential, access, recognition, pursuit, realization, and foreclosure, including cases in which systems recognized an opportunity but did not or could not pursue it. Recognition should be measured independently of later success through contemporaneous records, search behavior, proposals, experiments, or resource commitments.
+
+Cross-domain recurrence remains a hypothesis because “recognition” may involve an individual judgment, an organizational process, a distributed network, or a retrospective attribution. The focal system, level of analysis, information set, and time boundary must be stated. Selection on celebrated successes can make recognition appear more decisive and prescient than it was ex ante; comparison must therefore include missed, contested, prematurely pursued, and falsely perceived opportunities.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
-Opportunity recognition represents the first universal mechanism identified through the comparative analysis of the *Research on Luck* project.
+Opportunity recognition represents the first candidate cross-domain mechanism identified through the comparative analysis of the *Research on Luck* project.
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
 > Luck continually generates new opportunities by reshaping the environments in which adaptive systems operate. Long-term success depends not upon encountering more opportunities than others, but upon developing the capacity to recognize those opportunities before they become widely apparent.
 
-This comparative perspective demonstrates that opportunity recognition is not confined to any particular discipline. It is a universal adaptive mechanism through which individuals, organizations, institutions, and civilizations transform uncertainty into discovery, innovation, development, and long-term societal evolution.
+This comparative perspective demonstrates that opportunity recognition is not confined to any particular discipline. It is a candidate cross-domain adaptive mechanism through which individuals, organizations, institutions, and civilizations transform uncertainty into discovery, innovation, development, and long-term societal evolution.
