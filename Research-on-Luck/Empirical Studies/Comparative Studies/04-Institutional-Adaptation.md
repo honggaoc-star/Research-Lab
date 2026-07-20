@@ -4,7 +4,7 @@
 
 One of the strongest patterns emerging across Science, Technology, Business, History, and Politics is that long-term success depends less upon the initial quality of institutions than upon their capacity to adapt. Scientific organizations, technological ecosystems, businesses, governments, and civilizations all operate within environments that continually change. Institutions that learn, reorganize, and evolve generally sustain long-term development, while those that remain rigid gradually lose effectiveness.
 
-Within the *Research on Luck* project, institutional adaptation represents a universal mechanism through which adaptive systems transform uncertainty into resilience. Luck continually reshapes external environments by creating new opportunities and new constraints. Institutions determine how effectively societies, organizations, and communities respond to those changing conditions.
+Within the *Research on Luck* project, institutional adaptation represents a candidate cross-domain mechanism through which adaptive systems transform uncertainty into resilience. Luck continually reshapes external environments by creating new opportunities and new constraints. Institutions determine how effectively societies, organizations, and communities respond to those changing conditions.
 
 Institutional adaptation therefore connects opportunity recognition with long-term realization.
 
@@ -137,9 +137,9 @@ Institutions cannot prevent these developments.
 
 They can, however, improve their ability to respond through continuous adaptation.
 
-Luck changes institutional environments.
+Consequential uncertainty changes institutional environments.
 
-Adaptation determines institutional resilience.
+Institutional response is one hypothesized contributor to resilience.
 
 ---
 
@@ -161,14 +161,24 @@ These principles appear consistently despite substantial differences among scien
 
 ---
 
+# Architecture-Alignment Note
+
+Institutions are derived arrangements of rules, roles, practices, and enforcement relations; they are not automatically systems or adaptive agents. Analysis must specify the focal system and the mechanism by which institutional change affects perception, coordination, resource allocation, or response. Adaptation means change relative to an environment and objective, not automatically improvement.
+
+Institutional persistence, growth, or crisis survival is insufficient evidence of adaptive capability. Independent indicators should examine search, feedback, experimentation, error correction, implementation, and resource redeployment across unsuccessful as well as successful episodes. Distributional effects and power remain inside the analysis: an institution may adapt for incumbents while constraining other participants or degrading system-level outcomes over a longer horizon.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
-Institutional adaptation represents the fourth universal mechanism identified through the comparative analysis of the *Research on Luck* project.
+Institutional adaptation represents the fourth candidate cross-domain mechanism identified through the comparative analysis of the *Research on Luck* project.
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
 > Luck continually reshapes the environments in which adaptive systems operate, but institutions determine whether those changing circumstances become opportunities for long-term development or sources of persistent decline.
 
-This comparative perspective demonstrates that institutional adaptation is not confined to governments or formal organizations. It is a universal property of adaptive systems operating across human activity. Whether generating scientific knowledge, developing new technologies, allocating economic resources, governing societies, or shaping civilizations, institutions succeed by continually learning, reorganizing, and evolving in response to uncertainty.
+This comparative perspective demonstrates that institutional adaptation is not confined to governments or formal organizations. It is a candidate cross-domain property of adaptive systems operating across human activity. Whether generating scientific knowledge, developing new technologies, allocating economic resources, governing societies, or shaping civilizations, institutions succeed by continually learning, reorganizing, and evolving in response to uncertainty.
 
 Institutional adaptation therefore emerges as one of the central empirical mechanisms connecting luck, opportunity, learning, and long-term adaptive success across every domain examined in the *Research on Luck* project.
