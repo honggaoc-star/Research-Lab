@@ -260,7 +260,7 @@ Randomization can help identify causal effects, but the fact that an assignment 
 
 [Empirical Studies](../Empirical%20Studies/README.md) should reconstruct how variation reached a focal system and became consequential.
 
-[Comparative Studies](../Comparative%20Studies/README.md) should compare amplification, attenuation, and selection across domains rather than treating all contingency as one mechanism.
+**Comparative Studies** should compare amplification, attenuation, and selection across domains rather than treating all contingency as one mechanism.
 
 [General Theory](../General%20Theory/README.md) should not claim that luck requires pure randomness unless evidence and argument establish that stronger proposition.
 
