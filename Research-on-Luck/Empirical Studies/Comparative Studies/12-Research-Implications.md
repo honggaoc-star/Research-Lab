@@ -20,7 +20,7 @@ Luck should no longer be treated as:
 * A residual explanation for unexplained outcomes.
 * An alternative to skill or intelligence.
 
-Instead, luck should be understood as an environmental mechanism that continually reshapes the opportunities, constraints, and uncertainties confronting adaptive systems.
+Instead, luck should be understood as an ex post relational evaluation of how consequential uncertainty affected a bounded system’s trajectory relative to a reference and feasible alternatives.
 
 This reframing shifts attention away from isolated events and toward the interaction between changing environments and adaptive responses.
 
