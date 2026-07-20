@@ -176,6 +176,16 @@ These principles appear regardless of whether the adaptive system is scientific,
 
 ---
 
+# Architecture-Alignment Note
+
+System is a working primitive; “adaptive system” is a derived classification that requires evidence of processes such as perception, search, learning, coordination, or behavioral change. The project should not assume that every firm, polity, civilization, or community possesses a unified objective or acts as a single learner. Nested systems, internal conflict, distributed agency, and boundary choices must be explicit.
+
+Adaptive capacity is distinct from realized performance and should be measured independently. Survival may reflect selection, coercion, resource advantage, environmental stability, or high replacement costs. Cross-domain comparison can use a common vocabulary without assuming scale independence or one formal language for all domains.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
 Adaptive systems represent one of the most important empirical conclusions of the *Research on Luck* project.
