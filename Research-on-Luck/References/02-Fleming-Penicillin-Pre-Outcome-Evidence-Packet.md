@@ -1,142 +1,105 @@
-# Fleming and Penicillin — Pre-Outcome Evidence Packet
+# Fleming and Penicillin — Pre-Outcome Evidence Dossier
 
 ## Status
 
-**Packet Version 0.1 — preliminary source and coding packet**
+**Dossier Version 1.0 — Pass A source construction frozen 20 July 2026**
 
-This is the first episode packet for [Validation Study 1](../Measurement/16-Validation-Study-Recognition-Without-Realization.md), constructed with the [coding and source plan](../Measurement/17-Recognition-Episode-Coding-and-Source-Plan.md).
+This dossier documents construction of episode FLEM-01 for [Validation Study 1](../Measurement/16-Validation-Study-Recognition-Without-Realization.md), using the [coding and source plan](../Measurement/17-Recognition-Episode-Coding-and-Source-Plan.md). The separate [coder packet](03-Fleming-Penicillin-Pass-A-Coder-Packet.md) withholds the builder’s interpretations.
 
-It tests whether recognition can be coded at a defined system level without importing later therapeutic success. It is not a complete historical reconstruction.
+“Frozen” means that the Pass A source boundary and page-level evidence inventory will not be altered during initial independent coding. It does not mean the historical record is complete.
 
-## Episode Definition
+## Episode Boundary
 
 | Field | Specification |
 |---|---|
 | Episode ID | FLEM-01 |
-| Domain | Science |
-| Focal system | Alexander Fleming as investigator within the St Mary’s Hospital laboratory setting |
-| Candidate opportunity | The mold-derived antibacterial action could be investigated and used for specified laboratory or antiseptic purposes |
-| Opening | Fleming’s 1928 observation of bacterial inhibition associated with mold contamination |
-| Pass A cutoff | Publication of Fleming’s 1929 paper |
-| Realization criterion | Not coded in Pass A; any later criterion must distinguish laboratory use, topical use, and systemic therapy |
-| Nested-level limit | Fleming-level evidence does not establish recognition or commitment by St Mary’s, industry, or medicine as a whole |
+| Focal system | Alexander Fleming as investigator in the St Mary’s Hospital Inoculation Department |
+| Nested-level limit | No inference from Fleming-level evidence to St Mary’s, industry, or medicine as a whole |
+| Opening | Observation of bacterial lysis around a contaminating mould colony, reported retrospectively within the 1929 primary paper |
+| Information cutoff | Fleming’s paper, received 10 May 1929 and published in 1929 |
+| Source available to coders | The complete 1929 paper only |
+| Later evidence | Quarantined until Pass B |
 
-The episode is deliberately narrow. It asks what Fleming recognized by 1929, not who deserves credit for the later drug and production system.
+## Candidate Opportunities
 
-## Pass A Source Register
+The primary source requires three distinct recognition targets:
 
-| ID | Source | Type and timing | Relevant support | Limitations | Outcome leakage |
-|---|---|---|---|---|---|
-| F-P1 | Alexander Fleming, [“On the Antibacterial Action of Cultures of a Penicillium”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2048009/) (1929) | Primary; near-contemporaneous publication | Reports systematic investigation, names penicillin, characterizes selective antibacterial action, and discusses prospective laboratory and antiseptic uses | A publication is a selected account rather than the full decision process; it does not demonstrate a practical systemic therapy or organizational commitment | Low within the 1929 cutoff |
-| F-C1 | Science History Institute, [Alexander Fleming](https://www.sciencehistory.org/education/scientific-biographies/alexander-fleming/) | Retrospective institutional history | Helps distinguish Fleming’s investigations from the later therapeutic development and identifies uncertainty in retrospective discovery narratives | Secondary and outcome-aware; cannot establish the 1928–1929 information state by itself | High; contextual use only |
-| F-A1 | Bodleian Archives and Manuscripts, [penicillin archive overview](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/tag/penicillin/) | Archival guide; retrospective | Identifies later correspondence and trial records that may support a full-trajectory packet | Catalog guidance, not direct evidence for FLEM-01; describes later development | High; excluded from Pass A coding |
+- **FLEM-01A — scientific characterization:** investigate the antibacterial substance and its properties;
+- **FLEM-01B — bacteriological tool:** use selective inhibition to isolate otherwise obscured bacteria;
+- **FLEM-01C — local therapeutic or antiseptic use:** apply or inject the material in areas infected with susceptible microbes.
 
-### Primary-source locator
+A fourth, stronger target—development of a stable, purified, systemically administered, scalable medicine—is not substituted for any of these three. It may be evaluated only as a separate candidate opportunity.
 
-An institutional scan of the 1929 article is also available from the [University of Oxford](https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf). It is treated as another locator for F-P1, not an independent source.
+## Frozen Pass A Source
 
-## Pass A Inclusion Decision
+**F-P1:** Alexander Fleming, “On the Antibacterial Action of Cultures of a Penicillium, with Special Reference to Their Use in the Isolation of *B. influenzae*,” *British Journal of Experimental Pathology* 10 (1929), 226–236.
 
-Only F-P1 carries the preliminary stage coding. F-C1 may be used to identify historiographical cautions but is withheld from blinded coders because it summarizes later outcomes. F-A1 is a source-discovery aid for Pass B and is excluded.
+- [University of Oxford institutional scan](https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf)
+- [PubMed Central record](https://pmc.ncbi.nlm.nih.gov/articles/PMC2048009/)
 
-Before coder release, the article should be converted into a fixed, paginated packet and inspected for editorial material added by later repositories.
+The Oxford scan supplies the fixed pagination used below. Repository hosting is not treated as a second evidentiary source.
 
-## Preliminary Evidence Extraction
+## Page-Specific Evidence Inventory
 
-### Potential
+| Evidence ID | Journal pages | Directly observable content | Relevant field | Limitation |
+|---|---:|---|---|---|
+| F-P1-01 | 226 | Reports the contaminated-plate observation, subculture, and experiments directed at properties of the bacteriolytic substance | Encounter, access, investigative response | The paper is not a contemporaneous notebook of the first observation |
+| F-P1-02 | 227 | Compares other moulds, defines “penicillin,” and specifies methods for inhibition and titration | Characterization and naming | Naming alone does not prove prospective opportunity recognition |
+| F-P1-03 | 228 | Tests heat, filtration, solubility, production timing, potency, and decline at room temperature | Feasibility, uncertainty, constraint | Impure filtrate; stability limitations remain |
+| F-P1-04 | 231 | Reports selective activity across bacterial groups | Potential applications and boundary conditions | In-vitro selectivity does not establish clinical effectiveness |
+| F-P1-05 | 232 | Describes slow bactericidal action, animal toxicity observations, surface irrigation, and leucocyte tests | Safety-related evidence and local-use possibility | No infected-animal efficacy test or systemic therapeutic demonstration |
+| F-P1-06 | 233–235 | Demonstrates selective use on culture plates and isolation of *B. influenzae* | Bacteriological-tool recognition and application | Bounded laboratory use, not general therapeutic realization |
+| F-P1-07 | 235–236 | Compares penicillin with antiseptics, states that treatment experiments are in progress, identifies possible treatment use, and summarizes demonstrated laboratory value | Explicit prospective interpretation | A proposal or ongoing experiment is not realization; “possible” and “suggested” must retain their uncertainty |
 
-The 1929 paper supports the existence of an observable antibacterial phenomenon and reports differentiated effects across microorganisms. This is direct evidence that a bounded research and laboratory-use possibility existed.
+## Outcome-Leakage Audit
 
-It does not, on its own, establish that purification, dosage, delivery, production, stability, safety, or systemic therapeutic use was then feasible.
+The coder packet excludes:
 
-### Access
+- modern titles or summaries describing penicillin as a successful antibiotic;
+- Nobel Prize information;
+- Florey, Chain, Heatley, Oxford-team, clinical-trial, wartime-production, and mass-manufacturing evidence;
+- retrospective claims about what Fleming did or did not “fully realize”;
+- the builder’s preliminary stage codes;
+- and the existing empirical case narrative.
 
-Fleming possessed the relevant cultures, laboratory position, and ability to conduct follow-up experiments reported in the paper. Access to investigate the phenomenon is supported at the investigator level.
+The 1929 paper necessarily contains results available at the cutoff. These are not outcome leakage for FLEM-01A–C, but they cannot establish outcomes defined beyond the cutoff.
 
-This does not establish access to the capabilities required for drug development or mass production.
+## Builder’s Analytical Notes — Not for Coder Release
 
-### Recognition
+The paper directly establishes substantial investigation and publication. It explicitly demonstrates the bacteriological isolation use and articulates prospective local treatment or antiseptic use. It also records constraints: declining activity, selective bacterial sensitivity, slow killing, incomplete chemical isolation, and limited safety observations.
 
-Recognition is supported for a bounded proposition: Fleming interpreted the phenomenon as the action of an antibacterial substance, named it, investigated some properties, and described possible uses.
+These features justify testing recognition at more than one level of specificity. They do not justify treating the later systemic antibiotic trajectory as already recognized or feasible.
 
-Recognition is not supported, on the current Pass A record, for the stronger proposition that Fleming had identified a feasible systemic therapeutic drug-development program. Treating the later antibiotic as the content of the earlier recognition would introduce hindsight.
+## Contextual Sources Withheld from Pass A
 
-### Pursuit
-
-The reported experiments and publication show investigative pursuit. Whether they constitute committed pursuit of a therapeutic opportunity is contested because the candidate opportunity changes with the purpose specified.
-
-The packet therefore separates:
-
-- pursuit of scientific characterization — provisionally supported;
-- pursuit of laboratory application — partially supported;
-- pursuit of systemic therapeutic development — not supported by the current Pass A evidence.
-
-### Realization and Foreclosure
-
-Realization is **not yet observable** in Pass A. Foreclosure is indeterminate: the 1929 publication does not establish when any particular opportunity expired or became infeasible for Fleming.
-
-## Preliminary Coding Table
-
-| Stage | Provisional code | Confidence | Boundary |
+| ID | Source | Role | Reason withheld |
 |---|---|---|---|
-| Potential | Supported | Medium | Antibacterial phenomenon and bounded laboratory uses, not full drug feasibility |
-| Access | Supported | High | Investigator-level access to observe and investigate |
-| Recognition | Supported | High for antibacterial action; low for systemic therapy | Recognition content must remain contemporaneously bounded |
-| Pursuit | Supported for investigation; contested for application | Medium | Experiments and publication are not equivalent to a therapeutic development program |
-| Realization | Not yet observable | High | Withheld by design |
-| Foreclosure | Indeterminate | High | No adequate pre-cutoff evidence |
+| F-C1 | [Science History Institute biography](https://www.sciencehistory.org/education/scientific-biographies/alexander-fleming/) | Historiographical context and source leads | Retrospective and outcome-aware; notes sparse notebooks and contradictory later accounts |
+| F-A1 | [Bodleian penicillin archive overview](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/tag/penicillin/) | Locates later Oxford records | Concerns downstream development and realization |
+| F-B1 | Chain and colleagues, [“Penicillin as a Chemotherapeutic Agent”](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2801%2908728-1/fulltext) (1940) | Later therapeutic-development evidence | Beyond cutoff and strongly outcome-bearing |
 
-**Preliminary category:** recognition followed by partial investigative pursuit. This is a packet-construction judgment, not an adjudicated coder result.
+## Known Evidence Gaps
 
-## Competing Interpretations
+The frozen packet does not establish:
 
-1. **Observation rather than opportunity recognition.** The paper may show characterization of an interesting phenomenon without interpretation as a sufficiently actionable opportunity.
-2. **Recognition of a narrower tool.** Fleming may have recognized value for bacterial isolation or local antiseptic use, not the opportunity later celebrated.
-3. **Publication as pursuit.** Scientific investigation and publication may be sufficient pursuit for a research opportunity even if insufficient for therapeutic development.
-4. **Retrospective compression.** Later narratives may collapse observation, scientific interpretation, purification, animal testing, clinical use, and production into one discovery event.
+- the exact date and sequence of the initial observation;
+- Fleming’s private interpretations before drafting the paper;
+- contemporaneous responses by colleagues or St Mary’s;
+- formal authority, budget, staffing, or resource requests;
+- rejected alternatives or unpublished negative experiments;
+- practical purification, dosage, systemic delivery, or scalable production;
+- or recognition among comparable investigators.
 
-The coding outcome depends partly on how the candidate opportunity is specified. The packet therefore prohibits substituting “penicillin as a successful antibiotic” for the narrower 1929 possibility.
+Absence of these records in the packet is not evidence of absence.
 
-## Evidence Not Yet Adequate
+## Freeze and Version Rules
 
-The preliminary packet cannot establish:
+1. Coders receive the source and [coder packet](03-Fleming-Penicillin-Pass-A-Coder-Packet.md), not this dossier.
+2. New pre-cutoff sources discovered during coding are logged but withheld until the first coding round closes.
+3. Any later addition creates Version 1.1 and triggers a recorded recoding decision.
+4. Pass B remains sealed until both Pass A records are submitted.
+5. Builder notes cannot be used to adjudicate disagreement.
 
-- the precise sequence of Fleming’s private interpretations between observation and publication;
-- how colleagues or St Mary’s evaluated the work;
-- decision authority and resource-allocation requests;
-- abandoned experiments or rejected alternatives;
-- the feasibility of purification and systemic delivery at the cutoff;
-- or comparative recognition among similarly situated researchers.
+## Current Status
 
-The Science History Institute notes that surviving notebook evidence is sparse and later accounts conflict. That warning lowers confidence in fine-grained retrospective sequencing and motivates archival corroboration.
-
-## Pass B Quarantine Register
-
-These materials are relevant only after Pass A coding is frozen:
-
-| Source lead | Later-stage role |
-|---|---|
-| E. Chain and colleagues, [“Penicillin as a Chemotherapeutic Agent”](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2801%2908728-1/fulltext) (1940) | Evidence of later experimental therapeutic development |
-| Bodleian archival records concerning the Oxford team and early clinical trials | Evidence for later pursuit, coordination, and realization |
-| Retrospective biographies and institutional histories | Context and source discovery, with explicit hindsight controls |
-
-These sources must not revise FLEM-01 recognition merely because later development succeeded.
-
-## Next Source Work
-
-Before coding:
-
-1. obtain a stable paginated copy of F-P1 and record exact page-level support;
-2. locate contemporaneous laboratory notebooks, correspondence, talks, or institutional records where available;
-3. search for evidence that challenges the interpretation of actionability;
-4. document whether any colleagues or institutions responded before or immediately after publication;
-5. have an independent reviewer remove hidden outcome cues;
-6. freeze Pass A and assign it to at least two coders.
-
-Pass B should be constructed only after the Pass A codes are locked.
-
-## Bounded Conclusion
-
-The 1929 primary record appears sufficient to test a narrow recognition code: Fleming recognized and investigated an antibacterial substance with prospective laboratory or antiseptic relevance. It is not sufficient to attribute recognition of the later systemic antibiotic trajectory or its institutional realization.
-
-This distinction is the substantive purpose of the pilot. If coders cannot maintain it when outcome information is withheld and then released, the recognition construct or packet design will require revision.
+Pass A source construction is complete enough for an initial instrument test, but not for a definitive historical conclusion. Independent coding is the next step. The main test is whether coders preserve the distinctions among investigation, laboratory-tool use, local antiseptic possibility, and the stronger later systemic-therapy trajectory.
