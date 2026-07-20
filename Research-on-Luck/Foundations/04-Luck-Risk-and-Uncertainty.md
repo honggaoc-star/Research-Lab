@@ -274,7 +274,7 @@ Luck should not be a residual category used when these components cannot be sepa
 
 - [Formalization](../Formalization/README.md) should state what is probabilistic, ambiguous, unknown, or endogenous.
 - [Empirical Studies](../Empirical%20Studies/README.md) should reconstruct the ex ante option set rather than rely only on realized outcomes.
-- [Comparative Studies](../Comparative%20Studies/README.md) should examine how institutions and capabilities convert similar uncertainty into different trajectories.
+- **Comparative Studies** should examine how institutions and capabilities convert similar uncertainty into different trajectories.
 - [General Theory](../General%20Theory/README.md) should preserve the distinction between claims about uncertainty structures and claims about realized luck.
 
 ---
