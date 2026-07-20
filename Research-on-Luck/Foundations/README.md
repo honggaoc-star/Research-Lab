@@ -4,7 +4,7 @@
 
 The **Foundations** directory contains two complementary layers in the conceptual development of the **Research on Luck** project.
 
-The first layer, files 01–05, preserves the project’s original foundational work on defining and classifying luck.
+The first layer, files 01–06, preserves the project’s original foundational work on defining and classifying luck.
 
 The second layer, files 10–15, introduces the newer conceptual architecture developed after the empirical and comparative phases. It begins with four working primitives:
 
@@ -17,7 +17,7 @@ The numbering offset is intentional. It preserves the original documents rather 
 
 ---
 
-## Original Foundations: 01–05
+## Original Foundations: 01–06
 
 These documents remain intact as the project’s earlier conceptual layer.
 
@@ -28,6 +28,7 @@ These documents remain intact as the project’s earlier conceptual layer.
 | [03-Luck-vs-Randomness.md](03-Luck-vs-Randomness.md) | Distinguishes luck from randomness. |
 | [04-Luck-Risk-and-Uncertainty.md](04-Luck-Risk-and-Uncertainty.md) | Examines the relationships among luck, risk, and uncertainty. |
 | [05-Origins-and-Mechanisms-of-Luck.md](05-Origins-and-Mechanisms-of-Luck.md) | Examines sources and mechanisms through which luck becomes consequential. |
+| [06-Foundational-Problems-in-the-Study-of-Luck.md](06-Foundational-Problems-in-the-Study-of-Luck.md) | Organizes unresolved conceptual, measurement, dynamic, decision, ethical, and scientific problems into a research agenda. |
 
 These files document the project’s initial conceptual development. They should not be silently retrofitted to make them appear as if they were written under the later architecture.
 
@@ -65,7 +66,7 @@ This is a working architecture, not a settled general theory. Feedback may conne
 
 ## Relationship Between the Two Layers
 
-The 10–15 series does not invalidate the 01–05 series.
+The 10–15 series does not invalidate the 01–06 series.
 
 Instead, it:
 
