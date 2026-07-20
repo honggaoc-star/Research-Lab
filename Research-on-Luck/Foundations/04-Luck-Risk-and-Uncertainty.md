@@ -1,236 +1,286 @@
 # Luck, Risk, and Uncertainty
 
-## Abstract
+## Purpose
 
-Luck, risk, and uncertainty are closely related concepts that appear throughout economics, finance, philosophy, psychology, engineering, and everyday reasoning. Despite their frequent association, these concepts serve different purposes and are often defined differently across disciplines.
+This document distinguishes three related concepts:
 
-This paper distinguishes luck, risk, and uncertainty by examining their conceptual roles in decision-making and outcome realization. Rather than advocating a single definition of risk, the paper compares competing disciplinary perspectives and proposes a framework that clarifies how these concepts relate to one another.
+- **Uncertainty** is a working primitive describing limits of determination, knowledge, prediction, or control.
+- **Risk** is a structured form of uncertainty in which possible outcomes and probabilities can be estimated or modeled with some defensibility.
+- **Luck** is consequential variation for a specified system arising through interaction under uncertainty and not fully determined by that system’s prior intentions, capabilities, or actions.
 
-The objective is not to replace existing terminology, but to establish a common conceptual foundation for the scientific study of luck.
+The distinctions are analytical rather than claims that every real case fits a single category.
 
----
-
-# 1. Introduction
-
-Every important decision involves an uncertain future.
-
-Investors allocate capital.
-
-Scientists pursue research programs.
-
-Entrepreneurs launch new ventures.
-
-Governments formulate public policy.
-
-Individuals choose careers and relationships.
-
-These decisions are commonly described in terms of **risk**, **uncertainty**, and **luck**, yet these concepts are often used interchangeably despite representing different aspects of human interaction with an uncertain world.
-
-Clarifying their relationships is essential for developing a coherent theory of luck.
+See [10-Working-Primitives.md](10-Working-Primitives.md) and [01-Defining-Luck.md](01-Defining-Luck.md).
 
 ---
 
-# 2. Uncertainty
+## 1. Uncertainty
 
-Uncertainty refers to incomplete knowledge about future events or states of the world.
+> **Uncertainty is a condition in which relevant states, processes, events, relationships, or consequences are not fully determined, known, predictable, or controllable from the perspective and time horizon of the analysis.**
 
-Two broad forms may be distinguished.
+Uncertainty can concern:
 
-## Objective Uncertainty
+- what exists in the environment;
+- which event will occur;
+- who will be exposed;
+- when interaction will occur;
+- how the system will interpret it;
+- what response will be chosen;
+- whether feedback will amplify or attenuate an effect;
+- and which long-term trajectory will result.
 
-Objective uncertainty exists in the external world regardless of any observer's knowledge.
-
-Examples include:
-
-* Future technological breakthroughs
-* Natural disasters
-* Macroeconomic developments
-* Biological evolution
-
----
-
-## Subjective Uncertainty
-
-Subjective uncertainty reflects the information available to a particular decision-maker.
-
-Different individuals may face different levels of uncertainty even when observing the same external world.
-
-For example, an experienced investor and a novice investor may evaluate the same company very differently because they possess different information, knowledge, and models.
-
-Subjective uncertainty therefore depends upon the observer rather than the external environment alone.
+Uncertainty creates a space of possible or incompletely known futures. It is not itself a favorable or unfavorable event.
 
 ---
 
-# 3. Competing Definitions of Risk
+## 2. Dimensions of Uncertainty
 
-Unlike uncertainty, **risk has no universally accepted definition**.
+### Ontic uncertainty
 
-Different disciplines use the term for different purposes.
+More than one future may be genuinely possible under the assumed model.
 
----
+### Epistemic uncertainty
 
-## Risk in Economics and Decision Theory
+Relevant facts, mechanisms, or states are unknown to an observer or system.
 
-Following the tradition of Frank Knight, risk typically refers to situations in which possible outcomes are known and their probabilities can be estimated.
+### Model uncertainty
 
-Examples include:
+Competing representations imply different relationships or predictions.
 
-* Insurance
-* Games of chance
-* Portfolio analysis
+### Ambiguity
 
-Risk is therefore **quantifiable uncertainty**.
+Possible outcomes are partly specified, but probabilities are unavailable, unstable, or contested.
 
-The concept itself is neutral with respect to gains or losses.
+### Novelty
 
----
+The relevant possibility is not adequately represented in the prior option set.
 
-## Risk in Banking and Risk Management
+### Strategic uncertainty
 
-In banking, finance, engineering, and operational management, risk is commonly defined as the **possibility of loss arising from uncertainty**.
+Consequences depend on choices by other adaptive systems.
 
-Examples include:
+### Dynamic uncertainty
 
-* Credit risk
-* Market risk
-* Liquidity risk
-* Operational risk
-* Cybersecurity risk
+Feedback, adaptation, and endogenous environmental change make later consequences difficult to anticipate.
 
-In this tradition, positive outcomes are generally treated as opportunities rather than risk.
-
-Risk therefore possesses an explicitly downside orientation.
+These forms may overlap. The project need not resolve their metaphysical status before studying their consequences, but each claim should specify which form is relevant.
 
 ---
 
-## Discussion
+## 3. Perspective, Time, and Level
 
-Neither definition is incorrect.
+Uncertainty is indexed to a standpoint.
 
-They simply serve different purposes.
+An event may be known to one institution and unknown to an individual. A pattern may be predictable at the population level but uncertain for a particular system. Short-term consequences may be estimable while long-term feedback remains unclear.
 
-Decision theory focuses on describing uncertain environments.
+Every analysis should state:
 
-Risk management focuses on preventing undesirable outcomes.
+- uncertain for whom or what;
+- at what time;
+- given which information;
+- at which level of analysis;
+- over what horizon;
+- and with respect to which state, interaction, or consequence.
 
-Recognizing these alternative definitions avoids unnecessary conceptual confusion.
-
----
-
-# 4. Luck
-
-Luck differs fundamentally from both risk and uncertainty.
-
-Uncertainty describes limitations in knowledge.
-
-Risk describes exposure to uncertain outcomes.
-
-Luck describes how uncontrollable circumstances influence realized outcomes.
-
-Luck is therefore evaluated relative to an outcome rather than a decision alone.
+This prevents an observer’s ignorance from being mistaken automatically for uncertainty faced by the focal system.
 
 ---
 
-# 5. Before and After Decisions
+## 4. Risk
 
-The three concepts occupy different positions within the decision process.
+Risk is commonly used in several ways.
 
-### Before decisions
+### Probabilistic risk
 
-Individuals face:
+A set of possible outcomes and associated probabilities can be estimated.
 
-* Objective uncertainty
-* Subjective uncertainty
-* Risk assessment
+### Downside risk
 
-### After outcomes
+The term refers specifically to the possibility of loss, harm, or deviation below a target.
 
-Observers evaluate:
+### Exposure-based risk
 
-* Good luck
-* Bad luck
+Risk describes the system’s vulnerability to a hazard, including both probability and consequence.
 
-Risk is therefore primarily an **ex ante** concept.
+### Model-based risk
 
-Luck is primarily an **ex post** concept.
+Risk estimates are conditional on assumptions, data, and stability of relationships.
+
+For this project, the broad working conception is:
+
+> **Risk is uncertainty represented in a sufficiently structured form to support comparison, estimation, or decision.**
+
+This does not imply that estimates are correct or complete. Apparent risk may conceal ambiguity, structural change, or omitted possibilities.
 
 ---
 
-# 6. A Conceptual Framework
+## 5. Luck
 
-The relationship among the concepts may be summarized as follows.
+Luck concerns how one realized or trajectory-altering path affects a system.
+
+It may arise:
+
+- under well-characterized risk;
+- under ambiguity;
+- through novel or previously unmodeled possibilities;
+- through unequal exposure;
+- through uncertain recognition or response;
+- or through long-term feedback not visible at the initial decision point.
+
+Luck is therefore neither the probability distribution nor the realization alone. It is the consequential, system-relative relationship between uncertain variation and an evolving trajectory.
+
+---
+
+## 6. Ex Ante and Ex Post
+
+### Ex ante: decision position
+
+Before an outcome, analysis should identify:
+
+- the system’s information;
+- modeled possibilities;
+- estimated probabilities, if any;
+- accessible opportunities;
+- constraints;
+- capabilities;
+- feasible actions;
+- and recognized uncertainties.
+
+This is the domain of decision under risk and uncertainty.
+
+### Ex post: realized path
+
+Afterward, analysis can identify:
+
+- which exposure occurred;
+- how the system responded;
+- what feedback followed;
+- which state or trajectory changed;
+- and how the consequence is evaluated.
+
+This is where good luck, bad luck, missed opportunity, or avoided harm may be assigned.
+
+Ex post knowledge should not be projected backward. A realized low-probability event does not prove that the prior decision was poor, and a favorable outcome does not prove that the prior decision was sound.
+
+---
+
+## 7. A Dynamic Framework
 
 ```text
-External World
-        ↓
-Objective Uncertainty
-        ↓
-Subjective Uncertainty
-        ↓
-Risk Assessment
-        ↓
-Decision
-        ↓
-Outcome
-        ↓
-Evaluation
-      ↙       ↘
- Good Luck   Bad Luck
+System and environment at t0
+            ↓
+Risk, ambiguity, novelty, or other uncertainty
+            ↓
+Decision and/or exposure
+            ↓
+Realized interaction
+            ↓
+Response, feedback, and adaptation
+            ↓
+System and environment at t1 … tn
+            ↓
+Evaluation of the realized and unrealized trajectories
 ```
 
-This framework separates:
-
-* the external environment,
-* the observer,
-* the decision,
-* the realized outcome,
-* and the evaluation of that outcome.
+Risk may be represented at one stage while uncertainty remains at others. For example, the probability of a shock may be estimated, while system-specific exposure, institutional response, and long-term consequences remain deeply uncertain.
 
 ---
 
-# 7. Why the Distinction Matters
+## 8. Control and Responsibility
 
-Confusing these concepts creates several problems.
+Risk management can alter:
 
-If luck is treated as randomness, it loses explanatory value.
+- exposure;
+- preparedness;
+- diversification;
+- response capacity;
+- and consequence.
 
-If risk is treated as identical to uncertainty, important disciplinary differences disappear.
+It cannot eliminate all uncertainty.
 
-If subjective uncertainty is ignored, individuals facing the same environment appear irrational despite possessing different information.
+A system may choose to accept a risk, but this does not mean it determined the realized outcome. Conversely, describing an outcome as unlucky does not remove responsibility for avoidable exposure or poor response.
 
-Separating these concepts allows researchers to distinguish between:
+The framework should separate:
 
-* decision quality,
-* information quality,
-* environmental uncertainty,
-* and realized outcomes.
+1. control over whether to enter a situation;
+2. control over exposure;
+3. control over response;
+4. control over feedback conditions;
+5. and control over final consequences.
 
----
-
-# 8. Implications for Future Research
-
-The distinctions developed here suggest several directions for future investigation.
-
-* How does subjective uncertainty influence the perception of luck?
-* Can institutions reduce harmful risks while preserving beneficial uncertainty?
-* How should good luck and bad luck be distinguished from successful and unsuccessful decisions?
-* Under what conditions does uncertainty become measurable risk?
-* Can repeated learning reduce subjective uncertainty without changing objective uncertainty?
-
-These questions connect conceptual analysis with subsequent mathematical and empirical research.
+Normative judgments about responsibility require additional argument and should not be inferred directly from the presence or absence of luck.
 
 ---
 
-# 9. Conclusion
+## 9. Opportunity Under Uncertainty
 
-Luck, risk, and uncertainty describe different aspects of human interaction with an uncertain world.
+Opportunities are relational possibilities, not guaranteed benefits.
 
-Uncertainty concerns incomplete knowledge.
+An opportunity may be:
 
-Risk concerns exposure to uncertain outcomes, although its precise definition depends upon disciplinary context.
+- recognized and measurable;
+- recognized but ambiguous;
+- novel and visible only after interaction;
+- accessible to some systems but not others;
+- foreclosed before recognition;
+- or reconstructed retrospectively.
 
-Luck concerns the realized influence of uncontrollable circumstances on meaningful outcomes.
+Capability affects recognition and response, while institutions and resources affect access. A missed opportunity may reflect poor judgment, insufficient capability, incompatible constraints, lack of information, or unfavorable timing. The classification should remain open until mechanisms are examined.
 
-Distinguishing these concepts provides a clearer conceptual foundation for understanding decision-making, success, failure, and the role of chance in human affairs.
+---
 
-Rather than competing concepts, luck, risk, and uncertainty should be viewed as complementary components of a broader framework for studying decisions and outcomes under imperfect knowledge.
+## 10. State, Outcome, and Trajectory
+
+Risk models often specify outcomes at a selected horizon. Luck research must also ask how realized differences alter later possibility sets.
+
+A favorable immediate outcome may create concentration or fragility. An adverse event may trigger learning or institutional reform. The relevant evaluation may therefore change with time.
+
+Research should report:
+
+- the chosen horizon;
+- intermediate states;
+- feedback;
+- later exposures;
+- and alternative trajectories where evidence allows.
+
+---
+
+## 11. Measurement Cautions
+
+Probability estimates do not eliminate uncertainty. They depend on:
+
+- available data;
+- stable classifications;
+- model selection;
+- assumed distributions;
+- and the relevance of historical experience.
+
+Likewise, an unmodeled outcome is not automatically luck; it may reveal poor measurement or theory.
+
+[Measurement](../Measurement/README.md) should distinguish:
+
+- estimated risk;
+- uncertainty about estimates;
+- unmodeled possibilities;
+- exposure;
+- realized variation;
+- and trajectory consequence.
+
+Luck should not be a residual category used when these components cannot be separated.
+
+---
+
+## 12. Implications for the Research Program
+
+- [Formalization](../Formalization/README.md) should state what is probabilistic, ambiguous, unknown, or endogenous.
+- [Empirical Studies](../Empirical%20Studies/README.md) should reconstruct the ex ante option set rather than rely only on realized outcomes.
+- [Comparative Studies](../Comparative%20Studies/README.md) should examine how institutions and capabilities convert similar uncertainty into different trajectories.
+- [General Theory](../General%20Theory/README.md) should preserve the distinction between claims about uncertainty structures and claims about realized luck.
+
+---
+
+## Conclusion
+
+Uncertainty is the broad condition of incompletely determined, known, predictable, or controllable futures. Risk is a structured representation of some uncertainty. Luck concerns consequential system-relative variation within those conditions.
+
+Keeping these concepts separate permits clearer evaluation of decisions, exposure, capability, responsibility, and trajectory without allowing hindsight to erase the uncertainty that existed beforehand.
