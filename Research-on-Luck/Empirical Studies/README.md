@@ -231,6 +231,14 @@ Unrealized opportunities and excluded cases are difficult to observe but should 
 
 ---
 
+## Case-Level Revision Map
+
+[CASE-ALIGNMENT-AUDIT.md](CASE-ALIGNMENT-AUDIT.md) provides the preliminary classification of all 61 case and thematic files as aligned, alignment by cross-reference, targeted revision, or reassessment required.
+
+The audit is a revision map rather than a final evidence grade. Individual files must be read in full before modification.
+
+---
+
 ## Current Status
 
 The five-domain corpus and domain syntheses are substantially complete.
