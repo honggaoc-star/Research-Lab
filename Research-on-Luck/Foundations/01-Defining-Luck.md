@@ -1,237 +1,257 @@
 # Defining Luck
 
-## Purpose
+## Abstract
 
-This document develops the project’s working definition of luck and specifies the conditions under which the concept is analytically useful. It should be read with [10-Working-Primitives.md](10-Working-Primitives.md), which establishes **System, Environment, Interaction, and Uncertainty** as the current working primitives.
+Luck is one of the most frequently invoked explanations for success, failure, and unexpected events, yet it remains one of the least rigorously defined concepts in the social sciences. Existing discussions often treat luck as synonymous with randomness, chance, or unexplained residual variation. As a result, the concept lacks a consistent theoretical foundation despite its apparent importance across philosophy, economics, psychology, sociology, and everyday reasoning.
 
-Luck is not treated here as a primitive, a synonym for randomness, or a name for whatever remains unexplained. It is a relational and dynamic concept derived from how a focal system interacts with an environment under uncertainty.
-
----
-
-## 1. The Problem of Definition
-
-Luck is commonly invoked to explain discoveries, careers, businesses, political outcomes, health, survival, and failure. Yet ordinary usage often combines several different claims:
-
-- an event was improbable;
-- an actor lacked control;
-- an outcome was favorable or unfavorable;
-- circumstances could easily have differed;
-- an observer lacks a causal explanation;
-- or a small difference produced a large later effect.
-
-These claims may overlap, but none alone is sufficient.
-
-Low probability does not necessarily imply luck. Lack of explanation may reflect missing data. Limited control is nearly universal and therefore too broad. Favorability depends on the affected system, evaluative standpoint, and time horizon. Counterfactual sensitivity may be present without meaningful consequence.
-
-A useful definition must identify the system, environment, interaction, uncertainty, consequence, and limit of prior determination involved.
+This paper establishes a conceptual foundation for the **Research on Luck** project by reviewing major interpretations of luck, identifying their limitations, and proposing a working definition suitable for scientific investigation. Rather than treating luck as merely accidental or unknowable, this paper argues that luck should be understood as a distinct explanatory concept whose influence depends on the interaction between uncertainty, human agency, and the surrounding environment.
 
 ---
 
-## 2. Working Definition
+# 1. Introduction
 
-> **Luck is consequential variation in a system’s state, relationships, accessible opportunities, constraints, or trajectory arising through interactions under uncertainty and not fully determined by the system’s prior intentions, capabilities, or actions.**
+People routinely attribute important life outcomes to luck.
 
-This definition is intentionally provisional. Its purpose is to organize inquiry rather than settle every philosophical dispute.
+Successful entrepreneurs describe themselves as "fortunate."
 
-### System-relative
+Scientists acknowledge accidental discoveries.
 
-Luck is always relative to a focal system. The same environmental development may be favorable to one system, adverse to another, and irrelevant to a third.
+Athletes speak of good and bad breaks.
 
-### Interaction-mediated
+Investors debate whether exceptional performance reflects skill or luck.
 
-Variation becomes consequential through interaction: exposure, encounter, transmission, recognition, response, feedback, or material effect. An event outside a system’s boundary is not automatically part of that system’s luck.
+Despite its widespread use, the concept itself remains poorly defined.
 
-### Uncertain ex ante
+Most scientific disciplines recognize that uncertainty affects outcomes, yet few attempt to define luck explicitly. Instead, luck is frequently treated as an informal explanation for events that cannot easily be attributed to ability, effort, or identifiable causes.
 
-The relevant event, exposure, response, or consequence was not fully determined, known, predictable, or controllable from the ex ante standpoint selected for analysis.
-
-### Consequential
-
-The variation changes a state, relationship, accessible alternative, constraint, or trajectory. Mere noise without meaningful effect need not be called luck.
-
-### Not fully determined by prior agency
-
-The affected system’s intentions, capabilities, and actions did not fully produce the relevant variation. This leaves room for agency: what happens after exposure may depend heavily on recognition, skill, judgment, resources, institutions, and adaptation.
+If luck genuinely influences important outcomes, then understanding its nature becomes an important scientific question rather than merely a philosophical curiosity.
 
 ---
 
-## 3. What Luck Is Not
+# 2. Why Study Luck?
 
-### Not randomness alone
+Luck appears across virtually every aspect of human life.
 
-Randomness concerns a process or representation of variation. Luck concerns consequences for a particular system. A random draw with no consequence is not meaningful luck, and luck may arise without pure randomness. See [03-Luck-vs-Randomness.md](03-Luck-vs-Randomness.md).
+Examples include:
 
-### Not risk alone
+* Scientific discovery
+* Entrepreneurship
+* Financial markets
+* Career development
+* Technological innovation
+* Political leadership
+* Personal relationships
+* Health and survival
 
-Risk describes an ex ante structure of possible outcomes, often with estimable probabilities. Luck concerns consequential variation along a realized or altered trajectory. See [04-Luck-Risk-and-Uncertainty.md](04-Luck-Risk-and-Uncertainty.md).
+In each domain, individuals with similar abilities and similar levels of effort often experience substantially different outcomes.
 
-### Not unexplained residual variation
+These differences raise fundamental questions.
 
-A residual may contain measurement error, omitted variables, misspecified relationships, or unobserved mechanisms. Calling it luck does not explain it.
+* Why do equally capable individuals achieve different levels of success?
+* How much of observed variation is attributable to deliberate action?
+* Which events should reasonably be considered lucky?
+* Can luck itself be studied systematically?
 
-### Not favorable outcome alone
-
-Good outcomes may follow poor decisions exposed to favorable conditions; bad outcomes may follow strong decisions exposed to adverse conditions. Outcomes do not identify their own causes.
-
-### Not absence of complete control
-
-No system controls every condition affecting it. The relevant question is which consequential variation was not reasonably determined by the system’s prior intentions, capabilities, or actions at the specified level and horizon.
-
-### Not retrospective surprise alone
-
-An observer’s surprise may reveal limited information rather than uncertainty for the affected system. Perspective must be specified.
-
----
-
-## 4. Analytical Components
-
-A claim about luck should identify the following.
-
-### Focal system and boundary
-
-What is affected: an individual, team, firm, institution, scientific community, political order, or another system? What is treated as internal and external?
-
-### Prior state
-
-What capabilities, resources, information, relationships, and constraints existed before the relevant interaction?
-
-### Environment
-
-Which physical, social, institutional, technological, economic, or historical conditions shaped the possibility set?
-
-### Uncertainty
-
-What was uncertain, to whom, at what time, with what information, and over what horizon?
-
-### Interaction or exposure
-
-Through what channel did the system encounter or become affected by the relevant variation?
-
-### Consequence
-
-Did the interaction alter a state, opportunity, constraint, relationship, or later trajectory?
-
-### Counterfactual alternative
-
-Which feasible alternative could have occurred, given the ex ante position? Counterfactuals should be plausible rather than imagined without constraint.
-
-### Evaluative standpoint
-
-Why is the consequence described as favorable, adverse, mixed, or neutral, and at what horizon?
+Answering these questions requires a clear conceptual foundation.
 
 ---
 
-## 5. Luck, Opportunity, and Capability
+# 3. Existing Interpretations of Luck
 
-An **opportunity** is a system–environment relationship in which a possible interaction could expand or improve accessible trajectories relative to a specified objective or standard.
+Although no universally accepted definition exists, several broad perspectives appear throughout the literature.
 
-A **capability** is a system property affecting recognition, access, response, implementation, learning, or environmental influence.
+## Luck as Random Events
 
-Luck may:
+Luck is viewed as the occurrence of random events beyond individual control.
 
-- create or eliminate an opportunity;
-- alter access to an existing opportunity;
-- change timing;
-- shift exposure;
-- reveal information;
-- relax or impose a constraint;
-- or affect the returns to capability.
+Examples include:
 
-Capability may convert an exposure into a realized opportunity, but realization does not prove that capability alone produced the result. Likewise, failure to realize an opportunity does not prove that no capability existed; timing, information, resources, institutional barriers, and competing constraints may matter.
+* Winning a lottery
+* Natural disasters
+* Unexpected opportunities
+* Economic shocks
 
-An unrealized opportunity remains analytically important when it was feasible ex ante but was not recognized, accessible, selected, or successfully pursued.
+This interpretation is common in economics and probability theory.
 
 ---
 
-## 6. State, Outcome, and Trajectory
+## Luck as Limited Information
 
-A **state** describes a system at a time. An **outcome** evaluates a state or change at a chosen horizon. A **trajectory** is the sequence of states and transitions through time.
+An event appears lucky because observers lack sufficient information to explain it.
 
-Luck is often trajectory-dependent.
+Under complete information, what appears to be luck might become predictable.
 
-A small encounter may trigger feedback that produces large later consequences. A dramatic event may be absorbed. An initially favorable change may generate later vulnerability. An adverse shock may induce adaptation that improves resilience.
-
-For this reason, the project should avoid classifying luck solely from immediate outcomes.
+This interpretation treats luck primarily as an epistemic concept.
 
 ---
 
-## 7. Ex Ante and Ex Post Perspectives
+## Luck as Counterfactual Dependence
 
-### Ex ante analysis
+An event is considered lucky if a small change in circumstances would likely have produced a different outcome.
 
-Ask:
+For example,
 
-- What did the system know?
-- What could it reasonably control?
-- Which alternatives were accessible?
-- Which uncertainties were recognized?
-- What responses were feasible?
+> Missing a train by one minute may fundamentally alter an individual's future.
 
-### Ex post analysis
-
-Ask:
-
-- What occurred?
-- Which interactions became consequential?
-- What feedback followed?
-- Which alternatives disappeared or remained unrealized?
-- How was the path later narrated?
-
-Ex post narratives often compress uncertainty and make survivors appear uniquely capable. Success and survival are observations from one realized path, not proof of inevitability or superiority.
+This interpretation is common in contemporary philosophy.
 
 ---
 
-## 8. Levels and Perspectives
+## Luck as Emergent Complexity
 
-Luck may be studied at individual, organizational, institutional, ecosystem, societal, or civilizational levels.
+Luck emerges from interactions among numerous interconnected factors whose combined behavior cannot easily be anticipated.
 
-A development may be lucky for an individual but harmful to an organization, favorable for a firm but destabilizing for a market, or beneficial in the short run but adverse over a longer horizon.
+Small differences may become greatly amplified through nonlinear processes.
 
-Claims should therefore specify:
+Examples include:
 
-- the focal system;
-- the observer or evaluative standpoint;
-- the level of analysis;
-- the time horizon;
-- and the affected objective or trajectory.
-
-“Objective” and “subjective” luck should not be treated as simple opposites. Evidence may establish a consequential relationship while evaluation remains standpoint-dependent.
+* Network effects
+* Technological diffusion
+* Financial crises
+* Scientific discovery
 
 ---
 
-## 9. Minimum Standard for Use
+# 4. Toward a Working Definition
 
-A scientifically useful claim about luck should specify:
+Each existing interpretation captures an important aspect of luck but fails to provide a comprehensive definition.
 
-1. the focal system and boundary;
-2. the relevant environment;
-3. the ex ante uncertainty;
-4. the consequential interaction or exposure;
-5. the limits of prior intention, knowledge, capability, or control;
-6. the changed state, opportunity, constraint, or trajectory;
-7. the evaluative standpoint and horizon;
-8. and at least one plausible alternative trajectory.
+This project adopts the following working definition.
 
-Where these elements cannot be stated, “luck” may remain an intuitive description but should not be presented as a complete explanation.
+> **Luck is the influence of factors affecting an outcome that cannot reasonably be attributed to an individual's deliberate decisions or stable characteristics at the time the outcome is realized.**
 
----
+Several aspects of this definition deserve emphasis.
 
-## 10. Relationship to the Research Program
+* Luck concerns influence rather than causation alone.
+* Luck is evaluated relative to available knowledge.
+* Luck depends on the circumstances surrounding an outcome.
+* Luck does not imply the absence of causal explanation.
 
-This definition supplies vocabulary for later work but does not itself prove mechanisms.
-
-- [Formalization](../Formalization/README.md) should specify relationships among systems, environments, interactions, and uncertainty.
-- [Measurement](../Measurement/README.md) should operationalize components rather than label residuals as luck.
-- [Empirical Studies](../Empirical%20Studies/README.md) should reconstruct exposure, response, feedback, and alternative trajectories.
-- **Comparative Studies** should test whether proposed relationships recur across domains.
-- [General Theory](../General%20Theory/README.md) should incorporate only relationships that survive sufficient scrutiny.
-
-The definition remains open to revision when formalization, measurement, or evidence reveals ambiguity or missing distinctions.
+This definition is intended as a conceptual foundation rather than a final theory.
 
 ---
 
-## Conclusion
+# 5. Essential Characteristics of Luck
 
-Luck is best treated neither as a mysterious force nor as a synonym for randomness. It is a system-relative description of consequential variation produced through interaction under uncertainty, where the variation was not fully determined by the affected system’s prior intentions, capabilities, or actions.
+The proposed definition suggests several important characteristics.
 
-This definition preserves roles for agency, institutions, capability, and adaptation while resisting retrospective explanations that infer inevitability from realized success or failure.
+## Outcome Dependent
+
+Luck can only be evaluated relative to a realized outcome.
+
+---
+
+## Context Dependent
+
+Whether an event is considered lucky depends upon its surrounding circumstances.
+
+---
+
+## Information Dependent
+
+Improved information may change perceptions of luck without changing the underlying event.
+
+---
+
+## Observer Dependent
+
+Different observers may reasonably disagree about the role of luck.
+
+---
+
+## Compatible with Causality
+
+Describing an event as lucky does not imply that it lacks causes.
+
+Instead, luck reflects limitations in attribution, prediction, or control.
+
+---
+
+# 6. Sources of Luck
+
+Luck may arise from numerous sources.
+
+### Biological
+
+* Genetics
+* Health
+* Physical characteristics
+
+### Geographic
+
+* Birthplace
+* Natural environment
+* Regional opportunities
+
+### Historical
+
+* Generation
+* Economic cycles
+* Wars
+* Technological transitions
+
+### Social
+
+* Family
+* Mentors
+* Networks
+* Communities
+
+### Institutional
+
+* Laws
+* Educational systems
+* Political institutions
+* Economic structures
+
+### Contingent Events
+
+* Accidents
+* Timing
+* Unexpected encounters
+* Rare opportunities
+
+These sources frequently interact rather than operate independently.
+
+---
+
+# 7. Conceptual Implications
+
+Viewing luck as a distinct explanatory concept has several implications.
+
+First, luck should not automatically be equated with randomness.
+
+Second, luck should not merely represent unexplained statistical residuals.
+
+Third, luck should not be viewed as incompatible with causal explanation.
+
+Finally, the study of luck requires integrating multiple disciplines rather than relying on a single theoretical tradition.
+
+---
+
+# 8. Open Questions
+
+This paper establishes only a conceptual foundation.
+
+Several important questions remain open.
+
+* Can luck be measured empirically?
+* How should different forms of luck be classified?
+* How does luck interact with ability and effort?
+* Can individuals systematically increase their exposure to favorable opportunities?
+* How should institutions respond to unequal distributions of luck?
+
+These questions motivate the subsequent stages of the research program.
+
+---
+
+# 9. Conclusion
+
+Luck is among the most widely recognized yet least formally understood determinants of human outcomes.
+
+A rigorous scientific investigation requires a precise conceptual foundation before mathematical models or empirical methods can be developed.
+
+This paper proposes a working definition of luck that distinguishes it from randomness while remaining compatible with causal explanation and interdisciplinary inquiry.
+
+The definition is intended to provide a common starting point for future theoretical, empirical, and applied research on luck.
+
