@@ -106,6 +106,26 @@ Rather than a single fortunate event, Microsoft's success reflects repeated inte
 
 ---
 
+# Architecture-Alignment Assessment
+
+## Focal System and Boundary
+
+The principal system is Microsoft as an organization. Its state includes resources, routines, leadership arrangements, product portfolios, installed bases, and partner relationships. The relevant environment includes computing architectures, standards, customers, developers, competitors, regulators, and capital markets. Windows and Azure ecosystems may also be modeled as nested systems; they should not be treated interchangeably with the firm.
+
+## Ex Ante Uncertainty and Opportunity Stages
+
+At each transition, decision-makers faced uncertainty about technical performance, demand, complementor participation, standards, and competitor response. Opportunities should therefore be separated into potential, access, recognition, pursuit, and realization. Microsoft accessed and pursued some opportunities—enterprise software and cloud services—while mobile operating systems, search, and social networking illustrate partial pursuit, delayed response, or foreclosure. Ex post prominence does not establish that the winning path was predictable ex ante.
+
+## Capability, Selection, and Counterfactuals
+
+Observed performance is not sufficient evidence of adaptive capability. Independent evidence would include decision processes, resource redeployment, learning routines, product-development histories, and responses across both successful and unsuccessful initiatives. A credible assessment must also consider inherited platform power, network effects, acquisition capacity, complementary institutions, and competitor error. Feasible counterfactuals include earlier mobile commitment, weaker Windows lock-in, different antitrust constraints, or slower cloud adoption; these alternatives help distinguish capability from favorable exposure and selection.
+
+## Evidence Status
+
+This case currently offers an architecture-guided interpretation, not an identified causal estimate. Comparative evidence across transitions and less successful firms is needed before stronger claims about adaptation, luck realization, or durable superiority can be sustained.
+
+---
+
 # Lessons
 
 Microsoft demonstrates several broader principles relevant to business research.
