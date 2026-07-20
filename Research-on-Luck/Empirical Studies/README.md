@@ -2,346 +2,246 @@
 
 ## Purpose
 
-The **Empirical Studies** section provides the principal body of evidence for the **Research on Luck** project.
+The **Empirical Studies** directory evaluates how the Research on Luck architecture appears across five deliberately selected domains:
 
-Rather than investigating luck within a single discipline, this collection examines how contingent variation influences adaptive systems across multiple domains of human activity.
+- Science
+- Technology
+- Business
+- History
+- Politics
 
-Each empirical domain approaches the problem from a different perspective while addressing a common research question:
+The case corpus is mechanism-oriented rather than encyclopedic. Its purpose is not to represent every region, period, or episode. It is to provide diverse evidence for evaluating relationships among systems, environments, interactions, uncertainty, opportunity, capability, adaptation, feedback, selection, and trajectory.
 
-> **How do adaptive systems transform uncertain opportunities into long-term development?**
-
-The objective is not to produce encyclopedic coverage of every field in which luck appears.
-
-Instead, carefully selected empirical cases are used to identify, compare, and evaluate recurring adaptive mechanisms that may extend across disciplinary boundaries.
-
-Together, these studies provide the empirical foundation for the broader comparative and theoretical framework developed elsewhere in the repository.
+The current task is **architecture alignment**, not automatic expansion of the case inventory.
 
 ---
 
-# Why Empirical Studies?
+## Role in the Research Program
 
-Conceptual definitions alone cannot establish how luck operates.
+[Foundations](../Foundations/README.md) defines canonical concepts and assumptions.
 
-Formal models alone cannot determine which mechanisms matter most.
+[Formalization](../Formalization/README.md) specifies relationships, states, transitions, and mechanisms.
 
-Measurement frameworks alone cannot demonstrate that proposed mechanisms actually appear in real systems.
+[Measurement](../Measurement/README.md) defines constructs, indicators, identification standards, and evidence grades.
 
-Empirical investigation is therefore essential.
+Empirical Studies asks:
 
-The five empirical domains examine how adaptive systems respond to changing environments characterized by:
+> **What evidence do the selected cases provide for or against the proposed relationships, and under what boundary conditions?**
 
-* uncertainty,
-* contingency,
-* opportunity,
-* institutional constraints,
-* learning,
-* and continual feedback.
-
-Although these domains differ greatly in subject matter, they provide complementary evidence regarding the mechanisms through which luck influences long-term trajectories.
+**Comparative Studies** evaluates recurrence and difference across domains. [General Theory](../General%20Theory/README.md) should contain only relationships that survive sufficient conceptual, formal, measurement, and comparative scrutiny.
 
 ---
 
-# Research Design
+## Organization
 
-The Empirical Studies section follows a comparative research strategy.
+| Domain | Empirical role | Synthesis |
+| --- | --- | --- |
+| [Science](Science/README.md) | Discovery, validation, cumulative knowledge, institutions, and unrealized scientific opportunity | [Science synthesis](Science/14-Comparative-Synthesis.md) |
+| [Technology](Technology/README.md) | Invention, integration, diffusion, infrastructure, ecosystems, and technological adaptation | [Technology synthesis](Technology/13-Comparative-Synthesis.md) |
+| [Business](Business/README.md) | Market opportunity, organizational response, resource allocation, competition, and adaptation | [Business synthesis](Business/13-Comparative-Synthesis.md) |
+| [History](History/README.md) | Contingency, institutional persistence, path dependence, transformation, and unrealized alternatives | [History synthesis](History/13-Comparative-Synthesis.md) |
+| [Politics](Politics/README.md) | Collective decision-making, legitimacy, institutional adaptation, power, and political trajectories | [Politics synthesis](Politics/13-Comparative-Synthesis.md) |
 
-Rather than treating each domain as an independent project, every domain investigates the same general process:
+Science also includes [13-Unrealized-Scientific-Opportunities.md](Science/13-Unrealized-Scientific-Opportunities.md), which directly examines missing and unrealized paths.
 
-```text
-Uncertainty
-        ↓
-Contingent variation
-        ↓
-Opportunity transformation
-        ↓
-Recognition and interpretation
-        ↓
-Institutional and organizational response
-        ↓
-Action and implementation
-        ↓
-Learning and adaptation
-        ↓
-Long-term trajectory
-```
-
-This common analytical structure allows evidence from different domains to be compared systematically while respecting their individual historical and institutional contexts.
-
-The objective is not to demonstrate identical causal structures across every domain.
-
-It is to determine whether similar adaptive mechanisms recur under different conditions.
+The established five-domain scope should remain stable unless a new domain reveals mechanisms not represented in the existing corpus. Finance, Organizations, and Applications are not part of the current empirical expansion plan.
 
 ---
 
-# Organization
+## Common Architecture-Audit Framework
 
-The empirical evidence is organized into five complementary domains.
+Each case should be evaluated against the following components.
 
-## Science
+### 1. Focal system and boundary
 
-Investigates how scientific knowledge evolves through discovery, uncertainty, experimentation, cumulative learning, and changing research opportunities.
+- What system is being studied?
+- At what level?
+- What is internal and environmental?
+- Does the analysis move between levels without a mechanism?
 
-Primary themes include:
+### 2. Prior state and environment
 
-* discovery,
-* serendipity,
-* scientific opportunity,
-* cumulative knowledge,
-* and unrealized discoveries.
+- What capabilities, resources, information, institutions, relationships, and constraints existed before the focal transition?
+- Which environmental conditions were relevant?
 
----
+### 3. Ex ante uncertainty
 
-## Technology
+- What was uncertain, to whom, when, and with what information?
+- Was the uncertainty stochastic, epistemic, strategic, dynamic, ambiguous, novel, or model-based?
 
-Examines how scientific knowledge becomes technological capability through innovation, diffusion, convergence, and adaptation.
+### 4. Interaction and exposure
 
-Primary themes include:
+- Through what channel did environmental variation affect the system?
+- Was exposure active, passive, institutional, informational, material, relational, or experimental?
 
-* innovation,
-* implementation,
-* technological ecosystems,
-* diffusion,
-* and unrealized innovations.
+### 5. Opportunity and constraint stages
 
----
+- Was there a potential opportunity?
+- Was it accessible and recognized?
+- Was it pursued?
+- Was it realized, partially realized, expired, or foreclosed?
+- Which constraints governed the transitions?
 
-## Business
+### 6. Capability and adaptive process
 
-Studies how organizations recognize opportunities, allocate resources, coordinate action, and create long-term economic value under uncertainty.
+- What evidence exists for perception, search, learning, coordination, resource mobilization, and adaptive capacity?
+- Is capability measured independently of the favorable outcome?
+- Does non-response reflect incapacity, constraint, deliberate waiting, or another mechanism?
 
-Primary themes include:
+### 7. Feedback and trajectory
 
-* entrepreneurship,
-* organizational adaptation,
-* capital allocation,
-* business ecosystems,
-* and unrealized commercial opportunities.
+- What immediate state changed?
+- What feedback amplified, attenuated, stabilized, reversed, or transformed the effect?
+- Does the analysis distinguish a state change from a trajectory or regime change?
 
----
+### 8. Selection and survivorship
 
-## History
+- Which cases became visible or survived?
+- What failed, disappeared, was suppressed, or remained undocumented?
+- Does survival reflect capability, timing, inherited position, institutions, power, environmental fit, or several mechanisms?
 
-Examines how civilizations and societies evolve through contingency, institutional change, technological development, and long-term historical trajectories.
+### 9. Unrealized alternatives
 
-Primary themes include:
+- Which alternatives were feasible ex ante?
+- What evidence supports their feasibility?
+- Were they unrecognized, inaccessible, rejected, unsuccessful, expired, or foreclosed?
 
-* historical contingency,
-* path dependence,
-* institutional evolution,
-* civilizational adaptation,
-* and unrealized historical opportunities.
+### 10. Attribution and horizon
 
----
+- Why is the trajectory described as favorable, adverse, mixed, or uncertain?
+- For which system, objective, level, and horizon?
+- Does ex post knowledge distort the ex ante position?
 
-## Politics
+### 11. Evidence and identification
 
-Investigates how political systems organize collective decision-making, maintain legitimacy, adapt institutions, and respond to changing political environments.
+- Which claims are directly observed?
+- Which are reconstructed or inferred?
+- What competing explanations exist?
+- What supports the proposed mechanism?
+- What would challenge it?
 
-Primary themes include:
+### 12. Evidence grade
 
-* political opportunity,
-* institutional legitimacy,
-* governance,
-* collective decision-making,
-* and unrealized political opportunities.
+Use the Measurement sequence:
 
----
+1. conceptually specified;
+2. operationalized;
+3. descriptively observed;
+4. associated;
+5. mechanism-supported;
+6. causally identified within bounds;
+7. comparatively recurrent;
+8. candidate for theoretical promotion.
 
-# Common Analytical Framework
-
-Although each domain studies different subject matter, every empirical investigation examines comparable questions.
-
-### Opportunity
-
-How did opportunities emerge?
-
-Why did they become available at that particular time?
-
-### Recognition
-
-Who recognized the opportunity?
-
-Who failed to recognize it?
-
-Why?
-
-### Adaptation
-
-How did individuals, organizations, institutions, or societies respond?
-
-Which adaptive mechanisms proved most important?
-
-### Institutions
-
-How did institutional structures facilitate or constrain adaptive response?
-
-### Learning
-
-How did previous experience influence subsequent development?
-
-### Trajectories
-
-How did early events shape later outcomes?
-
-What role did path dependence and feedback play?
-
-### Unrealized Opportunities
-
-Which opportunities remained unrealized?
-
-Why were they missed, delayed, rejected, or transferred elsewhere?
-
-Using a common analytical framework allows comparison without forcing identical interpretations across fundamentally different domains.
+Cases need not reach the highest grade to be useful.
 
 ---
 
-# Methodological Philosophy
+## Case-Audit Record
 
-The Empirical Studies section follows several methodological principles.
+For each future case audit, record:
 
-## Mechanism-oriented rather than encyclopedic
+| Field | Required content |
+| --- | --- |
+| Case | File and domain |
+| Focal system | System, boundary, and level |
+| Prior state | Capabilities, resources, institutions, and constraints |
+| Environment | Relevant external conditions and other systems |
+| Uncertainty | Type, perspective, time, and information |
+| Interaction | Exposure channel and timing |
+| Opportunity stages | Potential through realization or foreclosure |
+| Adaptive process | Perception, search, learning, coordination, response |
+| Dynamic process | Feedback, selection, path dependence, transformation |
+| Trajectory | Immediate, intermediate, and long-term change |
+| Alternatives | Feasible unrealized paths |
+| Evidence | Sources, observation status, and missingness |
+| Competing explanations | Plausible alternatives |
+| Evidence grade | Current support level |
+| Revision need | None, cross-link, clarification, or substantive revision |
 
-Cases are selected because they illuminate important adaptive mechanisms.
-
-They are not intended to provide complete historical coverage.
-
-## Comparative rather than isolated
-
-Each domain contributes evidence toward a broader comparative investigation.
-
-No single domain is expected to establish the overall framework independently.
-
-## Explanatory rather than descriptive
-
-Historical description alone is insufficient.
-
-Each case is examined to identify mechanisms that help explain adaptive success, failure, resilience, or unrealized possibility.
-
-## Iterative rather than confirmatory
-
-The empirical studies are not intended merely to confirm an existing theory.
-
-Unexpected findings, exceptions, and competing explanations are equally valuable because they help refine the broader framework.
+This record is an audit tool, not a mandatory replacement template for every case narrative.
 
 ---
 
-# Relationship to Comparative Studies
+## Audit Categories
 
-Empirical Studies and Comparative Studies perform different functions.
+Each case should receive one of four editorial classifications.
 
-The empirical domains investigate adaptive mechanisms within particular contexts.
+### Aligned
 
-Comparative Studies asks:
+The case already represents the architecture adequately. No substantive revision is required.
 
-> **Which mechanisms recur across those domains?**
+### Alignment by cross-reference
 
-Comparative recurrence provides evidence for broader theoretical development, but it does not automatically establish universal validity.
+The evidence is adequate, but terminology or links to the newer architecture would improve interpretation.
 
-The relationship is therefore sequential.
+### Targeted revision
 
-```text
-Empirical Studies
-        ↓
-Comparative Studies
-        ↓
-General Theory
-```
+A specific conceptual or evidentiary gap materially affects the case and can be corrected without rewriting it.
 
-Empirical observation generates comparative evidence.
+### Reassessment required
 
-Comparative analysis generates theoretical propositions.
+The case relies on outcome-only narrative, circular capability inference, unsupported counterfactuals, or claims stronger than its evidence.
 
-Theory then guides future empirical investigation.
+Classification should not reward conformity. Evidence that challenges the architecture is especially valuable.
 
 ---
 
-# Relationship to Other Sections
+## Domain Syntheses
 
-Empirical Studies occupy the central evidence layer of the repository.
+Domain syntheses should:
 
-```text
-Foundations
-Literature
-Formalization
-Measurement
+- summarize recurring and divergent relationships;
+- state which cases support each claim;
+- identify negative and ambiguous evidence;
+- distinguish domain-specific mechanisms from cross-domain candidates;
+- state boundary conditions;
+- report survivorship and sampling limitations;
+- and avoid promoting recurrence as validation.
 
-        ↓
-
-Empirical Studies
-
-        ↓
-
-Comparative Studies
-
-        ↓
-
-General Theory
-```
-
-Each preceding section contributes concepts, theoretical mechanisms, or empirical methodology.
-
-Empirical Studies evaluate those ideas within real historical settings.
-
-Later sections synthesize and interpret the resulting evidence.
-
-The relationship is therefore cumulative and iterative rather than strictly linear.
+The existing synthesis documents remain the primary domain-level integration points.
 
 ---
 
-# Scope and Limitations
+## Methodological Principles
 
-The selected domains do not represent every field in which luck appears.
+### Mechanism-oriented, not encyclopedic
 
-Instead, they were chosen because together they provide broad variation in:
+Cases are selected to evaluate mechanisms. More cases are not automatically better.
 
-* institutional structure,
-* organizational form,
-* historical scale,
-* decision-making,
-* knowledge production,
-* and adaptive processes.
+### Comparative, not identical
 
-The resulting framework should therefore be understood as a comparative investigation rather than a comprehensive survey of all possible manifestations of luck.
+Common constructs should retain comparable roles, while indicators and histories remain domain-specific.
 
-Future empirical domains will be added only if they contribute fundamentally new adaptive mechanisms beyond those already identified.
+### Explanatory, not outcome-only
 
----
+The corpus should reconstruct exposure, response, feedback, and trajectory rather than classify success and failure retrospectively.
 
-# Current Status
+### Falsifiable, not confirmatory
 
-The Empirical Studies section currently includes five completed domains:
+Cases may weaken, bound, or contradict proposed relationships.
 
-* Science
-* Technology
-* Business
-* History
-* Politics
+### Iterative, not final
 
-Each domain follows a consistent progression from empirical cases to thematic synthesis and concludes with a domain-level comparative synthesis.
+Empirical evidence may require changes to Measurement, Formalization, or Foundations.
 
-Together, these domains provide the evidence supporting the Comparative Studies section and the current General Theory.
+### Transparent about missing paths
 
-Future development will emphasize:
-
-* improving evidence quality,
-* strengthening historical documentation,
-* expanding scholarly references,
-* refining cross-domain comparisons,
-* and testing the framework against additional or disconfirming cases.
-
-The emphasis has shifted from expansion toward refinement.
+Unrealized opportunities and excluded cases are difficult to observe but should not disappear from the analysis.
 
 ---
 
-# Long-Term Goal
+## Current Status
 
-The long-term goal of the **Empirical Studies** section is not simply to document interesting historical examples.
+The five-domain corpus and domain syntheses are substantially complete.
 
-Its purpose is to establish a disciplined comparative evidence base for understanding how luck influences adaptive systems operating under uncertainty.
+The next empirical stage is a structured audit:
 
-Across scientific discovery, technological innovation, business development, historical evolution, and political governance, remarkably similar adaptive processes repeatedly emerge.
+1. align domain READMEs with the common framework;
+2. evaluate domain syntheses;
+3. classify individual cases by revision need;
+4. make targeted revisions only where material;
+5. produce a cross-domain architecture-audit report;
+6. pass the resulting evidence to Comparative Studies.
 
-Whether these recurring mechanisms ultimately prove sufficiently general remains an empirical question.
-
-The role of Empirical Studies is to provide the evidence necessary to answer that question with increasing rigor.
-
+This sequence preserves the existing investment in case development while making its evidentiary role more explicit.
