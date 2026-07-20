@@ -154,7 +154,7 @@ Finally, political systems should evaluate legitimacy according to their long-te
 
 # Connection to the Research on Luck
 
-Institutional legitimacy represents the second major mechanism through which luck influences political development.
+Institutional legitimacy represents the second major mechanism examined in the Politics section for understanding political development under uncertainty.
 
 The comparative evidence throughout this repository supports a broader proposition:
 
