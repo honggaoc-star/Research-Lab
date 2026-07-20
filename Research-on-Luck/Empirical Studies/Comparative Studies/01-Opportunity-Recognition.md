@@ -4,7 +4,7 @@
 
 Across every domain examined in the *Research on Luck* project, opportunities emerge continuously. Scientific discoveries, technological innovations, business ventures, historical transformations, and political reforms all begin with the recognition that changing circumstances create new possibilities. Yet identical opportunities are rarely recognized simultaneously or interpreted in the same way by different individuals, organizations, or societies.
 
-This recurring pattern suggests that opportunity recognition is one of the most fundamental mechanisms through which luck influences long-term outcomes.
+This recurring pattern makes opportunity recognition a candidate process for explaining how systems respond to changing opportunity conditions under uncertainty.
 
 Within the Comparative Studies section, opportunity recognition is examined not as a domain-specific phenomenon, but as a candidate cross-domain adaptive process that operates across scientific inquiry, technological development, economic activity, historical evolution, and political governance.
 
