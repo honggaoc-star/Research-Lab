@@ -2,490 +2,160 @@
 
 ## Purpose
 
-The **General Theory** directory develops the highest-level theoretical synthesis of the **Research on Luck** project.
+The **General Theory** directory develops the highest-level, revisable synthesis of the **Research on Luck** project. It does not supply new primitives, replace formal specification, summarize all empirical cases, or claim a validated universal theory. Its task is narrower:
 
-Earlier sections of the repository establish conceptual definitions, review existing scholarship, develop formal mechanisms, propose measurement strategies, and examine empirical evidence across Science, Technology, Business, History, and Politics. Comparative Studies then identifies recurring patterns across those domains.
+> Which bounded propositions are sufficiently coherent and empirically motivated to guide the project’s next cycle of formalization, measurement, and testing?
 
-General Theory builds upon that accumulated work.
+General Theory therefore converts the strongest results of comparative analysis into explicit propositions while preserving uncertainty about causal identity, boundary conditions, measurement validity, and domain transfer.
 
-Its purpose is to determine which propositions are sufficiently supported to form a coherent explanation of how luck influences adaptive systems operating under uncertainty.
+## Architectural Position
 
-The objective is not to summarize the repository or claim a final universal theory. It is to convert the strongest comparative findings into explicit, testable, and revisable theoretical propositions.
+The project’s architecture assigns distinct roles to its major sections:
 
----
+- [Foundations](../Foundations/README.md) defines the working primitives and derived concepts.
+- [Formalization](../Formalization/README.md) specifies relationships, mechanisms, states, and transitions.
+- [Measurement](../Measurement/README.md) develops indicators, identification strategies, and validation requirements.
+- [Empirical Studies](../Empirical%20Studies/README.md) examines bounded cases in Science, Technology, Business, History, and Politics.
+- [Comparative Studies](../Empirical%20Studies/Comparative%20Studies/README.md) compares patterns, differences, negative cases, and candidate relationships.
+- **General Theory** states propositions that may organize further research.
 
-## Position within the Repository
+Comparative recurrence motivates theoretical attention. It does not establish causal identity, empirical validity, or universality.
 
-The repository follows a layered research architecture:
+## Primitive Base
 
-```text
-Foundations
-Literature
-Formalization
-Measurement
+General Theory inherits four working primitives:
 
-        ↓
+1. **System**
+2. **Environment**
+3. **Interaction**
+4. **Uncertainty**
 
-Empirical Studies
-    Science
-    Technology
-    Business
-    History
-    Politics
+Luck is not a primitive, mechanism, environmental property, stochastic event, or residual. It is an ex post relational evaluation of how consequential uncertainty affected a specified system’s trajectory relative to a stated reference and feasible alternatives.
 
-        ↓
+All other constructs—including opportunity, constraint, exposure, recognition, capability, adaptation, feedback, path dependence, trajectory, outcome, and attribution—are derived and require explicit definitions within each model.
 
-Comparative Studies
+## Luck Sequence
 
-        ↓
+The theory preserves three analytically distinct stages:
 
-General Theory
-```
+### Ex ante: Luck Potential
 
-Each layer performs a distinct function.
+Luck potential concerns unresolved uncertainty, exposure, feasible alternatives, and the distribution of possible consequences before the relevant transition is known.
 
-* **Foundations** defines the central concepts.
-* **Literature** situates the project within existing scholarship.
-* **Formalization** develops possible explanatory mechanisms.
-* **Measurement** examines how those mechanisms may be observed and evaluated.
-* **Empirical Studies** investigates their operation across selected domains.
-* **Comparative Studies** identifies recurring cross-domain patterns.
-* **General Theory** integrates the strongest findings into a coherent theoretical framework.
+### Transition: Luck Realization
 
-General Theory is therefore the culminating theoretical layer of the repository, but it remains dependent upon every preceding section.
+Luck realization concerns the events, interactions, mechanisms, responses, state changes, and feedback through which one trajectory becomes realized while others remain unrealized or are foreclosed.
 
----
+### Ex post: Luck Attribution
 
-## Why a General Theory?
+Luck attribution evaluates how consequential uncertainty affected the realized trajectory. The attribution requires a focal system, outcome, time horizon, reference, information set, and defensible counterfactual set. It does not substitute for causal explanation.
 
-Luck is often treated as random fortune, unexplained variance, or the opposite of skill.
+## Layered Theoretical Architecture
 
-The accumulated evidence in this repository supports a different interpretation.
+General Theory organizes candidate propositions across the project’s layers:
 
-Luck appears to influence long-term outcomes primarily by changing:
+| Layer | Theoretical role |
+|---|---|
+| Layer 0: Working Primitives | Defines the minimum ontology for bounded analysis |
+| Layer 1: Derived Conditions | Specifies exposure, opportunity, constraint, risk, contingency, and access |
+| Layer 2: System Capabilities | Specifies perception, search, coordination, learning, and adaptive capacity |
+| Layer 3: Dynamic Processes | Specifies pursuit, response, adaptation, selection, and realization |
+| Layer 4: Long-Term Effects | Specifies feedback, path dependence, accumulation, resilience, and regime change |
+| Layer 5: Outcome Evaluation | Specifies outcomes, references, counterfactuals, and luck attribution |
 
-* available opportunities,
-* environmental constraints,
-* access to information,
-* historical timing,
-* exposure to contingent events,
-* and the range of possible future trajectories.
+This is an analytical architecture, not a mandatory temporal sequence. Relationships may be recursive, simultaneous, absent, or differently ordered across models.
 
-These changes do not determine outcomes directly.
+## Current Theoretical Commitments
 
-Individuals, organizations, institutions, and societies differ in how effectively they:
+The project presently has sufficient reason to retain several commitments:
 
-* recognize opportunities,
-* interpret changing conditions,
-* coordinate responses,
-* mobilize resources,
-* learn from experience,
-* revise institutions,
-* and preserve adaptive capacity.
+- uncertainty and randomness are distinct;
+- risk is not interchangeable with unresolved uncertainty;
+- system state is distinct from trajectory;
+- capability is distinct from realized performance;
+- survival and success do not prove superiority or adaptive capacity;
+- opportunities are relational and move through distinguishable stages;
+- unrealized alternatives are necessary evidence but must be bounded by ex ante feasibility;
+- path dependence requires a reinforcing mechanism, not historical sequence alone;
+- feedback may amplify, attenuate, stabilize, reverse, or dissipate effects;
+- luck potential, realization, and attribution must remain distinct;
+- luck attribution must not be used as a residual explanation.
 
-A general theory is needed to explain the interaction between these two sides of the process:
+These commitments define the theory’s discipline more securely than broad claims about universal adaptive systems.
 
-1. changing opportunity environments; and
-2. adaptive systems responding to them.
+## Proposition Status
 
----
+[Core Propositions](01-Core-Propositions.md) preserves the project’s 22-proposition structure but classifies claims by function:
 
-## Central Theoretical Perspective
+- **Definitional propositions** state analytical distinctions inherited from Foundations.
+- **Relational hypotheses** propose relationships requiring formalization and empirical testing.
+- **Comparative conjectures** identify patterns suggested, but not validated, across the five domains.
+- **Methodological commitments** specify evidence and revision standards.
 
-The current evidence supports the following general perspective:
+No proposition should be treated as established merely because its terminology recurs across several cases.
 
-> Luck consists of consequential variation arising under uncertainty that alters the opportunities, constraints, exposures, or trajectories confronting adaptive systems. Its long-term effects depend upon how those systems recognize, mediate, amplify, suppress, learn from, or fail to realize the resulting possibilities.
+## Relationship to Formalization and Measurement
 
-This perspective avoids treating luck as either a complete explanation or an irrelevant residual.
+General Theory proposes what may warrant explanation. Formalization states the relevant objects, assumptions, relationships, mechanisms, and predictions. Measurement states how those constructs could be observed and how competing explanations might be distinguished.
 
-Luck matters, but it operates through broader adaptive processes.
+A promotable theoretical proposition therefore needs:
 
----
-
-## Core Components
-
-The emerging General Theory contains several interdependent components.
-
-### 1. Uncertainty and Contingency
-
-Luck requires conditions in which multiple outcomes are possible.
-
-Stochastic events, unexpected encounters, environmental changes, discoveries, crises, and historical contingencies introduce variation into evolving systems.
-
-Uncertainty is therefore a necessary condition for luck, although it is not sufficient by itself.
-
-### 2. Opportunity Transformation
-
-The principal consequence of contingent variation is often a change in the opportunity landscape.
-
-Luck may:
-
-* create opportunities,
-* remove opportunities,
-* alter their timing,
-* redistribute access,
-* change their expected value,
-* or modify the constraints surrounding them.
-
-Opportunity provides the primary bridge between uncertain events and long-term outcomes.
-
-### 3. Opportunity Recognition
-
-Opportunities do not become consequential merely because they exist.
-
-They must be perceived, interpreted, and evaluated.
-
-Recognition depends upon:
-
-* prior knowledge,
-* information access,
-* institutional openness,
-* cognitive diversity,
-* historical experience,
-* and organizational learning.
-
-Different systems may therefore encounter similar opportunities but recognize them unevenly.
-
-### 4. Path Dependence
-
-Adaptive systems respond from inherited positions rather than neutral starting points.
-
-Earlier decisions, institutions, technologies, investments, networks, and accumulated knowledge shape which future opportunities are visible and attainable.
-
-Path dependence produces both enabling capabilities and structural constraints.
-
-### 5. Institutional Mediation
-
-Institutions coordinate how opportunities are interpreted and acted upon.
-
-They influence:
-
-* information flow,
-* resource allocation,
-* collective decision-making,
-* legitimacy,
-* experimentation,
-* learning,
-* and implementation.
-
-Institutions may amplify favorable opportunities, suppress harmful variation, or prevent useful possibilities from being realized.
-
-### 6. Learning and Adaptation
-
-Experience generates information.
-
-Adaptive systems differ in whether they preserve, interpret, and apply that information effectively.
-
-Learning allows systems to:
-
-* revise assumptions,
-* improve recognition,
-* update strategies,
-* reform institutions,
-* and strengthen future responses.
-
-Long-term resilience therefore depends less upon avoiding uncertainty than upon improving adaptation through repeated feedback.
-
-### 7. Feedback and Amplification
-
-Initial advantages or disadvantages may expand over time.
-
-Feedback mechanisms can produce:
-
-* cumulative advantage,
-* lock-in,
-* network effects,
-* institutional reinforcement,
-* divergence,
-* recovery,
-* or decline.
-
-The historical significance of luck often depends more upon these subsequent dynamics than upon the initiating event itself.
-
-### 8. Realized and Unrealized Opportunities
-
-Only a small portion of available opportunities becomes realized.
-
-Many remain:
-
-* unnoticed,
-* underdeveloped,
-* poorly timed,
-* institutionally blocked,
-* inadequately resourced,
-* or transferred to other systems.
-
-Unrealized opportunities are therefore not peripheral failures. They provide essential evidence about the limits of recognition, coordination, learning, and adaptation.
-
----
-
-## Adaptive Systems
-
-The comparative evidence suggests that the most useful common unit of analysis is the **adaptive system**.
-
-Adaptive systems may include:
-
-* scientific communities,
-* technological ecosystems,
-* business organizations,
-* political institutions,
-* governments,
-* networks,
-* and civilizations.
-
-Despite major differences in purpose and scale, these systems share several capabilities:
-
-* processing information,
-* coordinating action,
-* preserving knowledge,
-* responding to feedback,
-* revising behavior,
-* and adapting across time.
-
-The General Theory does not assume that every adaptive system operates identically. It proposes that sufficiently similar mechanisms may recur across different systems while remaining shaped by domain-specific conditions.
-
----
-
-## A General Adaptive Sequence
-
-The evidence developed throughout the repository supports a recurring sequence:
-
-```text
-Environmental change or contingent variation
-                ↓
-Transformation of opportunities and constraints
-                ↓
-Recognition and interpretation
-                ↓
-Institutional and organizational mediation
-                ↓
-Decision-making and resource mobilization
-                ↓
-Action and implementation
-                ↓
-Outcomes and feedback
-                ↓
-Learning, adaptation, and path modification
-                ↓
-New opportunity landscape
-```
-
-This sequence is not always linear.
-
-Feedback may occur at every stage.
-
-Recognition may fail.
-
-Institutions may block action.
-
-Learning may be incomplete.
-
-Opportunities may disappear, migrate, or remain unrealized.
-
-The sequence should therefore be understood as a recursive adaptive process rather than a deterministic pathway.
-
----
-
-## Relationship to Comparative Studies
-
-Comparative Studies provides the immediate empirical foundation for General Theory.
-
-It identifies recurring mechanisms across the five completed empirical domains, including:
-
-* opportunity recognition,
-* timing and contingency,
-* path dependence,
-* institutional adaptation,
-* learning,
-* unrealized opportunities,
-* and adaptive systems.
-
-General Theory evaluates how these mechanisms fit together.
-
-The distinction is important:
-
-* **Comparative Studies** asks what patterns recur across the selected domains.
-* **General Theory** asks what broader propositions those recurring patterns support.
-
-Comparative recurrence is evidence for theory, but it is not by itself proof of universality.
-
-Theoretical claims should therefore remain proportionate to the strength and independence of the supporting evidence.
-
----
-
-## Relationship to Formalization
-
-Formalization develops explicit representations of possible mechanisms.
-
-General Theory determines which of those mechanisms are supported by the accumulated conceptual and empirical work.
-
-Formalization asks:
-
-> How might luck operate?
-
-General Theory asks:
-
-> Which mechanisms currently provide the strongest integrated explanation of how luck operates?
-
-The relationship is bidirectional.
-
-Formal models guide empirical investigation.
-
-Empirical findings identify which models require refinement, extension, rejection, or integration.
-
-The completed comparative work suggests that future formalization may need to address additional concepts, including:
-
-* adaptive capacity,
-* opportunity recognition,
-* institutional learning,
-* opportunity migration,
-* and unrealized possibility spaces.
-
----
-
-## Relationship to Measurement
-
-General Theory must remain empirically interpretable.
-
-Its concepts should eventually correspond to observable evidence, measurable indicators, or defensible qualitative methods.
-
-Relevant evidence may include:
-
-* exposure to contingent events,
-* changes in opportunity access,
-* variation in recognition,
-* resource mobilization,
-* institutional response,
-* trajectory divergence,
-* feedback and amplification,
-* and unrealized alternatives.
-
-Not every concept must reduce to a single numerical measure.
-
-Comparative case analysis, process tracing, counterfactual analysis, longitudinal evidence, and mixed methods may all contribute to evaluation.
-
-The purpose of measurement is not to create an illusion of precision, but to make theoretical claims open to challenge.
-
----
-
-## Scope and Boundaries
-
-The General Theory does not claim that luck explains every outcome.
-
-Long-term development also depends upon:
-
-* skill,
-* intelligence,
-* effort,
-* resources,
-* leadership,
-* institutional quality,
-* social cooperation,
-* geography,
-* technology,
-* culture,
-* and historical inheritance.
-
-Luck interacts with these factors.
-
-It does not replace them.
-
-The framework is strongest when explaining:
-
-* why similar systems diverge,
-* why opportunities are unevenly recognized,
-* why timing matters,
-* why small events sometimes become amplified,
-* why adaptive capacity affects long-term trajectories,
-* and why many plausible opportunities remain unrealized.
-
-It is weaker when used to:
-
-* predict specific contingent events,
-* attribute every unexplained outcome to luck,
-* rank political or institutional systems normatively,
-* or infer causation from isolated successful cases.
-
----
+1. a bounded focal system and environment;
+2. a level and time horizon;
+3. defined states, interactions, and uncertainty;
+4. a specified relationship or mechanism;
+5. observable implications;
+6. plausible competing explanations;
+7. feasible counterfactuals or comparison cases;
+8. and conditions under which evidence would weaken the claim.
+
+Mathematical complexity is not a condition of theoretical quality. Different domains may require different formal languages.
+
+## Empirical Boundaries
+
+The present evidence base remains interpretive and uneven. It spans five selected domains but relies heavily on structured historical and comparative narratives. It is useful for discovering constructs, mechanisms, negative cases, and boundary problems. It is not yet sufficient to estimate general causal weights or validate scale-independent mechanisms.
+
+The theory must therefore avoid:
+
+- inferring capability from selected successes;
+- treating surviving systems as superior;
+- treating nonresponse as evidence of ignorance;
+- assuming that opportunity recognition causes realization;
+- labeling every unexpected residual as luck;
+- using unconstrained counterfactual possibilities;
+- or converting recurrence into universality.
 
 ## Current Organization
 
-The General Theory directory currently begins with the project’s core propositions.
+The live directory contains only:
 
-Its structure may expand as theoretical integration proceeds:
+- [README.md](README.md)
+- [01-Core-Propositions.md](01-Core-Propositions.md)
 
-```text
-General Theory/
-├── README.md
-├── 01-Core-Propositions.md
-├── 02-Mechanisms-of-Luck.md
-├── 03-Opportunity-and-Adaptation.md
-├── 04-Adaptive-Systems-Framework.md
-├── 05-Realized-and-Unrealized-Opportunities.md
-├── 06-Empirical-Support-and-Limitations.md
-└── 07-General-Theory-of-Luck.md
-```
-
-Additional documents should be developed only when they improve theoretical clarity or resolve a demonstrated gap.
-
-The objective is consolidation rather than expansion for its own sake.
-
----
+An earlier roadmap listed possible documents numbered 02–07. Those files do not exist on main and are not part of the current architecture. No documents will be created merely to fill that outline. Additional files should be added only if a demonstrated theoretical problem cannot be resolved clearly within the existing structure.
 
 ## Standards for Theoretical Development
 
-Documents in this directory should:
+General Theory documents should:
 
-* distinguish established findings from emerging hypotheses;
-* identify the empirical basis supporting each proposition;
-* acknowledge domain-specific variation;
-* distinguish description, explanation, prediction, and normative judgment;
-* avoid treating repeated terminology as proof of identical causal mechanisms;
-* state assumptions and boundaries explicitly;
-* identify plausible competing explanations;
-* remain consistent with Foundations, Formalization, Measurement, Empirical Studies, and Comparative Studies;
-* and remain open to revision when new evidence challenges the framework.
-
-The theory should become stronger through disciplined limitation as well as integration.
-
----
+- distinguish definitions, assumptions, hypotheses, mechanisms, predictions, and evaluations;
+- state system boundaries, levels, time horizons, and reference classes;
+- preserve ex ante and ex post distinctions;
+- identify selection, power, distribution, and nested systems where relevant;
+- separate capability indicators from outcomes;
+- include negative and unrealized cases;
+- state competing explanations and disconfirming evidence;
+- moderate claims according to present empirical support;
+- and remain consistent with Foundations, Formalization, Measurement, Empirical Studies, and Comparative Studies.
 
 ## Current Status
 
-The repository has completed five empirical domains:
+General Theory is a **provisional Version 2.1 architecture**. Version 2.0 integrated the original stochastic and opportunity-centered strands. Version 2.1 aligns those propositions with the working primitives, relationship taxonomy, measurement architecture, and revised empirical and comparative evidence.
 
-* Science
-* Technology
-* Business
-* History
-* Politics
-
-It has also completed a repository-wide Comparative Studies section.
-
-This evidence is sufficient to support a major revision of the initial General Theory, but not to justify claims of finality or universal validity.
-
-The current task is therefore to:
-
-1. revise the original propositions;
-2. integrate the completed comparative evidence;
-3. reconcile early stochastic formulations with the later opportunity-and-adaptation framework;
-4. identify unsupported or overstated claims;
-5. and develop testable theoretical extensions.
-
-General Theory should now be regarded as entering **Version 2.0**.
-
----
+The immediate objective is not to add propositions. It is to make the existing propositions more bounded, testable, and vulnerable to evidence.
 
 ## Long-Term Goal
 
-The long-term goal of the **General Theory** directory is to develop a rigorous, comparative, and empirically revisable explanation of how luck influences trajectories across complex human systems.
+The long-term goal is a disciplined theory explaining when and how consequential uncertainty becomes important to bounded system trajectories, how interactions and responses mediate realization, and when ex post luck attribution is warranted.
 
-The emerging theory proposes that luck matters because contingent variation changes opportunity landscapes. Adaptive systems then differ in their capacity to recognize those changes, coordinate responses, learn from experience, modify inherited paths, and realize available possibilities.
-
-Whether this framework proves sufficiently general remains an empirical question.
-
-Its value will depend not upon how many phenomena it claims to explain, but upon whether it produces clearer mechanisms, stronger comparisons, testable propositions, and better explanations of both realized and unrealized outcomes.
-
-General Theory therefore represents neither the end of the Research on Luck project nor a claim of theoretical completion.
-
-It is the disciplined synthesis of what the project currently has sufficient reason to believe.
+Whether any relationship transfers broadly across domains remains an empirical question. The theory’s value will depend on clearer distinctions, better comparisons, valid measurement, and genuine opportunities for refutation—not on the breadth of phenomena it can redescribe.
