@@ -8,7 +8,7 @@ Traditional analyses often focus on constitutional principles, legal interpretat
 
 Rather than attempting to solve every future political problem, the Constitution established institutions capable of balancing stability with change. Its enduring significance lies not in predicting future circumstances, but in creating mechanisms through which future generations could respond to circumstances that its authors could neither foresee nor control.
 
-This case demonstrates that successful political systems are designed not only for present conditions, but also for long-term adaptation.
+This case examines how constitutional rules created channels for continuity and change, while recognizing that endurance alone does not establish successful or inclusive adaptation.
 
 ---
 
@@ -97,17 +97,29 @@ The constitutional framework has therefore functioned as an adaptive platform ra
 
 # Luck and Constitutional Development
 
-Luck influenced the Constitution in multiple ways.
+The Constitution’s formation and subsequent trajectory were exposed to consequential uncertainty in multiple ways.
 
 The timing of independence, international geopolitical conditions, economic circumstances, and the availability of experienced political leadership all shaped the constitutional convention.
 
 Subsequent historical events—including civil war, economic crises, global conflicts, technological revolutions, and demographic change—presented challenges that the Constitution's authors could not anticipate.
 
-However, the durability of the constitutional system depended less upon these contingent events than upon the institutions' ability to adapt while preserving legitimacy.
+Durability may reflect amendment, interpretation, political bargaining, coercion, favorable external conditions, accumulated power, and barriers to replacement. Institutional design is one candidate contributor and must be assessed independently of endurance.
 
-Luck influenced historical circumstances.
+---
 
-Institutional design influenced political resilience.
+# Architecture-Alignment Assessment
+
+## Focal System and Political Boundary
+
+The focal system may be the constitutional order, federal government, state–federal relationship, or wider polity. These are not interchangeable. The original order also excluded enslaved people, Indigenous nations, most women, and many people without property from meaningful participation. Claims about legitimacy or adaptation must therefore specify whose recognition, rights, and welfare are being evaluated.
+
+## Ex Ante Uncertainty and Institutional Mechanisms
+
+The framers faced uncertainty about fiscal coordination, interstate conflict, executive authority, representation, and future expansion. Separation of powers, federalism, elections, amendment, and later judicial review are institutional arrangements, not automatically adaptive mechanisms. Their enabling or constraining effects depend on actors, enforcement, political coalitions, and boundary conditions. Some arrangements enabled correction; others entrenched vetoes, unequal representation, slavery, or delayed reform.
+
+## Survival, Alternatives, and Evidence
+
+Continuous operation is not sufficient evidence of constitutional capability or superiority. Survival may reflect path dependence, coercive capacity, territorial and economic expansion, high replacement costs, and selection among failed alternatives. Feasible counterfactuals include continued confederation, different representation rules, alternative slavery settlements, constitutional breakdown, and other amendment thresholds. Stronger claims require comparisons across crises and constitutional orders, including failed reforms and groups whose opportunities were foreclosed.
 
 ---
 
@@ -131,7 +143,7 @@ Finally, political stability is best understood as the product of successful ins
 
 The United States Constitution supports one of the central propositions of the *Research on Luck* project:
 
-> Luck continually changes the political environment confronting societies, but constitutional institutions determine how effectively those societies transform uncertainty into stable and adaptive governance.
+> Luck may be attributed ex post when consequential uncertainty altered constitutional exposures or trajectories. Institutional effects require separate analysis of rules, actors, power, implementation, exclusion, and environmental feedback.
 
 Unlike the empirical cases developed in the Science, Technology, Business, and History sections, this case focuses directly on political decision-making itself. It demonstrates that governance systems can be intentionally designed to balance stability with flexibility, allowing societies to adapt repeatedly without abandoning institutional continuity.
 
