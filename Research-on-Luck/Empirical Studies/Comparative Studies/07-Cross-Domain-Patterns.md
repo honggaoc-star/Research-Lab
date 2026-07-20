@@ -180,7 +180,7 @@ Cross-domain patterns represent the first integrated empirical framework develop
 
 The comparative evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck influences adaptive systems not through isolated events, but by continually reshaping the environments within which multiple adaptive mechanisms interact. Long-term success emerges from the coordinated operation of opportunity recognition, timing, path dependence, institutional adaptation, learning, and continuous feedback rather than from any individual mechanism acting alone.
+> Luck attribution evaluates how consequential uncertainty affected a bounded trajectory. Cross-domain explanation requires specifying the relationships among opportunity stages, timing, path dependence, institutional change, learning, feedback, power, and selection without assuming that their coordination produces success.
 
 This perspective marks an important transition in the research program. Earlier chapters identified candidate cross-domain mechanisms individually. This chapter demonstrates that those mechanisms form an interconnected adaptive system. Understanding luck therefore requires studying the interactions among adaptive processes rather than searching for single causes of success or failure.
 
