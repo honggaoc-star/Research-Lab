@@ -2,11 +2,11 @@
 
 ## Overview
 
-The comparative evidence developed throughout the *Research on Luck* project suggests that the fundamental unit of analysis is neither the individual, the organization, the institution, nor the civilization. Rather, each of these represents a particular form of adaptive system—an organized entity capable of perceiving change, processing information, learning from experience, coordinating action, and modifying its behavior over time.
+The comparative framework permits individuals, organizations, institutions, networks, or polities to be modeled as systems when their boundaries and relevant interactions are specified. “Adaptive system” is a derived classification requiring evidence of adaptive processes, not a fundamental unit imposed across domains.
 
 This observation provides a unifying perspective across Science, Technology, Business, History, and Politics.
 
-Within the *Research on Luck* framework, luck does not act directly upon isolated events or individual actors. Instead, it continually reshapes the environments within which adaptive systems operate. Long-term success depends upon the capacity of those systems to recognize opportunities, respond effectively, accumulate knowledge, and continually improve their adaptive capabilities.
+Within the *Research on Luck* framework, luck does not act upon events, actors, or environments. It is attributed ex post when consequential uncertainty affected a specified trajectory. Recognition, response, learning, and capability are possible mechanisms or conditions whose contributions require independent evidence.
 
 Adaptive systems therefore emerge as the common empirical foundation underlying every domain examined in this project.
 
@@ -144,7 +144,7 @@ These capabilities determine whether changing environments become sources of sus
 
 # Luck and Adaptive Systems
 
-Luck influences adaptive systems by continually changing external conditions.
+Adaptive systems interact with external conditions that change under uncertainty.
 
 Scientific discoveries, technological breakthroughs, demographic shifts, economic crises, political transitions, environmental events, and historical contingency all reshape the opportunity landscape.
 
@@ -152,7 +152,7 @@ Adaptive systems cannot eliminate uncertainty.
 
 Instead, they improve their ability to function under uncertainty through learning and institutional evolution.
 
-Luck therefore becomes a property of the environment rather than a characteristic of successful systems.
+Luck is neither a property of the environment nor a characteristic of successful systems; it is a relational evaluation involving system, environment, trajectory, reference, and uncertainty.
 
 Adaptive systems succeed because they continually improve their responses to changing environments.
 
@@ -192,7 +192,7 @@ Adaptive systems represent one of the most important empirical conclusions of th
 
 The comparative evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck continually reshapes the environments in which adaptive systems operate, but adaptive systems determine long-term outcomes through their capacity to recognize opportunities, coordinate responses, learn from experience, preserve institutional knowledge, and continually improve future adaptation.
+> Consequential uncertainty affects system–environment trajectories. Adaptive capability is one candidate contributor to response and must be distinguished from realized outcomes, survival, and ex post luck attribution.
 
 This comparative perspective suggests that luck should no longer be interpreted primarily as random fortune affecting isolated events. Instead, luck becomes one component of the broader interaction between adaptive systems and changing environments.
 
