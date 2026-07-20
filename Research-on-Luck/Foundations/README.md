@@ -2,445 +2,216 @@
 
 ## Purpose
 
-The **Foundations** directory establishes the conceptual basis of the **Research on Luck** project.
+The **Foundations** directory establishes the conceptual architecture and shared vocabulary of the **Research on Luck** project. It asks not only what luck means, but what must be specified before claims about luck can be analyzed, formalized, measured, or compared.
 
-Before luck can be formalized, measured, or investigated empirically, the project must define what luck means, distinguish it from related concepts, identify its principal dimensions, and clarify the questions that a scientific study of luck should address.
+The section is organized around four working primitives:
 
-The documents in this directory therefore develop the shared vocabulary and conceptual distinctions used throughout the repository.
+1. **System**
+2. **Environment**
+3. **Interaction**
+4. **Uncertainty**
 
-Their purpose is not to present a complete theory or prove empirical conclusions. Instead, they establish the conceptual framework upon which Formalization, Measurement, Empirical Studies, Comparative Studies, and General Theory build.
+These are provisional analytical starting points, not final metaphysical claims. Luck, opportunity, exposure, capability, adaptation, path dependence, and outcome are treated as concepts derived from properties or relationships involving the primitives.
+
+The architectural reference is [10-Working-Primitives.md](10-Working-Primitives.md).
 
 ---
 
 ## Foundational Question
 
-The central question of this directory is:
+> **How can consequential variation under uncertainty be described precisely enough to distinguish luck from randomness, risk, capability, and retrospective storytelling?**
 
-> **What is luck, and how can it be defined precisely enough to support systematic scientific investigation?**
+A useful answer must identify:
 
-This question requires more than distinguishing lucky outcomes from unlucky ones.
+- the focal system and its boundary;
+- the relevant environment;
+- the interaction or exposure through which change occurred;
+- the uncertainty present ex ante;
+- the limits of prior intention, knowledge, capability, and control;
+- the opportunity, constraint, state, or trajectory that changed;
+- and the processes through which consequences developed.
 
-It also requires examining:
-
-* the uncertainty under which luck arises,
-* the contingent events that introduce variation,
-* the opportunities and constraints affected by that variation,
-* the systems exposed to it,
-* and the processes through which its consequences develop over time.
+Luck should not function as a label for everything surprising, unequal, unexplained, or outside complete control.
 
 ---
 
 ## Working Conception of Luck
 
-The project currently uses the following general conception:
+The project currently uses the following relational and dynamic conception:
 
-> **Luck refers to consequential variation arising under uncertainty that is not fully determined by the prior intentions, capabilities, or actions of the affected system and that alters its opportunities, constraints, exposures, or possible trajectories.**
+> **Luck is consequential variation in a system’s state, relationships, accessible opportunities, constraints, or trajectory arising through interactions under uncertainty and not fully determined by the system’s prior intentions, capabilities, or actions.**
 
-This definition contains several elements.
+This conception has six components.
 
-### Uncertainty
+### A focal system
 
-Luck requires conditions in which more than one outcome is possible.
+Luck is always luck relative to an affected system. The system may be an individual, organization, institution, community, technological ecosystem, political order, or other analytically bounded configuration.
 
-Without uncertainty, variation would follow entirely from fixed prior conditions and deterministic processes.
+### An environment
 
-### Contingency
-
-Lucky and unlucky developments involve circumstances that could plausibly have occurred differently.
-
-Contingency may involve:
-
-* timing,
-* encounters,
-* discoveries,
-* environmental changes,
-* crises,
-* institutional decisions,
-* or unequal exposure to events.
-
-### Consequence
-
-Not every random event constitutes meaningful luck.
-
-An event becomes relevant to the study of luck when it changes opportunities, constraints, resources, information, exposure, or future trajectories.
-
-### Limited Control
-
-Luck concerns variation that is not fully determined by the affected system’s deliberate action.
-
-This does not mean that the system has no influence over the eventual outcome.
-
-Skill, effort, judgment, institutions, and adaptation may strongly affect what follows.
+The system operates within conditions that shape possible interactions, opportunities, constraints, and exposures. The boundary between system and environment must be stated rather than assumed.
 
 ### Interaction
 
-Luck does not operate independently of capability or structure.
+Environmental variation becomes consequential through exposure, encounter, transmission, interpretation, response, feedback, or another interaction. Luck is therefore not adequately represented as an isolated event.
 
-Its long-term consequences emerge through interaction with:
+### Uncertainty
 
-* prior knowledge,
-* inherited position,
-* institutions,
-* resources,
-* networks,
-* decisions,
-* learning,
-* and adaptive capacity.
+Relevant events, exposures, responses, or consequences were not fully determined, known, predictable, or controllable from the ex ante position used in the analysis.
 
----
+### Consequence
 
-## Luck, Stochastic Variation, and Opportunity
+The variation changes a system state, a relationship, an accessible alternative, or a trajectory. Random variation without meaningful consequence need not be classified as luck.
 
-The project’s early conceptual work emphasized stochastic events and variation.
+### Limited prior determination
 
-Later empirical and comparative work emphasized changing opportunity landscapes and adaptive response.
-
-These perspectives are complementary rather than competing.
-
-A simplified sequence is:
-
-```text
-Uncertainty
-    ↓
-Contingent or stochastic variation
-    ↓
-Changes in opportunities, constraints, or exposure
-    ↓
-Recognition and interpretation
-    ↓
-Institutional and organizational response
-    ↓
-Adaptation, amplification, suppression, or failure
-    ↓
-Long-term trajectory
-```
-
-Stochastic variation describes how differences arise.
-
-Opportunity transformation describes the principal channel through which those differences become consequential.
-
-Adaptive response explains why similar events may produce very different long-term outcomes.
-
-The Foundations directory establishes these distinctions without assuming that every instance follows an identical causal sequence.
+The variation was not fully produced by the affected system’s prior intentions, capabilities, or actions. This does not imply that capability is irrelevant: capability may strongly affect recognition, response, adaptation, and preservation.
 
 ---
 
-## Objectives
+## Primitives and Derived Concepts
 
-The principal objectives of this directory are to:
+| Analytical status | Concepts | Role |
+| --- | --- | --- |
+| Working primitives | System, Environment, Interaction, Uncertainty | Minimal architecture for describing the analysis |
+| Derived relational concepts | Exposure, Opportunity, Constraint | Describe how a system is positioned relative to environmental conditions |
+| System properties | Capability, Information, Resources, Memory, Objectives | Affect possible interactions and responses |
+| Dynamic processes | Recognition, Response, Adaptation, Feedback, Selection | Describe change through interaction |
+| Trajectory concepts | Path dependence, Resilience, Transformation | Describe patterns across sequences of states and interactions |
+| Evaluative concepts | Outcome, Good luck, Bad luck, Missed opportunity | Interpret realized or unrealized consequences from a specified standpoint |
 
-* develop a precise working definition of luck;
-* distinguish luck from randomness, risk, uncertainty, probability, and chance;
-* identify different forms and sources of luck;
-* separate events from exposures, opportunities, outcomes, and trajectories;
-* clarify the relationship between luck and deliberate capability;
-* distinguish individual luck from system-level luck;
-* identify assumptions underlying the broader research framework;
-* and formulate foundational questions for subsequent investigation.
-
-The emphasis is on **conceptual clarity, internal consistency, and scientific usefulness**.
+This hierarchy is provisional. Later formal and empirical work may show that some concepts require reclassification.
 
 ---
 
-## Scope
+## Core Distinctions
 
-Topics appropriate for this directory include:
+### Luck and randomness
 
-* definitions of luck;
-* taxonomies and dimensions of luck;
-* luck versus randomness;
-* luck versus risk and uncertainty;
-* chance, contingency, and stochastic variation;
-* favorable and unfavorable luck;
-* event-level and trajectory-level luck;
-* individual and collective luck;
-* opportunity creation and opportunity exposure;
-* luck, control, responsibility, and capability;
-* sources and origins of luck;
-* and foundational research questions.
+Randomness concerns how variation is generated or represented. Luck concerns the consequences of uncertain variation for a specified system. Randomness is neither necessary nor sufficient for luck. See [03-Luck-vs-Randomness.md](03-Luck-vs-Randomness.md).
 
-Topics such as mathematical modeling belong primarily in **Formalization**.
+### Luck, risk, and uncertainty
 
-Operational definitions, indicators, and identification strategies belong in **Measurement**.
+Uncertainty is the broader condition in which relevant states, events, relationships, or consequences are not fully determined or known. Risk is a structured form of uncertainty in which outcomes and probabilities can be estimated with some defensibility. Luck concerns consequential realized or trajectory-altering variation within either setting. See [04-Luck-Risk-and-Uncertainty.md](04-Luck-Risk-and-Uncertainty.md).
 
-Domain-specific evidence belongs in **Empirical Studies**.
+### Event, exposure, and consequence
 
-Cross-domain conclusions belong in **Comparative Studies** and **General Theory**.
+An event is a change at a time. Exposure is the interaction through which it can affect a system. Consequence is the change in state, relationship, opportunity, constraint, or trajectory. These should not be collapsed.
 
----
+### State, outcome, and trajectory
 
-## Current Documents
+A state is a system’s condition at a time. An outcome is an evaluated state or change at a selected horizon. A trajectory is the sequence of states and transitions. The same event may look favorable at one horizon and unfavorable at another.
 
-The Foundations directory contains six principal documents.
+### Opportunity and capability
 
-| Document                                | Purpose                                                                                           |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| `01-Defining-Luck.md`                   | Establishes the project’s working definition of luck and its principal conceptual elements.       |
-| `02-Taxonomy-of-Luck.md`                | Classifies major forms, dimensions, and levels of luck.                                           |
-| `03-Luck-vs-Randomness.md`              | Distinguishes meaningful luck from randomness and stochastic variation more generally.            |
-| `04-Luck-Risk-and-Uncertainty.md`       | Clarifies the relationships among luck, risk, uncertainty, probability, and incomplete knowledge. |
-| `05-Origins-and-Mechanisms-of-Luck.md`  | Examines the conditions and processes through which consequential variation arises.               |
-| `06-Foundational-Research-Questions.md` | Identifies the principal conceptual questions guiding later theoretical and empirical work.       |
+An opportunity is a relational possibility available to a system in an environment. Capability is a system property affecting recognition, access, response, and environmental influence. Neither alone guarantees a realized outcome.
 
-Together, these documents establish the initial conceptual language of the project.
+### Ex ante and ex post
 
-Their definitions remain open to refinement when later formal or empirical work reveals ambiguity, inconsistency, or missing distinctions.
+Ex ante analysis reconstructs what was knowable, controllable, and accessible before the outcome. Ex post analysis identifies what occurred and how it was later interpreted. Retrospective coherence must not erase prior uncertainty or unrealized alternatives.
 
----
+### Survival and capability
 
-## Principal Conceptual Distinctions
-
-### Luck and Randomness
-
-Randomness concerns the generation or unpredictability of events.
-
-Luck concerns the consequences of uncertain variation for a particular system or trajectory.
-
-A random event may have no meaningful consequence.
-
-Conversely, an event need not be purely random to constitute luck from the perspective of a system that neither controlled nor reasonably anticipated it.
-
-### Luck and Risk
-
-Risk generally concerns uncertain outcomes whose probabilities can be estimated or modeled.
-
-Luck concerns realized consequential variation and may arise under both measurable risk and deeper uncertainty.
-
-Risk describes a structure of possible outcomes.
-
-Luck concerns how one realized path changes the position or trajectory of an affected system.
-
-### Luck and Uncertainty
-
-Uncertainty is a condition under which multiple futures remain possible or incompletely known.
-
-Luck arises within uncertainty but is not identical to it.
-
-Uncertainty creates the possibility of divergent outcomes.
-
-Luck concerns consequential variation within that space.
-
-### Luck and Opportunity
-
-Luck may alter the opportunities available to a system.
-
-It may:
-
-* create a new possibility,
-* improve access,
-* change timing,
-* remove a constraint,
-* expose a previously hidden option,
-* or eliminate an existing path.
-
-Opportunity is therefore one of the principal mechanisms connecting luck to later outcomes.
-
-### Luck and Outcome
-
-An outcome alone does not reveal how much luck was involved.
-
-Favorable outcomes may result from poor decisions combined with favorable contingencies.
-
-Unfavorable outcomes may follow strong decisions exposed to adverse events.
-
-The project therefore examines trajectories and mechanisms rather than inferring luck solely from success or failure.
-
-### Luck and Capability
-
-Luck and capability are not mutually exclusive explanations.
-
-Luck changes conditions, access, timing, or available possibilities.
-
-Capability affects recognition, response, implementation, learning, and preservation.
-
-Observed outcomes normally emerge through their interaction.
+Observed survival or success is evidence about a realized path, not proof that the surviving system was uniquely capable or that its path was inevitable. Selection may reflect timing, exposure, inherited position, power, environmental fit, and feedback as well as capability.
 
 ---
 
 ## Levels of Analysis
 
-Luck may be investigated at several levels.
+The focal system and level of analysis must be explicit. Relevant levels include:
 
-### Individual
+- individual;
+- team or organization;
+- institution;
+- network or ecosystem;
+- society or political order;
+- and cross-system or civilizational comparison.
 
-An individual may experience unequal exposure to:
+A person may be the focal system in one study and part of an organization’s environment in another. Institutions may be system properties, environmental structures, or focal systems depending on the question. Cross-level movement must be justified rather than left implicit.
 
-* education,
-* health,
-* mentors,
-* information,
-* social networks,
-* opportunities,
-* crises,
-* or historical conditions.
+---
 
-### Organizational
+## Dynamic Orientation
 
-Organizations may encounter favorable or unfavorable:
+A recurring analytical sequence is:
 
-* market timing,
-* technological change,
-* leadership transitions,
-* regulatory developments,
-* discoveries,
-* or competitive conditions.
+```text
+Prior system and environment
+            ↓
+Uncertainty and variation
+            ↓
+Exposure through interaction
+            ↓
+Recognition and response
+            ↓
+Feedback, adaptation, and selection
+            ↓
+Changed state, opportunity set, or trajectory
+            ↓
+Ex post evaluation and comparison with alternatives
+```
 
-### Institutional
+This is a guide, not a universal causal order. Processes may overlap, recur, or alter the environment itself.
 
-Institutions influence how uncertain events are interpreted, distributed, amplified, or absorbed.
+Unrealized opportunities matter because the realized path is only one member of a larger, often partly unobservable possibility set. Counterfactual analysis should be disciplined by the ex ante information and feasible alternatives available to the system.
 
-They may broaden access to favorable opportunities or concentrate both advantage and risk.
+---
 
-### Systemic
+## Current Documents
 
-Scientific communities, technological ecosystems, economies, political systems, and civilizations may experience changes that alter entire opportunity landscapes.
+The directory currently contains the following documents:
 
-The meaning and operation of luck may differ across these levels.
+| Document | Purpose |
+| --- | --- |
+| [01-Defining-Luck.md](01-Defining-Luck.md) | Defines luck within the primitive-based architecture and states the boundaries of the concept. |
+| [02-Taxonomy-of-Luck.md](02-Taxonomy-of-Luck.md) | Provides a multidimensional classification framework without treating categories as mutually exclusive kinds. |
+| [03-Luck-vs-Randomness.md](03-Luck-vs-Randomness.md) | Distinguishes stochastic generation from system-relative consequence. |
+| [04-Luck-Risk-and-Uncertainty.md](04-Luck-Risk-and-Uncertainty.md) | Separates ex ante uncertainty and risk from ex post realization and evaluation. |
+| [05-Origins-and-Mechanisms-of-Luck.md](05-Origins-and-Mechanisms-of-Luck.md) | Reframes “origins” as prior conditions and mechanisms as consequential interactions and dynamic processes. |
+| [10-Working-Primitives.md](10-Working-Primitives.md) | Establishes System, Environment, Interaction, and Uncertainty as the project’s current working primitives. |
 
-The project should therefore avoid moving between individual and system-level explanations without making the level of analysis explicit.
+The numbering gap is retained. No document is created merely to fill it.
 
 ---
 
 ## Relationship to Other Sections
 
-The Research on Luck repository follows a layered architecture.
+Foundations defines the architecture and conceptual distinctions. It does not perform the work assigned to later sections.
 
-```text
-Foundations
-Literature
-Formalization
-Measurement
+- [Literature](../Literature/README.md) locates these concepts within existing scholarship and competing traditions.
+- [Formalization](../Formalization/README.md) expresses relationships among primitives and derived concepts as explicit models or propositions.
+- [Measurement](../Measurement/README.md) connects constructs to observable indicators and identification strategies.
+- [Empirical Studies](../Empirical%20Studies/README.md) examines domain-specific cases in Science, Technology, Business, History, and Politics.
+- [Comparative Studies](../Comparative%20Studies/README.md) evaluates which patterns recur and where domains differ.
+- [General Theory](../General%20Theory/README.md) should contain only relationships that have survived sufficient conceptual, formal, and comparative scrutiny.
 
-        ↓
-
-Empirical Studies
-
-        ↓
-
-Comparative Studies
-
-        ↓
-
-General Theory
-```
-
-Each section performs a distinct role.
-
-### Literature
-
-Literature places the foundational concepts within existing philosophical, psychological, economic, statistical, and interdisciplinary scholarship.
-
-### Formalization
-
-Formalization translates conceptual distinctions into explicit logical, mathematical, computational, causal, or dynamic models.
-
-### Measurement
-
-Measurement examines how theoretical constructs can be connected to observable evidence and defensible empirical methods.
-
-### Empirical Studies
-
-Empirical Studies investigates how the proposed concepts and mechanisms appear across Science, Technology, Business, History, and Politics.
-
-### Comparative Studies
-
-Comparative Studies identifies recurring patterns, differences, and possible cross-domain mechanisms.
-
-### General Theory
-
-General Theory integrates the strongest supported findings into explicit, testable, and revisable propositions.
-
-Foundations provides the vocabulary used by each later layer, but later evidence may also require foundational definitions to be revised.
-
-The relationship is therefore iterative rather than strictly one-directional.
+These relationships are recursive. Later evidence may expose ambiguous definitions, missing relationships, or inappropriate primitive choices and thereby require foundational revision.
 
 ---
 
-## Guiding Principles
+## Guiding Questions
 
-Documents in this directory should:
+Work in this section should continue to ask:
 
-* define key concepts explicitly;
-* use terminology consistently;
-* distinguish events, conditions, mechanisms, and outcomes;
-* distinguish definitions from hypotheses;
-* distinguish individual from system-level analysis;
-* separate descriptive statements from normative judgments;
-* avoid defining luck merely as unexplained variation;
-* avoid inferring luck solely from surprising outcomes;
-* state assumptions and boundaries clearly;
-* acknowledge competing definitions where appropriate;
-* and remain open to revision when later evidence exposes conceptual weaknesses.
-
-Conceptual precision is more valuable than breadth.
-
-A useful definition should clarify investigation rather than absorb every possible phenomenon.
+1. Is the focal system and its boundary explicit?
+2. What constitutes the relevant environment?
+3. Through which interaction did variation become consequential?
+4. What was uncertain, for whom, when, and over what horizon?
+5. Which opportunities, constraints, or trajectories changed?
+6. What could the system reasonably know or control ex ante?
+7. How did capability, institutions, resources, and inherited position mediate the effect?
+8. What feedback or selection processes followed?
+9. Which feasible alternatives remained unrealized?
+10. Does the claim concern a definition, a hypothesis, evidence, or an evaluation?
+11. At what level of analysis does it apply?
+12. What observation could require the claim to be revised?
 
 ---
 
-## Boundaries of the Concept
+## Boundaries and Current Status
 
-The project should not use luck as a universal explanation for everything that is uncertain or unequal.
+The framework does not claim that every consequential event is luck, that all unexplained residuals measure luck, or that the four primitives are complete. Nor does it infer luck solely from surprise, success, failure, or inequality.
 
-The concept becomes analytically weak when it is used to mean:
+The Foundations layer is now conceptually mature enough to guide the next stage of work, but remains deliberately revisable. Its immediate role is to support relationship-centered Formalization and Measurement, followed by a systematic audit of empirical and comparative evidence.
 
-* anything unexpected,
-* any favorable outcome,
-* all unexplained variation,
-* every inherited advantage,
-* or every event outside complete personal control.
-
-A scientifically useful account should specify:
-
-1. the relevant uncertainty;
-2. the contingent variation or exposure;
-3. the affected system;
-4. the opportunity, constraint, or trajectory that changed;
-5. the limits of the system’s prior control;
-6. and the mechanisms through which consequences developed.
-
-Where these elements cannot be specified, the language of luck may remain intuitive but should not be treated as a complete scientific explanation.
-
----
-
-## Current Status
-
-The foundational framework is substantially developed.
-
-The six current documents establish the project’s initial vocabulary, conceptual distinctions, and research questions.
-
-However, the completion of Empirical Studies and Comparative Studies has introduced concepts that require closer integration with the early foundation, particularly:
-
-* opportunity recognition,
-* adaptive capacity,
-* institutional mediation,
-* unrealized opportunities,
-* opportunity migration,
-* and adaptive systems.
-
-Future revisions should therefore focus on conceptual integration rather than simply adding more definitions.
-
-The primary task is to ensure that the Foundations documents consistently support the project’s current opportunity-and-adaptation framework while preserving the importance of uncertainty, contingency, and stochastic variation.
-
----
-
-## Long-Term Goal
-
-The long-term goal of the **Foundations** directory is to provide a stable but revisable conceptual framework for the scientific study of luck.
-
-That framework should explain clearly:
-
-* the conditions under which luck can arise;
-* how luck differs from randomness, risk, and uncertainty;
-* how contingent variation changes opportunities and constraints;
-* how luck interacts with capability, institutions, and inherited position;
-* and why its consequences must be studied through evolving trajectories rather than isolated outcomes.
-
-The Foundations directory should not attempt to settle every theoretical or empirical question.
-
-Its purpose is to make those questions precise enough that later sections of the repository can investigate them systematically.
-
-A strong foundation is not one that never changes.
-
-It is one that changes carefully, preserves conceptual consistency, and becomes more precise as the research program develops.
-
+A strong foundation is not one that never changes. It is one whose concepts are explicit enough to be criticized, operationalized, compared, and improved.
