@@ -118,7 +118,7 @@ History therefore reflects multiple possible paths rather than inevitable progre
 
 # Luck and Industrialization
 
-Luck influenced industrialization in several important ways.
+Industrialization was exposed to consequential uncertainty in several important ways.
 
 Natural resource distribution, geographic location, scientific discoveries, political developments, and international conflicts all affected the opportunities available to different societies.
 
