@@ -129,9 +129,23 @@ Yet these contingent events occurred within broader structural changes.
 
 Technological capability, institutional support, commercial incentives, and accumulated geographical knowledge determined whether fortunate discoveries could be sustained and expanded.
 
-Luck created unexpected discoveries.
+Contingent encounters and environmental conditions altered particular voyages and exposures. Their wider effects arose through institutions, military and commercial power, disease ecologies, coercion, resistance, and further uncertainty.
 
-Institutions transformed discoveries into lasting historical change.
+---
+
+# Architecture-Alignment Assessment
+
+## Boundary, Perspective, and Levels
+
+“The Age of Exploration” privileges one perspective unless the focal systems and interactions are named. Voyaging states, commercial organizations, ships, Indigenous polities, trade networks, and disease ecologies operated at different levels. Lands and societies were not newly created opportunities; European actors gained changing access to places already inhabited and connected through existing systems.
+
+## Opportunity, Constraint, and Power
+
+Potential, access, recognition, pursuit, realization, and foreclosure differed sharply among participants. Maritime capabilities enabled voyages, while military violence, legal claims, forced labor, enslavement, epidemic disease, and extraction constrained or destroyed others’ opportunity sets. Competition could generate experimentation but also conquest and cumulative disadvantage. “Development” must therefore specify for whom, at what level, and by what evaluative standard.
+
+## Ex Ante Uncertainty and Alternative Trajectories
+
+Voyages faced uncertainty about routes, weather, finance, survival, political support, encounters, and returns. Many expeditions and settlement projects failed or remained unrealized, so famous successes form a selected sample. Feasible counterfactuals include different trading arrangements, stronger resistance, altered disease transmission, failed state sponsorship, and alternative maritime powers. The case presently identifies relational mechanisms; it does not establish that institutional capacity was sufficient or that observed dominance demonstrated superior capability.
 
 ---
 
@@ -155,7 +169,7 @@ Finally, historical transformation occurs not simply through discovery, but thro
 
 The Age of Exploration reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck may reveal new possibilities, but long-term historical transformation depends upon the institutional, technological, and economic capacity to convert discovery into sustained development.
+> Luck may be attributed ex post to consequential uncertainty in voyages and encounters. What followed depended on access, power, institutions, technology, disease, resistance, and the unequal capacity to pursue or foreclose possibilities.
 
 Unlike the Black Death, which illustrates transformation through disruption; the Industrial Revolution, through technological convergence; the Meiji Restoration, through institutional adaptation; and the fall of the Soviet Union, through systemic transition, the Age of Exploration demonstrates a fifth mechanism of historical change: **the expansion of the opportunity landscape itself**.
 
