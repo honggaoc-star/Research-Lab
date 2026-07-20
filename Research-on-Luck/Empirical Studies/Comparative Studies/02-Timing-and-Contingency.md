@@ -171,6 +171,6 @@ Timing and contingency represent the second candidate cross-domain mechanism ide
 
 The evidence accumulated across all empirical domains supports a broader proposition:
 
-> Luck influences adaptive systems primarily by altering the timing and conditions under which opportunities emerge. Long-term success depends not upon controlling contingent events, but upon developing the capacity to recognize, evaluate, and respond effectively as those events reshape the adaptive landscape.
+> Consequential uncertainty alters the timing and conditions under which opportunities become feasible. Recognition and response are candidate contributors to realization, not sufficient explanations of long-term success.
 
 This comparative perspective demonstrates that timing and contingency are not isolated historical accidents. They are cross-domain characteristics of adaptive systems operating under uncertainty, influencing discovery, innovation, institutional development, governance, and societal evolution alike.
