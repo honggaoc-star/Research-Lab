@@ -124,7 +124,7 @@ Learning depends as much upon understanding unrealized possibilities as celebrat
 
 # Unrealized Opportunities and Luck
 
-Luck creates far more opportunities than adaptive systems are capable of realizing.
+The set of feasible opportunities may exceed what bounded systems can access, recognize, pursue, and realize.
 
 Unexpected discoveries, crises, technological convergence, economic transformation, demographic change, and political events continually generate new possibilities.
 
@@ -137,7 +137,7 @@ Adaptive systems differ primarily in:
 * Decision-making.
 * Coordination.
 
-Luck expands the opportunity landscape.
+System–environment change can expand, redistribute, transform, or contract the opportunity landscape.
 
 Adaptive capability determines how much of that landscape becomes reality.
 
@@ -177,7 +177,7 @@ Unrealized opportunities represent the sixth candidate cross-domain mechanism id
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck continually generates a far larger universe of opportunities than adaptive systems ultimately realize. Long-term success depends less upon the quantity of opportunities available than upon the capacity to recognize, evaluate, coordinate, and adapt before those opportunities migrate elsewhere or disappear.
+> Feasible opportunity sets may exceed realized paths. Explaining realization requires evidence on access, recognition, pursuit, coordination, constraints, timing, foreclosure, and environmental response.
 
 This comparative perspective demonstrates that unrealized opportunities are not peripheral to understanding luck—they are central to it. Across every empirical domain, adaptive systems reveal themselves as much through the opportunities they miss as through the successes they achieve.
 
