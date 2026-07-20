@@ -93,9 +93,9 @@ Organizations reshape ecosystems, while evolving ecosystems reshape organization
 
 ---
 
-# Ecosystems and Luck
+# Ecosystem Uncertainty, Contingency, and Luck Attribution
 
-Luck affects ecosystems in multiple ways.
+Ecosystems are exposed to consequential uncertainty in multiple ways.
 
 Unexpected scientific discoveries, technological breakthroughs, geopolitical events, demographic shifts, and economic disruptions can alter entire industries rather than individual firms.
 
@@ -107,7 +107,7 @@ Others encounter new competitive pressures.
 
 Prepared organizations often appear fortunate because their capabilities align with newly emerging ecosystem conditions.
 
-Luck therefore influences both the evolution of ecosystems and the distribution of opportunities within them.
+Luck attribution may be warranted ex post when consequential uncertainty changes ecosystem trajectories or distributes opportunities unevenly. The attribution does not replace analysis of the events, relationships, and mechanisms involved.
 
 ---
 
@@ -168,8 +168,8 @@ Business ecosystem evolution represents the final mechanism examined within the 
 
 The evidence developed throughout the empirical and thematic cases supports a broader proposition:
 
-> Luck is not experienced solely by individual organizations. It operates through evolving business ecosystems that continuously reshape the distribution of opportunities across firms, industries, and markets.
+> Luck can be evaluated at more than one level of analysis. At the ecosystem level, attribution concerns how consequential uncertainty reshaped a bounded network and redistributed opportunities among participants.
 
-Business success therefore emerges from a dynamic interaction among opportunity recognition, strategic timing, organizational adaptation, resource reallocation, ecosystem evolution, and chance. Organizations do not simply respond to luck—they participate in creating the environments in which future opportunities become possible.
+Business trajectories reflect interactions among opportunity recognition, timing, adaptation, resource reallocation, ecosystem evolution, and consequential uncertainty. Organizations respond to changing conditions and may also help create or constrain the environments in which later opportunities become possible.
 
 This perspective completes the Business v2.0 framework and prepares the foundation for the concluding **Comparative Synthesis**, where recurring mechanisms across all business cases are integrated into a unified understanding of luck, opportunity, and long-term organizational success.
