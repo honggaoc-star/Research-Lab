@@ -26,7 +26,7 @@ However, opportunity alone does not determine business outcomes.
 
 ## Recognition Precedes Realization
 
-Every successful business first recognized an opportunity that others either overlooked or underestimated.
+Across the successful cases in the present corpus, opportunity recognition appears repeatedly before realization, although the strength and exclusivity of that recognition vary.
 
 Recognition depended upon:
 
@@ -36,7 +36,7 @@ Recognition depended upon:
 * Market observation.
 * Strategic interpretation.
 
-Organizations observing similar external conditions frequently reached different conclusions because opportunity recognition is fundamentally an interpretive process rather than a simple consequence of information availability.
+Organizations exposed to similar external conditions often reached different conclusions, suggesting that interpretation, prior knowledge, incentives, and organizational position mediate recognition.
 
 ---
 
@@ -181,9 +181,9 @@ Instead, luck operates by influencing:
 * Technological convergence.
 * Economic uncertainty.
 
-Organizations differ primarily in their ability to respond to these evolving conditions.
+Organizations differ in their exposure, inherited position, resources, power, and response capacity; the current cases suggest that adaptive response is one important mediator among these factors.
 
-Luck therefore changes the landscape of opportunity, while organizational capability determines how effectively that landscape is navigated.
+Luck-related variation changes the opportunity landscape, while organizational capability, constraints, institutions, competitor actions, and feedback jointly shape how that landscape is navigated.
 
 ---
 
@@ -208,10 +208,40 @@ This convergence suggests that the mechanisms governing business success are not
 
 ---
 
+# Architecture-Alignment Assessment
+
+## Sampling and survivorship
+
+The Business corpus is necessarily vulnerable to outcome selection because prominent firms leave richer records than failed, acquired, privately held, or unrealized ventures. Claims derived mainly from successful firms should be interpreted as relationships observed among selected survivors rather than general laws of business performance.
+
+## Capability–outcome separation
+
+Strategic quality, adaptive capacity, and managerial capability should be supported by evidence available before or during the focal transition. Market value, survival, or later prominence should not serve as circular indicators of capability.
+
+## Relationship evidence
+
+The synthesis provides recurring evidence that:
+
+* environmental change creates or redistributes potential opportunities;
+* interpretation mediates recognition;
+* timing and resource allocation enable or constrain pursuit;
+* organizational adaptation affects realization and persistence;
+* ecosystems and institutions generate feedback.
+
+These patterns are descriptively recurrent and mechanism-suggestive. Their causal strength varies across cases and has not been established through a common identification design.
+
+## Unrealized alternatives and competing explanations
+
+Future case audits should identify rejected strategies, failed entrants, inaccessible opportunities, competitor responses, capital constraints, and regulatory advantages. Alternative explanations include market power, inherited position, selection, acquisition, macroeconomic change, and retrospective narrative.
+
+The domain currently supports bounded candidate relationships, not a universal formula for business success.
+
+---
+
 # Conclusion
 
 The comparative evidence developed throughout this repository supports a central proposition of the *Research on Luck* project:
 
 > Business success is neither the product of luck alone nor the inevitable consequence of managerial skill. It emerges through the repeated interaction of opportunity, recognition, timing, resource allocation, organizational adaptation, ecosystem evolution, institutional context, and chance.
 
-This perspective replaces the traditional search for single causes with a dynamic systems framework. Luck is best understood not as an isolated event, but as one component of an adaptive process in which opportunities continuously emerge, evolve, and redistribute across organizations. Long-term success belongs not to those who encounter the greatest number of opportunities, but to those who most consistently recognize, adapt to, and realize them as the business environment changes.
+This perspective replaces the traditional search for single causes with a dynamic systems framework. Luck is best understood not as an isolated event, but as one component of an adaptive process in which opportunities continuously emerge, evolve, and redistribute across organizations. Within the current corpus, sustained performance appears associated with repeated recognition, adaptation, resource allocation, and realization, but these relationships remain conditioned by selection, inherited advantage, institutions, and environmental feedback.
