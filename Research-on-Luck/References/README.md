@@ -4,12 +4,13 @@
 
 The **References** directory is the evidence infrastructure of **Research on Luck**. Literature synthesizes scholarly traditions; References establishes how sources support particular conceptual, empirical, comparative, and theoretical claims.
 
-The directory currently contains this README, the first bounded evidence map, and the first episode-level source packet. Proposed subfolders are not part of the live repository and should not be created until the evidence workflow demonstrates a need.
+The directory currently contains the first evidence map and the first validation episode’s source-construction and coder materials. Proposed subfolders should not be created until the workflow demonstrates a need.
 
 ## Current Inventory
 
-- [01 — Proposition-to-Evidence Map, Tranche 1](01-Proposition-to-Evidence-Map.md) — evaluates Propositions 4, 6, 7, and 19 using selected internal cases, identifies competing explanations and missing evidence, and recommends bounded validation studies.
-- [02 — Fleming and Penicillin Pre-Outcome Evidence Packet](02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md) — assembles the first bounded source register and preliminary Pass A coding for Validation Study 1 while quarantining later outcome evidence.
+- [01 — Proposition-to-Evidence Map, Tranche 1](01-Proposition-to-Evidence-Map.md) — evaluates Propositions 4, 6, 7, and 19, including competing explanations, missing evidence, and bounded validation priorities.
+- [02 — Fleming and Penicillin Pre-Outcome Evidence Dossier](02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md) — freezes the FLEM-01 Pass A boundary, separates four candidate opportunities, records page-specific primary evidence, and quarantines later outcomes and builder interpretations.
+- [03 — Fleming and Penicillin Pass A Coder Packet](03-Fleming-Penicillin-Pass-A-Coder-Packet.md) — provides a clean independent-coding instrument using only Fleming’s complete 1929 paper.
 
 ## Evidence Priorities
 
@@ -43,18 +44,16 @@ For each material claim, record where feasible:
 
 - the exact claim supported;
 - source identity and stable locator;
-- source type;
-- publication date;
+- source type and publication date;
 - relevant page, section, table, or record;
 - whether support is direct or inferential;
 - known limitations;
-- and competing sources.
+- competing sources;
+- and outcome-leakage status.
 
 Quotations should be limited and used only when wording itself matters.
 
 ## Evidence Map
-
-The planned proposition-to-evidence map should connect:
 
 | Field | Purpose |
 |---|---|
@@ -67,7 +66,7 @@ The planned proposition-to-evidence map should connect:
 | Source quality | Distinguishes primary, secondary, and contextual support |
 | Current status | Retain, narrow, reclassify, test, or reject |
 
-This map should be developed before creating an elaborate folder taxonomy.
+This map should develop before an elaborate folder taxonomy.
 
 ## Relationship to Repository Sections
 
@@ -81,30 +80,31 @@ This map should be developed before creating an elaborate folder taxonomy.
 
 ## Selection and Disagreement
 
-Reference collection should actively guard against:
+Reference collection should guard against:
 
 - citing only successful or surviving cases;
 - relying only on sources aligned with the project’s interpretation;
 - using later narratives to reconstruct ex ante knowledge;
 - substituting biographies or popular accounts for decision-level evidence;
-- and treating absence of documentation as evidence that an opportunity did not exist.
+- treating absence of documentation as evidence that an opportunity did not exist;
+- and allowing source-packet builders to predetermine coder judgments.
 
-Where scholarship disagrees, the disagreement should be represented rather than resolved through selective citation.
+Where evidence or scholarship disagrees, preserve the disagreement.
 
 ## Reproducibility and Stability
 
 Prefer stable scholarly identifiers, archival locators, permanent dataset identifiers, and official records. Record access dates for changeable web sources.
 
-Datasets, code, and derived evidence should eventually include provenance, transformation steps, version information, and licensing constraints.
+Validation packets should be versioned and frozen before coding. New evidence should trigger a documented inclusion and recoding decision rather than silently changing the packet.
 
 ## Current Status
 
-The conceptual architecture is sufficiently stable for systematic evidence development. Comprehensive citation work was previously deferred; it is now the project’s highest-priority substantive task.
+The first evidence map, reusable recognition instrument, FLEM-01 source dossier, and clean Pass A coder packet are complete.
 
-The first bounded evidence map, reusable recognition-episode instrument, and preliminary Fleming packet are complete. The next deliverable should complete and independently code the Fleming Pass A packet before expanding the pilot to its remaining episodes or the map to all 22 propositions.
+The next deliverable is two locked, independent Pass A coding records. Only after both are complete should Pass B evidence be released. Expansion to cold fusion, Betamax, Microsoft, or Kodak should wait until the first coding disagreement and adjudication cycle has tested the instrument.
 
 ## Long-Term Goal
 
 References should make every important claim easier to inspect, contest, reproduce, and revise.
 
-The quality of this directory will be measured by traceability and evidentiary balance, not by source count.
+The quality of this directory will be measured by traceability and evidentiary balance, not source count.
