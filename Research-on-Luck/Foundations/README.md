@@ -182,7 +182,7 @@ Foundations defines the architecture and conceptual distinctions. It does not pe
 - [Formalization](../Formalization/README.md) expresses relationships among primitives and derived concepts as explicit models or propositions.
 - [Measurement](../Measurement/README.md) connects constructs to observable indicators and identification strategies.
 - [Empirical Studies](../Empirical%20Studies/README.md) examines domain-specific cases in Science, Technology, Business, History, and Politics.
-- [Comparative Studies](../Comparative%20Studies/README.md) evaluates which patterns recur and where domains differ.
+- **Comparative Studies** evaluates which patterns recur and where domains differ.
 - [General Theory](../General%20Theory/README.md) should contain only relationships that have survived sufficient conceptual, formal, and comparative scrutiny.
 
 These relationships are recursive. Later evidence may expose ambiguous definitions, missing relationships, or inappropriate primitive choices and thereby require foundational revision.
