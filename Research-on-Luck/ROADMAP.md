@@ -2,314 +2,144 @@
 
 ## Purpose
 
-This roadmap outlines the long-term development strategy of the **Research on Luck** project.
+This roadmap defines priorities after the Version 2.1 architectural alignment. The project has sufficient conceptual breadth. Its next gains should come from stronger evidence, identification, integration, and disciplined revision.
 
-The objective is **not** to maximize the number of empirical domains, documents, or theoretical concepts.
+Expansion is not the default.
 
-Instead, the project seeks to develop an increasingly rigorous comparative research program for understanding how contingent variation influences adaptive systems operating under uncertainty.
+## Completed Structural Work
 
-Future development will therefore be guided by:
+The established architecture now includes:
 
-* empirical evidence,
-* theoretical necessity,
-* conceptual consistency,
-* and scientific refinement.
+- primitive-based Foundations;
+- relationship-centered Formalization;
+- aligned Measurement;
+- five empirical domains: Science, Technology, Business, History, and Politics;
+- Comparative Studies nested within Empirical Studies;
+- General Theory Version 2.1;
+- and repository-level design and figure infrastructure.
 
-Expansion is justified only when it improves explanation.
+Original document layers have been preserved where intellectual history warranted preservation, with additive series used for the new architecture.
 
----
+## Current Phase
 
-# Current Status
+The project is entering an **evidence-strengthening and integration phase**.
 
-The repository has completed its primary research architecture.
+The main question is no longer whether more concepts or cases can be added. It is whether the existing propositions can be specified, measured, compared, challenged, and supported more rigorously.
 
-## Conceptual Foundation
+## Priority 1 — Evidence and Citations
 
-* ✓ Foundations
-* ✓ Literature
-* ✓ Formalization
-* ✓ Measurement
+- Attach authoritative and scholarly sources to material factual claims.
+- Distinguish primary evidence from secondary interpretation.
+- Record competing historical and disciplinary explanations.
+- Identify claims supported only by illustrative narrative.
+- Add evidence concerning failed, excluded, and non-surviving cases.
+- Improve traceability from propositions to supporting and disconfirming evidence.
 
-## Empirical Investigation
+Citation expansion should proceed claim-by-claim rather than through undifferentiated bibliography growth.
 
-* ✓ Science
-* ✓ Technology
-* ✓ Business
-* ✓ History
-* ✓ Politics
+## Priority 2 — Identification and Validation
 
-## Comparative Integration
+Convert candidate relationships into bounded research designs, especially:
 
-* ✓ Comparative Studies
+- exposure and opportunity access;
+- recognition and pursuit;
+- capability and response;
+- learning and observed improvement;
+- feedback and amplification;
+- path dependence and lock-in;
+- institutional redistribution;
+- and luck attribution relative to feasible alternatives.
 
-## Theoretical Development
+Each design should state the focal system, boundary, level, time horizon, information set, mechanisms, competing explanations, indicators, and evidence that would weaken the claim.
 
-* ✓ General Theory (Version 2.0)
+## Priority 3 — Selection and Counterfactual Evidence
 
-The repository now contains a complete conceptual, methodological, empirical, comparative, and theoretical framework.
+Deepen treatment of:
 
-The next phase emphasizes refinement rather than structural expansion.
+- survivorship and winner selection;
+- unsuccessful and unrealized opportunities;
+- nonresponse and foreclosure;
+- plausible alternative trajectories;
+- reference-class construction;
+- and feasible ex ante alternatives versus hindsight speculation.
 
----
+This priority directly addresses the risk of inferring capability from success, survival, fame, or institutional persistence.
 
-# Development Philosophy
+## Priority 4 — Repository Integration
 
-The project follows several long-term principles.
+Complete a consistency check covering terminology, inventories, relative links, version labels, scope statements, diagrams, summaries, and public-facing contribution claims.
 
-## 1. Refinement Before Expansion
+Stale plans should be documented as superseded rather than silently converted into new files.
 
-The principal task is no longer adding new material.
+## Priority 5 — Figures and Communication
 
-It is improving:
+Figure 1 should be regenerated to reflect:
 
-* conceptual precision,
-* empirical support,
-* theoretical consistency,
-* cross-domain integration,
-* and methodological rigor.
+- four primitives without false causal ordering;
+- the layered architecture;
+- recursive and nonmandatory relationships;
+- luck potential, realization, and attribution;
+- capability–outcome separation;
+- and feedback across multiple layers.
 
-Future expansion should occur only when it produces demonstrable scientific value.
+Additional figures should be created only when they clarify relationships that prose or tables cannot communicate adequately.
 
----
+## Priority 6 — Bounded Formal and Empirical Tests
 
-## 2. Mechanisms Before Topics
+Formalization and Measurement already contain aligned additive 10–15 series. The next task is application, not another document series.
 
-Empirical domains exist to investigate adaptive mechanisms.
+Candidate designs include structured comparison, longitudinal state-transition analysis, process tracing, network analysis, bounded counterfactuals, stochastic or state-space models where justified, and agent-based formulations for distributed interaction.
 
-They are not intended to provide comprehensive coverage of every field in which luck appears.
+The method should follow the question.
 
-Additional domains should therefore be added only when they reveal mechanisms that cannot be investigated adequately within the existing five-domain framework.
+## Deferred Work
 
----
+The following are intentionally deferred:
 
-## 3. Evidence Before Theory
+- adding empirical domains;
+- producing a universal quantitative luck index;
+- asserting scale-independent mechanisms;
+- expanding General Theory through placeholder files;
+- and transferring the architecture wholesale to Dynamic Social Systems.
 
-General Theory should continue evolving through empirical investigation.
+Transfer to Dynamic Social Systems should occur later through a separate audit of which distinctions genuinely improve that project.
 
-Comparative recurrence provides evidence.
+## Scope Guardrails
 
-It does not automatically establish universal validity.
+The empirical scope remains:
 
-Future theoretical refinement should therefore remain closely tied to:
+- Science
+- Technology
+- Business
+- History
+- Politics
 
-* comparative evidence,
-* competing explanations,
-* methodological improvement,
-* and empirical criticism.
+Finance, Organizations, Applications, and additional topical domains should not be reintroduced without a demonstrated need that cannot be met within the present scope.
 
----
+## Milestones
 
-## 4. Integration Before Complexity
+### A — Architectural Integration
 
-The project should avoid unnecessary conceptual expansion.
+Complete when root navigation, Design, Figures, positioning, contributions, Literature, and References reflect Version 2.1.
 
-Adding more concepts, models, or mechanisms does not necessarily improve explanation.
+### B — Evidence Map
 
-Future development should prioritize stronger integration among existing components before introducing additional complexity.
+Create a proposition-to-evidence map identifying supporting cases, negative cases, competing explanations, source quality, and gaps.
 
----
+### C — Bounded Validation Studies
 
-## 5. Revision as a Scientific Principle
+Select a small number of relationships for full formalization, operationalization, and empirical evaluation.
 
-The framework is intentionally provisional.
+### D — Theory Review
 
-Concepts, mechanisms, measurements, and theoretical propositions should all remain open to revision when new evidence or better explanations emerge.
+Reassess all 22 propositions after validation studies. Promote, narrow, reclassify, or remove them according to evidence.
 
-Scientific progress depends upon disciplined correction rather than conceptual permanence.
+### E — Cross-Project Transfer Review
 
----
+Evaluate whether distinctions such as system/trajectory, capability/outcome, selection/superiority, adaptation/beneficial change, and ex ante/ex post should enhance Dynamic Social Systems.
 
-# Near-Term Priorities
+## Standard for Progress
 
-The next stage of development should focus primarily on repository quality.
+Progress should be judged by stronger evidence, clearer boundaries, improved measurement validity, discrimination among competing explanations, explicit negative cases, and willingness to narrow claims.
 
-## High Priority
-
-### Repository Synchronization
-
-Continue aligning all documents with the completed repository architecture.
-
-Priority tasks include:
-
-* consistent terminology,
-* updated workflow diagrams,
-* improved cross-references,
-* and removal of obsolete material.
-
----
-
-### General Theory Refinement
-
-Continue strengthening:
-
-* theoretical propositions,
-* conceptual boundaries,
-* supporting evidence,
-* and links to Comparative Studies.
-
----
-
-### Conceptual Consistency
-
-Review the repository for consistent use of terms including:
-
-* luck,
-* uncertainty,
-* contingency,
-* opportunity,
-* adaptive capacity,
-* institution,
-* learning,
-* path dependence,
-* trajectory,
-* and unrealized opportunity.
-
----
-
-### Evidence Strengthening
-
-Expand scholarly references supporting:
-
-* empirical claims,
-* historical interpretation,
-* theoretical mechanisms,
-* and comparative conclusions.
-
-The project's long-term credibility depends increasingly upon evidence rather than conceptual development alone.
-
----
-
-# Medium-Term Priorities
-
-## Comparative Refinement
-
-Continue strengthening comparison among the completed empirical domains.
-
-Future work should include:
-
-* clearer comparison tables,
-* stronger cross-domain references,
-* improved visualization,
-* and additional analysis of competing explanations.
-
----
-
-## Formalization Version 2.0
-
-The completed empirical work suggests opportunities for expanding the formal mechanisms.
-
-Potential future topics include:
-
-* adaptive capacity,
-* opportunity recognition,
-* opportunity evolution,
-* institutional learning,
-* recursive adaptation,
-* and unrealized opportunity spaces.
-
-Such additions should be driven by empirical need rather than mathematical completeness.
-
----
-
-## Measurement Version 2.0
-
-Continue developing empirical methodologies for investigating:
-
-* opportunity recognition,
-* adaptive capacity,
-* institutional mediation,
-* unrealized opportunities,
-* longitudinal trajectories,
-* and mixed-method comparative analysis.
-
----
-
-# Long-Term Research Opportunities
-
-Additional empirical domains remain possible.
-
-Examples might include:
-
-* culture,
-* education,
-* healthcare,
-* environmental adaptation,
-* law,
-* or international relations.
-
-However, such expansion should occur only if these domains contribute genuinely new adaptive mechanisms beyond those already represented.
-
-The criterion is explanatory value rather than topical completeness.
-
----
-
-# Evidence Development
-
-As the project matures, increasing effort should be devoted to strengthening empirical support.
-
-Important future activities include:
-
-* expanding scholarly references,
-* incorporating competing interpretations,
-* improving historical documentation,
-* identifying disconfirming evidence,
-* and strengthening methodological transparency.
-
-A mature research program depends as much upon evidence quality as conceptual originality.
-
----
-
-# Theoretical Development
-
-General Theory should continue evolving through interaction with empirical evidence.
-
-Future refinement should seek to:
-
-* clarify boundary conditions,
-* identify competing mechanisms,
-* distinguish stronger from weaker propositions,
-* improve testability,
-* and reduce unnecessary generalization.
-
-The objective is progressively stronger explanation rather than progressively broader theory.
-
----
-
-# Repository Development
-
-Future repository improvements should emphasize quality.
-
-Examples include:
-
-* stronger navigation,
-* improved diagrams,
-* repository-wide glossary,
-* consistent terminology,
-* enhanced cross-linking,
-* citation management,
-* and clearer relationships among documents.
-
-These improvements increase coherence without requiring major conceptual expansion.
-
----
-
-# Long-Term Vision
-
-The long-term ambition of the **Research on Luck** project is not to become the largest collection of material concerning luck.
-
-Its goal is to become a coherent comparative research program capable of explaining how contingent variation influences adaptive systems across multiple domains of human activity.
-
-Success should therefore be evaluated according to:
-
-* conceptual clarity,
-* empirical quality,
-* methodological rigor,
-* comparative integration,
-* theoretical discipline,
-* and openness to revision.
-
-The project should mature by improving the quality of its explanations rather than continually expanding its scope.
-
-In this sense, the roadmap reflects one of the project's own central conclusions:
-
-> Adaptive systems achieve long-term success not by expanding indefinitely, but by continually improving how they learn, integrate, and respond to changing environments.
+More files, more cases, and broader scope are not progress unless they materially improve those standards.
