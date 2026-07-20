@@ -71,9 +71,9 @@ Political systems balance competing interests under changing circumstances.
 
 The comparative evidence therefore supports multi-causal rather than mono-causal explanations.
 
-Luck represents one component of these interactions.
+Luck attribution evaluates one aspect of these interactions ex post.
 
-It should not be interpreted as an exclusive causal factor.
+It should not be interpreted as a causal factor.
 
 ---
 
@@ -162,6 +162,16 @@ Finally, the framework is strongest when used to explain adaptive processes rath
 
 ---
 
+# Architecture-Alignment Note
+
+Under the current architecture, luck is neither a component mechanism nor an unobserved causal factor. It is an ex post relational evaluation of how consequential uncertainty affected a specified system’s trajectory relative to a reference and feasible alternatives. Measurement therefore concerns exposure, uncertainty, state transitions, opportunity stages, responses, outcomes, and attribution—not the direct observation of a quantity called luck.
+
+The framework is not normatively neutral merely because it avoids prescribing one institutional form. Choices of system boundary, outcome, reference class, time horizon, counterfactual, and affected population contain evaluative commitments. These choices should be made explicit rather than treated as technical details.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
 Examining the limits of the Luck framework represents an essential stage in developing a rigorous empirical research program.
@@ -172,6 +182,6 @@ The comparative evidence accumulated across Science, Technology, Business, Histo
 
 Recognizing these limitations strengthens the overall framework by clarifying its appropriate scope.
 
-Rather than presenting luck as a universal explanation, the *Research on Luck* project proposes a more modest but more robust conclusion: luck is one of the fundamental mechanisms operating within adaptive systems, whose influence becomes understandable only when examined alongside the broader processes of learning, institutional evolution, and continuous adaptation.
+Rather than presenting luck as a universal explanation, the *Research on Luck* project proposes a more modest but more robust conclusion: luck is a relational ex post evaluation within the analysis of adaptive systems, whose influence becomes understandable only when examined alongside the broader processes of learning, institutional evolution, and continuous adaptation.
 
 This perspective provides a disciplined empirical foundation while leaving room for continued theoretical refinement within the broader study of complex adaptive social systems.
