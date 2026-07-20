@@ -4,11 +4,12 @@
 
 The **References** directory is the evidence infrastructure of **Research on Luck**. Literature synthesizes scholarly traditions; References establishes how sources support particular conceptual, empirical, comparative, and theoretical claims.
 
-The directory currently contains this README and the first bounded evidence map. Proposed subfolders are not part of the live repository and should not be created until the evidence workflow demonstrates a need.
+The directory currently contains this README, the first bounded evidence map, and the first episode-level source packet. Proposed subfolders are not part of the live repository and should not be created until the evidence workflow demonstrates a need.
 
 ## Current Inventory
 
 - [01 — Proposition-to-Evidence Map, Tranche 1](01-Proposition-to-Evidence-Map.md) — evaluates Propositions 4, 6, 7, and 19 using selected internal cases, identifies competing explanations and missing evidence, and recommends bounded validation studies.
+- [02 — Fleming and Penicillin Pre-Outcome Evidence Packet](02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md) — assembles the first bounded source register and preliminary Pass A coding for Validation Study 1 while quarantining later outcome evidence.
 
 ## Evidence Priorities
 
@@ -100,7 +101,7 @@ Datasets, code, and derived evidence should eventually include provenance, trans
 
 The conceptual architecture is sufficiently stable for systematic evidence development. Comprehensive citation work was previously deferred; it is now the project’s highest-priority substantive task.
 
-The first bounded evidence map is complete. The next deliverable should operationalize one of its recommended validation studies before expanding the map to all 22 propositions.
+The first bounded evidence map, reusable recognition-episode instrument, and preliminary Fleming packet are complete. The next deliverable should complete and independently code the Fleming Pass A packet before expanding the pilot to its remaining episodes or the map to all 22 propositions.
 
 ## Long-Term Goal
 
