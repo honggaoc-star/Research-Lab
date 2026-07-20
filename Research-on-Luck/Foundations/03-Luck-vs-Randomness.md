@@ -1,181 +1,273 @@
 # Luck vs. Randomness
 
-## Abstract
+## Purpose
 
-Luck and randomness are frequently used interchangeably in both everyday language and academic discourse. This conflation has obscured important conceptual distinctions and limited the development of a rigorous scientific understanding of luck.
+This document distinguishes randomness from luck within the working-primitives architecture.
 
-This paper argues that while randomness may generate conditions under which luck arises, the two concepts are fundamentally different. Randomness describes the properties of events or processes, whereas luck describes the relationship between uncertain events and meaningful outcomes experienced by individuals or organizations.
+The distinction is essential because the two concepts answer different questions:
 
-Establishing this distinction provides an essential conceptual foundation for subsequent theoretical, mathematical, and empirical research.
+- **Randomness** concerns how variation is generated, represented, or predicted.
+- **Luck** concerns how variation under uncertainty becomes consequential for a specified system through interaction with an environment.
 
----
+Randomness may contribute to luck, but it is neither necessary nor sufficient.
 
-# 1. Introduction
-
-Many discussions assume that luck is simply another name for randomness.
-
-Examples include statements such as:
-
-* "Winning the lottery is random."
-* "Scientific discoveries happen by chance."
-* "Business success is mostly luck."
-
-These statements often blur two distinct concepts.
-
-Randomness describes uncertainty in the occurrence of events.
-
-Luck describes the significance of those events with respect to a particular outcome.
-
-Understanding this distinction is essential if luck is to become a scientifically useful concept.
+See [10-Working-Primitives.md](10-Working-Primitives.md) for the underlying concepts of **System, Environment, Interaction, and Uncertainty**, and [01-Defining-Luck.md](01-Defining-Luck.md) for the project’s working definition.
 
 ---
 
-# 2. What Is Randomness?
+## 1. Randomness
 
-Randomness is a property of a process or event.
+“Randomness” can refer to several different claims.
 
-An event is considered random when its occurrence cannot be predicted with certainty before it happens, even when the governing process is understood.
+### Ontological randomness
+
+A process is taken to be genuinely indeterminate rather than fixed by prior conditions.
+
+### Statistical randomness
+
+Outcomes are represented by a probability distribution or exhibit properties modeled as random.
+
+### Epistemic randomness
+
+A process appears random because the observer lacks information or a reliable model.
+
+### Operational randomness
+
+Treating a process as random is useful for prediction or inference even if its ultimate metaphysical status is unresolved.
+
+These meanings should not be silently exchanged. The Research on Luck project does not require a final position on whether all relevant variation is fundamentally indeterminate.
+
+---
+
+## 2. Luck
+
+The project defines luck as:
+
+> **Consequential variation in a system’s state, relationships, accessible opportunities, constraints, or trajectory arising through interactions under uncertainty and not fully determined by the system’s prior intentions, capabilities, or actions.**
+
+This is a relational claim.
+
+A process may be random without affecting a focal system. Conversely, a fully caused and potentially predictable event may constitute luck for a system that neither determined it nor reasonably knew or controlled its exposure and consequences.
+
+---
+
+## 3. Comparison
+
+| Dimension | Randomness | Luck |
+| --- | --- | --- |
+| Primary question | How is variation generated or represented? | How does uncertain variation affect a system? |
+| Focal object | Process, sequence, or distribution | System–environment relationship and trajectory |
+| Consequence required? | No | Yes |
+| System-relative? | Not necessarily | Yes |
+| Evaluation required? | No | Required for “good” or “bad,” but not for identifying consequential variation |
+| Pure stochasticity required? | Often relevant | No |
+| Interaction required? | No | Yes, at least as exposure or effect |
+| Ex ante/ex post distinction | Useful | Essential |
+| Agency and capability | Usually external to the concept | Mediate recognition, response, and consequence |
+
+---
+
+## 4. Randomness Without Luck
+
+Randomness is not sufficient for luck.
 
 Examples include:
 
-* Rolling a die
-* Radioactive decay
-* Thermal noise
-* Lottery drawings
+- molecular variation that never affects a focal system;
+- a random number generated and discarded;
+- shuffled options when every option has equivalent consequence;
+- stochastic noise absorbed by a resilient institution;
+- or variation too small to alter any relevant state or trajectory.
 
-Randomness is therefore concerned with **how events occur**, not **whether they are beneficial or harmful**.
+A process can be genuinely random yet inconsequential.
 
-Randomness possesses no intrinsic value or direction.
-
----
-
-# 3. What Is Luck?
-
-Luck is not a property of an event itself.
-
-Rather, luck describes the influence of uncertain events on meaningful outcomes.
-
-For example:
-
-A coin landing heads is random.
-
-Winning a championship because the coin determined home-field advantage may be considered lucky.
-
-The randomness lies in the coin toss.
-
-The luck lies in its consequences.
-
-Luck therefore depends upon both uncertainty and context.
+Whether a threshold of consequence has been crossed depends on the research question, level of analysis, and time horizon.
 
 ---
 
-# 4. Key Differences
+## 5. Luck Without Pure Randomness
 
-The distinction can be summarized as follows.
+Randomness is not necessary for luck.
 
-| Randomness                        | Luck                                          |
-| --------------------------------- | --------------------------------------------- |
-| Property of events or processes   | Property of realized outcomes                 |
-| Exists independently of observers | Depends upon an affected individual or system |
-| Value-neutral                     | Can be favorable or unfavorable               |
-| Describes uncertainty             | Describes the influence of uncertainty        |
-| Exists before outcomes occur      | Evaluated after outcomes are realized         |
+A system may experience luck through:
 
-Randomness concerns the generation of events.
+- being born into a particular institutional or historical environment;
+- encountering a person whose behavior was deliberate;
+- becoming exposed to a policy change determined elsewhere;
+- entering a market at a favorable time;
+- receiving information through a network position;
+- or avoiding harm because of timing.
 
-Luck concerns their significance.
+Each event may have an ordinary causal history. The relevant issue is not whether the event lacked causes, but whether its consequential effect on the focal system arose under uncertainty and was not fully determined by that system’s prior intentions, capabilities, or actions.
 
----
-
-# 5. Randomness Is Neither Necessary nor Sufficient
-
-Although closely related, randomness alone does not fully explain luck.
-
-## Randomness without Luck
-
-Many random events have no meaningful consequences.
-
-Examples include:
-
-* A raindrop landing on one leaf rather than another.
-* A particular molecule colliding with another.
-* A lottery ticket purchased by someone who never checks the result.
-
-These events are random but are not ordinarily considered lucky.
+This avoids equating luck with causelessness.
 
 ---
 
-## Luck without Pure Randomness
+## 6. Stochastic Variation as One Source
 
-Some events commonly regarded as lucky arise from highly complex deterministic processes.
+Random processes can generate differences in:
 
-Examples include:
+- timing;
+- matching and encounters;
+- sampling and discovery;
+- mutation;
+- market movements;
+- exposure to hazards;
+- institutional selection;
+- and experimental results.
 
-* Meeting an influential mentor unexpectedly.
-* Being born during a technological revolution.
-* Entering a rapidly growing industry at an advantageous time.
+But the route from stochastic variation to luck normally contains additional stages:
 
-These outcomes may not result from purely random mechanisms, yet they are widely regarded as instances of luck because they were beyond the individual's deliberate control.
+```text
+Stochastic or contingent variation
+                ↓
+System-specific exposure
+                ↓
+Recognition or material effect
+                ↓
+Response or non-response
+                ↓
+Feedback and adaptation
+                ↓
+Changed state or trajectory
+```
 
----
-
-# 6. Randomness as One Source of Luck
-
-Rather than treating luck and randomness as identical concepts, this project proposes a hierarchical relationship.
-
-Randomness is one possible source of luck.
-
-Other sources include:
-
-* Historical circumstances
-* Institutional environments
-* Geographic conditions
-* Biological inheritance
-* Social networks
-* Complex system interactions
-
-Luck therefore encompasses a broader class of phenomena than randomness alone.
-
----
-
-# 7. Why the Distinction Matters
-
-Confusing luck with randomness creates several difficulties.
-
-First, it reduces luck to statistical noise.
-
-Second, it ignores structural and historical sources of fortunate or unfortunate outcomes.
-
-Third, it limits opportunities for empirical investigation.
-
-If luck is viewed only as randomness, then little remains to study beyond probability theory.
-
-If luck is viewed as the influence of uncertain and uncontrollable circumstances on meaningful outcomes, then new questions emerge regarding its sources, mechanisms, measurement, and consequences.
+The same draw may have different consequences because systems differ in position, capability, resources, institutions, or later interactions.
 
 ---
 
-# 8. Implications for Research
+## 7. Random Event, Random Exposure, and Random Consequence
 
-Distinguishing luck from randomness has several implications.
+These should be distinguished.
 
-* Probability theory alone cannot fully explain luck.
-* Statistical residuals should not automatically be interpreted as luck.
-* Deterministic processes may still generate outcomes perceived as lucky.
-* Institutions, history, and complexity may influence the distribution of luck.
-* Scientific investigation should focus on the mechanisms through which uncertain circumstances become consequential outcomes.
+### Random event
 
-These implications motivate subsequent work on the measurement and formalization of luck.
+The occurrence or value of an event is modeled as random.
+
+### Random exposure
+
+Which system encounters the event is random or uncertain.
+
+### Random response
+
+A system’s response contains stochastic or unpredictable variation.
+
+### Random consequence
+
+Later effects remain probabilistic even after exposure and response.
+
+A case may involve one, several, or none of these. Saying “the outcome was random” often conceals which stage actually contained uncertainty.
 
 ---
 
-# 9. Conclusion
+## 8. Perspective and Information
 
-Luck and randomness are closely related but fundamentally different concepts.
+Randomness and uncertainty may differ across observers.
 
-Randomness characterizes uncertainty in events and processes.
+An event may be:
 
-Luck characterizes the influence of uncertain and uncontrollable circumstances on meaningful outcomes.
+- predictable to a well-informed institution;
+- uncertain to an affected individual;
+- statistically regular at a population level;
+- and consequentially “lucky” at an individual level.
 
-Randomness may generate opportunities for luck, but it neither exhausts nor defines the concept.
+The analysis should specify:
 
-Recognizing this distinction establishes an essential conceptual boundary for the scientific study of luck and provides a foundation for subsequent theoretical and empirical research.
+- whose information matters;
+- the time at which it is assessed;
+- the relevant level of analysis;
+- and whether the claim is about a process, an observer’s knowledge, or the focal system’s control.
+
+Ignorance alone is not proof of luck, but system-relative information and control are legitimate parts of ex ante analysis.
+
+---
+
+## 9. Outcome and Trajectory
+
+Randomness is often studied through distributions of outcomes. Luck requires attention to trajectories.
+
+A small stochastic difference may be amplified through:
+
+- cumulative advantage;
+- network effects;
+- institutional reinforcement;
+- learning;
+- resource accumulation;
+- or path dependence.
+
+A large random shock may be attenuated by:
+
+- redundancy;
+- insurance;
+- adaptive capacity;
+- institutional buffering;
+- or countervailing feedback.
+
+The magnitude of the initial random variation therefore does not determine the magnitude of its long-term consequence.
+
+---
+
+## 10. Survivorship and Retrospective Narratives
+
+Observed survivors are selected from realized paths.
+
+If analysis studies only successful scientists, firms, technologies, or political orders, it may mistake:
+
+- selection for superiority;
+- favorable exposure for foresight;
+- amplification for initial capability;
+- or historical survival for inevitability.
+
+Randomness can affect which cases become visible, but survivorship bias is broader than stochastic sampling. It also reflects institutional recording, power, path-dependent persistence, and the disappearance of unrealized alternatives.
+
+Comparative work should seek failed, suppressed, delayed, or never-realized cases where evidence permits.
+
+---
+
+## 11. Implications for Measurement
+
+Luck should not be operationalized as a model residual without further evidence.
+
+Residual variation may reflect:
+
+- measurement error;
+- omitted system properties;
+- unobserved environmental conditions;
+- incorrect functional form;
+- aggregation across levels;
+- or genuinely stochastic processes.
+
+A stronger empirical design separates, where possible:
+
+1. initial system state;
+2. environmental conditions;
+3. structure of uncertainty;
+4. exposure;
+5. response;
+6. feedback;
+7. and trajectory change.
+
+Randomization can help identify causal effects, but the fact that an assignment is randomized does not by itself establish that the resulting effect should be interpreted as luck.
+
+---
+
+## 12. Research Implications
+
+[Formalization](../Formalization/README.md) should state precisely where stochasticity enters a model.
+
+[Measurement](../Measurement/README.md) should distinguish probabilistic variation from missing knowledge and misspecification.
+
+[Empirical Studies](../Empirical%20Studies/README.md) should reconstruct how variation reached a focal system and became consequential.
+
+[Comparative Studies](../Comparative%20Studies/README.md) should compare amplification, attenuation, and selection across domains rather than treating all contingency as one mechanism.
+
+[General Theory](../General%20Theory/README.md) should not claim that luck requires pure randomness unless evidence and argument establish that stronger proposition.
+
+---
+
+## Conclusion
+
+Randomness describes a property or representation of variation. Luck describes the consequential relation between variation and a system operating under uncertainty.
+
+Randomness can generate variation, but interaction, exposure, capability, institutions, feedback, and time determine whether that variation becomes consequential. Keeping the concepts separate makes both more scientifically useful.
