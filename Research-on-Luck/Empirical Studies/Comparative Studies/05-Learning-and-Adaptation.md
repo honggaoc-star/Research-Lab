@@ -4,7 +4,7 @@
 
 The comparative evidence developed throughout the *Research on Luck* project demonstrates that adaptive systems rarely succeed because they initially possess perfect knowledge, optimal institutions, or superior resources. Instead, long-term success consistently emerges through continuous learning. Scientific communities revise theories, technological systems improve designs, businesses refine strategies, governments adjust policies, and civilizations accumulate institutional knowledge across generations.
 
-This recurring pattern suggests that learning is one of the most universal mechanisms through which adaptive systems respond to uncertainty.
+This recurring pattern suggests that learning is one of the most candidate cross-domain mechanisms through which adaptive systems respond to uncertainty.
 
 Within the Comparative Studies section, learning is understood as the process through which experience is transformed into improved future adaptation. Luck continually reshapes the environment by creating new opportunities and unexpected challenges. Learning determines whether adaptive systems merely react to those changes or progressively improve their ability to respond.
 
@@ -155,9 +155,19 @@ These principles recur regardless of whether the adaptive system is scientific, 
 
 ---
 
+# Architecture-Alignment Note
+
+Learning is a hypothesized process through which experience changes representations, expectations, rules, or behavior. Outcome improvement is neither necessary nor sufficient evidence of learning: systems may learn incorrectly, preserve misleading lessons, fail to implement knowledge, or improve because the environment changed. Comparative work should distinguish information acquisition, interpretation, retention, transfer, implementation, and revision.
+
+Individual, organizational, institutional, and population-level learning require different evidence. Selection can mimic learning when unsuccessful actors disappear and surviving populations appear to improve. Claims that learning strengthens adaptation therefore require within-system process evidence, comparison sets, time horizons, and explicit criteria for what counts as improvement.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
-Learning and adaptation represent the fifth universal mechanism identified through the comparative analysis of the *Research on Luck* project.
+Learning and adaptation represent the fifth candidate cross-domain mechanism identified through the comparative analysis of the *Research on Luck* project.
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
