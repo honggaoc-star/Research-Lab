@@ -124,7 +124,7 @@ The ability to perceive emerging possibilities often determines long-term trajec
 
 # Luck and Opportunity Recognition
 
-Luck influences opportunity recognition indirectly.
+Consequential uncertainty affects the conditions under which opportunity recognition occurs.
 
 Unexpected events continuously reshape environments through:
 
@@ -180,6 +180,6 @@ Opportunity recognition represents the first candidate cross-domain mechanism id
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck continually generates new opportunities by reshaping the environments in which adaptive systems operate. Long-term success depends not upon encountering more opportunities than others, but upon developing the capacity to recognize those opportunities before they become widely apparent.
+> Opportunity potential changes as systems and environments interact under uncertainty. Recognition may contribute to realization, but its effect depends on access, pursuit, resources, timing, constraints, and environmental response.
 
 This comparative perspective demonstrates that opportunity recognition is not confined to any particular discipline. It is a candidate cross-domain adaptive mechanism through which individuals, organizations, institutions, and civilizations transform uncertainty into discovery, innovation, development, and long-term societal evolution.
