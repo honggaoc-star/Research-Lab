@@ -126,11 +126,23 @@ Global economic conditions, technological developments, geopolitical competition
 
 These contingent developments shaped the environment in which decisions were made.
 
-However, long-term historical outcomes depended upon institutional adaptability rather than external events alone.
+Long-term outcomes emerged through interaction among inherited institutions, political conflict, economic conditions, leadership choices, external relations, and further uncertainty. Luck attribution may describe the ex post significance of contingent changes, but it does not identify a causal force.
 
-Luck altered the historical landscape.
+---
 
-Institutional capacity determined how societies navigated that landscape.
+# Architecture-Alignment Assessment
+
+## System State, Regime, and Trajectory
+
+The Soviet state, Communist Party, planned economy, union structure, individual republics, and international bloc are related but distinct systems. Dissolution of the union was a state and boundary transformation; changes in political and economic rules may be modeled as regime changes. Neither should be reduced to a single outcome called “collapse,” and the pre-1991 trajectory should not be reconstructed as inevitably converging on dissolution.
+
+## Endogenous and Exogenous Change
+
+Commodity prices, technological competition, and international relations interacted with endogenous fiscal, informational, political, and nationalities dynamics. Gorbachev-era reforms were interventions within the system, not purely external shocks. Analysis should specify feedback, thresholds, and mechanisms connecting pressures to transitions rather than treating a list of correlates as a cumulative cause.
+
+## Ex Ante Alternatives, Selection, and Evidence
+
+Actors faced uncertainty about reform sequencing, elite response, republican mobilization, economic coordination, and international reaction. Feasible alternatives include slower political opening, different fiscal bargains, preservation of a looser union, leadership changes, and other reform sequences. Post-Soviet outcomes varied across republics and groups, so “successful navigation” requires explicit criteria and distributional analysis. Survival of some institutions or states does not prove superiority, while dissolution does not prove absence of capability. Stronger claims require process evidence and structured comparisons with attempted reforms elsewhere.
 
 ---
 
@@ -156,7 +168,7 @@ Adaptive capacity matters more than temporary equilibrium.
 
 The fall of the Soviet Union reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck reshapes historical environments through changing economic, technological, political, and geopolitical conditions, but institutional adaptability determines whether societies successfully navigate periods of systemic transition.
+> Luck may be attributed ex post when consequential uncertainty altered the timing or direction of transition. Institutional adaptability remains a hypothesis to be specified and measured independently of survival, dissolution, or later performance.
 
 Unlike the Black Death, which illustrates transformation through catastrophic disruption, the Industrial Revolution, which demonstrates technological convergence, and the Meiji Restoration, which exemplifies institutional adaptation, the Soviet experience reveals a fourth mechanism of historical change: **systemic transition following accumulated institutional rigidity**.
 
