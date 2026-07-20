@@ -137,7 +137,7 @@ Affected populations faced uncertainty about transmission, mortality, recurrence
 
 ## Alternative Trajectories and Evidence
 
-Relevant comparisons include regions with different mortality, labor institutions, land–labor ratios, and enforcement capacities. Feasible counterfactuals include stronger wage controls, different inheritance patterns, repeated outbreaks, and alternative bargaining coalitions. Path dependence requires evidence that earlier conditions generated self-reinforcing constraints or advantages, not merely that earlier events preceded later change. Claims about institutional flexibility or adaptive capacity require independent evidence and should not be inferred from survival or subsequent growth.
+Relevant comparisons include regions with different mortality, labor institutions, land–labor ratios, and enforcement capacities. Feasible counterfactuals include stronger wage controls, different inheritance patterns, repeated outbreaks, and alternative bargaining coalitions. Path dependence requires evidence that earlier conditions generated self-reinforcing constraints or advantages, not merely that earlier events preceded later change. Survivor selection must be explicit because evidence on post-pandemic gains necessarily excludes those who died and may underrepresent displaced groups. Claims about institutional flexibility or adaptive capability require independent evidence and should not be inferred from survival or subsequent growth.
 
 ---
 
