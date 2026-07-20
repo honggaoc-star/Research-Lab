@@ -6,7 +6,7 @@ The comparative evidence developed throughout the *Research on Luck* project dem
 
 This recurring pattern suggests that learning is one of the most candidate cross-domain mechanisms through which adaptive systems respond to uncertainty.
 
-Within the Comparative Studies section, learning is understood as the process through which experience is transformed into improved future adaptation. Luck continually reshapes the environment by creating new opportunities and unexpected challenges. Learning determines whether adaptive systems merely react to those changes or progressively improve their ability to respond.
+Within Comparative Studies, learning is the hypothesized process through which experience changes future representations or responses. Environments change under consequential uncertainty, but learning may be absent, incorrect, blocked, or maladaptive; improvement must be demonstrated rather than assumed.
 
 ---
 
@@ -125,13 +125,13 @@ Learning functions as the mechanism that continuously improves adaptation itself
 
 # Learning and Luck
 
-Luck introduces experiences that adaptive systems cannot fully anticipate.
+Systems encounter experiences they cannot fully anticipate.
 
 Unexpected discoveries, crises, technological breakthroughs, political change, economic disruption, and historical contingency all provide new information.
 
 Adaptive systems differ not because they encounter different forms of uncertainty, but because they differ in how effectively they learn from those experiences.
 
-Luck creates new experiences.
+Consequential uncertainty makes some experiences unexpected or trajectory-changing.
 
 Learning transforms experience into adaptive capability.
 
@@ -171,7 +171,7 @@ Learning and adaptation represent the fifth candidate cross-domain mechanism ide
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck continually generates new experiences by reshaping adaptive environments. Long-term success depends not upon avoiding uncertainty, but upon transforming uncertain experience into accumulated knowledge that improves future adaptation.
+> Systems encounter consequential uncertainty as their environments change. Whether experience becomes retained, transferable, and useful knowledge is an empirical question, not a consequence of success alone.
 
 This comparative perspective demonstrates that learning is the central mechanism through which adaptive systems convert luck into long-term advantage. Across every domain examined, successful systems do not simply survive changing conditions—they improve because of them. Learning therefore emerges as the principal process linking uncertainty, opportunity, institutional evolution, and sustained adaptive success.
 
