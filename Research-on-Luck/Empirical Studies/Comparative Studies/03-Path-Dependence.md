@@ -4,7 +4,7 @@
 
 One of the most consistent findings across Science, Technology, Business, History, and Politics is that adaptive systems do not evolve from blank slates. Every decision, discovery, institutional arrangement, technological investment, or historical development creates conditions that influence future opportunities. Earlier choices shape later possibilities, making certain trajectories increasingly likely while constraining others.
 
-Within the *Research on Luck* project, path dependence emerges as a candidate cross-domain adaptive mechanism rather than a concept limited to any particular discipline. Luck continually introduces new opportunities and uncertainties, but the ability to recognize and realize those opportunities depends fundamentally upon the paths adaptive systems have already followed.
+Within the *Research on Luck* project, path dependence emerges as a candidate cross-domain adaptive mechanism rather than a concept limited to any particular discipline. Changing system–environment interactions alter opportunities under uncertainty, while inherited paths condition—but do not determine—recognition, pursuit, and realization.
 
 Path dependence therefore explains why similar opportunities frequently produce different outcomes despite comparable external conditions.
 
@@ -149,7 +149,7 @@ Finally, long-term resilience depends not upon escaping history entirely, but up
 
 # Path Dependence and Luck
 
-Luck and path dependence operate together.
+Luck attribution and path-dependence analysis address different aspects of a trajectory.
 
 External environments change under consequential uncertainty.
 
@@ -179,6 +179,6 @@ Path dependence represents the third candidate cross-domain mechanism identified
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
-> Luck continually reshapes the opportunity landscape, but adaptive systems respond through capabilities accumulated from previous experience. Long-term success therefore depends not only on future opportunities but also on how effectively inherited knowledge, institutions, technologies, organizations, and governance systems are continually revised as environments evolve.
+> Consequential uncertainty changes opportunity landscapes, while inherited structures condition available responses. Their effects require explicit mechanisms, comparisons, and evidence independent of later success.
 
 This comparative perspective demonstrates that path dependence is a candidate cross-domain property of adaptive systems. Whether examining scientific discovery, technological innovation, business strategy, historical development, or political evolution, the same fundamental principle appears repeatedly: **the future is shaped not only by emerging opportunities, but also by the adaptive paths that have made those opportunities visible and attainable.**
