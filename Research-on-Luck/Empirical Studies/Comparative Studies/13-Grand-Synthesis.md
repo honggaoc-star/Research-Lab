@@ -177,6 +177,16 @@ Finally, it proposes a comparative methodology that complements rather than repl
 
 ---
 
+# Architecture-Alignment Note
+
+The current synthesis supports a research architecture, not a validated general law. Its primitive base is system, environment, interaction, and uncertainty. Opportunities, constraints, exposure, capability, learning, adaptation, feedback, trajectory, outcome, and luck attribution are derived concepts whose relationships require explicit specification and testing.
+
+The sequence of luck potential, luck realization, and luck attribution preserves the distinction between ex ante possibility, transition processes, and ex post evaluation. Luck is relational and dynamic: it is not environmental variation itself, a mechanism that acts on systems, or the residual left after known causes are removed. Comparative recurrence identifies candidate propositions for General Theory while leaving causal weights, boundary conditions, measurement validity, and feasible counterfactuals unresolved.
+
+---
+
+---
+
 # Looking Forward
 
 The *Research on Luck* project does not claim to provide a complete theory of adaptive systems.
@@ -213,7 +223,7 @@ Institutions improve future adaptation.
 
 The cycle continues across generations.
 
-Viewed from this perspective, luck is neither the opposite of skill nor the enemy of rational explanation.
+Viewed from this perspective, luck attribution is neither the opposite of skill nor a substitute for causal explanation.
 
 It is one of the fundamental mechanisms through which complex adaptive systems evolve.
 
