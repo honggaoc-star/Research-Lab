@@ -225,4 +225,47 @@ Rather than explaining discovery solely through genius, chance, or institutional
 
 The resulting evidence contributes one essential component of the broader **Research on Luck** framework, where scientific discovery is studied not in isolation but as one manifestation of adaptive systems operating under uncertainty.
 
+---
 
+## Architecture-Alignment Protocol
+
+This domain should use the common audit framework in [../README.md](../README.md) while preserving domain-specific evidence and terminology.
+
+### Focal systems
+
+Possible focal systems include the researcher, research team, institution, or scientific community. Each case should state which system is primary and when the analysis moves across levels.
+
+### Relevant environment
+
+The environmental scope may include available knowledge, instruments, funding, institutions, networks, and scientific norms. A condition should be included only when it affects the focal interaction or feasible trajectory.
+
+### Interaction and exposure
+
+Relevant channels include observation, experiment, communication, collaboration, validation, and publication. Cases should distinguish a general event from system-specific exposure.
+
+### Opportunity stages
+
+The domain-specific sequence may include discovery potential, access to evidence or instruments, recognition, investigation, validation, and diffusion. Potential, access, recognition, pursuit, realization, and foreclosure should not be collapsed into outcome.
+
+### Capability and adaptive process
+
+Relevant capabilities may include prepared knowledge, perception, search, experimentation, persistence, coordination, and validation capacity. Evidence should be independent of the favorable outcome wherever possible.
+
+### Dynamic mechanisms
+
+Candidate mechanisms include cumulative knowledge, priority, feedback, institutional support, selection into the scientific record, and unrealized discovery. Their presence must be supported by sequence and process evidence rather than thematic resemblance alone.
+
+### Domain audit questions
+
+- Does the case distinguish the discovery process from later fame or priority?
+- What evidence establishes the ex ante knowledge and feasible research alternatives?
+- Were failed, delayed, suppressed, or unrecognized discoveries considered?
+- How did validation and institutional response change the trajectory?
+
+### Evidence reporting
+
+Each case audit should identify direct observations, reconstructions, mechanism evidence, competing explanations, missing cases, and an evidence grade. Cases that challenge the architecture should be preserved rather than forced into conformity.
+
+### Editorial rule
+
+The case inventory is stable. Revisions should be targeted to material conceptual or evidentiary gaps. Additional cases are warranted only when they add a mechanism or boundary condition not represented by the existing corpus.
