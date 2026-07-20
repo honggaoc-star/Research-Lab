@@ -98,7 +98,7 @@ The consequences of gaps between technological and institutional change are hypo
 
 # Luck and Digital Transformation
 
-Luck continues to influence historical development, but its role has changed.
+Consequential uncertainty continues to shape digital-era trajectories, although the exposures and rates of interaction have changed.
 
 Scientific breakthroughs, entrepreneurial discoveries, geopolitical events, technological convergence, and unexpected crises continue to reshape opportunity.
 
@@ -106,7 +106,7 @@ However, digital networks rapidly distribute these opportunities across the worl
 
 Consequently, long-term advantage depends less upon exclusive access to information and more upon the capacity to interpret, integrate, and act upon information faster than others.
 
-Luck now operates within a far more connected and rapidly evolving historical environment.
+Luck attribution now occurs within a more connected and rapidly evolving environment; it remains an ex post evaluation, not a force operating within the system.
 
 ---
 
@@ -131,7 +131,7 @@ Adaptive capacity is a candidate system capability, distinct from observed perfo
 
 ## Scope and Level of Analysis
 
-The Digital Revolution is an ongoing family of trajectories rather than a completed event. Analysis should specify a technology, institution, sector, polity, organization, or population and an explicit time horizon. Individuals, platforms, firms, states, and global networks are nested systems with different states and evaluative criteria; aggregate connectivity should not stand in for uniform social adaptation.
+The Digital Revolution is an ongoing family of trajectories rather than a completed event. This makes the distinction between ex ante uncertainty and provisional ex post evaluation especially important. Analysis should specify a technology, institution, sector, polity, organization, or population and an explicit time horizon. Individuals, platforms, firms, states, and global networks are nested systems with different states and evaluative criteria; aggregate connectivity should not stand in for uniform social adaptation.
 
 ## Uncertainty and Opportunity Stages
 
