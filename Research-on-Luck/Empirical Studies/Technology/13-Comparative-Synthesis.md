@@ -504,7 +504,7 @@ The corpus does not yet determine:
 * how power, inequality, exclusion, and control alter opportunity realization;
 * whether failed or suppressed technologies would reveal additional mechanisms.
 
-These questions require continued comparison with Business, Finance, Organizations, Public Policy, and History.
+These questions require continued comparison with Business, History, Politics, and the broader cross-domain evidence already included in the project.
 
 ---
 
@@ -619,3 +619,34 @@ The expanded corpus also demonstrates that technological superiority does not gu
 These findings provide strong support for integration, interconnection, repurposing, institutional mediation, ecosystem development, and orchestration as recurring mechanisms within the Technology domain.
 
 Whether these mechanisms remain technological expressions or contribute to a broader theory of adaptive opportunity will depend upon evidence from the remaining domains.
+
+---
+
+# Architecture-Alignment Assessment
+
+## System boundaries and ecosystems
+
+The Technology corpus moves among inventors, firms, public institutions, infrastructures, platforms, users, and technological ecosystems. Case-level interpretation should specify which is the focal system and avoid attributing an ecosystem outcome solely to one inventor or organization.
+
+## Relationship evidence
+
+The strongest relationships supported within the current corpus are:
+
+* existing knowledge and components enable translation and integration;
+* interoperability and network connection enable interconnection;
+* institutions and standards enable some trajectories while constraining others;
+* user practices and complementary systems mediate adoption;
+* feedback and installed bases influence persistence and selection;
+* orchestration coordinates resources and actors across system boundaries.
+
+Integration, interconnection, repurposing, and orchestration appear recurrent and mechanism-supported within the sampled cases. Democratization remains evaluative and distribution-sensitive: broader access may coexist with control, exclusion, dependency, or unequal returns.
+
+## Failure, selection, and unrealized alternatives
+
+The inclusion of Betamax strengthens outcome diversity, but one visible failure does not fully resolve survivorship bias. Suppressed technologies, failed infrastructures, abandoned standards, and technically viable alternatives remain underrepresented.
+
+Technological persistence should not be treated as proof of intrinsic superiority. Timing, compatibility, power, regulation, installed base, and institutional support may all affect selection.
+
+## Evidence status
+
+The synthesis supports domain-level candidate mechanisms and identifies plausible cross-domain relationships. It does not establish a universal sequence of technological development or justify direct promotion into General Theory without further comparison and boundary testing.
