@@ -161,9 +161,19 @@ These principles appear consistently despite substantial differences among scien
 
 ---
 
+# Architecture-Alignment Note
+
+Unrealized opportunities are not a directly observable universe. They are analytically reconstructed relationships between a system and an environment, subject to evidence and boundary choices. Comparative work should distinguish inaccessible potential, unrecognized possibilities, rejected or delayed pursuits, failed realization, and foreclosure. It should also distinguish opportunities that were feasible ex ante from possibilities invented with hindsight.
+
+“Migration” is one possible trajectory, not a default rule: an opportunity may be transformed, appropriated, delayed, foreclosed, or cease to be feasible. Evidence should include contemporaneous proposals, rejected projects, abandoned experiments, resource constraints, and comparable actors. This approach reduces survivorship bias without treating every imaginable alternative as an opportunity that genuinely existed.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
-Unrealized opportunities represent the sixth universal mechanism identified through the comparative analysis of the *Research on Luck* project.
+Unrealized opportunities represent the sixth candidate cross-domain mechanism identified through the comparative analysis of the *Research on Luck* project.
 
 The evidence accumulated across Science, Technology, Business, History, and Politics supports a broader proposition:
 
