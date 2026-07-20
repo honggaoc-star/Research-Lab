@@ -120,7 +120,7 @@ The transition redistributed opportunities rather than producing uniform outcome
 
 # Luck and Historical Development
 
-Luck influenced the Soviet transition in multiple ways.
+The Soviet transition was exposed to consequential uncertainty in multiple ways.
 
 Global economic conditions, technological developments, geopolitical competition, commodity markets, demographic trends, and leadership succession all evolved through circumstances beyond the control of any single institution.
 
