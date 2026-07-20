@@ -159,6 +159,16 @@ Finally, future research should integrate empirical comparison with formal theor
 
 ---
 
+# Architecture-Alignment Note
+
+Future research should test bounded relationships rather than seek a single measure or mechanism of luck. A minimum design identifies the focal system and environment, level and time horizon, uncertainty information set, exposure, relevant states and transitions, feasible alternatives, response processes, outcomes, and the rule used for ex post attribution.
+
+Research should prioritize matched comparisons, unsuccessful and unrealized cases, contemporaneous evidence, explicit counterfactual constraints, and capability indicators independent of outcomes. Additional empirical domains are not currently required; greater value is likely to come from improving evidence and identification within Science, Technology, Business, History, and Politics.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
 The research implications developed throughout this repository support one overarching conclusion:
