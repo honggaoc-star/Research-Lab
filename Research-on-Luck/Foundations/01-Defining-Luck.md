@@ -223,7 +223,7 @@ This definition supplies vocabulary for later work but does not itself prove mec
 - [Formalization](../Formalization/README.md) should specify relationships among systems, environments, interactions, and uncertainty.
 - [Measurement](../Measurement/README.md) should operationalize components rather than label residuals as luck.
 - [Empirical Studies](../Empirical%20Studies/README.md) should reconstruct exposure, response, feedback, and alternative trajectories.
-- [Comparative Studies](../Comparative%20Studies/README.md) should test whether proposed relationships recur across domains.
+- **Comparative Studies** should test whether proposed relationships recur across domains.
 - [General Theory](../General%20Theory/README.md) should incorporate only relationships that survive sufficient scrutiny.
 
 The definition remains open to revision when formalization, measurement, or evidence reveals ambiguity or missing distinctions.
