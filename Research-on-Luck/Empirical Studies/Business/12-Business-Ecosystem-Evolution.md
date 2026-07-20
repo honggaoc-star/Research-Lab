@@ -4,7 +4,7 @@
 
 Businesses do not create value in isolation. Every organization operates within a broader ecosystem composed of customers, suppliers, competitors, investors, regulators, technological platforms, research institutions, and complementary industries. These interconnected relationships shape both the availability of opportunities and the capacity of organizations to realize them.
 
-Within the *Research on Luck* framework, business ecosystems provide the environment in which luck operates. Favorable opportunities rarely emerge from individual organizations alone. Instead, they arise through the continuous interaction of multiple participants whose collective actions create, reinforce, or constrain economic possibilities.
+Within the *Research on Luck* framework, a business ecosystem may be modeled as an environment for a focal firm or as a system in its own right. The choice depends on the question and must be stated explicitly. Favorable opportunities rarely emerge from individual organizations alone. Instead, they arise through the continuous interaction of multiple participants whose collective actions create, reinforce, or constrain economic possibilities.
 
 Understanding business success therefore requires moving beyond individual firms to examine the evolution of the ecosystems in which they compete.
 
@@ -27,7 +27,7 @@ However, organizations continuously exchange:
 
 These interactions create complex adaptive systems in which the actions of one participant influence opportunities available to others.
 
-Business success is therefore partially determined by the health and evolution of the surrounding ecosystem.
+Business trajectories are therefore partly conditioned by ecosystem structure and change, although “health” requires separately specified criteria and cannot be inferred from aggregate growth alone.
 
 ---
 
@@ -49,7 +49,7 @@ Key contributors include:
 
 Each contributes different forms of knowledge, resources, and incentives that collectively shape the direction of economic development.
 
-No single organization controls the ecosystem, yet every participant influences its evolution.
+Control is distributed but unequal. Platform owners, regulators, financiers, standard setters, and dominant buyers may exercise disproportionate gatekeeping power, while some participants have little capacity to influence ecosystem evolution.
 
 ---
 
@@ -122,7 +122,27 @@ The empirical cases illustrate ecosystem evolution from complementary perspectiv
 * **Berkshire Hathaway** demonstrates how diversified ownership can connect businesses operating across multiple sectors of the economy.
 * **Kodak** illustrates how ecosystem transformation can reduce the value of previously dominant business models when complementary technologies evolve elsewhere.
 
-Collectively, these cases demonstrate that business success depends not only on organizational decisions but also on participation in evolving networks of complementary institutions and technologies.
+Collectively, these cases suggest that organizational outcomes are associated with participation in evolving networks of complementary institutions and technologies. They do not yet isolate ecosystem effects from firm capability, inherited position, or selection.
+
+---
+
+# Architecture-Alignment Assessment
+
+## Boundary and Level of Analysis
+
+An ecosystem model must identify its membership rule, spatial and temporal boundary, focal outcome, and level of analysis. A supplier network, platform market, regional cluster, and national innovation system are not interchangeable. When the ecosystem is the focal system, firms and institutions are components or nested systems and the external environment lies beyond the chosen boundary. When a firm is focal, the ecosystem is part of its environment.
+
+## Relationships, Power, and Selection
+
+Exchange ties, standards, ownership, regulation, and platform rules can enable some actions while constraining others. Network position affects exposure and access, but position is not itself capability. Reinforcing feedback may expand participation and complementary investment while also producing concentration, gatekeeping, dependency, and cumulative disadvantage. Entry, exit, acquisition, and disappearance create selection effects: surviving participants are not necessarily superior, and ecosystem-level growth can conceal losses borne by particular groups.
+
+## Opportunity Dynamics and Alternatives
+
+Ecosystem opportunities should be tracked through potential, access, recognition, pursuit, realization, and foreclosure. The landscape includes unrealized complements, excluded entrants, abandoned standards, and paths that were feasible but not selected. Ex ante uncertainty concerns participation, technical compatibility, demand, governance, appropriation, and rival coordination; ex post ecosystem dominance should not make these contingencies appear inevitable.
+
+## Evidence Status
+
+The cases summarized here illustrate possible ecosystem mechanisms but do not independently identify them. Stronger assessment requires longitudinal network data, explicit measures of power and entry barriers, comparison across ecosystems, and evidence on nonparticipants and failed entrants. Claims about resilience, opportunity creation, or ecosystem advantage should therefore remain hypotheses for Measurement, Comparative Studies, and General Theory rather than settled findings.
 
 ---
 
@@ -138,7 +158,7 @@ Third, organizations should monitor changes occurring beyond their immediate ind
 
 Fourth, long-term competitiveness increasingly depends upon strengthening ecosystem relationships rather than optimizing isolated organizational performance.
 
-Finally, resilient ecosystems generate more opportunities for innovation, adaptation, and sustained economic growth than isolated organizations acting independently.
+Finally, ecosystem resilience may preserve some functions and opportunity channels, but resilience for the ecosystem need not benefit every participant and can coexist with exclusion, concentration, or the disappearance of particular firms.
 
 ---
 
