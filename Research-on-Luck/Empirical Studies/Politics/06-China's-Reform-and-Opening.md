@@ -25,7 +25,7 @@ By the late 1970s, several challenges had become increasingly apparent:
 
 Beginning in 1978, national leadership introduced a series of reforms intended to modernize the economy while preserving political stability.
 
-These reforms fundamentally altered China's long-term developmental trajectory.
+These reforms contributed to a major change in China’s developmental trajectory, alongside demographic, geopolitical, technological, labor, investment, and international-market conditions.
 
 ---
 
@@ -58,9 +58,7 @@ China's reform experience illustrates the use of controlled experimentation as a
 
 Local initiatives often preceded national implementation.
 
-Successful reforms were expanded.
-
-Less effective approaches were revised or discontinued.
+Some initiatives judged favorable by political authorities were expanded, while others were revised, discontinued, or left local. The criteria, reporting processes, and selection of experiments require empirical examination.
 
 This process allowed policymakers to acquire information while limiting systemic risk.
 
@@ -96,11 +94,23 @@ Global economic expansion, technological progress, international investment, geo
 
 However, many countries encountered similar global conditions.
 
-China's long-term trajectory depended upon its ability to recognize emerging opportunities, implement institutional reforms, mobilize resources, and continually adjust policy as circumstances evolved.
+China’s trajectory reflected policy experimentation, state capacity, labor and demographic conditions, international access, investment, technology transfer, political control, regional variation, and consequential uncertainty. Adaptive governance is a candidate explanation, not a conclusion that follows from growth.
 
-Luck created a favorable international environment.
+---
 
-Adaptive governance influenced how effectively that environment was utilized.
+# Architecture-Alignment Assessment
+
+## Focal System and Internal Variation
+
+The focal system may be the central party-state, a policy domain, province, local government, state-owned sector, private-firm population, or wider political economy. “China” should not be treated as a unitary learner. Authority, experimentation, implementation, benefits, and costs varied across levels, regions, sectors, and populations.
+
+## Ex Ante Uncertainty and Experimental Selection
+
+Policymakers faced uncertainty about agricultural incentives, inflation, political stability, foreign investment, technology transfer, distribution, and the compatibility of market mechanisms with existing institutions. Special zones and local pilots created bounded variation, but expansion after observed performance is a selection process: successful-looking pilots may have benefited from privileged resources, locations, reporting, or policy support. Nonexpansion and abandoned initiatives are necessary evidence for evaluating learning.
+
+## Capability, Power, and Counterfactuals
+
+Economic growth and regime continuity are not sufficient evidence of adaptive capability, legitimacy, or policy superiority. Independent indicators should examine search, feedback, error correction, resource redeployment, implementation, suppression of information, and performance across failures as well as successes. Feasible counterfactuals include different reform sequences, international-access conditions, demographic paths, local autonomy, ownership structures, and policy reversals. Distributional effects, coercive capacity, environmental costs, and constraints on participation must remain within the evaluation rather than being absorbed into aggregate performance.
 
 ---
 
@@ -124,7 +134,7 @@ Finally, successful governance often requires balancing stability with innovatio
 
 China's Reform and Opening-Up reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck continually reshapes the international political and economic environment, but long-term political development depends upon a society's capacity to learn, experiment, adapt institutions, and adjust governance in response to changing opportunities.
+> Luck may be attributed ex post when consequential uncertainty altered reform exposures or trajectories. Claims about learning and adaptive governance require evidence independent of growth, regime continuity, or the expansion of selected policies.
 
 Unlike the United States Constitution, which illustrates adaptive constitutional design; the French Revolution, which demonstrates institutional transformation through changing legitimacy; European Integration, which explores cooperative governance; Democratic Transitions, which examine expanding political participation; and Decolonization, which emphasizes self-determination and institution building, China's Reform and Opening-Up illustrates a sixth mechanism of political evolution: **pragmatic institutional adaptation through continuous experimentation**.
 
