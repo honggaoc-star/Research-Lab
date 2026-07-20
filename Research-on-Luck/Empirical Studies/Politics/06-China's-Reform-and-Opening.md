@@ -88,7 +88,7 @@ Whether viewed as successful or limited in particular respects, the reform proce
 
 # Luck and Political Development
 
-Luck influenced China's reform period through changing international conditions.
+China's reform period unfolded amid consequential uncertainty and changing international conditions.
 
 Global economic expansion, technological progress, international investment, geopolitical developments, and demographic trends all created opportunities that no single government controlled.
 
