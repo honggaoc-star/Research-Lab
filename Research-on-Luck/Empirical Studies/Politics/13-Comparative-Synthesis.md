@@ -169,11 +169,9 @@ Instead, luck influences:
 
 These developments continually reshape the political environment.
 
-However, political systems differ primarily in their adaptive response rather than in the fortunate circumstances they encounter.
+Political systems differ in inherited institutions, power distributions, exposure, legitimacy, resources, and adaptive response; the current cases suggest that response is an important mediator among these conditions.
 
-Luck changes political conditions.
-
-Governance determines political trajectories.
+Luck-related variation changes political conditions, while governance, institutions, collective action, power, and feedback help shape—but do not fully determine—political trajectories.
 
 ---
 
@@ -200,12 +198,45 @@ This convergence suggests that political evolution is one expression of a broade
 
 ---
 
+# Architecture-Alignment Assessment
+
+## Political systems and outcome selection
+
+Political cases may focus on leaders, parties, coalitions, institutions, governments, electorates, or regimes. Election victory, institutional survival, and policy durability are different outcomes and should not be treated as a single measure of adaptive success.
+
+## Institutions, power, and translation
+
+Political institutions translate contingent events and narrow decisions into authority, policy, and durable constraints. This translation is mediated by rules, legitimacy, coalition structure, enforcement, and unequal power.
+
+A winner’s persistence does not establish broad preference, superior capability, or normative legitimacy.
+
+## Relationship evidence
+
+The synthesis provides candidate evidence that:
+
+* crises and historical timing alter political opportunity landscapes;
+* legitimacy and institutional access enable some responses;
+* collective decision rules select among alternatives;
+* policy feedback changes later preferences, resources, and constraints;
+* learning and institutional revision may support adaptation;
+* exclusion and power may foreclose alternatives.
+
+These relationships are descriptively recurrent and mechanism-suggestive. Their causal strength and normative implications require separate analysis.
+
+## Unrealized alternatives and evaluation
+
+Case audits should record excluded coalitions, suppressed preferences, unadopted reforms, narrow electoral branches, and institutional vetoes. Evaluations must specify whose resilience, whose opportunity, and which horizon.
+
+The domain supports bounded political mechanisms, not a universal claim that adaptive governance determines political success.
+
+---
+
 # Conclusion
 
 The comparative evidence developed throughout the Politics section supports the central proposition of the *Research on Luck* project:
 
 > Political development is neither determined solely by institutional design nor driven solely by chance. It emerges through the continual interaction of political opportunity, institutional legitimacy, collective decision-making, policy adaptation, governance evolution, historical contingency, and luck.
 
-This perspective reframes politics as the adaptive evolution of governance. Governments succeed not because they permanently solve political problems, but because they continuously improve their capacity to recognize changing conditions, coordinate diverse interests, revise institutions, and learn from experience.
+This perspective reframes politics as the adaptive evolution of governance. Within the sampled cases, political persistence and adaptation are often associated with recognizing changing conditions, coordinating interests, revising institutions, and learning, but persistence alone does not establish effective or legitimate governance.
 
-Politics therefore becomes more than the study of power or public policy. It is the study of how societies collectively adapt to uncertainty. Across political systems and historical periods, the most resilient forms of governance are those that transform changing opportunities into institutional learning, legitimate coordination, and sustained societal adaptation.
+Politics therefore becomes more than the study of power or public policy. It is the study of how societies collectively adapt to uncertainty. The current corpus suggests that institutional learning, coordination, and adaptive capacity can contribute to resilience, subject to important differences in legitimacy, power, exclusion, and historical context.
