@@ -4,7 +4,7 @@
 
 The **Comparative Studies** section serves as the integrative empirical core of the **Research on Luck** project.
 
-The preceding Empirical Studies investigate how luck influences adaptive systems within five distinct domains:
+The preceding Empirical Studies investigate systems, environments, interactions, uncertainty, and luck attribution within five distinct domains:
 
 * Science
 * Technology
@@ -14,7 +14,7 @@ The preceding Empirical Studies investigate how luck influences adaptive systems
 
 Comparative Studies asks a different question:
 
-> **Which adaptive mechanisms recur across these independent domains, and what broader understanding of luck do they support?**
+> **Which relationships and processes appear to recur across these domains, under what boundary conditions, and what further tests do they justify?**
 
 Rather than introducing another empirical field, this section compares the completed domains systematically to identify recurring patterns, important differences, and candidate general mechanisms.
 
@@ -49,7 +49,7 @@ Comparative Studies therefore provides the empirical bridge between domain-speci
 
 The guiding question is:
 
-> **How do adaptive systems transform contingent variation into long-term development?**
+> **How do bounded systems interact with changing environments under uncertainty, and how should similarities and differences in their trajectories be compared?**
 
 More specifically, Comparative Studies investigates:
 
@@ -69,160 +69,43 @@ The emphasis shifts from describing individual cases toward explaining recurring
 
 # Comparative Methodology
 
-The project follows a mechanism-oriented comparative strategy.
+The project follows a relationship- and mechanism-oriented comparative strategy.
 
-Each empirical domain investigates the same broad adaptive sequence.
-
-```text
-Uncertainty
-        ↓
-Contingent variation
-        ↓
-Opportunity transformation
-        ↓
-Recognition and interpretation
-        ↓
-Institutional and organizational response
-        ↓
-Learning and adaptation
-        ↓
-Long-term trajectory
-```
+The comparison begins from the four working primitives—system, environment, interaction, and uncertainty—and examines derived conditions, capabilities, processes, trajectories, and evaluations. It does not assume that every domain follows one fixed sequence.
 
 Comparative Studies examines how each stage differs across domains while asking whether common mechanisms nevertheless emerge.
 
-The objective is not to demonstrate identical causal structures.
-
-Rather, it is to identify mechanisms that appear sufficiently similar to justify broader theoretical investigation.
+The objective is not to demonstrate identical causal structures. It is to identify candidate relationships that appear sufficiently similar to justify formal specification, measurement, comparison, and possible theoretical development.
 
 ---
 
-# Comparative Themes
+# Document Inventory
 
-The completed empirical work currently supports thirteen major comparative themes.
+The live directory contains twelve numbered comparative documents. Number **09 is intentionally unused**. The earlier proposed title, “Mechanisms of Luck,” would conflict with the current architecture because luck is not treated as a mechanism or causal force; no replacement file is created merely to close the numbering gap.
 
-## 1. Opportunity Recognition
+1. [Opportunity Recognition](01-Opportunity-Recognition.md) — distinguishes opportunity stages and recognition evidence.
+2. [Timing and Contingency](02-Timing-and-Contingency.md) — compares relational timing, uncertainty, and feasible timing counterfactuals.
+3. [Path Dependence](03-Path-Dependence.md) — requires reinforcing mechanisms rather than historical sequence alone.
+4. [Institutional Adaptation](04-Institutional-Adaptation.md) — separates institutional change, capability, and performance.
+5. [Learning and Adaptation](05-Learning-and-Adaptation.md) — distinguishes learning processes from selection and outcome improvement.
+6. [Unrealized Opportunities](06-Unrealized-Opportunities.md) — bounds alternatives by ex ante feasibility and evidence.
+7. [Cross-Domain Patterns](07-Cross-Domain-Patterns.md) — treats recurrence as a source of candidate relationships, not proof.
+8. [Adaptive Systems](08-Adaptive-Systems.md) — defines adaptive system as a derived classification with explicit boundaries.
+9. **Unused number.** No 09 document exists on main.
+10. [Limits of the Luck Framework](10-Limits-of-the-Luck-Framework.md) — states conceptual, empirical, measurement, and normative limits.
+11. [Empirical Integration](11-Empirical-Integration.md) — integrates evidence through a comparison protocol rather than a universal cycle.
+12. [Research Implications](12-Research-Implications.md) — identifies bounded tests and evidence priorities.
+13. [Grand Synthesis](13-Grand-Synthesis.md) — consolidates comparative findings without promoting them prematurely to General Theory.
 
-How do adaptive systems identify emerging opportunities?
+# Architectural Role
 
-Why are similar opportunities recognized unevenly?
+Comparative Studies does not redefine the primitives established in [Foundations](../../Foundations/README.md), replace relationship specification in [Formalization](../../Formalization/README.md), or supply operational validity in [Measurement](../../Measurement/README.md). It compares empirical interpretations across domains, tests whether constructs retain meaning across levels and contexts, records negative and contradictory cases, and identifies propositions that may warrant consideration in [General Theory](../../General%20Theory/README.md).
 
-How do knowledge, institutions, incentives, and historical position influence recognition?
+The analytical sequence remains:
 
----
-
-## 2. Timing and Contingency
-
-How do contingent events alter future possibilities?
-
-Why does timing often determine whether opportunities become consequential?
-
----
-
-## 3. Path Dependence
-
-How do inherited institutions, knowledge, investments, and previous decisions shape future opportunity landscapes?
-
-How do historical paths both enable and constrain adaptation?
-
----
-
-## 4. Institutional Adaptation
-
-How do institutions respond to changing environments?
-
-Which institutional characteristics improve long-term adaptive performance?
-
----
-
-## 5. Learning and Adaptation
-
-How do adaptive systems preserve, interpret, and apply experience?
-
-How does learning improve future recognition, coordination, and resilience?
-
----
-
-## 6. Unrealized Opportunities
-
-Why do many opportunities remain:
-
-* unnoticed,
-* delayed,
-* rejected,
-* blocked,
-* underdeveloped,
-* or transferred elsewhere?
-
-How do unrealized opportunities improve understanding of adaptive limitations?
-
----
-
-## 7. Cross-Domain Patterns
-
-Which adaptive mechanisms recur across all five empirical domains?
-
-Which mechanisms remain specific to individual contexts?
-
----
-
-## 8. Adaptive Systems
-
-Can scientific communities, technological ecosystems, business organizations, political institutions, and civilizations be understood using a common adaptive framework?
-
-If so, what characteristics define adaptive systems?
-
----
-
-## 9. Mechanisms of Luck
-
-How does luck influence development?
-
-Does it operate primarily through:
-
-* stochastic events,
-* changing opportunities,
-* institutional mediation,
-* learning,
-* or recursive adaptation?
-
----
-
-## 10. Limits of the Framework
-
-Where does the current framework perform well?
-
-Where does it remain incomplete?
-
-Which domains, mechanisms, or assumptions require additional investigation?
-
----
-
-## 11. Empirical Integration
-
-How do findings from independent domains reinforce, qualify, or challenge one another?
-
-What evidence is sufficiently robust to support broader propositions?
-
----
-
-## 12. Research Implications
-
-How should future research investigate luck?
-
-Which questions remain open?
-
-Which methodological improvements appear most important?
-
----
-
-## 13. Grand Synthesis
-
-How do the completed comparative findings fit together into a coherent empirical understanding of luck and adaptive systems?
-
-This chapter prepares the transition to the General Theory.
-
----
+- **Ex ante:** luck potential, defined through uncertainty, exposure, and feasible alternatives;
+- **Transition:** luck realization, analyzed through interactions, mechanisms, responses, and state changes;
+- **Ex post:** luck attribution, evaluated relative to a stated reference, outcome, time horizon, and counterfactual set.
 
 # Standards for Comparison
 
@@ -268,7 +151,7 @@ Without Comparative Studies the repository would remain a collection of independ
 
 # Relationship to General Theory
 
-Comparative Studies provides the empirical foundation for General Theory.
+Comparative Studies provides structured inputs to General Theory.
 
 The distinction is important.
 
@@ -280,9 +163,7 @@ General Theory asks:
 
 > **What broader theoretical propositions are supported by those recurring patterns?**
 
-Comparative recurrence supports theory.
-
-It does not automatically establish universal validity.
+Comparative recurrence can motivate theory. It does not establish causal identity, validity, or universality.
 
 General Theory must therefore distinguish:
 
@@ -295,7 +176,7 @@ General Theory must therefore distinguish:
 
 # Current Findings
 
-Across the completed empirical domains, several recurring observations consistently appear.
+Across the completed empirical domains, several recurring observations appear often enough to warrant further comparison.
 
 * Opportunities continually emerge and evolve.
 * Recognition is selective rather than universal.
@@ -305,13 +186,13 @@ Across the completed empirical domains, several recurring observations consisten
 * Learning improves long-term resilience.
 * Unrealized opportunities substantially outnumber realized successes.
 * Feedback amplifies early differences.
-* Adaptive capacity strongly influences long-term trajectories.
+* Adaptive capacity is a candidate contributor to long-term trajectories and must be measured independently of outcomes.
 
 These recurring observations motivate the broader theoretical framework developed in General Theory.
 
 They should not yet be interpreted as universal scientific laws.
 
-They represent candidate general mechanisms supported by the current comparative evidence.
+They represent candidate relationships suggested by the current interpretive evidence.
 
 ---
 
@@ -336,9 +217,9 @@ The objective is disciplined synthesis rather than premature generalization.
 
 # Long-Term Goal
 
-The long-term goal of the **Comparative Studies** section is to establish a rigorous comparative evidence base explaining how luck influences adaptive systems across diverse forms of human activity.
+The long-term goal of the **Comparative Studies** section is to establish a rigorous comparative evidence base for evaluating how consequential uncertainty affects bounded system trajectories across diverse forms of human activity.
 
-If future empirical work continues to support the recurring mechanisms identified here, Comparative Studies will provide increasingly strong foundations for a broader scientific theory of luck.
+If future empirical work supports clearly specified recurring relationships, Comparative Studies may provide stronger inputs to a bounded general theory of luck.
 
 If new evidence challenges these mechanisms, the comparative framework should evolve accordingly.
 
