@@ -2,83 +2,31 @@
 
 ## Purpose
 
-The **Design/** folder documents the conceptual and architectural evolution of the **Research on Luck** repository.
+The **Design/** folder records how and why major architectural decisions were made during development of **Research on Luck**. It is a design history, not an additional scientific layer and not a substitute for canonical definitions in Foundations.
 
-Unlike the main research directories, which present the scientific framework in its mature form, the Design folder records **how and why** major architectural decisions were made during the development of the project.
+## Role
 
-These documents are intended as design references rather than research outputs.
-
----
-
-## Role within the Repository
-
-The primary repository communicates the research itself.
-
-The Design folder preserves the reasoning behind the research architecture.
-
-It answers questions such as:
-
-* Why was the repository organized this way?
-* Why were certain concepts treated as fundamental?
-* Why were alternative approaches rejected?
-* How did the conceptual framework evolve?
-* What assumptions guided major design decisions?
-
-This separation allows the research documents to remain concise while preserving valuable design history for future development.
-
----
-
-## Guiding Principles
-
-The Design folder follows several principles.
-
-1. **Record decisions, not every discussion.**
-   Only significant architectural or conceptual decisions should be documented.
-
-2. **Preserve rationale.**
-   Design documents should explain *why* decisions were made, not merely *what* was decided.
-
-3. **Support future revision.**
-   These documents provide context for future refinement without constraining future research.
-
-4. **Remain independent of the scientific narrative.**
-   The research repository should be understandable without reading the Design folder.
-
-5. **Distinguish stable decisions from exploratory ideas.**
-   Working hypotheses, conceptual experiments, and exploratory discussions should be clearly identified.
-
----
+Design documents preserve the motivating problem, alternatives considered, decisions adopted, assumptions, unresolved questions, and implementation status. The research should remain understandable without this folder.
 
 ## Current Contents
 
-### 01-Conceptual-Architecture.md
+### [01-Conceptual-Architecture.md](01-Conceptual-Architecture.md)
 
-Documents the development of the conceptual architecture for **Research on Luck v2.1**, including:
+Records the transition to Version 2.1: four working primitives; layered derived concepts; luck potential, realization, and attribution; dynamic opportunity stages; relationship-centered theory; and repository implementation.
 
-* working primitives,
-* layered conceptual architecture,
-* reframing of luck,
-* opportunity framework,
-* relationship-centered theory,
-* methodological workflow,
-* conceptual freeze prior to implementation.
+## Status Conventions
 
-This document serves as the primary reference for the editorial implementation of Version 2.1.
+- **Adopted:** implemented in canonical research documents.
+- **Provisional:** currently used but open to revision.
+- **Historical:** retained to explain earlier choices but no longer authoritative.
+- **Open:** unresolved and requiring further work.
 
----
+Canonical definitions reside in [Foundations](../Foundations/README.md). Current theoretical status resides in [General Theory](../General%20Theory/README.md). Visual status resides in [Figures](../Figures/README.md).
 
-## Relationship to Future Research
+## Relationship to Research OS
 
-The Design folder is repository-specific.
+No project-specific method should be promoted merely because it worked once. Transfer requires recurrence across independent programs and evidence that abstraction improves rather than obscures the work.
 
-Some design principles developed here may later prove useful across multiple research programs. Only after repeated validation across independent repositories should such methodologies be promoted into a future **Research OS**.
+## Maintenance Rule
 
-Until then, the Design folder remains the working design history of **Research on Luck**.
-
----
-
-## Status
-
-This folder is a living design record.
-
-Documents may evolve during repository development, but they are maintained separately from the scientific content to preserve a clear distinction between **research results** and **research design**.
+Update design records when a major decision is adopted, superseded, or shown unworkable. Do not expand them through transcripts of routine editorial work.
