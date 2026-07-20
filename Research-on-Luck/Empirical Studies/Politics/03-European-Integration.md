@@ -2,7 +2,7 @@
 
 ## Overview
 
-The development of the European Union represents one of the most ambitious political experiments in modern history. Rather than expanding political authority through conquest or revolution, European integration emerged through voluntary cooperation among sovereign states seeking long-term stability, economic prosperity, and peaceful coexistence.
+The development of the European Union represents one of the most ambitious political experiments in modern history. European integration emerged primarily through negotiated cooperation among states, but participation, bargaining power, accession conditions, and the distribution of costs and benefits have never been equal.
 
 Traditional analyses often focus on treaties, institutions, or economic integration. From the perspective of the *Research on Luck* project, however, European integration illustrates a broader political mechanism: adaptive cooperation under shared uncertainty. Political systems need not respond to changing environments solely through national institutions. Under certain conditions, societies may develop new layers of governance that coordinate collective action across national boundaries.
 
@@ -28,7 +28,7 @@ Beginning with the European Coal and Steel Community in 1951, successive agreeme
 
 These developments eventually evolved into the European Union.
 
-Unlike previous empires or alliances, participation remained based primarily on voluntary institutional agreement rather than military domination.
+Unlike imperial incorporation, membership rested primarily on treaties and negotiated accession, while economic dependence, security conditions, domestic constraints, and asymmetric bargaining still shaped the available choices.
 
 ---
 
@@ -92,7 +92,7 @@ This balance remains one of the central adaptive challenges facing multinational
 
 # Luck and Political Cooperation
 
-Luck influenced European integration through changing historical circumstances.
+European integration was exposed to consequential uncertainty through changing historical circumstances.
 
 The aftermath of World War II, geopolitical competition during the Cold War, economic globalization, technological development, and successive financial and security crises all altered the incentives for cooperation.
 
@@ -100,9 +100,23 @@ These events created opportunities for deeper integration while simultaneously i
 
 However, cooperation depended less upon favorable circumstances than upon the willingness of participating governments to build institutions capable of managing shared uncertainty.
 
-Luck created common problems.
+Shared disruptions and interdependence altered problems and incentives. Institutions enabled some collective responses while also creating constraints, conflicts, distributional effects, and new dependencies.
 
-Institutional cooperation created collective solutions.
+---
+
+# Architecture-Alignment Assessment
+
+## Nested Systems and Boundaries
+
+The European Union, member states, institutions, markets, regions, and populations are nested systems with partially overlapping boundaries. Integration is a trajectory composed of accessions, treaty changes, policy coordination, crises, opt-outs, and exit—not a single state or uniformly shared outcome. The relevant environment changes depending on whether the focal system is the Union, a member state, an institution, or a constituency.
+
+## Opportunity, Constraint, and Power
+
+Common markets, mobility, regulation, and collective bargaining can enable opportunities while constraining domestic choices. Potential benefits require access, recognition, pursuit, implementation, and distribution; aggregate gains do not establish benefit for every member or group. Voting rules, agenda control, fiscal capacity, legal authority, and differences in economic size create asymmetric influence. Cooperation and constraint may therefore be two roles of the same relationship under different models.
+
+## Uncertainty, Alternatives, and Evidence
+
+Governments and publics faced ex ante uncertainty about institutional spillovers, enlargement, monetary integration, crises, domestic legitimacy, and exit. Unrealized alternatives include looser coordination, different fiscal institutions, delayed enlargement, differentiated integration, and nonmembership. Institutional persistence is not proof of optimality, just as crisis or exit is not sufficient evidence of failure. Causal assessment requires comparisons across policy domains, members, nonmembers, and periods, including distributional and counterfactual evidence.
 
 ---
 
@@ -126,7 +140,7 @@ Finally, governance becomes more resilient when institutions can coordinate resp
 
 European integration reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck increasingly creates challenges that transcend national boundaries, but political systems can expand their adaptive capacity by developing institutions capable of coordinating collective action across multiple societies.
+> Luck may be attributed ex post when consequential uncertainty altered shared exposures or integration trajectories. Whether multilevel institutions expand adaptive capacity is a comparative hypothesis requiring evidence on coordination, distribution, legitimacy, exit, and failure.
 
 Unlike the United States Constitution, which demonstrates adaptive institutional design within a single nation, and the French Revolution, which illustrates transformation through changing legitimacy, European integration demonstrates a third mechanism of political evolution: **adaptive institutional cooperation beyond the nation-state**.
 
