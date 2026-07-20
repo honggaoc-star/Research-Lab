@@ -28,7 +28,7 @@ Empirical Studies asks:
 
 > **What evidence do the selected cases provide for or against the proposed relationships, and under what boundary conditions?**
 
-**Comparative Studies** evaluates recurrence and difference across domains. [General Theory](../General%20Theory/README.md) should contain only relationships that survive sufficient conceptual, formal, measurement, and comparative scrutiny.
+[Comparative Studies](Comparative%20Studies/README.md) evaluates recurrence and difference across domains. [General Theory](../General%20Theory/README.md) should contain only relationships that survive sufficient conceptual, formal, measurement, and comparative scrutiny.
 
 ---
 
