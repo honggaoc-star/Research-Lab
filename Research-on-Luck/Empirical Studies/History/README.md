@@ -236,3 +236,47 @@ Rather than explaining historical development solely through great individuals, 
 
 The resulting evidence contributes one essential component of the broader **Research on Luck** framework, where historical evolution is studied not in isolation but as one manifestation of adaptive systems operating under uncertainty.
 
+---
+
+## Architecture-Alignment Protocol
+
+This domain should use the common audit framework in [../README.md](../README.md) while preserving domain-specific evidence and terminology.
+
+### Focal systems
+
+Possible focal systems include the actor, organization, institution, polity, society, or historical regime. Each case should state which system is primary and when the analysis moves across levels.
+
+### Relevant environment
+
+The environmental scope may include geography, technology, institutions, other polities, demography, resources, culture, and inherited structures. A condition should be included only when it affects the focal interaction or feasible trajectory.
+
+### Interaction and exposure
+
+Relevant channels include conflict, exchange, migration, reform, coalition, institutional decision, diffusion, and collective action. Cases should distinguish a general event from system-specific exposure.
+
+### Opportunity stages
+
+The domain-specific sequence may include historical opening, access, recognition, mobilization, institutional response, realization, and foreclosure. Potential, access, recognition, pursuit, realization, and foreclosure should not be collapsed into outcome.
+
+### Capability and adaptive process
+
+Relevant capabilities may include state capacity, information, coordination, learning, coalition building, institutional adaptation, and resource mobilization. Evidence should be independent of the favorable outcome wherever possible.
+
+### Dynamic mechanisms
+
+Candidate mechanisms include contingency, path dependence, institutional persistence, feedback, transformation, selection, and regime change. Their presence must be supported by sequence and process evidence rather than thematic resemblance alone.
+
+### Domain audit questions
+
+- Does the narrative reconstruct ex ante alternatives rather than impose later inevitability?
+- What evidence supports the claimed turning point and carrying mechanism?
+- Which unrealized historical paths were feasible rather than merely imaginable?
+- Does the case distinguish state change, institutional change, and regime transformation?
+
+### Evidence reporting
+
+Each case audit should identify direct observations, reconstructions, mechanism evidence, competing explanations, missing cases, and an evidence grade. Cases that challenge the architecture should be preserved rather than forced into conformity.
+
+### Editorial rule
+
+The case inventory is stable. Revisions should be targeted to material conceptual or evidentiary gaps. Additional cases are warranted only when they add a mechanism or boundary condition not represented by the existing corpus.
