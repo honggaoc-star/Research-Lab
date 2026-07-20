@@ -70,7 +70,7 @@ Several mechanisms contribute to this acceleration:
 * Open-source communities.
 * Data-driven decision-making.
 
-The opportunity landscape has become both larger and more dynamic than at any previous point in history.
+The opportunity landscape appears larger and more dynamic in many domains, although historical comparison depends on the units, populations, and measures chosen.
 
 ---
 
@@ -92,7 +92,7 @@ Emerging questions include:
 
 These challenges demonstrate that technological acceleration frequently outpaces institutional adaptation.
 
-Historical success increasingly depends upon reducing this gap.
+The consequences of gaps between technological and institutional change are hypotheses requiring domain-specific measurement; faster institutional response is not automatically beneficial.
 
 ---
 
@@ -123,9 +123,23 @@ Individuals, organizations, and societies increasingly compete through:
 * Institutional responsiveness.
 * Continuous innovation.
 
-Adaptive capacity has become a strategic resource in its own right.
+Adaptive capacity is a candidate system capability, distinct from observed performance. Continuous learning may improve some responses, but its value depends on objectives, constraints, distributional effects, and environmental conditions.
 
-History increasingly rewards systems capable of continuous learning rather than static optimization.
+---
+
+# Architecture-Alignment Assessment
+
+## Scope and Level of Analysis
+
+The Digital Revolution is an ongoing family of trajectories rather than a completed event. Analysis should specify a technology, institution, sector, polity, organization, or population and an explicit time horizon. Individuals, platforms, firms, states, and global networks are nested systems with different states and evaluative criteria; aggregate connectivity should not stand in for uniform social adaptation.
+
+## Uncertainty and Opportunity Stages
+
+Lower information-transmission costs can expand opportunity potential without ensuring access, recognition, pursuit, or realization. Infrastructure, skills, language, capital, regulation, platform governance, and market power distribute opportunities and constraints unevenly. Digital change also forecloses paths through displacement, surveillance, dependency, lock-in, and exclusion. Faster diffusion may reduce some uncertainties while amplifying others, including cybersecurity, information integrity, and correlated systemic risk.
+
+## Capability, Selection, and Counterfactuals
+
+Speed of response is not equivalent to adaptive capacity, and realized platform or national success does not establish superior learning. Capability requires independent indicators such as search, experimentation, coordination, error correction, and resource redeployment across both successful and failed initiatives. Selection among firms, standards, and platforms can amplify early advantage. Comparative work should examine unrealized alternatives and feasible counterfactuals such as different interoperability rules, access regimes, public infrastructures, or platform governance, while recognizing that this continuing transformation limits strong ex post conclusions.
 
 ---
 
@@ -149,7 +163,7 @@ Finally, digital transformation does not eliminate uncertainty. Instead, it incr
 
 The Digital Revolution reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck continues to create new opportunities, but accelerating information flows increasingly shift competitive advantage toward societies that can recognize, evaluate, and adapt to those opportunities more rapidly than others.
+> Luck may be attributed ex post when consequential uncertainty altered digital exposures and trajectories. Information speed changes opportunity and constraint structures, but advantage depends on access, interpretation, power, capability, institutional response, and selection.
 
 Unlike the Black Death, which demonstrates transformation through disruption; the Industrial Revolution, through technological convergence; the Meiji Restoration, through institutional adaptation; the fall of the Soviet Union, through systemic transition; and the Age of Exploration, through opportunity expansion, the Digital Revolution illustrates a sixth mechanism of historical change: **the acceleration of adaptive processes themselves**.
 
