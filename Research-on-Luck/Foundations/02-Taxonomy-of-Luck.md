@@ -398,7 +398,7 @@ This format enables comparison without pretending that complex cases belong to o
 - [Formalization](../Formalization/README.md) may represent selected dimensions as variables, states, or transition rules.
 - [Measurement](../Measurement/README.md) should operationalize dimensions separately and document uncertainty in classification.
 - [Empirical Studies](../Empirical%20Studies/README.md) should use the taxonomy to structure cases without forcing uniformity.
-- [Comparative Studies](../Comparative%20Studies/README.md) should test whether combinations recur across domains.
+- **Comparative Studies** should test whether combinations recur across domains.
 - [General Theory](../General%20Theory/README.md) should not elevate a taxonomic category into a causal law without supporting evidence.
 
 ---
