@@ -186,6 +186,16 @@ These principles emerge repeatedly regardless of disciplinary perspective.
 
 ---
 
+# Architecture-Alignment Note
+
+The integrated architecture should be interpreted as a comparison protocol, not a discovered universal sequence. It begins with the four working primitives—system, environment, interaction, and uncertainty—and derives bounded conditions, capabilities, processes, trajectories, and ex post evaluations. Opportunity recognition, timing, path dependence, institutional change, and learning occupy different analytical roles and should not be represented as a single mandatory chain.
+
+Current cross-domain evidence is primarily interpretive and uneven in depth. Recurrence increases the value of formal specification and testing, but it does not by itself increase causal confidence. Integration should preserve contradictory cases, alternative mechanisms, measurement limitations, and domain-specific boundary conditions.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
 Empirical integration represents one of the principal achievements of the *Research on Luck* project.
