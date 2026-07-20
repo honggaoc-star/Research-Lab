@@ -1,237 +1,324 @@
 # Origins and Mechanisms of Luck
 
-## Abstract
+## Purpose
 
-Luck is often described as a consequence of random events or fortunate circumstances. Such explanations, however, identify only isolated examples rather than explaining how luck arises or why similar circumstances produce very different outcomes for different individuals or organizations.
+This document explains how consequential variation can arise and develop within the project’s working-primitives architecture.
 
-This paper distinguishes between the **origins** of luck and the **mechanisms** through which luck influences outcomes. Origins refer to the sources from which favorable or unfavorable circumstances emerge, while mechanisms describe the processes that amplify, suppress, or transform those circumstances into meaningful outcomes.
+The term **origin** is used cautiously. Most episodes do not have a single ultimate origin. They emerge from prior system states, environmental conditions, and sequences of interaction. The term **mechanism** refers to a specified process through which an interaction changes a system, its environment, or their relationship.
 
-Recognizing this distinction provides an important conceptual bridge between the definition of luck and its subsequent mathematical formalization.
-
----
-
-# 1. Introduction
-
-If luck influences important outcomes, a natural question follows:
-
-> **Where does luck come from?**
-
-The question appears simple but conceals two fundamentally different problems.
-
-First, what gives rise to fortunate or unfortunate circumstances?
-
-Second, how do those circumstances ultimately influence outcomes?
-
-These questions should not be conflated.
-
-This paper therefore distinguishes the **origins** of luck from the **mechanisms** through which luck operates.
+The architectural reference is [10-Working-Primitives.md](10-Working-Primitives.md).
 
 ---
 
-# 2. Origins of Luck
+## 1. From Origins to Prior Conditions
 
-Origins describe the circumstances from which luck may arise.
+Earlier accounts often classify luck by source: biological, geographic, historical, institutional, social, or contingent. These categories remain useful, but they are better treated as **prior conditions and locations of variation** than as complete explanations.
 
-They identify **where** favorable or unfavorable conditions originate rather than **how** they affect outcomes.
+A biological difference may become consequential only under particular institutions. A geographic condition may matter through trade, conflict, disease, or infrastructure. A historical event may redistribute opportunities through laws and networks. A chance encounter depends on mobility, timing, and social structure.
 
-Multiple origins frequently coexist.
+A foundational analysis should therefore ask:
 
----
-
-## Biological Origins
-
-Examples include:
-
-* Genetics
-* Health
-* Physical characteristics
-* Cognitive abilities
-
-Individuals begin life with biological differences that influence future opportunities and constraints.
+- What was the focal system?
+- What prior state did it occupy?
+- Which environmental conditions mattered?
+- Through what interaction did they become consequential?
+- What was uncertain ex ante?
+- Which later process amplified, attenuated, or transformed the effect?
 
 ---
 
-## Geographic Origins
+## 2. Principal Sources of Variation
 
-Examples include:
+### Biological and developmental conditions
 
-* Birthplace
-* Climate
-* Natural resources
-* Urban versus rural environments
+Systems may begin with unequal health, traits, inherited characteristics, or developmental exposures. Their consequences depend on social evaluation, institutions, resources, technology, and adaptation.
 
-Geography shapes access to education, markets, infrastructure, and social networks.
+### Physical and geographic conditions
 
----
+Location shapes exposure to climate, resources, hazards, infrastructure, transportation, and other systems. Geography is not destiny; its effect is mediated through interaction and can change over time.
 
-## Historical Origins
+### Historical timing
 
-Examples include:
+Systems enter environments at particular moments. Wars, crises, demographic transitions, scientific paradigms, technological stages, or political reforms may open and close trajectories.
 
-* Generation
-* Wars
-* Economic crises
-* Technological revolutions
+### Social and network position
 
-Identical individuals born in different historical periods may experience profoundly different opportunities.
+Relationships affect access to information, trust, mentorship, capital, collaboration, protection, and visibility. Network position can also transmit risk and reinforce exclusion.
 
----
+### Institutional structure
 
-## Institutional Origins
+Rules and organizations distribute rights, resources, exposure, recognition, and response capacity. Institutions may buffer adverse variation, amplify advantage, or make opportunities accessible only to selected systems.
 
-Examples include:
+### Scientific and technological conditions
 
-* Legal systems
-* Educational institutions
-* Property rights
-* Government policies
+Available knowledge and infrastructures shape what can be recognized, tested, produced, or scaled. Discoveries often require both contingent observations and prepared interpretive systems.
 
-Institutions influence the distribution of opportunities and constraints across society.
+### Economic and political conditions
 
----
+Markets, prices, policies, authority, and power affect opportunity and constraint. Their consequences are frequently strategic and endogenous rather than external shocks.
 
-## Social Origins
+### Contingent events and encounters
 
-Examples include:
+Timing, matching, errors, discoveries, disruptions, and local accidents may redirect trajectories. Their significance depends on the system and environment in which they occur.
 
-* Family
-* Mentors
-* Professional networks
-* Communities
-
-Social relationships often determine access to information and opportunities.
+These sources commonly interact. Classification should not imply isolated causation.
 
 ---
 
-## Contingent Origins
+## 3. Exposure Mechanisms
 
-Examples include:
+Variation affects a system only through some channel.
 
-* Accidents
-* Unexpected encounters
-* Natural disasters
-* Rare events
+### Material exposure
 
-These are the forms of luck most commonly recognized in everyday language.
+A system encounters a physical resource, hazard, technology, or infrastructure.
 
----
+### Informational exposure
 
-# 3. Mechanisms of Luck
+Information becomes available through observation, communication, data, publication, or leakage.
 
-Origins alone do not determine outcomes.
+### Relational exposure
 
-The same fortunate circumstance may have dramatically different consequences depending upon how it propagates through a system.
+A match, encounter, network connection, competition, or coalition changes access or constraint.
 
-Mechanisms explain this process.
+### Institutional exposure
 
----
+A rule, allocation, decision, classification, or enforcement process changes the system’s position.
 
-## Timing
+### Market exposure
 
-The value of an opportunity often depends upon when it occurs.
+Prices, demand, finance, competition, or exchange alter incentives and feasible actions.
 
-The same innovation introduced too early or too late may fail despite its intrinsic quality.
+### Experimental exposure
 
----
+Intervention or experimentation produces observations unavailable through prior routine activity.
 
-## Path Dependence
-
-Early events frequently influence subsequent opportunities.
-
-Small initial advantages or disadvantages may accumulate over time.
+Exposure is often unequal because prior positions, institutions, and networks determine who can encounter what.
 
 ---
 
-## Feedback
+## 4. Recognition and Interpretation
 
-Success often generates additional opportunities.
+Exposure is not equivalent to recognition.
 
-Failure may reduce future opportunities.
+A system may:
 
-Positive and negative feedback therefore amplify initial differences.
+- recognize significance immediately;
+- notice the event but misunderstand it;
+- recognize it only after delay;
+- lack the conceptual framework needed to interpret it;
+- or never become aware of the opportunity or threat.
 
----
+Recognition depends on prior knowledge, attention, incentives, culture, organizational routines, and available categories.
 
-## Network Effects
-
-Connections between individuals and organizations influence the spread of information, opportunities, and resources.
-
-A single new relationship may substantially alter future trajectories.
-
----
-
-## Information
-
-Individuals differ in what they know and how they interpret uncertain situations.
-
-The same opportunity may remain invisible to one person while being immediately recognized by another.
+The language of “prepared minds” captures one part of this relationship but should not erase exposure. Capability may explain why an observation was interpreted; it does not explain why that system encountered the observation while others did not.
 
 ---
 
-## Adaptation
+## 5. Response Mechanisms
 
-Luck does not determine outcomes independently of human action.
+Following exposure or recognition, systems may:
 
-Individuals and organizations continually adapt to changing circumstances.
+- act;
+- delay;
+- avoid;
+- experiment;
+- imitate;
+- cooperate;
+- compete;
+- reorganize;
+- institutionalize;
+- or fail to respond.
 
-Adaptation may amplify favorable circumstances or mitigate unfavorable ones.
+Response depends on more than insight. Resources, authority, complementary capabilities, timing, legitimacy, and institutional permission may determine whether action is feasible.
 
----
-
-# 4. Interactions
-
-Origins and mechanisms rarely operate independently.
-
-For example,
-
-a technological revolution (historical origin) may create new industries.
-
-Individuals embedded within strong professional networks (social origin) may recognize opportunities earlier.
-
-Positive feedback then amplifies early success.
-
-The resulting outcome reflects the interaction of multiple origins and multiple mechanisms rather than any single cause.
-
-Luck should therefore be viewed as an emergent phenomenon arising from interconnected processes.
+Non-response should not automatically be attributed to incapacity. A system may face binding constraints, incompatible objectives, or uncertainty that makes restraint reasonable ex ante.
 
 ---
 
-# 5. Implications
+## 6. Dynamic Mechanisms
 
-Distinguishing origins from mechanisms has several implications.
+### Timing and sequencing
 
-First, favorable circumstances alone do not guarantee favorable outcomes.
+The order of interactions affects consequence. An idea may arrive before enabling technology, after a market has closed, or at the moment institutions are receptive.
 
-Second, similar origins may produce different outcomes because mechanisms differ.
+### Feedback
 
-Third, understanding mechanisms may be as important as identifying origins.
+An initial difference may change later resources, information, expectations, or exposure.
 
-Finally, interventions aimed at improving outcomes may target either the origins of luck, the mechanisms through which luck propagates, or both.
+Positive feedback can amplify advantage or harm. Negative feedback can stabilize or reverse it.
+
+### Cumulative advantage and disadvantage
+
+Early gains may improve later access, while early losses may restrict it. The process can make modest initial differences appear large and durable.
+
+### Network effects
+
+The value or visibility of a practice may rise with adoption, creating thresholds, lock-in, and unequal returns to timing.
+
+### Selection
+
+Environmental conditions and interactions produce differential survival, replication, growth, or visibility.
+
+Survival does not prove intrinsic superiority. Selection may reflect inherited position, institutional support, power, timing, or environmental fit.
+
+### Adaptation
+
+Systems change capabilities, behavior, or relationships in response to actual or anticipated conditions. Adaptation may reduce exposure, exploit an opportunity, or alter the environment.
+
+### Institutionalization
+
+Repeated practices may become rules, standards, organizations, or expectations. This can stabilize a contingent advantage or buffer later shocks.
+
+### Path dependence
+
+Earlier states and interactions change which later alternatives are accessible. Path dependence is a trajectory pattern produced through mechanisms, not an explanation by itself.
+
+### Transformation
+
+Repeated interaction may change the identity or structure of the system or environment, creating a new regime rather than merely a new outcome within the old one.
 
 ---
 
-# 6. Open Questions
+## 7. Amplification, Attenuation, Reversal, and Dissipation
 
-Several questions remain unresolved.
+The long-term consequence of initial variation is not fixed.
 
-* Which origins contribute most strongly to observed outcomes?
-* Which mechanisms most effectively amplify or diminish luck?
-* How do different mechanisms interact?
-* Can institutions alter the mechanisms through which luck operates?
-* Can individuals intentionally increase exposure to favorable mechanisms?
+### Amplification
 
-These questions motivate subsequent theoretical and empirical investigation.
+Feedback increases the initial effect.
+
+### Attenuation
+
+Institutions, diversification, learning, or countervailing forces reduce it.
+
+### Stabilization
+
+The effect persists without continued growth.
+
+### Reversal
+
+Later interactions change its direction or valence.
+
+### Dissipation
+
+The effect becomes negligible at the selected horizon.
+
+### Transformation
+
+The effect changes the structure that determines future interactions.
+
+These patterns should be established empirically. They are not universal laws of luck.
 
 ---
 
-# 7. Conclusion
+## 8. Opportunity Dynamics
 
-Luck is not generated by a single source or process.
+An opportunity is a relation between a system and its environment, not an object waiting independently to be found.
 
-Instead, it emerges through the interaction of multiple origins and multiple mechanisms operating across biological, social, institutional, historical, and environmental contexts.
+A sequence may involve:
 
-Distinguishing these two dimensions provides a richer conceptual understanding of luck and establishes an important bridge between conceptual foundations and future mathematical formalization.
+```text
+Environmental or relational change
+              ↓
+Potential opportunity
+              ↓
+Exposure and access
+              ↓
+Recognition and interpretation
+              ↓
+Response and resource mobilization
+              ↓
+Realization, partial realization, or failure
+              ↓
+Feedback and changed future opportunity set
+```
 
-Understanding where luck originates explains **why opportunities arise**.
+Opportunities may migrate among systems as knowledge spreads, institutions change, or constraints shift.
 
-Understanding the mechanisms of luck explains **how opportunities become outcomes**.
+An unrealized opportunity may be:
+
+- unrecognized;
+- inaccessible;
+- rejected;
+- mistimed;
+- blocked by institutions;
+- incompatible with other objectives;
+- or lost through adverse feedback.
+
+Analysis should avoid treating every unrealized possibility as a mistake. Feasibility must be assessed from the ex ante position.
+
+---
+
+## 9. Recursive Causation
+
+Systems do not only receive luck from static environments. Their responses may alter:
+
+- institutions;
+- markets;
+- technologies;
+- networks;
+- information;
+- other systems’ exposures;
+- and the distribution of future uncertainty.
+
+Luck can therefore be self-reinforcing or self-limiting.
+
+A favorable exposure may produce capability that improves later recognition. Success may attract resources and visibility. Adverse exposure may weaken future response capacity. Conversely, institutions may be redesigned to pool risks or broaden access.
+
+This recursive structure links the Research on Luck project to the broader study of adaptive systems without implying that every adaptive process is luck.
+
+---
+
+## 10. Ex Ante Reconstruction and Alternative Trajectories
+
+Mechanism claims should reconstruct:
+
+1. what was knowable and controllable beforehand;
+2. which interactions were feasible;
+3. which alternatives were accessible;
+4. what constraints applied;
+5. and how later feedback changed the possibility set.
+
+Ex post narratives often compress a complex sequence into a decisive moment. This can exaggerate foresight, overlook failed parallels, and erase unrealized alternatives.
+
+Counterfactuals should remain close to plausible ex ante branches and should state their evidentiary limits.
+
+---
+
+## 11. Mechanism Template for Empirical Cases
+
+A case should identify:
+
+| Element | Question |
+| --- | --- |
+| Focal system | What system’s trajectory is being explained? |
+| Prior state | What capabilities, resources, and constraints existed? |
+| Environment | Which conditions and other systems mattered? |
+| Uncertainty | What was unresolved ex ante? |
+| Initial variation | What changed, and where was it located? |
+| Exposure | How did the variation reach the system? |
+| Recognition | How was it interpreted or missed? |
+| Response | What action or non-action followed, and why? |
+| Dynamic process | What feedback, selection, adaptation, or institutionalization occurred? |
+| Trajectory | Which states and accessible alternatives changed? |
+| Counterfactual | Which plausible path remained unrealized? |
+| Evaluation | Favorable or adverse for whom and over what horizon? |
+
+---
+
+## 12. Relationship to Later Work
+
+- [Formalization](../Formalization/README.md) should convert candidate mechanisms into explicit relationships and transition rules.
+- [Measurement](../Measurement/README.md) should identify observable indicators for exposure, recognition, response, feedback, and trajectory change.
+- [Empirical Studies](../Empirical%20Studies/README.md) should use mechanism reconstruction rather than outcome-only narratives.
+- [Comparative Studies](../Comparative%20Studies/README.md) should determine which mechanisms recur and which remain domain-specific.
+- [General Theory](../General%20Theory/README.md) should include only relationships supported across sufficient evidence and boundary conditions.
+
+---
+
+## Conclusion
+
+The “origins” of luck are rarely single causes. Consequential variation emerges from prior system states, environmental conditions, interactions, and uncertainty.
+
+Mechanisms explain how exposure becomes recognition or material effect, how systems respond, and how feedback, adaptation, selection, and institutions alter trajectories. This relationship-centered approach preserves the importance of contingency while avoiding explanations that attribute realized success or survival solely to capability.
