@@ -171,6 +171,6 @@ The additive measurement architecture is complete through file 15. Files 16–17
 
 The Empirical Studies architecture audit and the first proposition-to-evidence map are complete. Validation Study 1 now tests whether recognition can be coded separately from access, authority, pursuit, realization, and outcome hindsight.
 
-The protocol is a construct-validation pilot, not a causal estimate. Its five purposive cases test coding portability and expose ambiguity. The first preliminary source packet, for Fleming and penicillin, is maintained in [References](../References/02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md). Advancement to a within-domain study depends on reliable stage separation, recoverable ex ante information, and explicit decision rules.
+The protocol is a construct-validation pilot, not a causal estimate. Its five purposive cases test coding portability and expose ambiguity. The Fleming Pass A [source dossier](../References/02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md) and separate [coder packet](../References/03-Fleming-Penicillin-Pass-A-Coder-Packet.md) are frozen at Version 1.0. The next step is two independent coding records followed by adjudication; later outcome evidence remains sealed. Advancement to a within-domain study depends on reliable stage separation, recoverable ex ante information, and explicit decision rules.
 
 Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
