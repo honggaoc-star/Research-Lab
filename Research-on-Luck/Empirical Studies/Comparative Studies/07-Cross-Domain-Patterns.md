@@ -164,6 +164,16 @@ This recurring cycle explains why adaptive evolution appears remarkably similar 
 
 ---
 
+# Architecture-Alignment Note
+
+Cross-domain similarity does not establish identical mechanisms. The same label may refer to different formal objects, levels, causal structures, or measurement procedures. Comparative recurrence should therefore be recorded as a candidate relationship with specified boundary conditions, competing explanations, negative cases, and domain-specific meanings.
+
+The apparent sequence in this chapter is a heuristic, not a validated universal cycle. Relationships may be simultaneous, recursive, absent, or ordered differently. Environmental change does not automatically generate opportunity; feedback does not necessarily improve performance; and adaptation may stabilize, reverse, redistribute, or worsen outcomes. Promotion toward General Theory requires evidence that survives these distinctions.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
 Cross-domain patterns represent the first integrated empirical framework developed within the *Research on Luck* project.
@@ -172,6 +182,6 @@ The comparative evidence accumulated across Science, Technology, Business, Histo
 
 > Luck influences adaptive systems not through isolated events, but by continually reshaping the environments within which multiple adaptive mechanisms interact. Long-term success emerges from the coordinated operation of opportunity recognition, timing, path dependence, institutional adaptation, learning, and continuous feedback rather than from any individual mechanism acting alone.
 
-This perspective marks an important transition in the research program. Earlier chapters identified universal mechanisms individually. This chapter demonstrates that those mechanisms form an interconnected adaptive system. Understanding luck therefore requires studying the interactions among adaptive processes rather than searching for single causes of success or failure.
+This perspective marks an important transition in the research program. Earlier chapters identified candidate cross-domain mechanisms individually. This chapter demonstrates that those mechanisms form an interconnected adaptive system. Understanding luck therefore requires studying the interactions among adaptive processes rather than searching for single causes of success or failure.
 
 The comparative evidence suggests that the recurring patterns identified across five distinct domains are not coincidental. They represent a common empirical structure governing adaptive evolution throughout human systems.
