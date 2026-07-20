@@ -71,7 +71,7 @@ These included:
 
 These institutions encouraged investment, experimentation, and the diffusion of new technologies across industries.
 
-Societies possessing stronger institutional support generally industrialized more rapidly than those lacking similar foundations.
+Some institutional arrangements may have enabled industrialization, but their effects, distribution, and endogeneity require comparative assessment; later industrialization cannot by itself validate those institutions.
 
 ---
 
@@ -126,9 +126,23 @@ However, these favorable circumstances alone did not guarantee industrial succes
 
 Long-term outcomes depended upon institutional flexibility, technological adoption, investment decisions, and organizational adaptation.
 
-Luck influenced the availability of opportunities.
+Contingent resource, geopolitical, scientific, and commercial conditions shaped opportunity potential and access. Realization emerged through investment, coercion, labor organization, institutions, technological learning, and further uncertainty rather than adaptation alone.
 
-Adaptation determined the extent to which those opportunities became lasting economic and social transformation.
+---
+
+# Architecture-Alignment Assessment
+
+## Focal System and Boundary
+
+“The Industrial Revolution” is a long, heterogeneous trajectory rather than a single event or system state. Models should specify a focal industry, region, firm population, state, or transnational network and a time horizon. Britain’s early industrialization, later diffusion, colonial relations, and sectoral transitions occur at different levels and should not be collapsed into a single national capability.
+
+## Ex Ante Uncertainty and Opportunity Dynamics
+
+Actors faced uncertainty about technical reliability, demand, factor prices, finance, labor resistance, regulation, and complementary infrastructure. Opportunities moved through potential, access, recognition, pursuit, realization, and foreclosure. Resource deposits or inventions did not constitute opportunities independently of transport, property and labor arrangements, finance, market access, and political power. Failed technologies, nonadopting regions, and displaced livelihoods remain part of the opportunity landscape.
+
+## Selection, Distribution, and Counterfactuals
+
+Industrial survival or later wealth cannot establish institutional superiority. Selection among firms and regions, colonial extraction, coercive labor relations, environmental costs, and cumulative advantage may contribute to observed trajectories. Feasible comparisons should vary resources, energy costs, institutions, market access, and geopolitical position while respecting historical constraints. The present narrative identifies candidate enabling and feedback relationships; it does not isolate their causal weights or establish a universal sequence of development.
 
 ---
 
@@ -152,7 +166,7 @@ Finally, history demonstrates that major opportunities often become visible only
 
 The Industrial Revolution reinforces one of the central propositions of the *Research on Luck* project:
 
-> Luck creates favorable historical conditions through the convergence of technological, institutional, and economic developments, but societies determine long-term outcomes through their capacity to recognize, adopt, and expand those opportunities.
+> Luck may be attributed ex post to consequential uncertainty in the convergence and distribution of enabling conditions. Long-term trajectories require separate explanation through institutions, resources, power, learning, investment, and interaction.
 
 Unlike the Black Death, which transformed history through systemic disruption, the Industrial Revolution transformed history through cumulative innovation and adaptation.
 
