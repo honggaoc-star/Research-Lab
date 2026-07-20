@@ -2,7 +2,7 @@
 
 ## Overview
 
-Berkshire Hathaway demonstrates that business success can emerge not from developing revolutionary technologies or creating entirely new markets, but from consistently allocating capital under conditions of uncertainty. Rather than competing primarily through product innovation, Berkshire has built long-term value by identifying opportunities where the expected relationship between risk and return differs from prevailing market expectations.
+Berkshire Hathaway provides a case in which long-run business success appears to have emerged not from developing revolutionary technologies or creating entirely new markets, but from consistently allocating capital under conditions of uncertainty. Rather than competing primarily through product innovation, Berkshire has built long-term value by identifying opportunities where the expected relationship between risk and return differs from prevailing market expectations.
 
 This case shifts the focus of the Research on Luck from entrepreneurial innovation to investment decision-making. It illustrates that luck does not eliminate uncertainty, nor does uncertainty prevent rational decision-making. Instead, favorable outcomes arise through disciplined evaluation, patience, and the willingness to act when opportunities appear.
 
@@ -43,7 +43,7 @@ Key characteristics include:
 * Preserving liquidity for periods of market disruption.
 * Allowing acquired businesses considerable operational autonomy while centralizing capital allocation.
 
-Capital allocation becomes the firm's principal competitive advantage rather than any individual product or technology.
+Capital allocation is a candidate explanation for the firm's performance rather than any individual product or technology.
 
 ---
 
@@ -80,9 +80,9 @@ Market dislocations often generate unusually attractive investment conditions.
 
 Organizations possessing liquidity, analytical capability, and disciplined governance are better positioned to capitalize on these opportunities.
 
-**Patience Reduces Randomness**
+**Patience Changes Exposure**
 
-Extending decision horizons allows underlying business performance to dominate short-term market volatility.
+Extending decision horizons changes the mix of exposures and may reduce sensitivity to short-term volatility; it does not remove randomness or guarantee convergence to underlying value.
 
 In this framework, luck influences the availability of opportunities, while disciplined capital allocation influences the realization of those opportunities.
 
@@ -104,6 +104,26 @@ This separation allows local expertise to guide operations while preserving cent
 
 ---
 
+# Architecture-Alignment Assessment
+
+## Focal System and Levels of Analysis
+
+The focal system is Berkshire Hathaway as a holding company, while its subsidiaries are nested systems operating in distinct environments. The portfolio, insurance operations, governance structure, and central allocation process should be distinguished analytically. Market prices, credit conditions, regulation, acquisition markets, and counterparties form relevant parts of the environment rather than attributes of Berkshire itself.
+
+## Ex Ante Uncertainty and Opportunity Stages
+
+Investment opportunities move through potential, access, recognition, pursuit, and realization. Berkshire's liquidity, reputation, insurance float, transaction network, and governance arrangements may expand access, especially during market stress. Yet the value of a pursued opportunity remains uncertain ex ante, and unrealized or declined investments belong in the evidence base alongside successful acquisitions. Ex post returns should not be used to reconstruct earlier choices as obvious.
+
+## Capability, Exposure, and Selection
+
+Capital-allocation capability should be measured independently of outcomes through decision rules, valuation records, governance procedures, liquidity management, and performance across comparable decisions. Long survival and high returns may also reflect favorable market regimes, access to low-cost capital, tax and legal structures, reputational deal flow, survivorship, and the exclusion of unsuccessful comparators. These are competing or complementary explanations, not residual luck.
+
+## Counterfactual and Evidence Requirements
+
+Useful counterfactuals include alternative uses of insurance float, different acquisition timing, periods without privileged deal access, and comparable allocators operating under other market regimes. Such comparisons must remain feasible given contemporary information and constraints. The present case is interpretive: stronger causal claims require decision-level data, explicit comparison sets, and evidence on rejected as well as realized opportunities.
+
+---
+
 # Lessons
 
 Berkshire Hathaway illustrates several broader principles relevant to the study of luck.
@@ -114,7 +134,7 @@ Second, successful organizations often compete through superior allocation of sc
 
 Third, uncertainty creates opportunities for prepared decision-makers rather than merely introducing uncontrollable randomness.
 
-Finally, sustainable success depends on repeated high-quality decisions over long periods rather than isolated instances of good fortune.
+Finally, long-run performance may reflect repeated decision quality, favorable exposures, institutional advantages, and selection. Realized returns alone cannot identify their relative contributions.
 
 ---
 
@@ -122,6 +142,6 @@ Finally, sustainable success depends on repeated high-quality decisions over lon
 
 Berkshire Hathaway supports one of the central propositions of this research project:
 
-> Luck influences the distribution of opportunities, but disciplined resource allocation determines how many of those opportunities are ultimately realized.
+> Luck potential varies with the opportunities to which a system is exposed; realization depends on resource allocation, access, timing, environmental response, and unresolved uncertainty.
 
 This case complements the earlier studies of Amazon, Netflix, Apple, and Microsoft by emphasizing that enduring business success may arise not from discovering new technologies, but from repeatedly making sound decisions under uncertainty. It highlights capital allocation as one of the primary mechanisms through which organizations transform uncertain environments into sustained economic value.
