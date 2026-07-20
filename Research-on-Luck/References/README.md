@@ -2,277 +2,104 @@
 
 ## Purpose
 
-The **References** directory provides the long-term evidence infrastructure of the **Research on Luck** project.
+The **References** directory is the evidence infrastructure of **Research on Luck**. Literature synthesizes scholarly traditions; References establishes how sources support particular conceptual, empirical, comparative, and theoretical claims.
 
-While the **Literature** directory reviews existing scholarship and examines the intellectual development of ideas, the References directory organizes the scholarly sources, historical materials, datasets, archival records, technical documents, and other evidence supporting the repository itself.
+The directory currently contains this README only. Proposed subfolders are not part of the live repository and should not be created until the evidence workflow demonstrates a need.
 
-Its purpose is not merely to maintain a bibliography.
+## Evidence Priorities
 
-Instead, it seeks to provide transparent documentation for the conceptual, empirical, comparative, and theoretical work developed throughout the project.
+Reference development should proceed in this order:
 
----
+1. material factual claims in empirical cases;
+2. contested historical interpretations;
+3. definitions attributed to disciplines or scholars;
+4. mechanisms and formal assumptions;
+5. measurement and identification methods;
+6. comparative recurrence claims;
+7. and propositions promoted toward General Theory.
 
-# Why References?
+A large bibliography without claim-level traceability is not sufficient.
 
-Scientific research depends upon evidence.
+## Source Roles
 
-As the **Research on Luck** project has evolved from conceptual exploration toward comparative empirical investigation, the importance of systematic documentation has increased.
+Sources should be identified by role:
 
-Every major proposition ultimately depends upon evidence drawn from:
+- **Primary evidence:** archival records, contemporaneous documents, original datasets, patents, official records, or original research reports.
+- **Secondary scholarship:** peer-reviewed or scholarly interpretation and synthesis.
+- **Methodological authority:** sources supporting formal, measurement, or identification procedures.
+- **Contextual source:** reliable background information not carrying a central inference.
+- **Competing interpretation:** evidence or scholarship challenging the project’s preferred explanation.
 
-* scholarly research,
-* historical sources,
-* empirical studies,
-* technical reports,
-* archival materials,
-* public datasets,
-* and related documentation.
+Authority, popularity, or citation count does not replace relevance to the claim.
 
-The References directory exists to organize those materials in a consistent and transparent manner.
+## Citation Standard
 
----
+For each material claim, record where feasible:
 
-# Relationship to Literature
+- the exact claim supported;
+- source identity and stable locator;
+- source type;
+- publication date;
+- relevant page, section, table, or record;
+- whether support is direct or inferential;
+- known limitations;
+- and competing sources.
 
-Although both directories deal with scholarly material, they serve different purposes.
+Quotations should be limited and used only when wording itself matters.
 
-## Literature
+## Evidence Map
 
-The Literature directory investigates:
+The planned proposition-to-evidence map should connect:
 
-* how different disciplines understand luck,
-* major theoretical traditions,
-* conceptual debates,
-* and unresolved research questions.
+| Field | Purpose |
+|---|---|
+| Proposition or relationship | Identifies the claim under assessment |
+| Boundary conditions | States system, domain, level, and horizon |
+| Supporting cases | Records evidence consistent with the claim |
+| Negative cases | Records evidence inconsistent with or limiting the claim |
+| Competing explanations | Identifies alternative mechanisms |
+| Measurement status | Notes indicator and construct-validity issues |
+| Source quality | Distinguishes primary, secondary, and contextual support |
+| Current status | Retain, narrow, reclassify, test, or reject |
 
-Its emphasis is intellectual synthesis.
+This map should be developed before creating an elaborate folder taxonomy.
 
----
+## Relationship to Repository Sections
 
-## References
+- [Foundations](../Foundations/README.md) requires sources for disciplinary definitions and conceptual distinctions.
+- [Literature](../Literature/README.md) synthesizes scholarship and debates.
+- [Formalization](../Formalization/README.md) requires sources for formal tools and inherited mechanisms.
+- [Measurement](../Measurement/README.md) requires methodological and validation sources.
+- [Empirical Studies](../Empirical%20Studies/README.md) requires claim-level historical and domain evidence.
+- [Comparative Studies](../Empirical%20Studies/Comparative%20Studies/README.md) requires traceable cross-case comparison.
+- [General Theory](../General%20Theory/README.md) requires explicit links to supporting, limiting, and disconfirming evidence.
 
-The References directory documents the evidence supporting this repository.
+## Selection and Disagreement
 
-Its emphasis is:
+Reference collection should actively guard against:
 
-* source documentation,
-* citation management,
-* evidence transparency,
-* reproducibility,
-* and future scholarly development.
+- citing only successful or surviving cases;
+- relying only on sources aligned with the project’s interpretation;
+- using later narratives to reconstruct ex ante knowledge;
+- substituting biographies or popular accounts for decision-level evidence;
+- and treating absence of documentation as evidence that an opportunity did not exist.
 
-Literature asks:
+Where scholarship disagrees, the disagreement should be represented rather than resolved through selective citation.
 
-> **What does existing scholarship say?**
+## Reproducibility and Stability
 
-References asks:
+Prefer stable scholarly identifiers, archival locators, permanent dataset identifiers, and official records. Record access dates for changeable web sources.
 
-> **What evidence supports the work presented here?**
+Datasets, code, and derived evidence should eventually include provenance, transformation steps, version information, and licensing constraints.
 
----
+## Current Status
 
-# Scope
+The conceptual architecture is sufficiently stable for systematic evidence development. Comprehensive citation work was previously deferred; it is now the project’s highest-priority substantive task.
 
-The References directory may eventually include:
+The next deliverable should be a bounded evidence map for a small set of propositions—not a comprehensive bibliography or empty directory structure.
 
-* books,
-* journal articles,
-* conference papers,
-* historical archives,
-* government publications,
-* technical reports,
-* public datasets,
-* statistical sources,
-* institutional documents,
-* biographies,
-* original historical records,
-* and other supporting materials.
+## Long-Term Goal
 
-The directory may also include curated bibliographies organized around recurring research themes.
+References should make every important claim easier to inspect, contest, reproduce, and revise.
 
----
-
-# Possible Organization
-
-As the repository matures, References may develop along several complementary dimensions.
-
-```text id="bwfmkp"
-References/
-│
-├── README.md
-│
-├── Books/
-├── Journal-Articles/
-├── Historical-Sources/
-├── Government-Publications/
-├── Technical-Reports/
-├── Public-Datasets/
-├── Archives/
-├── Bibliographies/
-└── Citation-Guides/
-```
-
-Alternative organizations may emerge as research needs evolve.
-
-The emphasis should remain on accessibility, consistency, and long-term maintainability.
-
----
-
-# Supporting the Research Program
-
-References should eventually support every major layer of the repository.
-
-## Foundations
-
-Sources concerning:
-
-* definitions,
-* conceptual distinctions,
-* philosophy,
-* uncertainty,
-* probability,
-* and related concepts.
-
----
-
-## Literature
-
-Bibliographic support for disciplinary reviews.
-
----
-
-## Formalization
-
-Sources concerning:
-
-* stochastic processes,
-* dynamic systems,
-* complexity,
-* networks,
-* institutional theory,
-* and formal models.
-
----
-
-## Measurement
-
-References supporting:
-
-* empirical methodology,
-* operationalization,
-* identification strategies,
-* comparative methods,
-* process tracing,
-* and mixed-method research.
-
----
-
-## Empirical Studies
-
-Evidence supporting:
-
-* scientific discoveries,
-* technological development,
-* business history,
-* political evolution,
-* historical case studies,
-* and institutional analysis.
-
----
-
-## Comparative Studies
-
-References supporting:
-
-* cross-domain comparison,
-* adaptive systems,
-* opportunity recognition,
-* learning,
-* institutional adaptation,
-* and comparative methodology.
-
----
-
-## General Theory
-
-Sources supporting:
-
-* broader theoretical integration,
-* adaptive systems,
-* uncertainty,
-* institutional evolution,
-* organizational learning,
-* and related interdisciplinary research.
-
----
-
-# Citation Philosophy
-
-The project follows several principles regarding documentation.
-
-## Transparency
-
-Major conceptual claims should eventually be supported by identifiable sources.
-
----
-
-## Traceability
-
-Readers should be able to determine where important empirical claims originate.
-
----
-
-## Multiple Perspectives
-
-Where scholarly disagreement exists, references should represent competing viewpoints whenever practical.
-
----
-
-## Evidence Before Authority
-
-Sources are included because they contribute useful evidence or reasoning, not merely because they are influential.
-
----
-
-## Continuous Development
-
-References should evolve together with the repository.
-
-New empirical work, competing interpretations, and additional scholarship should be incorporated as the research program develops.
-
----
-
-# Current Status
-
-The repository's conceptual architecture is now substantially complete.
-
-During earlier stages of development, emphasis was placed on:
-
-* conceptual foundations,
-* theoretical mechanisms,
-* comparative organization,
-* and repository architecture.
-
-Comprehensive reference management was intentionally deferred until the broader framework became sufficiently stable.
-
-The current stage marks the transition toward systematic evidence development.
-
-Future work will increasingly emphasize:
-
-* expanding citations,
-* improving documentation,
-* strengthening empirical support,
-* incorporating competing scholarship,
-* and improving reproducibility.
-
----
-
-# Long-Term Goal
-
-The long-term goal of the **References** directory is to establish a comprehensive, transparent, and well-organized evidence base supporting the entire **Research on Luck** project.
-
-Rather than functioning as a passive bibliography, this directory should become an active research resource connecting conceptual development, empirical investigation, comparative analysis, and theoretical synthesis with the scholarly and historical evidence upon which they depend.
-
-As the repository matures, the quality of its references will become increasingly important.
-
-Ultimately, the strength of the project's conclusions will depend not only upon the originality of its ideas, but also upon the clarity, credibility, and transparency of the evidence supporting them.
+The quality of this directory will be measured by traceability and evidentiary balance, not by source count.
