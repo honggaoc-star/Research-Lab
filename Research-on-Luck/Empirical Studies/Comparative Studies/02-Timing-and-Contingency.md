@@ -4,7 +4,7 @@
 
 Across Science, Technology, Business, History, and Politics, opportunities do not emerge under identical conditions or at predictable moments. Scientific discoveries occur unexpectedly, technological breakthroughs converge at different rates, markets evolve unevenly, historical events reshape civilizations, and political systems confront changing environments that cannot be fully anticipated.
 
-These observations suggest that timing and contingency are candidate cross-domain mechanisms through which luck influences adaptive systems.
+These observations make timing and contingency candidate cross-domain conditions for comparing system trajectories under uncertainty.
 
 Within the *Research on Luck* project, timing refers to **when** opportunities become available, while contingency refers to the uncertain events that alter the environments in which those opportunities emerge. Together, they explain why adaptive systems operating under similar long-term conditions often follow remarkably different trajectories.
 
