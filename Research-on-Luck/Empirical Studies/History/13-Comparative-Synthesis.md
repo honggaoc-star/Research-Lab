@@ -2,7 +2,7 @@
 
 ## Overview
 
-The preceding case studies and thematic analyses demonstrate that history cannot be adequately explained by deterministic laws, isolated events, or luck alone. Historical development emerges through the continual interaction of contingent events, inherited institutions, technological change, economic transformation, leadership, cultural evolution, and collective adaptation. Civilizations do not simply experience history—they participate in shaping it through the decisions they make under conditions of uncertainty.
+The preceding case studies and thematic analyses demonstrate that history cannot be adequately explained by deterministic laws, isolated events, or luck alone. Historical development emerges through the continual interaction of contingent events, inherited institutions, technological change, economic transformation, leadership, cultural evolution, and collective adaptation. Historical systems do not merely receive external events; collective decisions and institutional responses can help shape subsequent conditions under uncertainty.
 
 This Comparative Synthesis integrates the empirical evidence developed throughout the History section to identify the recurring mechanisms that govern long-term historical evolution. Rather than emphasizing the uniqueness of individual civilizations or events, the objective is to develop a general framework for understanding how opportunities emerge, how societies respond to them, and why historical trajectories diverge over time.
 
@@ -157,11 +157,9 @@ Instead, luck influences:
 
 These developments alter the distribution of opportunities confronting societies.
 
-However, long-term historical outcomes depend upon adaptive capacity rather than fortunate circumstances alone.
+Long-term historical outcomes appear to depend on interactions among inherited conditions, institutions, power, adaptive capacity, exposure, and contingent circumstances.
 
-Luck changes historical conditions.
-
-Civilizations determine historical trajectories.
+Luck-related variation changes historical conditions, while collective responses, institutions, power, and feedback help shape—but do not fully determine—historical trajectories.
 
 ---
 
@@ -187,12 +185,43 @@ This convergence suggests that historical evolution is one expression of a broad
 
 ---
 
+# Architecture-Alignment Assessment
+
+## Historical systems and levels
+
+The corpus moves among leaders, institutions, states, societies, and civilizations. These are not interchangeable systems. Case audits should state the focal level and specify mechanisms linking individual decisions to institutional or societal trajectories.
+
+## Contingency and feasible alternatives
+
+Historical analysis is especially vulnerable to hindsight. Turning points should be supported by evidence that alternatives were feasible ex ante and that a carrying mechanism changed later possibilities. Imaginable alternatives are not automatically historical opportunities.
+
+## Relationship evidence
+
+The synthesis provides recurring evidence for:
+
+* inherited institutions constraining and enabling response;
+* contingent events redistributing opportunities;
+* institutional response mediating immediate effects;
+* feedback and path dependence carrying early differences forward;
+* adaptation and conflict altering later environments;
+* historical inheritance shaping future feasible sets.
+
+These relationships are plausible and often mechanism-supported within particular cases. Their relative contribution and cross-case comparability remain uncertain.
+
+## Selection, power, and attribution
+
+Surviving institutions and societies are selected observations. Persistence may reflect power, geography, coercion, resource advantage, institutional fit, or favorable exposure as well as learning.
+
+The synthesis should therefore be read as a map of candidate historical relationships and boundary conditions, not a deterministic theory of civilizational success.
+
+---
+
 # Conclusion
 
 The comparative evidence developed throughout the History section supports the central proposition of the *Research on Luck* project:
 
 > History is neither the inevitable unfolding of predetermined forces nor the random accumulation of chance events. It emerges through the continual interaction of contingency, path dependence, institutional evolution, opportunity recognition, collective adaptation, and luck.
 
-This perspective reframes history as the adaptive evolution of complex human systems. Civilizations succeed not because they avoid uncertainty, but because they repeatedly learn from it. Luck continually reshapes the landscape of historical possibility, yet the enduring direction of history is determined by the capacity of societies to recognize opportunities, reform institutions, preserve useful knowledge, and adapt across generations.
+This perspective reframes history as the adaptive evolution of complex human systems. Within the sampled cases, persistence and transformation are often associated with learning and institutional adaptation, but survival alone does not establish superior capacity. Luck-related variation continually reshapes historical possibility, while recognition, institutional reform, knowledge preservation, power, conflict, and adaptation influence the paths that become realized.
 
 History therefore becomes more than a record of the past. It provides a systematic framework for understanding how human societies have navigated uncertainty, how they continue to evolve, and how future historical trajectories may emerge from the interaction of opportunity, adaptation, and chance.
