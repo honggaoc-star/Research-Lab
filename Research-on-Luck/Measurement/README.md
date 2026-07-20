@@ -47,7 +47,7 @@ These files preserve the project’s earlier measurement stage.
 
 ---
 
-## Additive Operational Layer: 10–15
+## Additive Operational and Validation Layer: 10–16
 
 | Document | Purpose |
 | --- | --- |
@@ -57,6 +57,7 @@ These files preserve the project’s earlier measurement stage.
 | [13-Capability-and-Adaptive-Process-Indicators.md](13-Capability-and-Adaptive-Process-Indicators.md) | Operationalizes perception, search, learning, coordination, adaptive capacity, response, innovation, and selection. |
 | [14-Trajectory-Feedback-and-Counterfactuals.md](14-Trajectory-Feedback-and-Counterfactuals.md) | Measures trajectories, feedback, path dependence, resilience, regime change, and feasible alternatives. |
 | [15-Identification-Validation-and-Measurement-Summary.md](15-Identification-Validation-and-Measurement-Summary.md) | Integrates identification, validation, triangulation, robustness, evidence grading, and reporting. |
+| [16-Validation-Study-Recognition-Without-Realization.md](16-Validation-Study-Recognition-Without-Realization.md) | Specifies a construct-validation pilot for coding recognition independently of access, pursuit, realization, and hindsight. |
 
 ---
 
@@ -165,18 +166,10 @@ Depth remains preferable to adding further empirical domains.
 
 ## Current Status
 
-The additive Measurement architecture is complete through file 15.
+The additive measurement architecture is complete through file 15. File 16 begins the bounded validation-study phase.
 
-The next stage is an architecture audit of Empirical Studies. That audit should assess whether cases identify:
+The Empirical Studies architecture audit and the first proposition-to-evidence map are complete. Validation Study 1 now tests whether recognition can be coded separately from access, authority, pursuit, realization, and outcome hindsight.
 
-- focal system and level;
-- environment and exposure;
-- ex ante uncertainty;
-- opportunity stages and constraints;
-- capability and response;
-- feedback and trajectory;
-- selection and survivorship;
-- plausible unrealized alternatives;
-- and evidence status.
+The protocol is a construct-validation pilot, not a causal estimate. Its five purposive cases test coding portability and expose ambiguity. Advancement to a within-domain study depends on reliable stage separation, recoverable ex ante information, and explicit decision rules.
 
-The purpose is to evaluate and annotate the existing empirical evidence, not to expand the case inventory automatically.
+Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
