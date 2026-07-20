@@ -312,7 +312,7 @@ A case should identify:
 - [Formalization](../Formalization/README.md) should convert candidate mechanisms into explicit relationships and transition rules.
 - [Measurement](../Measurement/README.md) should identify observable indicators for exposure, recognition, response, feedback, and trajectory change.
 - [Empirical Studies](../Empirical%20Studies/README.md) should use mechanism reconstruction rather than outcome-only narratives.
-- [Comparative Studies](../Comparative%20Studies/README.md) should determine which mechanisms recur and which remain domain-specific.
+- **Comparative Studies** should determine which mechanisms recur and which remain domain-specific.
 - [General Theory](../General%20Theory/README.md) should include only relationships supported across sufficient evidence and boundary conditions.
 
 ---
