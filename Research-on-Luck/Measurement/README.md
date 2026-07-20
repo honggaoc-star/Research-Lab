@@ -2,382 +2,181 @@
 
 ## Purpose
 
-The **Measurement** directory develops the empirical framework of the **Research on Luck** project.
+The **Measurement** directory connects the conceptual and formal architecture of the **Research on Luck** project to observable evidence.
 
-While **Foundations** defines concepts, **Literature** examines existing scholarship, and **Formalization** develops candidate mechanisms, Measurement addresses a different question:
+It contains two complementary layers:
 
-> **How can the proposed mechanisms be investigated empirically?**
+- files **01–07**, which preserve the first-generation empirical framework;
+- files **10–15**, which operationalize the newer Foundations and Formalization architecture.
 
-Its objective is not simply to assign numerical values to abstract concepts.
+The numbering offset is intentional. Files 08 and 09 remain unused.
 
-Instead, it develops rigorous approaches for connecting theoretical constructs to observable evidence through qualitative, quantitative, comparative, and mixed-method research.
-
-Measurement therefore provides the critical bridge between theoretical explanation and empirical investigation.
-
----
-
-# Why Measurement?
-
-Scientific theories become useful only when they can be evaluated against evidence.
-
-Conceptual clarity alone cannot determine whether proposed mechanisms actually operate in real systems.
-
-Likewise, formal models cannot establish which mechanisms receive empirical support.
-
-Measurement therefore asks:
-
-* Which theoretical concepts are observable?
-* Which remain latent?
-* What evidence would support or challenge a proposed mechanism?
-* Which methods are appropriate for different research questions?
-* How should uncertainty itself be studied?
-
-The objective is not to eliminate uncertainty.
-
-It is to make theoretical claims open to disciplined empirical evaluation.
+Measurement does not seek one universal numerical measure of luck. It develops disciplined ways to observe constructs, test relationships, reconstruct trajectories, compare feasible alternatives, and report uncertainty.
 
 ---
 
-# Central Research Question
+## Role in the Research Program
 
-The guiding question is:
+[Foundations](../Foundations/README.md) defines concepts and assumptions.
 
-> **How can the mechanisms proposed by the Research on Luck project be investigated using systematic evidence?**
-
-More specifically:
-
-* How should opportunity be identified?
-* How can adaptive capacity be evaluated?
-* How should contingent variation be represented?
-* How can trajectory change be compared?
-* Which evidence supports institutional mediation?
-* How should unrealized opportunities be studied?
-* Which methods distinguish competing explanations most effectively?
-
-Measurement develops the methodological framework required to answer these questions.
-
----
-
-# Scope
-
-Topics appropriate for this directory include:
-
-* operational definitions,
-* observable variables,
-* latent constructs,
-* indicators,
-* empirical identification,
-* comparative methodologies,
-* counterfactual reasoning,
-* longitudinal analysis,
-* process tracing,
-* trajectory analysis,
-* network measurement,
-* institutional indicators,
-* validation strategies,
-* mixed methods,
-* and measurement uncertainty.
-
-Measurement is intentionally broader than statistical analysis alone.
-
-Different research questions require different empirical approaches.
-
----
-
-# Current Organization
-
-The directory currently follows the following progression.
-
-```text id="39p0tt"
-Measurement/
-│
-├── README.md
-├── 01-Operational-Definitions.md
-├── 02-Observable-Variables.md
-├── 03-Measuring-Luck.md
-├── 04-Opportunity-and-Exposure.md
-├── 05-Trajectory-and-Dynamics.md
-├── 06-Validation-and-Identification.md
-└── 07-Research-Framework.md
-```
-
-These documents establish the project's initial measurement framework.
-
-Future additions should be driven by demonstrated empirical needs rather than methodological completeness.
-
----
-
-# Principles of Measurement
-
-The Measurement directory follows several general principles.
-
-## Theory before measurement
-
-Every empirical indicator should correspond to a clearly defined theoretical construct.
-
-Measurement should clarify theory rather than replace it.
-
----
-
-## Multiple forms of evidence
-
-Scientific investigation may involve:
-
-* quantitative analysis,
-* comparative case studies,
-* historical evidence,
-* process tracing,
-* longitudinal observation,
-* computational simulation,
-* network analysis,
-* and mixed methods.
-
-No single methodology is expected to address every research question.
-
----
-
-## Observable and latent constructs
-
-Some concepts are directly observable.
-
-Others require indirect inference.
-
-For example:
-
-* contingent events may be directly documented;
-* opportunity recognition may require qualitative interpretation;
-* adaptive capacity may require multiple complementary indicators;
-* institutional mediation may combine qualitative and quantitative evidence.
-
-Measurement should distinguish these different types of empirical inference.
-
----
-
-## Comparative consistency
-
-Comparable concepts should be investigated consistently across empirical domains while recognizing that different domains may require different operational definitions.
-
-Consistency should facilitate comparison rather than force identical measurement.
-
----
-
-## Transparency
-
-Assumptions, limitations, uncertainty, and alternative interpretations should remain explicit.
-
-Measurement should strengthen scientific inference rather than create an illusion of precision.
-
----
-
-# Core Measurement Challenges
-
-Several concepts central to the project present unusual empirical challenges.
-
-## Luck
-
-Luck is not directly observable as a single measurable quantity.
-
-Instead, its influence must be inferred through evidence concerning:
-
-* contingent variation,
-* unequal exposure,
-* altered opportunities,
-* unexpected trajectory changes,
-* and counterfactual comparison.
-
----
-
-## Opportunity
-
-Opportunities are dynamic rather than static.
-
-Measurement may require evidence regarding:
-
-* emergence,
-* accessibility,
-* timing,
-* recognition,
-* realization,
-* transfer,
-* and disappearance.
-
----
-
-## Adaptive Capacity
-
-Adaptive capacity cannot usually be measured by one variable alone.
-
-It may require evidence concerning:
-
-* learning,
-* institutional flexibility,
-* coordination,
-* information processing,
-* resource mobilization,
-* and organizational response.
-
----
-
-## Unrealized Opportunities
-
-Traditional datasets often preserve realized outcomes while overlooking unrealized alternatives.
-
-Comparative historical analysis, archival evidence, and process tracing may therefore become particularly valuable.
-
----
-
-# Relationship to Other Sections
-
-Measurement occupies the methodological bridge between theory and empirical evidence.
-
-```text id="40sj7r"
-Foundations
-Literature
-Formalization
-        ↓
-Measurement
-        ↓
-Empirical Studies
-        ↓
-Comparative Studies
-        ↓
-General Theory
-```
-
-Each section contributes a different function.
-
-### Foundations
-
-Defines concepts.
-
-### Literature
-
-Reviews existing scholarship.
-
-### Formalization
-
-Develops candidate mechanisms.
-
-### Measurement
-
-Develops empirical strategies for evaluating those mechanisms.
-
-### Empirical Studies
-
-Applies those strategies across multiple domains.
-
-### Comparative Studies
-
-Synthesizes recurring empirical patterns.
-
-### General Theory
-
-Evaluates which mechanisms receive the strongest integrated support.
-
-Measurement therefore connects theoretical reasoning with empirical investigation.
-
----
-
-# Relationship to Formalization
-
-Formalization and Measurement perform complementary roles.
-
-Formalization asks:
-
-> **How might luck operate?**
+[Formalization](../Formalization/README.md) specifies relationships, mechanisms, states, and transitions.
 
 Measurement asks:
 
-> **How could those mechanisms be evaluated empirically?**
+> **What evidence would represent the constructs adequately, distinguish competing relationships, and support or challenge the proposed mechanisms?**
 
-Every formal mechanism should eventually correspond to identifiable evidence.
-
-Examples include:
-
-* contingent variation,
-* opportunity transformation,
-* path dependence,
-* institutional response,
-* learning,
-* adaptive capacity,
-* and trajectory divergence.
-
-Not every mechanism must correspond to a single numerical variable.
-
-Many require combinations of qualitative and quantitative evidence.
+[Empirical Studies](../Empirical%20Studies/README.md) applies these methods across Science, Technology, Business, History, and Politics. **Comparative Studies** evaluates recurrence and boundary conditions. [General Theory](../General%20Theory/README.md) should contain only relationships supported by sufficient integrated evidence.
 
 ---
 
-# Relationship to Empirical Studies
+## Preserved Original Layer: 01–07
 
-Empirical Studies provide the primary testing ground for the measurement framework.
+The original documents remain substantively intact.
 
-The selected domains demonstrate how theoretical constructs may be investigated using:
+| Document | Original focus |
+| --- | --- |
+| [01-Operational-Definitions.md](01-Operational-Definitions.md) | Connects theoretical concepts to operational definitions. |
+| [02-Observable-Variables.md](02-Observable-Variables.md) | Identifies event, opportunity, outcome, trajectory, institutional, and network variables. |
+| [03-Measuring-Luck.md](03-Measuring-Luck.md) | Reviews probabilistic, counterfactual, residual, opportunity, dynamic, and network strategies. |
+| [04-Opportunity-and-Exposure.md](04-Opportunity-and-Exposure.md) | Examines opportunity spaces, exposure, access, and dynamic change. |
+| [05-Trajectory-and-Dynamics.md](05-Trajectory-and-Dynamics.md) | Develops longitudinal indicators of divergence, convergence, persistence, and turning points. |
+| [06-Validation-and-Identification.md](06-Validation-and-Identification.md) | Addresses validation, causal identification, competing explanations, robustness, and falsifiability. |
+| [07-Research-Framework.md](07-Research-Framework.md) | Integrates the original empirical workflow and forms of evidence. |
 
-* historical comparison,
-* organizational analysis,
-* institutional evidence,
-* technological development,
-* scientific discovery,
-* and political evolution.
-
-Measurement therefore develops methods.
-
-Empirical Studies apply them.
-
-Comparative Studies evaluates the resulting evidence.
+These files preserve the project’s earlier measurement stage.
 
 ---
 
-# Scope and Limitations
+## Additive Operational Layer: 10–15
 
-Measurement cannot eliminate ambiguity.
-
-Many concepts central to the project remain:
-
-* historically contingent,
-* context dependent,
-* multidimensional,
-* and only partially observable.
-
-The objective is therefore not perfect measurement.
-
-It is disciplined empirical inference.
-
-Similarly, quantitative methods should not automatically be regarded as superior to qualitative investigation.
-
-The appropriate method depends upon the research question.
+| Document | Purpose |
+| --- | --- |
+| [10-Measurement-Architecture.md](10-Measurement-Architecture.md) | Defines constructs, indicators, measures, evidence types, levels, time, and a reusable measurement record. |
+| [11-States-Interactions-and-Uncertainty.md](11-States-Interactions-and-Uncertainty.md) | Operationalizes system and environmental states, interaction, exposure, transition, and uncertainty. |
+| [12-Opportunity-and-Constraint-Indicators.md](12-Opportunity-and-Constraint-Indicators.md) | Measures potential, access, recognition, pursuit, realization, foreclosure, and opportunity landscapes. |
+| [13-Capability-and-Adaptive-Process-Indicators.md](13-Capability-and-Adaptive-Process-Indicators.md) | Operationalizes perception, search, learning, coordination, adaptive capacity, response, innovation, and selection. |
+| [14-Trajectory-Feedback-and-Counterfactuals.md](14-Trajectory-Feedback-and-Counterfactuals.md) | Measures trajectories, feedback, path dependence, resilience, regime change, and feasible alternatives. |
+| [15-Identification-Validation-and-Measurement-Summary.md](15-Identification-Validation-and-Measurement-Summary.md) | Integrates identification, validation, triangulation, robustness, evidence grading, and reporting. |
 
 ---
 
-# Current Status
+## Measurement Architecture
 
-The Measurement directory establishes the project's first-generation empirical methodology.
+The additive layer operationalizes:
 
-Completion of the Empirical Studies and Comparative Studies suggests several opportunities for future refinement, particularly regarding:
+1. **Working primitives** — System, Environment, Interaction, Uncertainty.
+2. **Derived conditions** — Opportunity Landscape, Constraint, Information, Resources, Variation.
+3. **System capabilities** — Perception, Learning, Search, Adaptive Capacity, Coordination.
+4. **Dynamic processes** — Selection, Adaptation, Discovery, Innovation.
+5. **Long-term effects** — Evolution, Path Dependence, Resilience, Transformation.
+6. **Outcome evaluation** — Realized Opportunity, Good Luck, Bad Luck, Missed Opportunity, Unexpected Discovery.
 
-* opportunity recognition,
-* adaptive capacity,
-* unrealized opportunities,
-* institutional learning,
-* opportunity migration,
-* and recursive adaptive processes.
-
-These concepts may require additional operational frameworks beyond those currently represented.
-
-Measurement should therefore continue evolving together with theoretical and empirical development.
+Concepts are measured as nodes. Relationships are evaluated as hypotheses.
 
 ---
 
-# Long-Term Goal
+## Core Measurement Principles
 
-The long-term goal of the **Measurement** directory is to establish a rigorous empirical framework capable of evaluating the mechanisms proposed throughout the **Research on Luck** project.
+### Theory before indicators
 
-Rather than reducing luck to a single numerical variable, the project seeks to develop scientifically defensible methods for investigating how contingent variation influences opportunities, institutions, adaptive systems, and long-term trajectories.
+Every indicator should correspond to a defined construct and formal role.
 
-Its success will not be determined by statistical sophistication alone.
+### Relationship evidence
 
-It will be determined by whether the proposed methods improve empirical explanation, strengthen comparative investigation, distinguish competing theories, and contribute to progressively more reliable scientific understanding.
+A correlation between indicators does not establish a mechanism or causal relationship.
 
-Measurement therefore serves as the empirical methodology layer of the Research on Luck project, connecting formal mechanisms with comparative evidence and theoretical refinement.
+### Multiple forms of evidence
 
+Quantitative, qualitative, historical, comparative, network, experimental, computational, and mixed methods may all be appropriate.
+
+### Explicit levels
+
+Indicators should match the individual, organizational, institutional, ecosystem, societal, or cross-system level being analyzed.
+
+### Sequence and trajectory
+
+Baseline, exposure, recognition, response, feedback, and horizon should be preserved where the claim is dynamic.
+
+### Capability–outcome separation
+
+Capability should be measured independently of the favorable outcome it is used to explain.
+
+### Unrealized alternatives
+
+Potential, access, recognition, pursuit, realization, expiration, and foreclosure should be distinguished.
+
+### Uncertainty separation
+
+Process uncertainty, system information, measurement error, missing data, model uncertainty, and counterfactual uncertainty should not be collapsed.
+
+### Transparent inference
+
+Evidence status, alternative explanations, sensitivity, and limitations should remain explicit.
+
+---
+
+## Luck as an Empirical Inference
+
+Luck is not directly observable as one quantity.
+
+A defensible inference should assemble evidence concerning:
+
+- focal system and boundary;
+- ex ante information and uncertainty;
+- environment;
+- interaction or exposure;
+- feasible alternatives;
+- capability and control;
+- response;
+- feedback;
+- changed trajectory;
+- and evaluative horizon.
+
+Low probability, surprise, favorable outcome, survival, or unexplained residual variation is insufficient alone.
+
+---
+
+## Evidence Status
+
+Measurement should distinguish:
+
+1. conceptually specified;
+2. operationalized;
+3. descriptively observed;
+4. associated;
+5. mechanism-supported;
+6. causally identified within bounds;
+7. comparatively recurrent;
+8. candidate for theoretical promotion.
+
+Formal precision does not itself raise evidence status.
+
+---
+
+## Cross-Domain Consistency
+
+The same conceptual definition and formal role should guide measurement across Science, Technology, Business, History, and Politics.
+
+Indicators may differ by domain. Comparability requires documented operational equivalence, not forced use of identical variables.
+
+Depth remains preferable to adding further empirical domains.
+
+---
+
+## Current Status
+
+The additive Measurement architecture is complete through file 15.
+
+The next stage is an architecture audit of Empirical Studies. That audit should assess whether cases identify:
+
+- focal system and level;
+- environment and exposure;
+- ex ante uncertainty;
+- opportunity stages and constraints;
+- capability and response;
+- feedback and trajectory;
+- selection and survivorship;
+- plausible unrealized alternatives;
+- and evidence status.
+
+The purpose is to evaluate and annotate the existing empirical evidence, not to expand the case inventory automatically.
