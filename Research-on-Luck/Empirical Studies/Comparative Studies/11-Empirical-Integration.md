@@ -2,7 +2,7 @@
 
 ## Overview
 
-The primary objective of the *Research on Luck* project has been to investigate how luck influences long-term outcomes across multiple domains of human activity. Through comparative analysis of Science, Technology, Business, History, and Politics, recurring adaptive mechanisms have emerged independently within each domain. This convergence provides the foundation for an integrated empirical framework.
+The primary objective of the *Research on Luck* project has been to investigate how consequential uncertainty enters long-term trajectories and supports or limits ex post luck attribution across multiple domains of human activity. Through comparative analysis of Science, Technology, Business, History, and Politics, recurring adaptive mechanisms have emerged independently within each domain. This convergence provides the foundation for an integrated empirical framework.
 
 Unlike the preceding chapters, which examined individual mechanisms separately, this chapter integrates the accumulated evidence into a coherent empirical model. Rather than asking how a single mechanism operates, it examines how multiple mechanisms interact throughout the adaptive process.
 
@@ -170,7 +170,7 @@ The integrated empirical evidence supports several broad principles.
 
 Adaptive systems operate under continual uncertainty.
 
-Luck reshapes adaptive environments rather than directly determining outcomes.
+Environmental change under uncertainty affects opportunities and constraints without directly determining outcomes.
 
 Institutions mediate collective adaptation.
 
@@ -202,7 +202,7 @@ Empirical integration represents one of the principal achievements of the *Resea
 
 The comparative evidence accumulated across Science, Technology, Business, History, and Politics supports a unified empirical proposition:
 
-> Luck continually reshapes adaptive environments by altering opportunities, constraints, and uncertainty. Adaptive systems respond through opportunity recognition, institutional coordination, learning, and continual adaptation. Long-term success emerges from the interaction of these mechanisms rather than from luck or any other factor acting independently.
+> Across the sampled domains, consequential uncertainty affects opportunities, constraints, and trajectories. Candidate responses include recognition, coordination, learning, and adaptation, but their roles and boundary conditions require formalization, measurement, and comparative testing.
 
 This integrated perspective demonstrates that the five empirical domains are not isolated case collections. Together they form a coherent body of comparative evidence describing how complex adaptive systems evolve under uncertainty.
 
