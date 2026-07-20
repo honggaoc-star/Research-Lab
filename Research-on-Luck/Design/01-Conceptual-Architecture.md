@@ -1,270 +1,112 @@
-# Research on Luck v2.1 -- Conceptual Architecture Notes
+# Research on Luck Version 2.1 — Conceptual Architecture Record
 
-## Working Notes (Research OS Exploration)
-
-> **Status:** Working Notes (Conceptual Freeze v0.1)
+> **Status:** Adopted architecture; implementation substantially completed.
 >
-> These notes capture the evolution of the conceptual architecture that
-> emerged while exploring the future Research OS. They are intentionally
-> design notes rather than repository documents.
+> This document preserves rationale and implementation history. Canonical concepts are maintained in Foundations, not here.
 
-------------------------------------------------------------------------
+## 1. Design Problem
 
-# 1. Evolution of the Discussion
+The earlier repository organized substantial material but often treated luck, opportunity, adaptation, and success as comparable explanatory objects. Case narratives also risked converting realized outcomes into evidence of capability.
 
-The discussion progressed through four stages:
+The redesign shifted attention from organizing documents to organizing explanations.
 
-1.  Repository architecture
-2.  Editorial methodology
-3.  Research methodology
-4.  Conceptual architecture
+## 2. Guiding Decisions
 
-The result is a shift from organizing documents to organizing
-explanations.
+- **Abstract only after repetition.** Promote a method beyond this project only after independent recurrence and comparison.
+- **Stop at the necessary explanatory level.** Use the depth needed for the question, not the deepest ontology imaginable.
+- **Preserve intellectual history.** Retain original conceptual, formal, and measurement documents; use additive architecture where feasible.
+- **Prefer bounded relationships.** Concepts are analytical nodes; relationships are hypotheses requiring specification, measurement, and testing.
 
-------------------------------------------------------------------------
+## 3. Working Primitives — Adopted
 
-# 2. Guiding Principles
+- System
+- Environment
+- Interaction
+- Uncertainty
 
-## Principle 1 --- Abstract Only After Repetition
+The primitives coexist analytically. They are not a causal chain in which Environment produces Uncertainty and Uncertainty produces System.
 
-Methodology should be promoted to a Research OS only after it has
-emerged independently across multiple research programs.
+Information remains derived in Version 2.1 rather than becoming a fifth primitive.
 
-## Principle 2 --- Stop Abstraction at the Appropriate Level
+## 4. Layered Architecture — Adopted
 
-A theory should begin with the deepest level necessary for its
-explanatory purpose---not the deepest level imaginable.
+- **Layer 0 — Working Primitives:** System, Environment, Interaction, Uncertainty
+- **Layer 1 — Derived Conditions:** Opportunity, constraint, exposure, information, resources, risk, contingency, feasible alternatives
+- **Layer 2 — System Capabilities:** Perception, search, learning, coordination, adaptive capacity
+- **Layer 3 — Dynamic Processes:** Recognition, pursuit, response, adaptation, discovery, innovation, selection, realization
+- **Layer 4 — Long-Term Effects:** Feedback, path dependence, accumulation, resilience, transformation, regime change
+- **Layer 5 — Outcome Evaluation:** Outcome, reference, counterfactual, realized and unrealized opportunity, luck attribution
 
-## Principle 3 --- Every Edit Must Improve the Repository
+The layers identify analytical roles. They are not a mandatory temporal sequence, and relationships may cross layers or feed back recursively.
 
-Every editorial change should make the repository: - simpler, -
-clearer, - or stronger.
+## 5. Opportunity Architecture — Adopted
 
-------------------------------------------------------------------------
+Opportunity is a system–environment relationship. Its stages are potential, access, recognition, pursuit, realization, and foreclosure.
 
-# 3. Working Primitives (Stable)
+Opportunities may transform, transfer, contract, or cease to be feasible. Liquidity, institutions, power, information, resources, and timing alter the feasible set.
 
-These are treated as working primitives within the scope of this
-research.
+## 6. Luck Architecture — Adopted
 
--   System
--   Environment
--   Interaction
--   Uncertainty
+Luck is not a primitive, mechanism, event, environmental property, or residual.
 
-These are considered stable enough for implementation.
+- **Ex ante — Luck Potential:** uncertainty, exposure, feasible alternatives, and possible consequences.
+- **Transition — Luck Realization:** events, interactions, mechanisms, responses, selection, state changes, and feedback.
+- **Ex post — Luck Attribution:** evaluation relative to a stated reference and feasible alternatives.
 
-------------------------------------------------------------------------
+## 7. Relationship Taxonomy — Adopted
 
-# 4. Conceptual Architecture (Stable)
+- Constitutive
+- Causal
+- Enabling
+- Constraining
+- Feedback
 
-## Layer 0 --- Working Primitives
+A relationship may play different roles in different bounded models. Recurrence of a label does not establish causal identity.
 
-System
+## 8. Repository Mapping — Implemented
 
-Environment
+- **Foundations:** primitives and canonical derived concepts.
+- **Formalization:** relationship types, mechanisms, states, and transitions.
+- **Measurement:** indicators, identification, counterfactuals, and validation.
+- **Empirical Studies:** bounded case interpretation and evidence development.
+- **Comparative Studies:** cross-domain comparison and candidate relationships.
+- **General Theory:** provisional propositions, not validated universal relationships.
 
-Interaction
+The earlier formulation that General Theory contains robust relationships validated across domains was too strong and is superseded.
 
-Uncertainty
+## 9. Implementation Status
 
-↓
+Completed:
 
-## Layer 1 --- Derived Conditions
+1. Figure 1 concept drafted.
+2. Foundations aligned through additive documents 10–15.
+3. Formalization aligned through additive documents 10–15.
+4. Measurement aligned through additive documents 10–15.
+5. Empirical domain READMEs and syntheses audited.
+6. Targeted case-alignment revisions completed.
+7. Comparative Studies aligned.
+8. General Theory revised to Version 2.1.
+9. Root positioning, contributions, and roadmap aligned.
 
--   Opportunity Landscape
--   Constraint
--   Information
--   Resource
--   Variation
+Remaining:
 
-↓
+- regenerate the Figure 1 PNG;
+- strengthen Literature and References alignment;
+- build a proposition-to-evidence map;
+- conduct bounded validation studies;
+- and later assess selective transfer to Dynamic Social Systems.
 
-## Layer 2 --- System Capabilities
+## 10. Open Questions
 
--   Perception
--   Learning
--   Search
--   Adaptive Capacity
--   Coordination
+- Which candidate relationships survive full identification and validation?
+- How should reference classes and feasible counterfactuals be selected?
+- Which capability indicators transfer across domains?
+- When do nested-system evaluations conflict?
+- Which distinctions, if any, improve Dynamic Social Systems?
+- Which practices merit eventual promotion to a Research OS?
 
-↓
+## 11. Architectural Freeze
 
-## Layer 3 --- Dynamic Processes
+Version 2.1 is stable enough for evidence development but not frozen against empirical revision.
 
--   Selection
--   Adaptation
--   Discovery
--   Innovation
-
-↓
-
-## Layer 4 --- Long-Term Effects
-
--   Evolution
--   Path Dependence
--   Resilience
--   Transformation
-
-↓
-
-## Layer 5 --- Outcome Evaluation
-
--   Realized Opportunity
--   Good Luck
--   Bad Luck
--   Missed Opportunity
--   Unexpected Discovery
-
-------------------------------------------------------------------------
-
-# 5. Reframing Opportunity
-
-The discussion refined opportunity into a dynamic sequence:
-
-Environment
-
-↓
-
-Opportunity Landscape
-
-↓
-
-Feasible Opportunity Set
-
-↓
-
-Adaptive Choice Set
-
-↓
-
-Realized Opportunity
-
-Liquidity constraints and corner solutions naturally reduce the feasible
-opportunity set and alter adaptive trajectories.
-
-------------------------------------------------------------------------
-
-# 6. Reframing Luck
-
-Luck is no longer treated as a primitive.
-
-Three analytical layers emerged.
-
-## Ex Ante
-
-Luck Potential
-
-The landscape of uncertain possible futures.
-
-## Transition
-
-Luck Realization
-
-One trajectory becomes reality through adaptation and contingency.
-
-## Ex Post
-
-Luck Attribution
-
-Observers compare realized outcomes with plausible alternatives and
-assign judgments of luck.
-
-------------------------------------------------------------------------
-
-# 7. Concepts vs. Relationships
-
-The major conceptual shift:
-
-The theory is fundamentally about relationships rather than isolated
-concepts.
-
-Concepts are nodes.
-
-Relationships are hypotheses.
-
-Examples:
-
--   Opportunity depends on System + Environment + Interaction.
--   Discovery depends on Opportunity + Search + Information.
--   Innovation depends on Discovery + Adaptation.
-
-------------------------------------------------------------------------
-
-# 8. Relationship Taxonomy
-
-Five working relationship types:
-
--   Constitutive
--   Causal
--   Enabling
--   Constraining
--   Feedback
-
-General Theory should ultimately consist of validated relationships.
-
-------------------------------------------------------------------------
-
-# 9. Repository Mapping
-
-Foundations
-:   Canonical concepts.
-
-Formalization
-:   Mechanisms and relationship structures.
-
-Measurement
-:   Operationalization of concepts and relationships.
-
-Empirical Studies
-:   Cross-domain testing of relationships.
-
-Comparative Studies
-:   Identification of recurring relationships.
-
-General Theory
-:   Robust relationships validated across domains.
-
-------------------------------------------------------------------------
-
-# 10. Methodological Workflow
-
-1.  Define working primitives.
-2.  Build conceptual architecture.
-3.  Identify relationship types.
-4.  Formulate relationship hypotheses.
-5.  Test relationships across empirical domains.
-6.  Promote robust relationships into General Theory.
-
-------------------------------------------------------------------------
-
-# 11. Conceptual Freeze v0.1
-
-The following are considered stable enough for implementation:
-
--   Working primitives
--   Layered conceptual architecture
--   Luck as emergent rather than primitive
--   Dynamic opportunity framework
--   Relationship-centered theory
--   Relationship taxonomy
-
-The following remain open research questions:
-
--   Whether information should become primitive.
--   Whether system should be decomposed.
--   Mathematical formalization of the dependency network.
--   Future Research OS modules.
-
-------------------------------------------------------------------------
-
-# 12. Implementation Roadmap
-
-1.  Design Figure 1 --- Conceptual Architecture of Adaptive Systems
-    Under Uncertainty.
-2.  Align Foundations with the conceptual architecture.
-3.  Update Formalization around relationship structures.
-4.  Revise Measurement to operationalize relationships.
-5.  Audit Empirical Studies against relationship hypotheses.
-6.  Rewrite General Theory as validated relationships.
+New primitives, domains, numbered series, or theory documents require a demonstrated problem that cannot be resolved within the current structure.
