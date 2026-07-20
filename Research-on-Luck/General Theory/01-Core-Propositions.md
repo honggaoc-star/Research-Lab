@@ -1,740 +1,284 @@
 # Core Propositions
 
-## Version 2.0
-
----
+## Version 2.1
 
 ## Purpose
 
-This document presents the principal theoretical propositions currently supported by the **Research on Luck** project.
+This document states the project’s current theoretical propositions after alignment with the working primitives, relationship taxonomy, measurement architecture, revised empirical cases, and Comparative Studies.
 
-These propositions synthesize work developed across:
-
-* Foundations,
-* Literature,
-* Formalization,
-* Measurement,
-* Empirical Studies,
-* Comparative Studies,
-* and General Theory.
-
-They are not intended as final laws or universal conclusions.
-
-Instead, they represent the strongest current hypotheses emerging from the completed comparative research across Science, Technology, Business, History, and Politics.
-
-Each proposition should remain open to refinement, qualification, or rejection as additional evidence becomes available.
-
----
+The propositions are not laws. They include definitions, methodological commitments, relational hypotheses, and comparative conjectures with different evidentiary status. Their numbering is preserved to maintain continuity with Version 2.0.
 
 ## Interpretive Framework
 
-The project distinguishes among several related concepts.
+The primitive base is:
 
-* **Uncertainty** describes conditions under which multiple outcomes remain possible.
-* **Contingency** refers to events or circumstances that could plausibly have occurred differently.
-* **Stochastic variation** introduces differences in exposure, timing, resources, information, and trajectories.
-* **Opportunity** describes a possibility for consequential action or development.
-* **Adaptive systems** interpret changing conditions and respond through learning, coordination, resource allocation, and institutional adjustment.
-* **Luck** refers to consequential variation arising under uncertainty that alters the opportunities, constraints, exposures, or trajectories confronting such systems.
+- **System:** the bounded entity or configuration being analyzed.
+- **Environment:** relevant conditions outside the chosen system boundary.
+- **Interaction:** reciprocal or directional relations connecting systems, components, and environments.
+- **Uncertainty:** incomplete resolution of possible states, transitions, or outcomes relative to an information set.
 
-Luck therefore does not operate independently of skill, effort, institutions, or historical conditions.
+Derived concepts include opportunity, constraint, exposure, risk, contingency, capability, adaptation, feedback, trajectory, outcome, and luck attribution.
 
-Its consequences emerge through interaction with them.
+Luck is not a primitive or causal force. It is an ex post relational evaluation of how consequential uncertainty affected a specified system’s trajectory relative to a stated reference and feasible alternatives.
 
----
+## Evidentiary Categories
 
-# Proposition 1
+- **D — Definitional:** establishes an analytical distinction.
+- **H — Hypothesis:** proposes a testable relationship.
+- **C — Comparative conjecture:** is suggested by recurrence across the current cases but remains weakly identified.
+- **M — Methodological commitment:** states how evidence should be organized or evaluated.
 
-## Luck Is a Scientifically Meaningful Phenomenon
+# Proposition 1 — D/M
 
-Luck is not merely a colloquial expression, a moral judgment, or a label applied to unexplained success.
+## Luck Is an Analytically Investigable Attribution
 
-It refers to consequential variation arising under conditions in which outcomes are not fully determined by the intentions, capabilities, or prior actions of the affected system.
+Luck attribution can be studied when the analyst specifies the focal system, boundary, level, time horizon, uncertainty information set, exposure, outcome, reference, and feasible alternatives.
 
-Although luck may not be directly observable as a single variable, its influence can be investigated through evidence concerning:
+The object of investigation is not a directly acting variable called luck. It is the evidentiary basis for judging whether consequential uncertainty materially altered a trajectory. The attribution is scientifically useful only when it remains distinct from unexplained residual variation and from the mechanisms producing the outcome.
 
-* contingent events,
-* unequal exposures,
-* altered opportunities,
-* timing differences,
-* trajectory divergence,
-* and counterfactual alternatives.
+# Proposition 2 — D
 
-Luck is therefore a legitimate subject of scientific investigation when it is defined through observable mechanisms rather than invoked as an unexplained residual.
+## Uncertainty Is Necessary but Not Sufficient for Luck Attribution
 
----
+Luck potential requires unresolved uncertainty relative to an information set. Uncertainty alone does not warrant attribution: the uncertainty must become consequential for the focal trajectory relative to a stated reference.
 
-# Proposition 2
+Randomness is one possible source of uncertainty but is not synonymous with it. Risk applies when relevant possibilities and probabilities are sufficiently specified; deeper uncertainty may involve unknown or contested possibilities, probabilities, or model structures.
 
-## Luck Requires Uncertainty but Is Not Identical to Uncertainty
+# Proposition 3 — H
 
-Luck can arise only where more than one future outcome is possible.
+## System–Environment Change Alters Opportunity Conditions
 
-In a fully deterministic system, differences in outcomes would follow entirely from prior conditions and fixed causal rules.
+Interactions among systems and environments may create, remove, redistribute, transform, or constrain feasible opportunities. Such change does not itself constitute luck and need not lead to beneficial action.
 
-Uncertainty creates the possibility that events, timing, encounters, discoveries, crises, or other contingent developments may alter subsequent trajectories.
+A test requires evidence about the opportunity relationship before and after a transition, the affected system, access conditions, and plausible competing explanations.
 
-However, uncertainty alone does not constitute luck.
+# Proposition 4 — H/C
 
-For luck to become consequential, uncertain variation must affect:
+## Opportunity Recognition Is Uneven
 
-* opportunity,
-* constraint,
-* exposure,
-* access,
-* timing,
-* or future possibility.
+Systems exposed to similar conditions may differ in what they perceive and interpret as actionable. Recognition may depend on information access, prior knowledge, search, incentives, institutions, cognitive diversity, and historical position.
 
-Uncertainty is therefore a necessary condition for luck, but not a sufficient explanation of its effects.
+Recognition should be measured through contemporaneous evidence rather than inferred from later success. False recognition, disagreement, and recognition without pursuit are necessary comparison cases.
 
----
+# Proposition 5 — D/H
 
-# Proposition 3
+## Opportunity Realization Has Distinguishable Stages
 
-## Contingent Variation Alters Opportunity Landscapes
+Opportunity analysis should distinguish:
 
-The primary influence of luck is rarely direct determination of an outcome.
+1. potential;
+2. access;
+3. recognition;
+4. pursuit;
+5. realization;
+6. and foreclosure.
 
-Instead, contingent variation changes the opportunity landscape confronting an individual, organization, institution, or society.
+The stages are analytically distinct and need not be linear. Recognition is neither always necessary at a single identifiable level nor sufficient for realization. Resources, timing, coordination, power, capability, constraints, and environmental response may enable or block movement among stages.
 
-It may:
+# Proposition 6 — H
 
-* create new opportunities,
-* eliminate existing possibilities,
-* alter access,
-* change timing,
-* redistribute resources,
-* modify constraints,
-* or redirect future development.
+## Adaptive Capacity May Mediate Responses to Consequential Uncertainty
 
-Opportunity transformation provides the principal bridge between uncertain events and observed trajectories.
+Perception, search, learning, coordination, error correction, and resource redeployment may affect how systems respond to changing conditions. Their effects depend on objectives, constraints, power, environment, and time horizon.
 
-The significance of luck therefore depends not only upon what occurs, but upon how that occurrence changes the set of attainable futures.
+Adaptive capacity must be measured independently of realized performance. Survival, growth, prominence, or successful response in one episode does not prove general capability.
 
----
+# Proposition 7 — D/H
 
-# Proposition 4
+## Path Dependence Requires a Reinforcing Mechanism
 
-## Opportunities Are Unevenly Recognized
+Historical sequence alone is not path dependence. A path-dependent claim must identify how an earlier transition changes later probabilities or feasible choices through mechanisms such as increasing returns, learning, coordination, switching costs, institutional reinforcement, or political feedback.
 
-The existence of an opportunity does not guarantee its recognition.
+Inherited paths may enable or constrain action. Persistence is not evidence of superiority, and reversal conditions and unrealized branches belong in the analysis.
 
-Adaptive systems differ in their ability to perceive, interpret, and evaluate emerging possibilities.
+# Proposition 8 — H
 
-Recognition may depend upon:
+## Institutions Enable, Constrain, and Redistribute Response
 
-* prior knowledge,
-* information access,
-* cognitive diversity,
-* institutional openness,
-* accumulated experience,
-* technical capability,
-* and historical position.
+Institutions may affect information, authority, resource allocation, legitimacy, experimentation, coordination, implementation, and learning. The same relationship may enable some actors while constraining others.
 
-Two systems may encounter similar conditions while identifying very different opportunities within them.
+Institutional effects must be specified by system, constituency, mechanism, and boundary condition. Endurance or compliance cannot establish institutional quality because coercion, dependence, exclusion, or high replacement costs may produce similar observations.
 
-Opportunity recognition is therefore selective rather than automatic.
+# Proposition 9 — H/C
 
-This selectivity is one of the principal mechanisms through which similar environments produce divergent outcomes.
+## Experience May Produce Learning, Nonlearning, or Mislearning
 
----
+Learning occurs when experience changes representations, expectations, rules, or future behavior. Improved outcomes are neither necessary nor sufficient evidence of learning.
 
-# Proposition 5
+Experience may be ignored, misinterpreted, selectively retained, blocked from implementation, or rendered obsolete by environmental change. Selection may mimic population-level learning when unsuccessful actors disappear. Learning claims therefore require process evidence.
 
-## Opportunity Realization Requires More Than Recognition
+# Proposition 10 — D/H
 
-Recognizing an opportunity is necessary in many cases, but it is rarely sufficient.
+## Feedback Changes the Persistence and Scale of Initial Differences
 
-Realization may also require:
+Feedback may reinforce, attenuate, stabilize, reverse, or dissipate the effects of an earlier transition. Candidate mechanisms include cumulative advantage or disadvantage, network effects, institutional reinforcement, corrective learning, redundancy, and countervailing response.
 
-* coordination,
-* resources,
-* legitimacy,
-* institutional support,
-* technical capability,
-* organizational commitment,
-* and sustained implementation.
+Small differences do not automatically amplify. A feedback claim must identify the loop, sign, delay, threshold, affected state variables, and conditions under which it weakens or changes direction.
 
-An opportunity may be correctly recognized yet remain unrealized because the responding system lacks the capacity to act.
+# Proposition 11 — D/M
 
-The study of luck must therefore distinguish among:
+## Trajectory Analysis Is Distinct from Outcome Evaluation
 
-1. opportunity emergence,
-2. opportunity recognition,
-3. opportunity development,
-4. opportunity realization,
-5. and opportunity preservation.
+A system state describes relevant conditions at a specified time. A trajectory describes an ordered sequence of states and transitions. An outcome is an evaluated state or consequence at a chosen horizon.
 
-These stages may fail independently.
+Luck attribution should generally examine trajectories because similar outcomes can arise from different mechanisms and similar capabilities can produce different outcomes under different exposures. Trajectory analysis does not eliminate the need to specify the evaluated outcome and reference.
 
----
+# Proposition 12 — M/C
 
-# Proposition 6
+## Unrealized Opportunities Are Necessary but Bounded Evidence
 
-## Adaptive Capacity Mediates the Consequences of Luck
+Analysis limited to realized success is vulnerable to survivorship and selection bias. Evidence should include rejected proposals, failed pursuits, abandoned experiments, foreclosed paths, nonresponders, and comparable systems that did not survive or prevail.
 
-The long-term effects of contingent events depend heavily upon the adaptive capacity of the systems they affect.
+An unrealized opportunity must have been feasible relative to contemporary information, resources, institutions, and constraints. Possibilities invented only with hindsight should not enter the counterfactual set without justification.
 
-Adaptive capacity includes the ability to:
+# Proposition 13 — H/C
 
-* process information,
-* revise beliefs,
-* coordinate action,
-* mobilize resources,
-* learn from experience,
-* reform institutions,
-* and respond to changing environments.
+## Opportunities May Transform, Transfer, Contract, or Disappear
 
-Luck may provide favorable or unfavorable conditions, but adaptive capacity influences whether those conditions become temporary disturbances, durable advantages, persistent disadvantages, or unrealized possibilities.
+Opportunity relationships evolve as systems, environments, technologies, institutions, and competitors change. A possibility available to one system may become accessible to another, but “migration” is only one possible trajectory.
 
-Long-term outcomes therefore emerge through interaction between contingent variation and adaptive response.
+The claim requires evidence that a sufficiently similar opportunity relationship persisted across the relevant transition. It should not assume that a later realization was the same opportunity previously available elsewhere.
 
----
+# Proposition 14 — D/C
 
-# Proposition 7
+## Adaptive System Is a Derived Cross-Domain Classification
 
-## Path Dependence Shapes Which Opportunities Are Available
+Individuals, organizations, institutions, networks, polities, or communities may be modeled as adaptive systems when their boundaries and relevant perception, search, learning, coordination, or behavioral-change processes are specified.
 
-Adaptive systems do not respond from neutral starting points.
+The label does not imply unified objectives, identical mechanisms, scale independence, or beneficial adaptation. Nested systems and internal conflict must remain explicit.
 
-Their available choices are shaped by inherited:
+# Proposition 15 — D/H
 
-* institutions,
-* knowledge,
-* technologies,
-* networks,
-* investments,
-* beliefs,
-* and previous decisions.
+## Capability and Luck Attribution Are Complementary but Distinct
 
-These historical paths affect which opportunities are visible, feasible, legitimate, and affordable.
+Capability concerns what a system can do under specified conditions. Luck attribution concerns how consequential uncertainty affected its realized trajectory relative to a reference.
 
-Path dependence may create capabilities that enable future adaptation.
+Observed outcomes may reflect capability, exposure, inherited position, institutions, deliberate action, power, selection, and feedback. Neither pure-merit nor pure-luck explanations are adequate when they collapse these components.
 
-It may also create lock-in, rigidity, or exclusion.
+# Proposition 16 — D/H
 
-Luck therefore interacts with history rather than acting upon a blank environment.
+## Favorable Luck Attribution Does Not Establish Durable Advantage
 
-The same contingent event may produce different consequences because systems inherit different paths.
+An event may be evaluated as favorable at one horizon without generating persistent benefit. Durability may require access, pursuit, integration, learning, resources, feedback, or continued environmental compatibility.
 
----
+A favorable outcome does not show that the system converted luck into capability. Later persistence must be explained independently.
 
-# Proposition 8
+# Proposition 17 — D/H
 
-## Institutions Mediate Opportunity and Adaptation
+## Unfavorable Luck Attribution Does Not Establish Incapability
 
-Institutions shape how uncertain change becomes translated into collective response.
+Adverse exposure may impose temporary, persistent, irreversible, or unequally distributed consequences. Some systems may respond through diversification, redundancy, reform, experimentation, reallocation, or recovery.
 
-They influence:
+Recovery does not prove superiority, and failure does not prove general incapability. Evaluation must account for shock magnitude, available alternatives, constraints, and comparison cases.
 
-* information flow,
-* authority,
-* coordination,
-* experimentation,
-* legitimacy,
-* resource allocation,
-* learning,
-* and implementation.
+# Proposition 18 — H/M
 
-Institutions may help systems recognize and realize opportunities.
+## Institutions Redistribute Exposure and Consequences
 
-They may also suppress information, protect obsolete arrangements, delay response, or prevent experimentation.
+Institutions may insure against harm, broaden opportunity access, concentrate gains, socialize losses, preserve privilege, or transfer risk to less powerful groups.
 
-Institutional structure therefore affects whether the consequences of luck are:
+Luck attribution therefore requires attention to level and distribution. A system-level favorable outcome may contain unfavorable trajectories for components or populations. Analysis should state by whom, for whom, at whose expense, and under which rules an outcome is evaluated.
 
-* amplified,
-* absorbed,
-* redirected,
-* distributed,
-* or lost.
+# Proposition 19 — C/M
 
-Institutions do not eliminate luck, but they influence how its effects are mediated.
+## Comparative Recurrence Motivates but Does Not Prove Generality
 
----
+Similar labels across Science, Technology, Business, History, and Politics may identify candidate relationships worthy of formalization and testing. Recurrence alone does not establish identical constructs, mechanisms, measurements, or causal effects.
 
-# Proposition 9
+Promotion toward General Theory requires boundary conditions, negative cases, domain-sensitive operationalization, competing explanations, and evidence not selected solely for illustrating the proposed pattern.
 
-## Learning Converts Experience into Adaptive Advantage
+# Proposition 20 — M
 
-Uncertain events generate information as well as outcomes.
+## Luck Attribution Requires Structured Evidence
 
-Systems that preserve, interpret, and apply that information may improve their future performance.
+A defensible attribution should specify:
 
-Learning allows adaptive systems to:
+1. the focal system and environment;
+2. the level and time horizon;
+3. the relevant uncertainty and information set;
+4. exposure and feasible alternatives;
+5. states, interactions, and transitions;
+6. mechanisms and responses;
+7. the evaluated outcome and reference;
+8. competing explanations;
+9. and evidence that could weaken the attribution.
 
-* revise assumptions,
-* update strategies,
-* improve recognition,
-* reform institutions,
-* and avoid repeated failure.
+Luck must not be estimated as whatever remains after known variables are removed.
 
-The benefits of favorable luck may disappear when systems fail to learn.
+# Proposition 21 — M
 
-The consequences of unfavorable luck may be reduced when systems adapt effectively.
+## The Theory Must Be Falsifiable, Revisable, and Selective
 
-Learning therefore influences whether experience produces cumulative improvement, temporary reaction, or no meaningful change.
+The theory should exclude as well as accommodate claims. Evidence should weaken a proposition when its specified relationship does not recur under its stated boundary conditions, when competing explanations account better for the observations, or when its measures fail validation.
 
----
+A theory capable of redescribing every outcome after the fact provides little explanation. Unsupported propositions should be narrowed, reclassified, or removed.
 
-# Proposition 10
+# Proposition 22 — M
 
-## Feedback Amplifies or Attenuates Initial Variation
+## Theory Develops Through Iteration Across Research Layers
 
-The long-term significance of luck often depends less upon the initiating event than upon the feedback processes that follow it.
+The project proceeds recursively among concepts, formal specifications, measurement designs, empirical investigation, comparative analysis, and theoretical revision.
 
-Feedback may produce:
-
-* cumulative advantage,
-* cumulative disadvantage,
-* network growth,
-* institutional reinforcement,
-* technological lock-in,
-* reputational effects,
-* resource concentration,
-* recovery,
-* or correction.
-
-Small initial differences may expand into large trajectory divergence.
-
-Conversely, institutions, redundancy, diversification, and corrective learning may attenuate early disadvantages.
-
-Luck should therefore be studied dynamically rather than as an isolated event.
-
----
-
-# Proposition 11
-
-## Luck Is Better Understood Through Trajectories Than Outcomes
-
-A single observed outcome provides limited evidence about the role of luck.
-
-Similar outcomes may arise from different processes.
-
-Different outcomes may arise from similar capabilities exposed to different contingencies.
-
-Trajectory analysis provides richer evidence by examining:
-
-* sequence,
-* timing,
-* persistence,
-* adaptation,
-* amplification,
-* institutional response,
-* and unrealized alternatives.
-
-The appropriate unit of analysis is therefore often the evolving trajectory rather than the final result.
-
-This perspective also reduces the risk of attributing success or failure to luck solely because an outcome appears surprising.
-
----
-
-# Proposition 12
-
-## Unrealized Opportunities Are Essential Evidence
-
-Historical records disproportionately preserve realized outcomes.
-
-This creates a systematic bias toward successful discoveries, technologies, organizations, institutions, and political developments.
-
-A complete theory must also examine opportunities that were:
-
-* unnoticed,
-* rejected,
-* mistimed,
-* underfunded,
-* institutionally blocked,
-* technically premature,
-* or abandoned.
-
-Unrealized opportunities reveal the limitations of:
-
-* recognition,
-* coordination,
-* resource allocation,
-* institutional flexibility,
-* and learning.
-
-They also help distinguish opportunity availability from adaptive capacity.
-
-The study of luck should therefore include the unrealized possibility space, not only visible success.
-
----
-
-# Proposition 13
-
-## Opportunities May Evolve, Migrate, and Disappear
-
-Opportunities should not be treated as fixed objects waiting indefinitely to be discovered.
-
-They may change through interaction with:
-
-* new knowledge,
-* technological development,
-* institutional reform,
-* market conditions,
-* political decisions,
-* and competing systems.
-
-An opportunity may:
-
-* become more valuable,
-* become less feasible,
-* shift from one domain to another,
-* move from one organization or society to another,
-* or disappear entirely.
-
-Failure to realize an opportunity in one system does not imply that it ceases to exist.
-
-It may instead migrate to another system with greater recognition, capability, legitimacy, or timing.
-
-Opportunity evolution is therefore a dynamic component of the luck framework.
-
----
-
-# Proposition 14
-
-## Adaptive Systems Are a Useful Cross-Domain Unit of Analysis
-
-The empirical domains differ substantially in their objects of study.
-
-Science examines communities of inquiry.
-
-Technology examines innovation ecosystems.
-
-Business examines organizations and markets.
-
-History examines civilizations and long-term societal trajectories.
-
-Politics examines governance and collective decision-making.
-
-Despite these differences, each contains systems that:
-
-* process information,
-* coordinate action,
-* preserve knowledge,
-* respond to feedback,
-* allocate resources,
-* and adapt across time.
-
-The concept of the adaptive system provides a common comparative language across these domains.
-
-This does not imply that all adaptive systems are identical.
-
-It suggests that related mechanisms may recur at different scales and under different institutional conditions.
-
----
-
-# Proposition 15
-
-## Luck Interacts with Capability Rather Than Replacing It
-
-Luck and capability should not be treated as competing explanations.
-
-Skill, intelligence, effort, resources, organization, and institutional quality affect how systems respond to contingent conditions.
-
-Luck changes what is possible, available, visible, or timely.
-
-Capability affects what is recognized, attempted, developed, and preserved.
-
-Observed outcomes therefore emerge from interaction among:
-
-* contingent exposure,
-* inherited position,
-* adaptive capacity,
-* institutional mediation,
-* and deliberate action.
-
-The framework rejects both pure luck explanations and pure merit explanations when either ignores this interaction.
-
----
-
-# Proposition 16
-
-## Favorable Luck Does Not Guarantee Durable Success
-
-A favorable event may create temporary advantage without producing long-term development.
-
-Durability depends upon whether the affected system can:
-
-* recognize the opportunity,
-* convert it into capability,
-* integrate it institutionally,
-* learn from the experience,
-* and adapt when conditions change again.
-
-Systems may receive favorable opportunities and still decline because they become rigid, complacent, fragmented, or unable to update.
-
-Luck may initiate advantage.
-
-It does not ensure its preservation.
-
----
-
-# Proposition 17
-
-## Unfavorable Luck Does Not Necessarily Determine Failure
-
-Adverse events may impose severe constraints, but their long-term consequences vary.
-
-Adaptive systems may respond through:
-
-* diversification,
-* institutional reform,
-* experimentation,
-* collective learning,
-* redundancy,
-* strategic reallocation,
-* or recovery.
-
-This does not imply that all disadvantages can be overcome.
-
-Some shocks are overwhelming, irreversible, or unequally distributed.
-
-The proposition is more limited:
-
-> unfavorable luck influences trajectories, but its long-term effects are mediated by adaptive capacity and institutional response.
-
----
-
-# Proposition 18
-
-## Institutions May Redistribute the Consequences of Luck
-
-Luck is not experienced only at the level of individuals or isolated organizations.
-
-Institutions may redistribute its benefits and harms across populations.
-
-They may:
-
-* insure against adverse events,
-* broaden access to opportunity,
-* concentrate gains,
-* socialize losses,
-* preserve privileges,
-* or transfer risk to less powerful groups.
-
-The consequences of luck are therefore partly political and institutional.
-
-A complete theory must examine not only whether opportunities are realized, but also:
-
-* by whom,
-* for whom,
-* at whose expense,
-* and under which institutional rules.
-
-This proposition connects the descriptive study of luck with questions of distribution without assuming a particular normative conclusion.
-
----
-
-# Proposition 19
-
-## Comparative Recurrence Supports but Does Not Prove Generality
-
-The appearance of similar mechanisms across Science, Technology, Business, History, and Politics provides evidence that these mechanisms may possess broad explanatory value.
-
-However, repeated terminology does not by itself establish identical causal structure.
-
-The meaning and operation of:
-
-* adaptation,
-* learning,
-* institutions,
-* opportunity,
-* and success
-
-may differ across domains.
-
-Cross-domain recurrence should therefore be treated as evidence for candidate general mechanisms rather than proof of universality.
-
-Further evaluation requires:
-
-* clearer operational definitions,
-* disconfirming cases,
-* competing explanations,
-* and domain-sensitive measurement.
-
----
-
-# Proposition 20
-
-## Luck Is Inferred Through Structured Evidence
-
-Luck is not directly measurable as a single independent quantity.
-
-Its influence must often be inferred from combinations of evidence, including:
-
-* exposure to contingent events,
-* unexpected changes in opportunity,
-* unequal timing,
-* trajectory divergence,
-* counterfactual comparison,
-* institutional response,
-* and feedback processes.
-
-Such inference must avoid treating all unexplained variation as luck.
-
-A valid explanation should identify:
-
-1. the relevant uncertainty,
-2. the contingent variation,
-3. the altered opportunity or constraint,
-4. the responding system,
-5. the mediating mechanisms,
-6. and the resulting trajectory.
-
-Luck becomes scientifically useful when its proposed role is specified rather than assumed.
-
----
-
-# Proposition 21
-
-## The General Theory Must Remain Falsifiable and Revisable
-
-The framework should generate claims that can be challenged by evidence.
-
-Evidence would weaken the theory if it showed, for example, that:
-
-* opportunity recognition has little influence on realization,
-* institutional adaptation does not affect trajectory resilience,
-* repeated learning fails to improve response,
-* path dependence adds no explanatory value,
-* unrealized opportunities do not reveal systematic adaptive limitations,
-* or the proposed mechanisms do not recur outside the cases used to formulate them.
-
-The purpose of theory is not to absorb every possible outcome.
-
-A theory that can explain everything after the fact explains very little.
-
-The propositions should therefore be refined into increasingly specific, bounded, and testable claims.
-
----
-
-# Proposition 22
-
-## Theory Should Evolve Through Iteration Between Evidence and Explanation
-
-The Research on Luck project adopts an iterative model of scientific development.
-
-```text
-Concepts
-    ↓
-Formal mechanisms
-    ↓
-Measurement strategies
-    ↓
-Empirical investigation
-    ↓
-Comparative analysis
-    ↓
-General propositions
-    ↓
-New tests and revisions
-```
-
-Theory guides observation by identifying relevant mechanisms.
-
-Evidence challenges theory by revealing variation, exceptions, missing mechanisms, and competing explanations.
-
-Comparative synthesis should therefore not conclude the research process.
-
-It should generate the next cycle of empirical and theoretical refinement.
-
----
+General Theory does not terminate that process. It identifies the propositions most worth testing and the distinctions most important to preserve. Evidence may motivate changes to formal objects, measures, cases, boundaries, or the theory itself.
 
 # Integrated Proposition
 
-Taken together, the current propositions support the following integrated statement:
-
-> Luck consists of consequential variation arising under uncertainty that alters the opportunities, constraints, exposures, or trajectories confronting adaptive systems. Its long-term effects emerge through interaction with recognition, inherited paths, institutional mediation, resource mobilization, learning, feedback, and adaptive capacity. Opportunities may be realized, blocked, transformed, transferred, or lost, and their consequences may be amplified or reduced over time. Luck therefore influences development without independently determining it.
-
----
+> Luck is an ex post relational evaluation of how consequential uncertainty affected a specified system’s trajectory relative to a stated reference and feasible alternatives. Luck potential arises ex ante from uncertainty, exposure, and possible consequences; luck realization occurs through events, interactions, mechanisms, responses, and state transitions; luck attribution occurs ex post. Outcomes require separate explanation through capabilities, inherited conditions, institutions, power, deliberate action, selection, and feedback.
 
 # Current Evidentiary Status
 
-The propositions in this document draw upon completed comparative work across:
+## Relatively Stable Analytical Commitments
 
-* Science,
-* Technology,
-* Business,
-* History,
-* and Politics.
+The current architecture strongly supports preserving:
 
-Their evidentiary status is not uniform.
+- the four working primitives;
+- the distinction between uncertainty, randomness, and risk;
+- the opportunity-stage sequence;
+- the distinction between state, trajectory, and outcome;
+- the separation of capability from performance;
+- the distinction among luck potential, realization, and attribution;
+- and the requirement for bounded counterfactuals and structured attribution.
 
-## Relatively Strong Cross-Domain Propositions
+These are conceptual and methodological commitments, not validated causal findings.
 
-The selected cases provide recurring support for:
+## Candidate Cross-Domain Relationships
 
-* the importance of timing and contingency,
-* uneven opportunity recognition,
-* path dependence,
-* institutional mediation,
-* learning and adaptation,
-* feedback and amplification,
-* and the prevalence of unrealized opportunities.
+The current cases suggest—but do not yet validate—relationships involving:
 
-## Developing Propositions
+- unequal opportunity recognition;
+- institutional enabling and constraint;
+- learning and nonlearning;
+- adaptive response;
+- feedback and amplification;
+- path dependence;
+- opportunity transformation;
+- and institutional redistribution of exposure and consequences.
 
-Additional investigation is needed regarding:
+## Major Unresolved Questions
 
-* opportunity migration,
-* comparative measurement of adaptive capacity,
-* institutional redistribution of luck,
-* differences between individual and system-level luck,
-* and the conditions under which adaptive mechanisms transfer across domains.
+The project does not yet establish:
 
-## Open Questions
-
-The current framework does not yet establish:
-
-* a single quantitative measure of luck,
-* a universal model applicable without domain modification,
-* reliable prediction of specific contingent events,
-* or a complete causal separation of luck from capability and inherited advantage.
-
-These limitations define the next stage of theoretical and empirical work.
-
----
+- general causal weights for the candidate relationships;
+- validated cross-domain measures of adaptive capacity;
+- scale-independent mechanisms;
+- a single quantitative measure of luck;
+- reliable prediction of contingent events;
+- or a complete separation of exposure, capability, selection, and inherited advantage.
 
 # Standards for Future Revision
 
-Future versions of these propositions should:
+Future versions should:
 
-* identify the evidence supporting each claim;
-* distinguish cross-domain findings from domain-specific observations;
-* state boundary conditions;
-* specify competing explanations;
-* include negative and disconfirming cases;
-* avoid universal language unless justified;
-* improve links to Formalization and Measurement;
-* and revise or remove propositions that do not survive empirical evaluation.
-
-The strength of the General Theory should be judged by its explanatory discipline, not by the number of claims it contains.
-
----
+- link each relational hypothesis to explicit formal specifications;
+- identify Measurement indicators and validation requirements;
+- use contemporaneous evidence where possible;
+- include disconfirming, unsuccessful, and unrealized cases;
+- state boundaries, levels, horizons, references, and counterfactual constraints;
+- distinguish mechanism from correlation and selection from superiority;
+- and remove propositions that do not survive testing.
 
 # Conclusion
 
-Version 2.0 marks a transition in the Research on Luck project.
+Version 2.1 retains the intellectual range of Version 2.0 while reducing its theoretical overreach. The central achievement is not a claim that one adaptive mechanism governs every domain. It is a disciplined architecture for asking when consequential uncertainty matters, how trajectories are realized, and when luck attribution is warranted.
 
-The initial theory emphasized stochastic events, variation, trajectories, institutions, and networks.
-
-The completed empirical and comparative work now supports a broader framework centered on:
-
-* changing opportunity landscapes,
-* selective recognition,
-* adaptive capacity,
-* institutional mediation,
-* learning,
-* realized and unrealized possibilities,
-* and recursive system evolution.
-
-The resulting theory does not claim that luck determines success or failure.
-
-It proposes that contingent variation continually changes the environments within which individuals, organizations, institutions, and societies act.
-
-Long-term development then depends upon how adaptive systems interpret those changes, mobilize responses, learn from consequences, and reshape the opportunity landscapes they subsequently encounter.
-
-These propositions represent the project’s best current synthesis.
-
-They are intended not as its final conclusions, but as the theoretical foundation for its next cycle of testing, criticism, and refinement.
+The propositions are a provisional research program. Their value will depend on whether future formalization, measurement, and empirical work can discriminate among them, identify their limits, and revise or reject them when evidence requires.
