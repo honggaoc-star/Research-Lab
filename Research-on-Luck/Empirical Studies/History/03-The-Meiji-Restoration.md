@@ -98,7 +98,7 @@ Historical legacies shape available options, but societies retain the capacity t
 
 # Luck and Historical Transformation
 
-Luck influenced Japan's modernization in several ways.
+Japan's modernization was exposed to consequential uncertainty in several ways.
 
 Global industrialization, shifting geopolitical conditions, technological progress, and expanding international trade all created circumstances beyond Japan's direct control.
 
