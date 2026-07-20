@@ -2,271 +2,107 @@
 
 ## Purpose
 
-The **Research on Luck** project seeks to contribute to the scientific study of luck by developing a comparative empirical framework that integrates evidence across multiple disciplines.
+This document states the current contributions of **Research on Luck** after the Version 2.1 architectural revision.
 
-The project does **not** claim that every individual concept presented here is entirely novel.
+The project does not claim that its component concepts are individually novel or that its hypotheses have been validated across all domains. Its principal contribution is a disciplined research architecture connecting definitions, relationships, measurement, empirical comparison, and revisable theory.
 
-Ideas concerning uncertainty, contingency, path dependence, learning, institutions, adaptive systems, and opportunity have been developed independently across many research traditions.
+# 1. A Relational Definition of Luck
 
-The principal contribution of this project lies elsewhere.
+Luck is defined as an **ex post relational evaluation** of how consequential uncertainty affected a specified system’s trajectory relative to a stated reference and feasible alternatives.
 
-It lies in integrating these ideas into a coherent comparative framework for investigating how contingent variation influences adaptive systems across diverse forms of human activity.
+This separates luck from randomness, risk, uncertainty itself, unexpected events, success without merit, causal mechanisms, and unexplained residuals.
 
-The following sections summarize the project's principal contributions.
+# 2. Four Working Primitives
 
----
+The project organizes analysis around System, Environment, Interaction, and Uncertainty. Luck and the substantive constructs are derived rather than unexplained starting points.
 
-# 1. Reframing the Study of Luck
+# 3. Potential, Realization, and Attribution
 
-Traditional discussions often describe luck as:
+The project distinguishes:
 
-* random success,
-* unexplained variation,
-* fortune,
-* chance,
-* or the opposite of skill.
+- **Luck Potential:** ex ante uncertainty, exposure, feasible alternatives, and possible consequences.
+- **Luck Realization:** interactions, mechanisms, responses, and transitions producing a trajectory.
+- **Luck Attribution:** ex post evaluation relative to a reference and defensible alternatives.
 
-The Research on Luck project proposes a different perspective.
+This limits hindsight reconstruction and prevents attribution from replacing causal analysis.
 
-Rather than treating luck as an outcome or residual explanation, the project investigates how consequential variation arising under uncertainty alters opportunities, constraints, exposures, and trajectories confronting adaptive systems.
+# 4. Dynamic Opportunity Analysis
 
-This shifts the study of luck away from outcome attribution and toward adaptive processes.
+Opportunity is treated as a system–environment relationship. The project distinguishes potential, access, recognition, pursuit, realization, and foreclosure.
 
----
+It incorporates unrealized, transformed, transferred, contracted, and expired possibilities while requiring counterfactual opportunities to have been feasible ex ante.
 
-# 2. A Comparative Research Framework
+# 5. Capability–Outcome Separation
 
-Most existing scholarship investigates luck within individual disciplines.
+The project rejects inference from success, survival, prominence, or persistence to general capability or superiority.
 
-Examples include:
+Capability requires evidence concerning perception, search, learning, coordination, error correction, implementation, and resource redeployment. Outcomes may also reflect exposure, inherited position, power, selection, competitor behavior, and feedback.
 
-* philosophy,
-* psychology,
-* economics,
-* statistics,
-* history,
-* and organizational studies.
+# 6. Selection and Unrealized Evidence
 
-The present project instead compares empirical evidence across:
+The empirical strategy makes visible failed and abandoned pursuits, missed and foreclosed opportunities, nonresponders, excluded groups, non-survivors, alternative trajectories, and changing reference classes.
 
-* Science,
-* Technology,
-* Business,
-* History,
-* and Politics.
+This broadens evidence beyond selected winners without treating every hindsight possibility as a valid counterfactual.
 
-The objective is to identify recurring mechanisms that appear across independent domains rather than developing domain-specific explanations.
+# 7. Relationship-Centered Formalization
 
-This comparative design constitutes one of the project's central methodological contributions.
+The project distinguishes analytical nodes from relationships and classifies relationships as constitutive, causal, enabling, constraining, and feedback.
 
----
+A relationship may perform different roles in different bounded models. The taxonomy encourages explicit mechanisms and boundary conditions rather than loose causal language.
 
-# 3. Adaptive Systems as a Common Unit of Analysis
+# 8. Layered but Nonmandatory Architecture
 
-The project proposes that many apparently unrelated domains may be understood through the broader concept of the adaptive system.
+The framework separates working primitives, derived conditions, system capabilities, dynamic processes, long-term effects, and outcome evaluation.
 
-Adaptive systems include, among others:
+The layers organize analytical roles but do not impose a universal sequence. Relationships may be recursive, simultaneous, absent, or differently ordered across domains.
 
-* scientific communities,
-* technological ecosystems,
-* business organizations,
-* political institutions,
-* governments,
-* and civilizations.
+# 9. Integrated Measurement Architecture
 
-Although these systems differ substantially in purpose, scale, and historical context, they repeatedly confront similar challenges involving uncertainty, opportunity, coordination, learning, institutional adaptation, and long-term development.
+Formal constructs are connected to indicators concerning states, transitions, exposure, uncertainty, opportunity stages, capability, response, trajectories, feedback, counterfactuals, selection, attribution, identification, and validation.
 
-This perspective provides a common analytical language for interdisciplinary comparison while preserving domain-specific differences.
+Measurement error, construct mismatch, and weak identification cannot be repaired by theoretical breadth.
 
----
+# 10. Five-Domain Comparative Program
 
-# 4. Opportunity as the Principal Mediating Mechanism
+The project compares Science, Technology, Business, History, and Politics through shared analytical questions while preserving domain differences.
 
-The project proposes that luck influences development primarily by changing opportunity landscapes rather than directly determining outcomes.
+The contribution is a comparison protocol, not proof of universal mechanisms. Recurrence generates candidate relationships; contradictory and negative cases remain part of the result.
 
-Contingent variation may:
+# 11. Preservation of Intellectual Development
 
-* create opportunities,
-* remove opportunities,
-* alter timing,
-* change constraints,
-* redistribute access,
-* or redirect trajectories.
+The repository preserves original Foundations, Formalization, and Measurement layers while adding the current architecture in later-numbered series.
 
-Adaptive systems then differ in their capacity to recognize, interpret, coordinate, develop, and preserve those opportunities.
+This makes conceptual change visible rather than silently rewriting intellectual history.
 
-This emphasis on opportunity provides a mechanism connecting contingent variation with long-term development.
+# 12. Provisional General Theory
 
----
+General Theory Version 2.1 preserves 22 propositions while classifying them as definitional, hypothetical, comparative, or methodological.
 
-# 5. Identification of Recurring Adaptive Mechanisms
+The contribution is a falsifiable research program. Propositions should be narrowed, reclassified, or removed when measures fail, competing explanations perform better, or evidence does not support their boundary conditions.
 
-Comparative investigation across the five empirical domains repeatedly identifies several mechanisms, including:
+# Scope of the Contribution Claims
 
-* opportunity recognition,
-* timing and contingency,
-* path dependence,
-* institutional mediation,
-* learning,
-* feedback,
-* adaptive capacity,
-* and unrealized opportunities.
+The project currently contributes:
 
-The project does not claim that these mechanisms operate identically in every context.
+- conceptual clarification;
+- an integrated research architecture;
+- formal and measurement templates;
+- structured case comparison;
+- explicit treatment of selection and unrealized alternatives;
+- and provisional propositions for testing.
 
-Instead, it proposes that they recur sufficiently often to justify broader theoretical investigation.
+It does not currently contribute:
 
-These recurring mechanisms provide the empirical foundation for the project's evolving General Theory.
-
----
-
-# 6. Systematic Study of Unrealized Opportunities
-
-One of the most distinctive themes developed throughout the repository is the systematic investigation of unrealized opportunities.
-
-Rather than focusing exclusively on realized success, the project examines opportunities that remained:
-
-* unnoticed,
-* delayed,
-* rejected,
-* institutionally blocked,
-* technically premature,
-* underdeveloped,
-* or transferred elsewhere.
-
-Studying unrealized opportunities broadens empirical investigation beyond visible success and helps explain the adaptive limitations of individuals, organizations, institutions, and societies.
-
----
-
-# 7. A Layered Research Architecture
-
-The project adopts a structured research process progressing from conceptual development toward theoretical integration.
-
-```text id="9blf0r"
-Foundations
-        ↓
-Literature
-        ↓
-Formalization
-        ↓
-Measurement
-        ↓
-Empirical Studies
-        ↓
-Comparative Studies
-        ↓
-General Theory
-```
-
-Each layer performs a distinct scientific function.
-
-This architecture separates:
-
-* concepts,
-* scholarship,
-* mechanisms,
-* methodology,
-* evidence,
-* comparative synthesis,
-* and theory.
-
-Maintaining these distinctions improves conceptual clarity while encouraging cumulative refinement.
-
----
-
-# 8. Integration of Multiple Research Traditions
-
-Rather than replacing existing scholarship, the project integrates contributions from multiple disciplines.
-
-It draws upon work concerning:
-
-* uncertainty,
-* stochastic processes,
-* path dependence,
-* organizational learning,
-* institutional theory,
-* historical contingency,
-* complexity,
-* and adaptive systems.
-
-The contribution lies not in redefining each field individually, but in bringing these perspectives together within a coherent comparative framework.
-
----
-
-# 9. A Research Program Rather Than a Closed Theory
-
-The project intentionally avoids presenting a finished or universal theory of luck.
-
-Instead, it establishes:
-
-* conceptual foundations,
-* candidate mechanisms,
-* empirical methodology,
-* comparative evidence,
-* and evolving theoretical propositions.
-
-The framework is designed to remain open to:
-
-* new empirical domains,
-* competing explanations,
-* methodological refinement,
-* disconfirming evidence,
-* and theoretical revision.
-
-Scientific progress is understood as iterative rather than final.
-
----
-
-# 10. An Empirical Foundation for Future Research
-
-The repository establishes a structured foundation for future work concerning:
-
-* adaptive systems,
-* opportunity dynamics,
-* institutional evolution,
-* organizational learning,
-* complex social systems,
-* comparative historical analysis,
-* interdisciplinary studies of uncertainty,
-* and broader theories of adaptive development.
-
-Future work may strengthen, qualify, or reject particular mechanisms.
-
-The value of the repository lies in providing a disciplined framework through which those questions can be investigated systematically.
-
----
-
-# Scope of the Contributions
-
-The project does **not** claim:
-
-* a universal theory of luck;
-* a complete explanation of human development;
-* a single quantitative measure of luck;
-* or the replacement of existing disciplinary theories.
-
-Its contributions are more limited and therefore more defensible.
-
-The project contributes:
-
-* a comparative research strategy,
-* an integrated conceptual framework,
-* a mechanism-oriented empirical methodology,
-* and an evolving theoretical synthesis connecting contingent variation with adaptive development.
-
----
+- a validated universal theory;
+- general causal estimates;
+- a single quantitative measure of luck;
+- reliable prediction of contingent events;
+- or proof that one mechanism operates identically across scales and domains.
 
 # Summary
 
-Taken together, these contributions support one overarching proposition:
+The principal contribution is to make explanations involving luck more explicit, relational, dynamic, and empirically vulnerable.
 
-> Luck is most productively understood as consequential variation arising under uncertainty that alters the opportunities, constraints, exposures, or trajectories confronting adaptive systems. Long-term development emerges through the interaction of opportunity recognition, inherited conditions, institutional mediation, learning, adaptive capacity, and continual response to changing environments.
+Researchers are asked to specify the system, environment, interaction, uncertainty, exposure, opportunity stages, capability, trajectory, reference, and feasible alternatives before attributing luck. Causal mechanisms must then be analyzed separately from that attribution.
 
-Accordingly, the principal contribution of the **Research on Luck** project is not the study of luck in isolation.
-
-It is the development of a comparative empirical framework for understanding how adaptive systems transform uncertainty into long-term scientific, technological, economic, historical, and political development.
-
-Whether that framework ultimately proves sufficiently general remains an empirical question.
-
-The project is intended to provide a disciplined foundation for answering that question through continued research rather than assuming its conclusion.
-
+Whether this architecture yields durable explanatory gains remains an empirical question. Its value must be demonstrated through better evidence and discrimination among competing explanations, not through breadth of claims.
