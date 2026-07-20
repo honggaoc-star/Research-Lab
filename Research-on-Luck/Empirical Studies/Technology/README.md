@@ -240,3 +240,47 @@ Rather than explaining innovation solely through invention, entrepreneurship, or
 
 The resulting evidence contributes one essential component of the broader **Research on Luck** framework, where technological innovation is studied not in isolation but as one manifestation of adaptive systems operating under uncertainty.
 
+---
+
+## Architecture-Alignment Protocol
+
+This domain should use the common audit framework in [../README.md](../README.md) while preserving domain-specific evidence and terminology.
+
+### Focal systems
+
+Possible focal systems include the inventor, team, firm, institution, infrastructure, or technological ecosystem. Each case should state which system is primary and when the analysis moves across levels.
+
+### Relevant environment
+
+The environmental scope may include scientific knowledge, complementary technologies, standards, markets, institutions, resources, and users. A condition should be included only when it affects the focal interaction or feasible trajectory.
+
+### Interaction and exposure
+
+Relevant channels include invention, integration, testing, adoption, diffusion, competition, coordination, and regulation. Cases should distinguish a general event from system-specific exposure.
+
+### Opportunity stages
+
+The domain-specific sequence may include technical potential, access to complements, recognition, development, adoption, scaling, and displacement. Potential, access, recognition, pursuit, realization, and foreclosure should not be collapsed into outcome.
+
+### Capability and adaptive process
+
+Relevant capabilities may include engineering knowledge, search, integration, production, coordination, learning, and ecosystem orchestration. Evidence should be independent of the favorable outcome wherever possible.
+
+### Dynamic mechanisms
+
+Candidate mechanisms include network effects, standards, cumulative innovation, path dependence, scaling, selection, lock-in, and repurposing. Their presence must be supported by sequence and process evidence rather than thematic resemblance alone.
+
+### Domain audit questions
+
+- Does the case separate invention, implementation, adoption, diffusion, and impact?
+- Which complementary technologies and institutions enabled or constrained realization?
+- What alternatives were technically feasible but not adopted?
+- Does survival reflect superiority, installed base, timing, power, or ecosystem feedback?
+
+### Evidence reporting
+
+Each case audit should identify direct observations, reconstructions, mechanism evidence, competing explanations, missing cases, and an evidence grade. Cases that challenge the architecture should be preserved rather than forced into conformity.
+
+### Editorial rule
+
+The case inventory is stable. Revisions should be targeted to material conceptual or evidentiary gaps. Additional cases are warranted only when they add a mechanism or boundary condition not represented by the existing corpus.
