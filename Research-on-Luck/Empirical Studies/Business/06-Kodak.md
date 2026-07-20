@@ -38,7 +38,7 @@ The company possessed:
 * Significant financial resources.
 * Global brand recognition.
 
-In other words, Kodak successfully recognized the emerging technological opportunity.
+This evidence supports technical awareness and some recognition, but it does not establish that Kodak perceived a single, commercially feasible opportunity with stable timing, demand, or an identifiable path to profit.
 
 The central challenge lay not in discovery, but in organizational response.
 
@@ -89,7 +89,7 @@ Its previous success generated:
 
 These advantages gradually became constraints as external conditions evolved.
 
-Luck influenced both phases of Kodak's history.
+Changes in exposure and uncertainty shaped both phases of Kodak's history.
 
 Favorable historical circumstances contributed to decades of dominance, while subsequent technological convergence created an environment in which previous strengths became liabilities.
 
@@ -116,6 +116,24 @@ Organizations unable to evolve with those opportunities may lose advantages desp
 
 ---
 
+# Architecture-Alignment Assessment
+
+## Focal System and Opportunity Sequence
+
+The focal system is Kodak as an organization, with business units and technical teams treated as nested systems where evidence permits. Its environment included consumers, retailers, competitors, standards, component suppliers, online platforms, and capital markets. The digital transition was not one opportunity but a changing landscape of imaging, storage, display, sharing, printing, and service possibilities.
+
+The case should distinguish opportunity potential from access, recognition, pursuit, realization, and foreclosure. Kodak had technical access and undertook multiple digital initiatives, but recognition varied across organizational levels, pursuit was divided among competing business models, and realization depended on complementary technologies and customer behavior. Some paths narrowed as timing, standards, and ecosystem positions changed.
+
+## Ex Ante Uncertainty and Feasible Alternatives
+
+Early digital imaging involved genuine uncertainty about quality, cost, adoption rates, complementary infrastructure, and profit capture. Delay could be locally defensible without being globally adaptive. Feasible counterfactuals should specify what Kodak could have done with information and resources available at the time—for example, separating digital governance, accepting earlier cannibalization, emphasizing image services, or forming different platform alliances. A counterfactual in which Kodak simply becomes the eventual market winner is not analytically adequate.
+
+## Capability, Selection, and Evidence Limits
+
+Technical invention, organizational adaptive capacity, and commercial performance are distinct. Patents and prototypes indicate some technical capability; they do not by themselves demonstrate coordination, business-model experimentation, or ecosystem-building capacity. Conversely, decline does not prove general incapability. Competitor entry, platform migration, financial commitments, managerial incentives, and selection among firms must be assessed alongside internal choices. The current narrative identifies plausible mechanisms but requires dated decisions, rejected alternatives, investment patterns, and structured comparison before supporting causal conclusions.
+
+---
+
 # Lessons
 
 Kodak provides several broader insights relevant to business research.
@@ -136,8 +154,8 @@ Finally, business failure should not be understood simply as poor management. It
 
 Kodak reinforces one of the central propositions of this research project:
 
-> Luck influences the emergence of opportunities, but organizational adaptation determines whether those opportunities become realized or remain unrealized.
+> Opportunities arise relationally between a system and its environment; whether they are realized depends on access, recognition, pursuit, timing, capability, constraints, environmental response, and uncertainty.
 
 Unlike Amazon, Netflix, Apple, Microsoft, and Berkshire Hathaway, which illustrate different mechanisms of successful opportunity realization, Kodak demonstrates that favorable opportunities may remain unfulfilled despite abundant resources and technical expertise.
 
-Together, these six cases suggest that business outcomes are shaped by a dynamic interaction among opportunity recognition, strategic timing, organizational adaptation, capital allocation, institutional incentives, and chance. Luck creates possibilities, but realization depends on whether organizations can continually adapt as those possibilities evolve.
+Together, these six cases suggest that business outcomes are shaped by a dynamic interaction among opportunity recognition, strategic timing, organizational adaptation, capital allocation, institutional incentives, and chance. Luck attribution is an ex post evaluation of how consequential uncertainty shaped a trajectory; it should not substitute for analyzing the mechanisms that enabled or constrained realization.
