@@ -1,155 +1,194 @@
 # Research Positioning
 
-## Positioning the Research on Luck Project
+## Motivation
+
+Luck is one of the most frequently discussed concepts in human life and one of the least systematically integrated across academic disciplines.
+
+Philosophers investigate moral luck and free will.
+
+Psychologists study the perception of luck and cognitive bias.
+
+Economists distinguish luck from skill in labor markets and wealth accumulation.
+
+Statisticians analyze randomness, probability, and uncertainty.
+
+Historians describe contingency.
+
+Political scientists examine institutional change.
+
+Business scholars study entrepreneurship and opportunity.
+
+Scientists occasionally discuss serendipitous discovery.
+
+Although each discipline contributes valuable insight, they generally examine luck within the boundaries of their own fields.
+
+The result is a fragmented understanding of a phenomenon that appears throughout virtually every domain of human activity.
 
 ---
 
-# Purpose
+# Research Gap
 
-The **Research on Luck** project seeks to develop a cumulative, evidence-informed understanding of luck by integrating perspectives from multiple academic disciplines and empirical domains.
+Existing scholarship exhibits several important limitations.
 
-Rather than treating luck solely as a philosophical concept, a statistical phenomenon, a psychological perception, or a feature of scientific discovery, the project investigates how luck operates across diverse contexts and how these observations may contribute to a broader theoretical framework.
+## Disciplinary Fragmentation
 
-The objective is not to replace existing theories, but to synthesize them within a common research architecture that encourages continual refinement through comparative evidence.
+Research on luck remains largely discipline-specific.
 
----
+Few studies systematically compare how luck operates across science, technology, business, history, and politics.
 
-# Relationship to Existing Literature
-
-Research on luck already spans numerous disciplines.
-
-Philosophy examines moral luck, responsibility, and chance.
-
-Economics studies uncertainty, risk, incentives, and market outcomes.
-
-Psychology investigates perceptions of luck, cognitive biases, and decision-making.
-
-Statistics provides mathematical foundations for randomness and probability.
-
-Innovation and management research explore serendipity, opportunity recognition, entrepreneurship, and organizational adaptation.
-
-These traditions have generated substantial knowledge, often within their own disciplinary boundaries.
-
-This project builds upon that scholarship rather than attempting to replace it.
+Consequently, opportunities to identify recurring mechanisms have received comparatively little attention.
 
 ---
 
-# Distinctive Characteristics
+## Outcome-Oriented Analysis
 
-Several characteristics distinguish the present project from many existing approaches.
+Many existing studies investigate:
 
-## 1. Cross-Disciplinary Integration
+* successful discoveries,
+* successful entrepreneurs,
+* successful institutions,
+* successful historical events.
 
-Rather than focusing on a single discipline, the project synthesizes perspectives from philosophy, economics, psychology, statistics, science, technology, business, finance, organizations, public policy, history, and related fields.
+Relatively little attention is given to the much larger universe of unrealized opportunities.
 
-The objective is to identify common patterns that may not be visible within individual disciplines.
-
----
-
-## 2. Evidence Across Independent Domains
-
-The project evaluates ideas using multiple empirical domains rather than relying on a single class of examples.
-
-Each domain is treated as an independent source of evidence capable of supporting, refining, or challenging emerging theoretical propositions.
-
-Agreement across domains strengthens confidence in a proposed mechanism.
-
-Disagreement is treated as an opportunity for theoretical refinement rather than as a failure of the framework.
+This creates substantial survivorship bias.
 
 ---
 
-## 3. Iterative Theory Development
+## Luck as Residual Explanation
 
-The project does not begin with a completed general theory.
+Luck is frequently treated as:
 
-Instead, theoretical understanding develops progressively through an iterative process:
+* randomness,
+* unexplained variance,
+* residual error,
+* or the opposite of skill.
 
-Literature
-
-↓
-
-Formalization
-
-↓
-
-Measurement
-
-↓
-
-Case Studies
-
-↓
-
-Comparative Synthesis
-
-↓
-
-General Theory
-
-Each stage informs subsequent revisions.
-
-The General Theory therefore represents the current state of accumulated evidence rather than a fixed endpoint.
+Such interpretations acknowledge uncertainty but provide limited explanation for how luck influences adaptive development over time.
 
 ---
 
-## 4. Opportunity as an Organizing Concept
+## Limited Comparative Frameworks
 
-As the project has developed, comparative analysis has increasingly suggested that luck may be understood most productively through its relationship to opportunity.
+Although interdisciplinary research has expanded considerably, relatively few comparative frameworks examine how similar adaptive mechanisms operate across multiple domains simultaneously.
 
-Rather than treating luck solely as an isolated event, the project investigates how opportunities emerge, are recognized, develop over time, interact with institutions, and ultimately influence broader social and technological outcomes.
-
-Whether opportunity ultimately becomes the central organizing concept remains an open empirical question to be evaluated through continued research.
+This limits the development of more general empirical explanations.
 
 ---
 
-# Research Philosophy
+# Research Position
 
-This repository is intended to function as a living research program rather than a static publication.
+This project adopts a different perspective.
 
-Individual case studies are not included primarily to illustrate an existing theory.
+Rather than studying luck within individual disciplines, it investigates luck as a comparative empirical phenomenon.
 
-Instead, they serve as opportunities to test, refine, and occasionally challenge the evolving framework.
+Rather than asking:
 
-Accordingly, modifications to the General Theory are expected as additional evidence accumulates.
+> Is success caused by luck or skill?
 
-Revision is regarded as an indication of scientific progress rather than inconsistency.
+the project asks:
+
+> How do adaptive systems respond to changing opportunities created by uncertain environments?
+
+This shift changes the primary unit of analysis.
+
+The focus moves from isolated successful outcomes toward the adaptive processes through which opportunities emerge, are recognized, become realized, or remain unrealized.
+
+---
+
+# Central Perspective
+
+The comparative evidence developed throughout this repository suggests several guiding propositions.
+
+Luck continually reshapes environments.
+
+Adaptive systems recognize opportunities unevenly.
+
+Institutions mediate adaptive responses.
+
+Learning strengthens future adaptation.
+
+Long-term success reflects adaptive capacity more than favorable circumstance alone.
+
+These propositions emerged independently across multiple empirical domains rather than being imposed from a single theoretical tradition.
+
+---
+
+# Methodological Position
+
+The project adopts an explicitly comparative methodology.
+
+The repository progresses through successive stages.
+
+1. Conceptual foundations.
+2. Literature synthesis.
+3. Formalization.
+4. Measurement.
+5. Comparative empirical case studies.
+6. Cross-domain synthesis.
+7. General theoretical integration.
+
+Each stage builds upon the previous one while maintaining a clear distinction between evidence, comparison, and theory.
+
+Case studies are selected because they illuminate adaptive mechanisms rather than because they provide comprehensive historical coverage.
+
+Comparative analysis is used to identify recurring empirical patterns rather than to eliminate domain-specific differences.
+
+---
+
+# Relationship to Existing Scholarship
+
+The project complements rather than replaces existing disciplinary research.
+
+It draws upon:
+
+* philosophy,
+* psychology,
+* economics,
+* statistics,
+* history,
+* political science,
+* management,
+* innovation studies,
+* and systems thinking.
+
+Its contribution is not to redefine these disciplines, but to integrate empirical observations across them into a coherent comparative framework.
+
+The objective is synthesis rather than disciplinary substitution.
 
 ---
 
 # Scope
 
-The project investigates luck across multiple levels of analysis, including:
+The repository does not attempt to explain every aspect of uncertainty or human behavior.
 
-* individuals,
-* organizations,
-* scientific discovery,
-* technological innovation,
-* markets,
-* institutions,
-* public policy,
-* historical development,
-* complex adaptive systems.
+Instead, it investigates one specific question:
 
-The goal is to understand both the immediate consequences of luck and the longer-term dynamics through which opportunities evolve.
+**How does luck influence the adaptive evolution of complex human systems?**
+
+Accordingly, the project focuses on recurring adaptive mechanisms rather than exhaustive empirical coverage.
+
+Additional domains will be incorporated only if they reveal fundamentally new mechanisms beyond those already identified through comparative analysis.
 
 ---
 
-# Current Status
+# Position within the Research Lab
 
-The repository represents an ongoing research effort.
+Within the broader Research Lab, this repository occupies an empirical role.
 
-Many observations documented throughout the project are intentionally described as **candidate mechanisms**, **working hypotheses**, or **emerging propositions** rather than established conclusions.
+It identifies recurring adaptive mechanisms through comparative investigation.
 
-Future domains may confirm, modify, or reject these preliminary patterns.
+The broader **Social Systems** project builds upon these findings to develop more general theoretical models of adaptive social evolution.
 
-The General Theory will evolve accordingly.
+The two projects are therefore complementary.
 
----
+**Research on Luck** asks:
 
-# Long-Term Vision
+> How does luck operate across different domains?
 
-The long-term objective is to construct a coherent, empirically grounded framework capable of explaining how luck and opportunity interact across diverse domains of human activity.
+**Social Systems** asks:
 
-Rather than seeking a single universal definition of luck, the project aims to identify recurring mechanisms that remain robust across independent forms of evidence.
+> How do adaptive mechanisms interact to shape the long-term evolution of complex societies?
 
-If successful, the resulting framework may contribute not only to the study of luck itself but also to broader discussions of discovery, innovation, institutions, decision-making, and societal evolution.
+Together, they form successive stages of a broader research program while maintaining distinct objectives, methodologies, and scopes.
+

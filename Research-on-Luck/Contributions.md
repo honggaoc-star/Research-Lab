@@ -1,227 +1,164 @@
 # Contributions
 
-## Original Contributions of the Research on Luck Project
+## Purpose
+
+The **Research on Luck** project seeks to contribute to the study of luck by integrating evidence across multiple disciplines rather than treating luck as an isolated philosophical, psychological, economic, or statistical concept.
+
+The project does not claim that every individual idea presented here is entirely novel. Instead, its primary contribution lies in developing a coherent comparative framework that identifies recurring adaptive mechanisms across diverse domains of human activity.
+
+The following summarizes the principal contributions of the repository.
 
 ---
 
-# Purpose
+# 1. Reframing Luck
 
-The purpose of this document is to distinguish the original contributions of this research program from established scholarship.
+The project proposes a different interpretation of luck.
 
-The **Research on Luck** project builds extensively upon philosophy, economics, statistics, psychology, complexity science, and related disciplines. It does not seek to replace existing theories. Instead, it synthesizes, extends, and integrates them into a unified conceptual and theoretical framework.
+Rather than viewing luck as:
 
-Accordingly, this document distinguishes between:
+* random success,
+* unexplained variation,
+* or an alternative to skill,
 
-* established knowledge drawn from existing literature;
-* interdisciplinary synthesis developed within this repository;
-* original conceptual contributions proposed by this research program;
-* future research directions that remain speculative.
+the repository treats luck as **an environmental mechanism that continually reshapes opportunities, constraints, and uncertainty**.
 
-Scientific progress depends not only on proposing new ideas, but also on clearly identifying their relationship to prior work.
-
----
-
-# 1. Research Philosophy
-
-This project adopts four guiding principles.
-
-First, luck should be studied as a legitimate scientific phenomenon rather than dismissed as an unexplained residual or purely colloquial concept.
-
-Second, no single discipline adequately explains luck. A comprehensive understanding requires integrating philosophical reasoning, statistical theory, economic analysis, psychological evidence, and dynamic systems perspectives.
-
-Third, conceptual clarity should precede mathematical sophistication. Formal models should emerge from well-defined concepts rather than substitute for them.
-
-Finally, competing explanations should be compared rather than prematurely reconciled. Scientific progress arises through systematic evaluation of alternative models.
+This shifts the study of luck from outcome attribution toward adaptive processes.
 
 ---
 
-# 2. Contributions from Existing Scholarship
+# 2. A Comparative Research Framework
 
-The project builds upon several well-established bodies of knowledge.
+Most existing studies investigate luck within individual disciplines.
 
-Examples include:
+This repository compares empirical evidence across:
 
-* philosophical analyses of moral, epistemic, and brute luck;
-* probability theory and stochastic processes;
-* economic research on inequality, opportunity, and institutions;
-* psychological studies of perception, attribution, and cognitive bias;
-* complexity science and path dependence;
-* network theory and diffusion processes.
+* Science
+* Technology
+* Business
+* History
+* Politics
 
-These contributions provide the intellectual foundation upon which this research is constructed.
+The objective is to identify mechanisms that recur across independent domains rather than developing domain-specific explanations.
 
----
-
-# 3. Interdisciplinary Synthesis
-
-One contribution of this project is the systematic integration of previously separate research traditions.
-
-Rather than treating philosophy, economics, statistics, and psychology as competing explanations, the repository demonstrates that they address different questions:
-
-* What is luck?
-* How does uncertainty arise?
-* How do people perceive luck?
-* How does luck influence social and economic outcomes?
-
-This interdisciplinary synthesis provides a more comprehensive framework than any individual discipline alone.
+This comparative methodology represents one of the central contributions of the project.
 
 ---
 
-# 4. Original Conceptual Contributions
+# 3. Identification of Universal Adaptive Mechanisms
 
-The project proposes several conceptual contributions that extend beyond the existing literature.
+Comparative analysis consistently identifies recurring mechanisms including:
 
-## Luck as an Emergent Phenomenon
+* Opportunity recognition
+* Timing and contingency
+* Path dependence
+* Institutional adaptation
+* Learning
+* Unrealized opportunities
 
-Rather than viewing luck as an intrinsic property of events or individuals, this research proposes that luck is an emergent phenomenon arising from interactions among stochastic events, evolving systems, institutions, and networks.
-
----
-
-## Separation of Random Events and Their Consequences
-
-A central distinction introduced by this project is the separation between:
-
-* stochastic events,
-* and the evolving consequences of those events.
-
-Randomness governs the occurrence of events.
-
-Dynamic systems govern the evolution of their consequences.
-
-This distinction provides a bridge between probability theory and social dynamics.
+The repeated appearance of these mechanisms across multiple domains suggests that they represent general properties of adaptive systems rather than isolated disciplinary observations.
 
 ---
 
-## Dynamic Opportunity Spaces
+# 4. Adaptive Systems as the Common Unit of Analysis
 
-The repository introduces the concept of dynamic opportunity spaces.
+The project proposes that the most useful unit of comparative analysis is neither the individual nor the institution alone.
 
-Luck does not merely produce immediate outcomes.
+Instead, it identifies **adaptive systems** as the common empirical framework underlying:
 
-It changes the opportunities, constraints, and choices available for future decisions.
+* scientific communities,
+* technological ecosystems,
+* business organizations,
+* civilizations,
+* and political systems.
 
-Opportunity spaces therefore evolve over time as a consequence of stochastic events and system responses.
-
----
-
-## Multidimensional Taxonomy of Luck
-
-Rather than classifying luck into isolated categories, the project develops a multidimensional taxonomy based on independent dimensions such as origin, controllability, temporal structure, consequences, perception, dynamics, and observability.
-
-This framework allows multiple perspectives to coexist without contradiction.
+This perspective provides a common language for comparing otherwise very different domains.
 
 ---
 
-## Mechanistic Framework
+# 5. Unrealized Opportunities
 
-The Formalization section proposes five complementary mechanisms governing the evolution of luck:
+One of the most distinctive themes developed throughout the repository is the systematic study of unrealized opportunities.
 
-* stochastic uncertainty,
-* path dependence,
-* feedback,
-* network propagation,
-* institutional mediation.
+Rather than focusing exclusively on successful outcomes, the project argues that understanding adaptive systems requires examining opportunities that remained:
 
-These mechanisms explain different aspects of the same phenomenon rather than competing with one another.
+* undiscovered,
+* undeveloped,
+* unimplemented,
+* or unrealized.
 
----
-
-# 5. Original Theoretical Framework
-
-The repository proposes a unified theoretical architecture in which:
-
-uncertainty
-
-generates stochastic events,
-
-which alter system states,
-
-which evolve through path dependence,
-
-feedback,
-
-network interactions,
-
-and institutional responses,
-
-ultimately producing persistent differences in opportunity and outcomes.
-
-This architecture integrates concepts that are often studied separately within existing disciplines.
+This perspective extends across all empirical domains and provides a useful complement to traditional success-oriented analysis.
 
 ---
 
-# 6. Methodological Contributions
+# 6. Luck as an Adaptive Mechanism
 
-The project also contributes a methodological framework for studying luck.
+The comparative evidence consistently suggests that luck influences adaptive systems indirectly.
 
-Rather than beginning with mathematical models, the research follows a progressive sequence:
+Luck changes environments.
 
-Foundations
+Adaptive systems respond.
 
-↓
+Long-term outcomes emerge from the interaction between environmental change and adaptive capacity rather than from luck alone.
 
-Literature
-
-↓
-
-Formalization
-
-↓
-
-Measurement
-
-↓
-
-Applications
-
-This structure emphasizes conceptual precision before empirical analysis and mathematical complexity.
+This framework moves beyond the traditional opposition between "luck" and "skill."
 
 ---
 
-# 7. Contributions to Dynamic Social Systems
+# 7. Integration Across Disciplines
 
-The project demonstrates that luck should not be viewed solely as an external disturbance affecting social systems.
+The project demonstrates that scientific discovery, technological innovation, business development, historical evolution, and political adaptation exhibit remarkably similar adaptive structures despite substantial differences in subject matter.
 
-Instead, stochastic events interact continuously with institutions, networks, and adaptive processes.
-
-Luck therefore becomes one mechanism through which dynamic social systems evolve.
-
-At the same time, the theory of luck remains independently meaningful and is not reducible to broader social systems theory.
+This convergence provides empirical support for interdisciplinary investigation of adaptive processes.
 
 ---
 
-# 8. Open Questions
+# 8. Mechanism-Oriented Case Studies
 
-Several ideas developed within the repository remain research hypotheses rather than established conclusions.
+Case studies throughout the repository are selected to illuminate adaptive mechanisms rather than to provide comprehensive historical coverage.
 
-Examples include:
+This design philosophy emphasizes explanatory value over encyclopedic completeness.
 
-* competing dynamic models of luck;
-* conservation versus reinforcement hypotheses;
-* quantitative measures of opportunity spaces;
-* dynamic indices of exposure to luck;
-* empirical identification of institutional amplification.
-
-These questions define important directions for future investigation.
+Future expansion will therefore be guided by theoretical necessity rather than topical completeness.
 
 ---
 
-# 9. Scope and Limitations
+# 9. A Layered Research Architecture
 
-The repository does not claim to provide a complete theory of luck.
+The repository adopts a layered structure progressing from:
 
-Many questions remain open, including metaphysical interpretations, cultural understandings, religious beliefs, and subjective experiences that may not be fully susceptible to formal scientific analysis.
+* conceptual foundations,
+* literature synthesis,
+* formalization,
+* measurement,
+* empirical case studies,
+* comparative analysis,
+* and general theory.
 
-The objective is to advance a coherent interdisciplinary framework capable of supporting further theoretical and empirical research.
+This architecture allows conceptual development while maintaining a clear distinction between theory, evidence, and synthesis.
 
 ---
 
-# 10. Concluding Remarks
+# 10. An Empirical Foundation for Future Research
 
-The principal contribution of this project is not the invention of a new definition of luck, nor the replacement of existing theories.
+The project does not present a final theory of luck.
 
-Rather, it is the construction of a unified interdisciplinary framework that connects concepts traditionally studied in isolation.
+Instead, it establishes a comparative empirical foundation that may support future work in:
 
-By distinguishing stochastic events from their evolving consequences, representing luck as an emergent property of dynamic systems, developing a multidimensional taxonomy, and integrating formal mechanisms such as path dependence, feedback, networks, and institutional mediation, the project provides a common conceptual language for studying luck across disciplines.
+* adaptive systems,
+* institutional evolution,
+* organizational learning,
+* complex social systems,
+* and interdisciplinary studies of uncertainty.
 
-The framework is intended not as a final answer, but as a foundation upon which future mathematical models, empirical investigations, and practical applications can be systematically developed.
+In this sense, the repository is intended to serve as a platform for continued theoretical development rather than a closed body of conclusions.
+
+---
+
+# Summary
+
+Taken together, these contributions support one overarching proposition:
+
+> Luck is most productively understood not as random fortune or unexplained success, but as a mechanism that continually reshapes the environments within which adaptive systems operate. Long-term outcomes emerge through the interaction of opportunity recognition, timing, path dependence, institutional adaptation, learning, and continuous adaptation across changing environments.
+
+The principal contribution of the **Research on Luck** project is therefore not the study of luck in isolation, but the development of a comparative empirical framework that explains how adaptive systems transform uncertainty into long-term scientific, technological, economic, historical, and political development.
+

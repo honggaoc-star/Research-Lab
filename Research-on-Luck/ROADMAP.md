@@ -1,256 +1,157 @@
-# ROADMAP
-
-# Research on Luck
+# Research on Luck Roadmap
 
 ## Purpose
 
-This roadmap outlines the long-term development plan for the **Research on Luck** project. It is intended to guide the evolution of the repository from conceptual exploration to a rigorous interdisciplinary research program.
+This roadmap outlines the long-term development strategy for the **Research on Luck** project.
 
-The roadmap is a living document and will be updated as new ideas, evidence, and theoretical developments emerge.
+The project does **not** seek encyclopedic coverage of every domain in which luck appears. Instead, its objective is to identify and validate a coherent set of adaptive mechanisms that consistently explain how luck influences long-term outcomes across diverse forms of human activity.
 
----
-
-# Long-Term Vision
-
-The ultimate objective is to establish a coherent scientific framework for understanding **luck** as a fundamental determinant of human outcomes.
-
-The project seeks to answer three overarching questions:
-
-1. **What is luck?**
-2. **How does luck influence individual and collective outcomes?**
-3. **Can luck be formally modeled, empirically measured, and systematically studied?**
-
----
-
-# Research Principles
-
-The project follows several guiding principles.
-
-* Conceptual clarity precedes formalization.
-* Mathematical models should be grounded in real-world phenomena.
-* Empirical evidence should inform theoretical development.
-* Interdisciplinary perspectives are essential.
-* Simplicity should be preferred over unnecessary complexity.
-* New ideas should remain open to revision.
-
----
-
-# Development Phases
-
-## Phase I — Foundations
-
-### Objective
-
-Establish a rigorous conceptual framework.
-
-### Planned Documents
-
-* [ ] 01 Defining Luck
-* [ ] 02 Taxonomy of Luck
-* [ ] 03 Luck vs. Randomness
-* [ ] 04 Luck vs. Risk and Uncertainty
-* [ ] 05 Sources of Luck
-* [ ] 06 Key Research Questions
-
-**Milestone**
-
-A consistent vocabulary and conceptual foundation.
-
----
-
-## Phase II — Literature Review
-
-### Objective
-
-Survey existing knowledge across disciplines.
-
-### Areas
-
-* Philosophy
-* Economics
-* Psychology
-* Sociology
-* Political Philosophy
-* Complexity Science
-* Management
-* Evolutionary Theory
-
-**Milestone**
-
-A comprehensive literature map identifying consensus, disagreements, and research gaps.
-
----
-
-## Phase III — Formalization
-
-### Objective
-
-Develop mathematical representations of luck.
-
-### Planned Topics
-
-* Mathematical Representation
-* Random Processes
-* Path Dependence
-* State-Space Models
-* Feedback Mechanisms
-* Dynamic Systems
-* Master Equation
-
-**Milestone**
-
-A coherent mathematical framework describing the role of luck in dynamic systems.
-
----
-
-## Phase IV — Measurement
-
-### Objective
-
-Investigate whether luck can be identified and quantified.
-
-### Topics
-
-* Statistical Decomposition
-* Counterfactual Analysis
-* Natural Experiments
-* Longitudinal Analysis
-* Simulation Methods
-* Agent-Based Models
-
-**Milestone**
-
-A toolkit for empirical analysis of luck.
-
----
-
-## Phase V — Applications
-
-### Objective
-
-Apply the framework to diverse domains.
-
-Potential areas include:
-
-* Scientific Discovery
-* Innovation
-* Entrepreneurship
-* Financial Markets
-* Economic Development
-* Political Leadership
-* Career Success
-* Artificial Intelligence
-
-**Milestone**
-
-Demonstrate the explanatory power and practical relevance of the framework.
-
----
-
-## Phase VI — Synthesis
-
-### Objective
-
-Integrate the project's findings into a unified theory.
-
-Possible outputs include:
-
-* Unified conceptual framework
-* Mathematical synthesis
-* Empirical synthesis
-* Future research agenda
-
-**Milestone**
-
-A comprehensive theory of luck suitable for academic publication and future extension.
+Accordingly, expansion is guided by **theoretical necessity rather than topical completeness**.
 
 ---
 
 # Current Status
 
-## Completed
+The core empirical framework has been established.
 
-* Repository established.
-* Initial project structure designed.
-* Initial README completed.
+## Foundations
 
-## In Progress
+* ✓ Foundations
+* ✓ Literature Review
+* ✓ Formalization
+* ✓ Measurement
 
-* Foundations
+## Empirical Case Studies
 
-  * Defining Luck
+* ✓ Science
+* ✓ Technology
+* ✓ Business
+* ✓ History
+* ✓ Politics
 
-## Next Priorities
+## Comparative Synthesis
 
-1. Complete **01 Defining Luck**.
-2. Develop **02 Taxonomy of Luck**.
-3. Begin a systematic literature review.
-4. Identify major unresolved debates.
-5. Establish terminology for future formalization.
+* ✓ Comparative Studies
 
----
+## Theory
 
-# Open Research Questions
+* ✓ General Theory (initial)
 
-The following questions remain central to the project.
-
-### Conceptual
-
-* What is the most rigorous definition of luck?
-* What distinguishes luck from chance, randomness, probability, and uncertainty?
-* Are different forms of luck manifestations of a common underlying principle?
-
-### Mathematical
-
-* Can luck be represented as a stochastic process?
-* How should luck interact with deterministic models?
-* Can cumulative luck be formally modeled?
-
-### Empirical
-
-* Can luck be measured directly?
-* Which empirical proxies best capture luck?
-* How large is the contribution of luck relative to other determinants?
-
-### Practical
-
-* Can individuals increase exposure to favorable luck?
-* Can organizations systematically manage luck?
-* Can public policy reduce the harmful consequences of bad luck while preserving the benefits of uncertainty and innovation?
+The primary architecture of the repository is therefore complete.
 
 ---
 
-# Repository Evolution
+# Development Philosophy
 
-This repository is expected to evolve incrementally.
+Future development follows four principles.
 
-As research progresses, documents may be:
+## 1. Mechanism-Oriented Research
 
-* expanded,
-* reorganized,
-* merged,
-* divided,
-* or replaced by more rigorous formulations.
+Case studies exist to identify and validate adaptive mechanisms.
 
-The repository structure should reflect the maturity of the research rather than remain fixed.
+The objective is not comprehensive historical coverage, but empirical understanding.
+
+Additional domains will be added only when they introduce genuinely new mechanisms that are not already supported by existing comparative evidence.
 
 ---
 
-# Success Criteria
+## 2. Comparative Before Expansion
 
-The project will be considered successful if it achieves the following objectives:
+Future effort should prioritize:
 
-* A precise conceptual framework for luck.
-* A well-supported interdisciplinary literature review.
-* A coherent mathematical formalization.
-* Plausible empirical approaches to studying luck.
-* Demonstrated explanatory value across multiple domains.
-* A foundation for future academic research and collaboration.
+* comparative refinement
+* theoretical clarification
+* empirical integration
+
+before expanding into additional empirical domains.
+
+Depth is preferred over breadth.
 
 ---
 
-# Version History
+## 3. Continuous Refinement
 
-| Version | Status          | Notes                                                     |
-| ------- | --------------- | --------------------------------------------------------- |
-| v0.1    | Initial roadmap | Repository established and conceptual planning initiated. |
+As the repository matures, future work will increasingly emphasize:
+
+* improving conceptual clarity
+* strengthening cross-references
+* refining theoretical propositions
+* improving visual architecture
+* incorporating new empirical evidence where appropriate
+
+The project is expected to evolve through refinement rather than continual expansion.
+
+---
+
+## 4. Evidence-Driven Evolution
+
+The framework remains open to revision.
+
+New evidence may:
+
+* strengthen existing mechanisms,
+* modify current interpretations,
+* introduce additional mechanisms,
+* or identify important limitations.
+
+The repository therefore remains an evolving research program rather than a fixed body of conclusions.
+
+---
+
+# Future Priorities
+
+The highest priorities are now repository refinement rather than expansion.
+
+## High Priority
+
+* Refine repository documentation.
+* Strengthen conceptual consistency.
+* Improve cross-linking between sections.
+* Develop repository-wide conceptual figures.
+* Continue improving theoretical precision.
+
+---
+
+## Medium Priority
+
+Expand the General Theory section by integrating findings from Comparative Studies into a more coherent empirical framework.
+
+---
+
+## Lower Priority
+
+Additional empirical domains—including Finance, Organizations, Culture, or other areas—will be considered only if comparative analysis demonstrates that they contribute fundamentally new adaptive mechanisms beyond those already identified.
+
+At present, existing empirical evidence appears sufficient to support the project's central framework.
+
+---
+
+# Relationship to the Research Lab
+
+Research on Luck represents one empirical component of the broader Research Lab.
+
+Its primary objective is to identify recurring adaptive mechanisms through comparative empirical investigation.
+
+Broader theoretical integration—including formal models of adaptive social evolution—is pursued separately within the **Social Systems** repository.
+
+The two projects are complementary.
+
+Research on Luck emphasizes empirical comparison.
+
+Social Systems emphasizes theoretical integration.
+
+---
+
+# Long-Term Vision
+
+The long-term success of this project should not be measured by the number of case studies or empirical domains it contains.
+
+Instead, success will be measured by the clarity, consistency, and explanatory power of the adaptive mechanisms identified through comparative evidence.
+
+The ultimate goal is to establish a rigorous empirical framework explaining how luck interacts with opportunity, institutions, learning, and adaptation across multiple domains of human activity.
+
+If future evidence continues to support these mechanisms, expansion will become increasingly selective while refinement becomes the primary direction of development.
+
+In this sense, the roadmap itself reflects one of the central principles of the project:
+
+**Adaptive systems mature by improving their internal coherence rather than expanding indefinitely.**
