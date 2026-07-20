@@ -245,3 +245,47 @@ Rather than explaining political development solely through ideology, leadership
 
 The resulting evidence contributes one essential component of the broader **Research on Luck** framework, where political development is studied not in isolation but as one manifestation of adaptive systems operating under uncertainty.
 
+---
+
+## Architecture-Alignment Protocol
+
+This domain should use the common audit framework in [../README.md](../README.md) while preserving domain-specific evidence and terminology.
+
+### Focal systems
+
+Possible focal systems include the political actor, coalition, party, institution, government, polity, or governance regime. Each case should state which system is primary and when the analysis moves across levels.
+
+### Relevant environment
+
+The environmental scope may include electorates, institutions, law, information, economy, other political systems, crises, and power distributions. A condition should be included only when it affects the focal interaction or feasible trajectory.
+
+### Interaction and exposure
+
+Relevant channels include election, bargaining, coalition, protest, policy choice, institutional reform, conflict, and public communication. Cases should distinguish a general event from system-specific exposure.
+
+### Opportunity stages
+
+The domain-specific sequence may include political opening, access, recognition, mobilization, decision, implementation, and foreclosure. Potential, access, recognition, pursuit, realization, and foreclosure should not be collapsed into outcome.
+
+### Capability and adaptive process
+
+Relevant capabilities may include legitimacy, information, coalition building, coordination, learning, institutional capacity, and adaptive governance. Evidence should be independent of the favorable outcome wherever possible.
+
+### Dynamic mechanisms
+
+Candidate mechanisms include winner selection, authority, policy feedback, institutional persistence, legitimacy, polarization, adaptation, and regime change. Their presence must be supported by sequence and process evidence rather than thematic resemblance alone.
+
+### Domain audit questions
+
+- Does the case distinguish narrow outcome selection from broad social preference?
+- How did institutions translate contingent events into authority and durable policy?
+- Which actors or alternatives were excluded, suppressed, or foreclosed?
+- Does political survival reflect legitimacy, power, institutional advantage, adaptation, or several mechanisms?
+
+### Evidence reporting
+
+Each case audit should identify direct observations, reconstructions, mechanism evidence, competing explanations, missing cases, and an evidence grade. Cases that challenge the architecture should be preserved rather than forced into conformity.
+
+### Editorial rule
+
+The case inventory is stable. Revisions should be targeted to material conceptual or evidentiary gaps. Additional cases are warranted only when they add a mechanism or boundary condition not represented by the existing corpus.
