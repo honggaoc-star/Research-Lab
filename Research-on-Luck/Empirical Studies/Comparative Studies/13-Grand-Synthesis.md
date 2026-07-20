@@ -75,7 +75,7 @@ Demographic shifts.
 
 These developments continually reshape the opportunity landscape confronting adaptive systems.
 
-Luck therefore changes possibilities.
+Consequential uncertainty changes feasible possibilities and their distribution.
 
 Adaptive systems determine outcomes.
 
@@ -155,7 +155,7 @@ Although each domain expresses this process differently, the underlying adaptive
 
 The comparative evidence accumulated throughout the *Research on Luck* project supports the following general proposition:
 
-> Luck does not directly determine long-term success. Instead, it continually reshapes the opportunities, constraints, and uncertainties confronting adaptive systems. Long-term outcomes emerge through the interaction of opportunity recognition, timing, path dependence, institutional adaptation, learning, collective coordination, and continuous feedback.
+> Luck does not determine long-term success. It is attributed ex post when consequential uncertainty affected a bounded trajectory relative to a stated reference and feasible alternatives. Outcomes require separate explanation through specified relationships and mechanisms.
 
 This proposition integrates every empirical domain examined throughout the project while avoiding deterministic or reductionist explanations.
 
@@ -213,7 +213,7 @@ Nor can it be understood by attributing success merely to luck.
 
 Long-term development emerges because adaptive systems continually interact with changing environments.
 
-Luck reshapes those environments.
+Environments change through interactions among systems and processes under uncertainty.
 
 Adaptive systems transform uncertainty into learning.
 
