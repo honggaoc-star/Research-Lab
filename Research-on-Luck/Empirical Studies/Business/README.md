@@ -251,3 +251,47 @@ Rather than explaining business success solely through leadership, entrepreneurs
 
 The resulting evidence contributes one essential component of the broader **Research on Luck** framework, where business development is studied not in isolation but as one manifestation of adaptive systems operating under uncertainty.
 
+---
+
+## Architecture-Alignment Protocol
+
+This domain should use the common audit framework in [../README.md](../README.md) while preserving domain-specific evidence and terminology.
+
+### Focal systems
+
+Possible focal systems include the entrepreneur, firm, business unit, organization, market position, or ecosystem. Each case should state which system is primary and when the analysis moves across levels.
+
+### Relevant environment
+
+The environmental scope may include customers, competitors, capital, regulation, technology, labor, institutions, and macroeconomic conditions. A condition should be included only when it affects the focal interaction or feasible trajectory.
+
+### Interaction and exposure
+
+Relevant channels include market entry, exchange, financing, hiring, partnership, competition, acquisition, and organizational response. Cases should distinguish a general event from system-specific exposure.
+
+### Opportunity stages
+
+The domain-specific sequence may include market potential, access, recognition, resource commitment, execution, scaling, and foreclosure. Potential, access, recognition, pursuit, realization, and foreclosure should not be collapsed into outcome.
+
+### Capability and adaptive process
+
+Relevant capabilities may include judgment, search, learning, coordination, capital allocation, operational adaptation, and ecosystem building. Evidence should be independent of the favorable outcome wherever possible.
+
+### Dynamic mechanisms
+
+Candidate mechanisms include feedback, brand and network effects, cumulative advantage, organizational learning, competition, selection, and failure. Their presence must be supported by sequence and process evidence rather than thematic resemblance alone.
+
+### Domain audit questions
+
+- Are capability and strategy measured independently of realized success?
+- What role did timing, capital access, regulation, and competitor action play?
+- Are failed firms and rejected strategies represented where evidence permits?
+- Did early advantage amplify through feedback or remain dependent on continued adaptation?
+
+### Evidence reporting
+
+Each case audit should identify direct observations, reconstructions, mechanism evidence, competing explanations, missing cases, and an evidence grade. Cases that challenge the architecture should be preserved rather than forced into conformity.
+
+### Editorial rule
+
+The case inventory is stable. Revisions should be targeted to material conceptual or evidentiary gaps. Additional cases are warranted only when they add a mechanism or boundary condition not represented by the existing corpus.
