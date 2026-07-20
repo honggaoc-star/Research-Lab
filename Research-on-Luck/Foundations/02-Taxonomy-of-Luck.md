@@ -1,361 +1,410 @@
 # Taxonomy of Luck
 
-## Towards a Multi-Dimensional Classification Framework
+## Purpose
+
+This document provides a multidimensional classification framework for comparing claims about luck across cases and domains.
+
+It does not divide luck into mutually exclusive natural kinds. Most cases occupy several dimensions at once, and classifications may change with the focal system, level of analysis, evidence, evaluative standpoint, or time horizon.
+
+The taxonomy is subordinate to the architecture in [10-Working-Primitives.md](10-Working-Primitives.md). **System, Environment, Interaction, and Uncertainty** are working primitives. The categories below describe properties of systems, environments, interactions, uncertainty, and trajectories; they are not additional primitives.
 
 ---
 
-# 1. Purpose
+## 1. Unit of Classification
 
-A taxonomy should do more than list examples of luck. It should provide a systematic framework for describing, comparing, and analyzing different manifestations of luck.
+Before classifying a case, specify:
 
-Existing discussions often classify luck according to a single criterion—for example, moral luck, brute luck, good luck, or serendipity. While useful within their original contexts, these classifications mix together fundamentally different concepts, including causes, outcomes, moral evaluations, perceptions, and temporal dynamics.
+1. the focal system;
+2. the system boundary;
+3. the relevant environment;
+4. the consequential interaction or exposure;
+5. the ex ante uncertainty;
+6. the time horizon;
+7. and the evaluative standpoint.
 
-This research therefore adopts a multi-dimensional taxonomy in which every instance of luck can be described along several independent dimensions.
+Without these choices, the same episode may be classified inconsistently.
 
----
-
-# 2. Principle of Orthogonality
-
-No single dimension completely characterizes luck.
-
-Instead, each dimension captures one aspect of the phenomenon.
-
-Examples include:
-
-* source,
-* uncertainty,
-* perception,
-* consequences,
-* temporal dynamics,
-* and social context.
-
-A single event may therefore belong simultaneously to multiple categories without contradiction.
+The proper object of classification is not simply “an event.” It is a structured claim about how variation under uncertainty affected a system’s state, relationships, accessible opportunities, constraints, or trajectory.
 
 ---
 
-# 3. Dimension I — Origin
+## 2. Principle of Dimensional Independence
 
-Where does the uncertainty originate?
+The dimensions should be kept as independent as possible.
 
-### Natural
+For example, a socially generated exposure may be:
 
-Environmental events
+- largely uncontrollable for one individual;
+- partly controllable for an organization;
+- favorable in the short run;
+- adverse in the long run;
+- immediately recognized;
+- and later amplified through feedback.
 
-Natural disasters
+Collapsing these features into a single label such as “social luck” would obscure important variation.
 
-Weather
-
-Biological variation
-
----
-
-### Social
-
-Institutional decisions
-
-Economic conditions
-
-Political events
-
-Historical timing
+Dimensions are analytical tools, not proof that each category has a sharp boundary.
 
 ---
 
-### Human
+## 3. Dimension I — Location of Initial Variation
 
-Actions by other individuals
+This dimension asks where the relevant change is first located relative to the focal system.
 
-Unexpected encounters
+### System-internal
 
-Errors
+Variation begins within the system but is not fully determined by its prior intentions or actions.
 
-Innovation
+Examples may include biological changes, errors, spontaneous insights, or internal recombination of knowledge.
 
----
+### Environmental
 
-### Hybrid
+Variation begins outside the focal system.
 
-Multiple interacting sources.
+Examples include physical shocks, institutional decisions, market changes, discoveries by others, or historical events.
 
-Most real-world examples belong here.
+### Relational
 
----
+Variation arises in the configuration between systems or between a system and its environment.
 
-# 4. Dimension II — Controllability
+Examples include encounters, network position, matching, competition, coordination, or changing access.
 
-To what extent can the individual influence the outcome?
+### Co-produced
 
-### Fully uncontrollable
+Variation emerges through interaction and cannot be assigned coherently to system or environment alone.
 
-Birthplace
+This category is especially relevant to experimentation, innovation, institutional change, and strategic response.
 
-Genetics
-
-Natural disasters
+“Origin” here identifies an analytical location, not an ultimate cause.
 
 ---
 
-### Partially controllable
+## 4. Dimension II — Source Domain
 
-Education
+A case may involve one or more source domains:
 
-Career
+- biological;
+- physical or geographic;
+- historical;
+- social or network;
+- institutional or political;
+- economic or market;
+- scientific or informational;
+- technological;
+- and intentionally generated exposure.
 
-Health
-
-Relationships
-
----
-
-### Mostly controllable
-
-Preparation
-
-Practice
-
-Skill development
-
-Although chance may still influence outcomes.
+These categories preserve useful distinctions from earlier versions of the taxonomy but should not be treated as exclusive. Institutional and social conditions, for example, often shape who is exposed to physical or economic variation.
 
 ---
 
-# 5. Dimension III — Temporal Structure
+## 5. Dimension III — Structure of Uncertainty
 
-How does luck unfold through time?
+### Probabilistic risk
 
-### Instantaneous
+Relevant outcomes and probabilities can be estimated with some defensibility.
 
-Single-event occurrences.
+### Ambiguity
 
-Example:
+Possible outcomes are partly known, but probabilities are unclear or contested.
 
-Winning a lottery.
+### Novelty
+
+Relevant possibilities are not adequately specified in advance.
+
+### Strategic uncertainty
+
+Consequences depend on choices by other adaptive systems.
+
+### Complexity or model uncertainty
+
+Relationships are too interdependent, nonlinear, or poorly understood for reliable prediction.
+
+### Epistemic uncertainty
+
+The uncertainty reflects limited information or knowledge from the specified perspective.
+
+### Possible indeterminacy
+
+The analysis leaves open whether variation is irreducibly stochastic rather than merely unknown.
+
+These categories can overlap. The classification should state whose uncertainty is being described and at what time.
 
 ---
+
+## 6. Dimension IV — Prior Control and Influence
+
+Control is a continuum and must be system-relative.
+
+### Minimal influence
+
+The focal system had little feasible influence over exposure or initial variation.
+
+### Exposure influence
+
+The system could alter its probability of encountering certain conditions but could not determine which condition would occur.
+
+### Response influence
+
+The initial exposure was largely outside control, but the system could affect later consequences.
+
+### Substantial co-production
+
+The system’s choices and environmental conditions jointly produced the variation.
+
+### High prior influence
+
+The system strongly shaped the relevant conditions, though uncertainty remained.
+
+This dimension prevents “outside complete control” from becoming a definition of luck. Nearly all outcomes involve limited control; the question is which part of the trajectory was not fully determined by prior agency.
+
+---
+
+## 7. Dimension V — Interaction Channel
+
+How did variation become consequential?
+
+- material exposure;
+- information transmission;
+- encounter or matching;
+- network connection;
+- institutional allocation;
+- market exchange;
+- competition or conflict;
+- cooperation or coordination;
+- experimentation;
+- selection;
+- intervention;
+- or indirect spillover.
+
+Several channels may operate sequentially.
+
+---
+
+## 8. Dimension VI — Temporal Structure
+
+### Event-level
+
+A temporally concentrated change alters a system state or exposure.
 
 ### Sequential
 
-A chain of related fortunate or unfortunate events.
-
----
+Several contingent interactions form a consequential chain.
 
 ### Cumulative
 
-Small random advantages accumulate over long periods.
-
----
+Small differences accumulate across repeated interactions.
 
 ### Path-dependent
 
-Early random events alter future opportunities.
+Earlier states or interactions change which later alternatives are accessible or consequential.
+
+### Regime-shifting
+
+Interactions alter the system, environment, or governing relationships sufficiently to produce a new trajectory regime.
+
+The category should reflect the process, not merely the length of elapsed time.
 
 ---
 
-# 6. Dimension IV — Consequences
+## 9. Dimension VII — Consequence Type
 
-What effects does luck produce?
+Variation may alter:
 
-### Individual
+- system state;
+- information;
+- resources;
+- relationships;
+- exposure;
+- opportunity access;
+- constraints;
+- capability;
+- resilience;
+- or long-term trajectory.
 
-Personal outcomes.
-
----
-
-### Interpersonal
-
-Effects on families or small groups.
-
----
-
-### Institutional
-
-Effects on organizations.
+This dimension is more precise than labeling an episode simply “successful” or “unsuccessful.”
 
 ---
 
-### Societal
-
-Effects on economies, cultures, or nations.
-
----
-
-# 7. Dimension V — Perception
-
-How is luck interpreted?
-
-### Objective
-
-Observable statistical deviation.
-
----
-
-### Subjective
-
-Personally experienced luck.
-
----
-
-### Socially constructed
-
-Luck attributed through cultural beliefs.
-
----
-
-### Unknown
-
-The existence of luck cannot presently be determined.
-
----
-
-# 8. Dimension VI — Valence
-
-Relative to specified objectives.
-
-### Positive
-
-Favorable outcomes.
-
----
-
-### Negative
-
-Unfavorable outcomes.
-
----
-
-### Neutral
-
-Random events without meaningful consequences.
-
----
-
-### Mixed
-
-Benefits and costs coexist.
-
----
-
-# 9. Dimension VII — Dynamics
-
-How does luck evolve after the initial event?
-
-### Independent
-
-Future events remain statistically independent.
-
----
+## 10. Dimension VIII — Dynamic Effect
 
 ### Amplified
 
-Consequences become increasingly significant through feedback processes.
-
----
+Feedback increases the initial difference.
 
 ### Attenuated
 
-The effects diminish over time.
+Adaptation, institutions, diversification, or countervailing forces reduce it.
+
+### Stabilized
+
+The difference becomes persistent without continued amplification.
+
+### Reversed
+
+Later interactions change the sign or direction of the effect.
+
+### Transformed
+
+The initial variation changes the structure of the system or environment.
+
+### Dissipated
+
+The effect becomes negligible at the selected horizon.
+
+These are empirical patterns to investigate, not assumed laws.
 
 ---
 
-### Conserved (Hypothetical)
+## 11. Dimension IX — Valence and Horizon
 
-A traditional belief that luck is finite or balanced across time.
+### Favorable
 
-Included as a historical and cultural hypothesis rather than an empirically established model.
+The effect improves the evaluated position or accessible trajectory.
 
----
+### Adverse
 
-### Cyclical (Hypothetical)
+The effect worsens it.
 
-Alternating periods of good and bad fortune.
+### Mixed
 
-Again, recognized as a recurring cultural conception rather than a demonstrated property of random processes.
+Effects differ across objectives, components, or horizons.
 
----
+### Indeterminate
 
-# 10. Dimension VIII — Knowledge
+Available evidence does not support a stable evaluation.
 
-When is luck recognized?
+### Neutral
 
-### Immediate
+The variation is consequential in description but not favorable or adverse under the selected standard.
 
-The fortunate or unfortunate nature is immediately apparent.
-
----
-
-### Delayed
-
-Consequences emerge much later.
+Valence must specify for whom, according to what objective or standard, and over what horizon.
 
 ---
 
-### Counterfactual
+## 12. Dimension X — Recognition and Knowledge
 
-Luck is recognized only by comparing what might have happened.
+### Anticipated
 
----
+The possibility was recognized ex ante.
 
-### Permanent Uncertainty
+### Recognized on exposure
 
-Whether an event was lucky may never be known.
+The system identified the significance when interaction occurred.
 
----
+### Delayed recognition
 
-# 11. Taxonomic Representation
+The significance became visible only later.
 
-Every instance of luck can be represented as a vector across these dimensions.
+### Misrecognized
 
-For example:
+The system interpreted the exposure incorrectly.
 
-* Origin: Social
-* Controllability: Partial
-* Temporal Structure: Path-dependent
-* Consequences: Individual and Institutional
-* Perception: Objective and Subjective
-* Valence: Positive
-* Dynamics: Amplified
-* Knowledge: Delayed
+### Unrecognized
 
-Rather than assigning a single label, this representation captures the multidimensional nature of luck.
+The opportunity or threat was not identified during the relevant window.
 
----
+### Retrospectively reconstructed
 
-# 12. Relationship to Existing Literature
+The role of luck was assigned after the outcome, potentially under hindsight or survivorship bias.
 
-Traditional classifications remain valuable but are reinterpreted within this framework.
+### Permanently uncertain
 
-For example:
+Evidence cannot establish whether or how the variation altered the trajectory.
 
-* Brute luck primarily concerns controllability.
-* Moral luck concerns responsibility.
-* Serendipity concerns the interaction of chance and discovery.
-* Good and bad luck concern valence.
-* Fortune often refers to long-term accumulated outcomes.
-
-Thus, existing concepts become special cases rather than competing taxonomies.
+Recognition is distinct from existence. An opportunity may be present relationally yet remain inaccessible because it is not recognized or cannot be acted upon.
 
 ---
 
-# 13. Future Extensions
+## 13. Dimension XI — Level and Distribution
 
-The taxonomy is intended as a conceptual framework rather than a finished classification.
+Consequences may be analyzed at:
 
-Future research may introduce additional dimensions related to:
+- individual;
+- organizational;
+- institutional;
+- network or ecosystem;
+- societal;
+- or cross-system levels.
 
-* network structure,
-* evolutionary processes,
-* artificial intelligence,
-* institutional adaptation,
-* and measurable indices of exposure to uncertainty.
+Distribution should also be recorded. An interaction may:
 
-Because the dimensions are largely independent, the taxonomy can expand without requiring fundamental revision.
+- concentrate advantage;
+- spread benefit;
+- transfer risk;
+- redistribute opportunity;
+- socialize losses;
+- or generate unequal exposure.
+
+What is favorable for one level may be adverse for another.
 
 ---
 
-# 14. Conclusion
+## 14. Dimension XII — Realization Status
 
-Luck is not a single property but a multidimensional phenomenon. Attempts to classify luck using only one criterion inevitably conflate distinct concepts such as cause, consequence, perception, and dynamics.
+### Realized opportunity
 
-This taxonomy instead represents luck as a vector across independent dimensions. It accommodates philosophical analysis, statistical modeling, economic dynamics, psychological perception, and future mathematical formalization within a common conceptual framework.
+A feasible possibility was recognized, accessed, and converted into an observed change.
 
-By emphasizing dimensions rather than isolated categories, the framework provides a flexible foundation for interdisciplinary research and for the development of a unified theory of luck.
+### Partially realized
+
+Only part of the possible value or trajectory change occurred.
+
+### Missed opportunity
+
+A feasible possibility existed but was not recognized, accessed, selected, or successfully pursued.
+
+### Foreclosed opportunity
+
+Prior interactions or constraints removed an alternative before it could be pursued.
+
+### Unrealized and unobserved
+
+A plausible alternative may have existed but left limited direct evidence.
+
+### Avoided harm
+
+A system did not enter an adverse trajectory because of exposure, recognition, response, or contingency.
+
+This dimension guards against selecting only visible successes. Unrealized and foreclosed alternatives are harder to study but central to a trajectory-based account.
+
+---
+
+## 15. Example Representation
+
+A case can be represented as a profile rather than assigned one label:
+
+```text
+Focal system: research team
+Initial variation: environmental and relational
+Source domain: scientific and institutional
+Uncertainty: novelty and epistemic uncertainty
+Prior influence: exposure influence
+Interaction: experiment and information transmission
+Temporal structure: sequential, path-dependent
+Consequence: new opportunity and changed research trajectory
+Dynamic effect: amplified
+Valence: mixed across horizons
+Recognition: delayed
+Level: organizational and scientific-community
+Realization: partially realized
+```
+
+This format enables comparison without pretending that complex cases belong to one type.
+
+---
+
+## 16. Use in Later Sections
+
+- [Formalization](../Formalization/README.md) may represent selected dimensions as variables, states, or transition rules.
+- [Measurement](../Measurement/README.md) should operationalize dimensions separately and document uncertainty in classification.
+- [Empirical Studies](../Empirical%20Studies/README.md) should use the taxonomy to structure cases without forcing uniformity.
+- [Comparative Studies](../Comparative%20Studies/README.md) should test whether combinations recur across domains.
+- [General Theory](../General%20Theory/README.md) should not elevate a taxonomic category into a causal law without supporting evidence.
+
+---
+
+## Conclusion
+
+Luck is better classified as a multidimensional system–environment relationship than as a list of mutually exclusive event types.
+
+The taxonomy is successful if it makes cases more comparable, exposes hidden assumptions, preserves unrealized alternatives, and separates description from causal and evaluative claims. It should be revised when empirical use reveals redundancy, ambiguity, or missing dimensions.
