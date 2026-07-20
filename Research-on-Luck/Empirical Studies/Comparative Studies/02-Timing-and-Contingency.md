@@ -4,7 +4,7 @@
 
 Across Science, Technology, Business, History, and Politics, opportunities do not emerge under identical conditions or at predictable moments. Scientific discoveries occur unexpectedly, technological breakthroughs converge at different rates, markets evolve unevenly, historical events reshape civilizations, and political systems confront changing environments that cannot be fully anticipated.
 
-These observations suggest that timing and contingency are universal mechanisms through which luck influences adaptive systems.
+These observations suggest that timing and contingency are candidate cross-domain mechanisms through which luck influences adaptive systems.
 
 Within the *Research on Luck* project, timing refers to **when** opportunities become available, while contingency refers to the uncertain events that alter the environments in which those opportunities emerge. Together, they explain why adaptive systems operating under similar long-term conditions often follow remarkably different trajectories.
 
@@ -155,12 +155,22 @@ These patterns recur consistently despite substantial differences among scientif
 
 ---
 
+# Architecture-Alignment Note
+
+Timing is relational: it describes the alignment between a bounded system state, an environmental state, an interaction, and a time horizon. Contingency identifies dependence on conditions that could feasibly have differed; it is not a causal substance. Comparative claims should specify which complementary conditions were necessary, which were merely favorable, and how those conditions were known or uncertain ex ante.
+
+Preparedness and realized success must remain distinct. A favorable outcome may reflect exposure, selection, competitor behavior, institutional privilege, or subsequent feedback as well as capability. Feasible counterfactual timing requires historically available alternatives—not simply moving a successful action earlier or later while holding every complementary condition fixed.
+
+---
+
+---
+
 # Connection to the Research on Luck
 
-Timing and contingency represent the second universal mechanism identified through the comparative analysis of the *Research on Luck* project.
+Timing and contingency represent the second candidate cross-domain mechanism identified through the comparative analysis of the *Research on Luck* project.
 
 The evidence accumulated across all empirical domains supports a broader proposition:
 
 > Luck influences adaptive systems primarily by altering the timing and conditions under which opportunities emerge. Long-term success depends not upon controlling contingent events, but upon developing the capacity to recognize, evaluate, and respond effectively as those events reshape the adaptive landscape.
 
-This comparative perspective demonstrates that timing and contingency are not isolated historical accidents. They are universal characteristics of adaptive systems operating under uncertainty, influencing discovery, innovation, institutional development, governance, and societal evolution alike.
+This comparative perspective demonstrates that timing and contingency are not isolated historical accidents. They are cross-domain characteristics of adaptive systems operating under uncertainty, influencing discovery, innovation, institutional development, governance, and societal evolution alike.
