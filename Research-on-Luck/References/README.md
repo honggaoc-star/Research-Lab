@@ -29,6 +29,8 @@ The directory currently contains the first evidence map and the first validation
 - [19 — Fleming Pass B Beta B2 Locked Record](19-Fleming-Penicillin-Pass-B-Beta-B2-Locked.md) — preserves Independent Coder Beta’s locked B2 submission verbatim.
 - [20 — Fleming Pass B Beta Complete Locked Record](20-Fleming-Penicillin-Pass-B-Beta-Complete-Locked.md) — preserves Independent Coder Beta’s locked B3 and final submission verbatim.
 - [21 — Fleming Pass B Agreement and Adjudication](21-Fleming-Pass-B-Agreement-and-Adjudication.md) — reports complete stage-code and classification agreement, adjudicates terminology and procedural matters, and closes FLEM-01 Pass B.
+- [22 — CF-01 Tier 2 Feasibility and Preflight Record](22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md) — freezes the Cold Fusion candidates, cutoffs, realization criteria, source boundary, actor rules, preflight results, and conditional-audit decision.
+- [23 — CF-01 Tier 2 Pass A Coder Packet](23-CF-01-Tier-2-Pass-A-Coder-Packet.md) — provides the frozen outcome-restricted instrument for two independent Cold Fusion Pass A records.
 
 ## Evidence Priorities
 
@@ -127,7 +129,9 @@ The independent RC1 audit returned one critical boundary-verification finding an
 
 Version 1.0 was released to two independent coders under sequential B1–B3 disclosure and locking controls. The six locked [Alpha B1](15-Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md), [Alpha B2](16-Fleming-Penicillin-Pass-B-Alpha-B2-Locked.md), [Alpha complete](17-Fleming-Penicillin-Pass-B-Alpha-Complete-Locked.md), [Beta B1](18-Fleming-Penicillin-Pass-B-Beta-B1-Locked.md), [Beta B2](19-Fleming-Penicillin-Pass-B-Beta-B2-Locked.md), and [Beta complete](20-Fleming-Penicillin-Pass-B-Beta-Complete-Locked.md) records are now published verbatim.
 
-The [Pass B agreement and adjudication report](21-Fleming-Pass-B-Agreement-and-Adjudication.md) closes FLEM-01 Pass B. Alpha and Beta agreed on all 12 candidate-checkpoint classifications and all 72 stage-code comparisons. A B1 component-terminology difference and Beta’s disclosed procedural exposure were documented without changing any locked substantive code. The complete Fleming two-pass cycle is ready for bounded methodological synthesis before a new empirical episode is opened.
+The [Pass B agreement and adjudication report](21-Fleming-Pass-B-Agreement-and-Adjudication.md) closes FLEM-01 Pass B. Alpha and Beta agreed on all 12 candidate-checkpoint classifications and all 72 stage-code comparisons. A B1 component-terminology difference and Beta’s disclosed procedural exposure were documented without changing any locked substantive code. The complete Fleming two-pass cycle has been methodologically synthesized in Measurement.
+
+CF-01 Cold Fusion has passed the Version 0.2 Tier 2 [feasibility and preflight gate](22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md). Three candidate claims—reproducible excess enthalpy, a new nuclear process, and a useful-energy opportunity—are frozen separately. The [Pass A coder packet](23-CF-01-Tier-2-Pass-A-Coder-Packet.md) is frozen for two independent outcome-restricted records. Pass B evidence remains withheld until both Pass A records are locked; no independent pre-release audit trigger is active.
 
 ## Long-Term Goal
 
