@@ -31,6 +31,9 @@ The directory currently contains the first evidence map and the first validation
 - [21 — Fleming Pass B Agreement and Adjudication](21-Fleming-Pass-B-Agreement-and-Adjudication.md) — reports complete stage-code and classification agreement, adjudicates terminology and procedural matters, and closes FLEM-01 Pass B.
 - [22 — CF-01 Tier 2 Feasibility and Preflight Record](22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md) — freezes the Cold Fusion candidates, cutoffs, realization criteria, source boundary, actor rules, preflight results, and conditional-audit decision.
 - [23 — CF-01 Tier 2 Pass A Coder Packet](23-CF-01-Tier-2-Pass-A-Coder-Packet.md) — provides the frozen outcome-restricted instrument for two independent Cold Fusion Pass A records.
+- [24 — CF-01 Pass A Coder Alpha Locked Record](24-CF-01-Pass-A-Coder-Alpha-Locked.md) — preserves Independent Coder Alpha’s locked Pass A submission verbatim.
+- [25 — CF-01 Pass A Coder B Locked Record](25-CF-01-Pass-A-Coder-B-Locked.md) — preserves Independent Coder B’s locked Pass A submission verbatim.
+- [26 — CF-01 Pass A Agreement and Exposure Disposition](26-CF-01-Pass-A-Agreement-and-Exposure-Disposition.md) — reports 18/18 stage-code and 3/3 category agreement, documents source-delivery and errata exposure, and authorizes Pass B without independent audit.
 
 ## Evidence Priorities
 
@@ -131,7 +134,7 @@ Version 1.0 was released to two independent coders under sequential B1–B3 disc
 
 The [Pass B agreement and adjudication report](21-Fleming-Pass-B-Agreement-and-Adjudication.md) closes FLEM-01 Pass B. Alpha and Beta agreed on all 12 candidate-checkpoint classifications and all 72 stage-code comparisons. A B1 component-terminology difference and Beta’s disclosed procedural exposure were documented without changing any locked substantive code. The complete Fleming two-pass cycle has been methodologically synthesized in Measurement.
 
-CF-01 Cold Fusion has passed the Version 0.2 Tier 2 [feasibility and preflight gate](22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md). Three candidate claims—reproducible excess enthalpy, a new nuclear process, and a useful-energy opportunity—are frozen separately. The [Pass A coder packet](23-CF-01-Tier-2-Pass-A-Coder-Packet.md) is frozen for two independent outcome-restricted records. Pass B evidence remains withheld until both Pass A records are locked; no independent pre-release audit trigger is active.
+CF-01 Cold Fusion has passed the Version 0.2 Tier 2 [feasibility and preflight gate](22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md). Three candidate claims—reproducible excess enthalpy, a new nuclear process, and a useful-energy opportunity—remain frozen separately. The [Alpha](24-CF-01-Pass-A-Coder-Alpha-Locked.md) and [Coder B](25-CF-01-Pass-A-Coder-B-Locked.md) Pass A records are locked and preserved verbatim. The [agreement and exposure disposition](26-CF-01-Pass-A-Agreement-and-Exposure-Disposition.md) reports 18/18 stage-code agreement and 3/3 category agreement, finds no substantive adjudication or audit trigger, and authorizes the single controlled Pass B release.
 
 ## Long-Term Goal
 
