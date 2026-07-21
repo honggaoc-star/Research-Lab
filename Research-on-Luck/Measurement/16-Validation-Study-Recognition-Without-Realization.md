@@ -116,7 +116,7 @@ These cases are purposive and heterogeneous. They test construct portability and
 ### Pilot Progress
 
 - **FLEM-01 — completed and methodologically closed.** The episode provisionally demonstrated separability of recognition, pursuit, realization, and actor attribution.
-- **Cold Fusion — next controlled replication, subject to feasibility and packet preflight.** It will test premature or false recognition and corrective replication within Science.
+- **Cold Fusion — Tier 2 feasibility and packet preflight complete.** The three candidate claims and bounded disclosure design are frozen; the blinded Pass A packet is ready for two independent coders. It will test premature or false recognition and corrective replication within Science.
 - **Betamax, Microsoft, and Kodak — retained but gated.** Their necessity and ordering will be reconsidered after Cold Fusion rather than assumed in advance.
 
 ## Episode Construction
@@ -307,4 +307,4 @@ The five pilot cases are not independent or representative. A successful pilot w
 
 FLEM-01 provides provisional evidence that recognition can be separated from access, pursuit, realization, and later collective attribution in one delayed-realization episode. It does not establish portability, prevalence, causal effect, or the validity of Proposition 4.
 
-The next step is a Tier 2 Cold Fusion episode testing premature or false recognition and corrective replication. Advancement to Stage 2 remains gated until that contrasting episode shows whether Version 0.2 reduces ambiguity without reproducing FLEM-01’s full audit burden.
+The Tier 2 Cold Fusion feasibility gate and packet preflight are complete. The next step is two independent Pass A coding records using the frozen blinded packet, followed by disagreement-only adjudication and a bounded Pass B release. Advancement to Stage 2 remains gated until that contrasting episode shows whether Version 0.2 reduces ambiguity without reproducing FLEM-01’s full audit burden.
