@@ -26,6 +26,16 @@ The project is entering an **evidence-strengthening and integration phase**.
 
 The main question is no longer whether more concepts or cases can be added. It is whether the existing propositions can be specified, measured, compared, challenged, and supported more rigorously.
 
+FLEM-01 has completed the project’s first Tier 1 validation cycle. Pass A identified instrument ambiguity; Pass B produced complete agreement across 12 candidate-checkpoint classifications and 72 stage-code comparisons. The result provisionally validates the instrument within one episode, not Proposition 4 or the General Theory.
+
+## Immediate Validation Sequence
+
+1. **Completed — FLEM-01 methodological synthesis.** Preserve the frozen record suite, extract reusable findings, and distinguish construct validation from theoretical validation.
+2. **Completed — Protocol and instrument Version 0.2.** Retain two independent coders while replacing routine independent audit with coordinator preflight, disagreement-only adjudication, and trigger-based escalation.
+3. **Completed — Repository status and roadmap synchronization.**
+4. **Next — Cold Fusion feasibility and Tier 2 packet.** Test premature or false recognition and corrective replication using the minimum justified Pass B structure.
+5. **Then — Pilot decision gate.** Decide whether Betamax, Microsoft, and Kodak are all required before a within-domain Stage 2 design.
+
 ## Priority 1 — Evidence and Citations
 
 - Attach authoritative and scholarly sources to material factual claims.
@@ -38,6 +48,8 @@ The main question is no longer whether more concepts or cases can be added. It i
 Citation expansion should proceed claim-by-claim rather than through undifferentiated bibliography growth.
 
 ## Priority 2 — Identification and Validation
+
+The first bounded design, FLEM-01, is complete and methodologically synthesized. The immediate task is controlled replication under Version 0.2, beginning with Cold Fusion, before advancing to a within-domain Stage 2 study.
 
 Convert candidate relationships into bounded research designs, especially:
 
@@ -128,7 +140,7 @@ Create a proposition-to-evidence map identifying supporting cases, negative case
 
 ### C — Bounded Validation Studies
 
-Select a small number of relationships for full formalization, operationalization, and empirical evaluation.
+**In progress.** Validation Study 1 targets recognition without realization. FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion is the next gated Tier 2 episode. Advancement to a within-domain Stage 2 study requires a successful contrasting test and an explicit pilot decision.
 
 ### D — Theory Review
 
