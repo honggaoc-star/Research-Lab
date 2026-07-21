@@ -11,7 +11,7 @@ Luck is often used to explain why equally capable people, organizations, or soci
 
 We argue that luck is best understood not as a force that causes outcomes, but as a judgment made after the fact about how uncertainty affected the course of events for a particular person or group. This approach requires us to identify what was known beforehand, what alternatives were genuinely available, what actions were taken, and what other forces helped produce the result.
 
-The paper then examines a narrower question: Can we distinguish an opportunity that was available, noticed, acted upon, and ultimately realized? Two historical exercises—penicillin and cold fusion—suggest that these distinctions can be made within carefully documented cases. Yet an attempt to expand the study uncovered a more fundamental problem. Recognized ideas leave proposals, papers, registrations, and other records. Unrecognized ideas usually leave no comparable trace. We can study recognition among known cases, but we cannot estimate how common nonrecognition is when the missing cases cannot be counted.
+The paper draws on a cross-disciplinary literature review and a deliberately varied corpus spanning science, technology, business, history, and politics. It then examines a narrower question: Can we distinguish an opportunity that was available, noticed, acted upon, and ultimately realized? Two historical exercises—penicillin and cold fusion—suggest that these distinctions can be made within carefully documented cases. Yet an attempt to expand the study uncovered a more fundamental problem. Recognized ideas leave proposals, papers, registrations, and other records. Unrecognized ideas usually leave no comparable trace. We can study recognition among known cases, but we cannot estimate how common nonrecognition is when the missing cases cannot be counted.
 
 The result is both positive and negative. The framework improves the way we discuss luck, opportunity, ability, and success. But it also shows why a broad empirical theory of luck is difficult to identify from the historical record. The evidence we see has already been filtered by attention, action, survival, and documentation.
 
@@ -29,9 +29,9 @@ The result creates two related problems.
 
 First, favorable outcomes can become evidence of the very qualities used to explain them. A successful company is called capable because it succeeded; its success is then explained by its capability. A surviving institution is treated as superior because it survived; its survival is then attributed to its superiority. This reasoning risks becoming circular.
 
-Second, the cases available for study are not neutral. Winners, survivors, published discoveries, and lasting institutions leave records. Failed projects, unnoticed possibilities, abandoned ideas, and actors who disappeared from the record are much harder to observe. Research based on visible cases may therefore confuse the characteristics of survivors with the causes of survival. Denrell [1], for example, shows how learning only from surviving firms can create false beliefs about effective management. Merton’s discussion of the “Matthew effect” in science similarly shows how recognition and resources may accumulate around already prominent scientists [2].
+Second, the cases available for study are not neutral. Winners, survivors, published discoveries, and lasting institutions leave records. Failed projects, unnoticed possibilities, abandoned ideas, and actors who disappeared from the record are much harder to observe. Research based on visible cases may therefore confuse the characteristics of survivors with the causes of survival. Denrell [15], for example, shows how learning only from surviving firms can create false beliefs about effective management. Merton’s discussion of the “Matthew effect” in science similarly shows how recognition and resources may accumulate around already prominent scientists [14].
 
-Luck enters these discussions in several ways. It may refer to factors outside a person’s control, a low-probability event, an unexpected opportunity, or the gap between effort and outcome. Philosophers have long examined the tension between moral judgment and circumstances beyond an individual’s control [3], while psychologists have shown that outcome knowledge changes how predictable earlier events appear [4]. Yet these literatures do not give us one simple variable called luck that can be inserted into an equation or read directly from a historical record.
+Luck enters these discussions in several ways. It may refer to factors outside a person’s control, a low-probability event, an unexpected opportunity, or the gap between effort and outcome. Philosophers have long examined the tension between moral judgment and circumstances beyond an individual’s control [1–3], while psychologists have shown that outcome knowledge changes how predictable earlier events appear [13]. Yet these literatures do not give us one simple variable called luck that can be inserted into an equation or read directly from a historical record.
 
 In this paper, we present a framework developed through the Research on Luck project. The framework begins with a simple claim: luck should not be treated as an invisible force that causes success or failure. It is better understood as an evaluation made after the fact about how uncertainty affected the course of events for a particular person, organization, institution, or community.
 
@@ -82,7 +82,27 @@ The rest of the paper explains how we reached these conclusions.
 
 ---
 
-## B. What Do We Mean by Luck?
+## B. What Earlier Research Contributes
+
+The project did not begin with a blank definition of luck. It began by reviewing how several fields had already divided the problem.
+
+Philosophy asks what it means for an outcome, an action, or a person’s knowledge to depend on factors beyond control. The modern debate over moral luck, associated especially with Thomas Nagel and Bernard Williams, shows why praise and blame become unstable when outcomes depend on circumstances, causes, or consequences that an actor did not fully control [1, 2]. Later philosophical work distinguishes moral luck from epistemic luck—the possibility that a belief may be true partly because error was fortunately avoided—and from broader questions about whether luck is an event, a relation, or an evaluation [3]. We did not attempt to resolve those debates. We adopted their most useful discipline: always state who is affected, what was outside that party’s control, and what comparison makes the event fortunate or unfortunate.
+
+Economics contributes a different distinction. Frank Knight separated measurable risk from uncertainty that cannot be reduced to known probabilities [4], while John Maynard Keynes emphasized the limits of the evidence supporting probabilistic judgment [5]. Theories of justice then asked how institutions should respond to unequal starting points and circumstances. Rawls treated the distribution of natural abilities and social position as morally arbitrary [6]; Dworkin separated option luck associated with deliberate gambles from brute luck outside deliberate choice [7]; and Roemer developed a formal account of equality of opportunity that distinguishes effort from circumstances [8]. These works helped us separate unequal exposure and access from later action. They also warned us not to treat every outcome outside direct control as random.
+
+Psychology explains why retrospective accounts of luck are unreliable. Heider’s work on attribution showed how people divide explanations between persons and situations [9]. Weiner extended attribution theory to achievement, where outcomes are commonly assigned to ability, effort, task difficulty, and luck [10]. Langer demonstrated that people may perceive control even in chance settings [11]. Tversky and Kahneman documented systematic errors in judgment under uncertainty [12], and Fischhoff showed that knowing an outcome makes it appear more foreseeable than it was [13]. These findings shaped our insistence on reconstructing the information available before an outcome rather than accepting a polished later narrative.
+
+Sociology, organization studies, and economic history show how visibility and success are selected. Merton’s Matthew effect describes cumulative advantage in scientific credit and resources [14]. Denrell shows how studying surviving firms while undersampling failure can create misleading lessons about management [15]. Arthur and David show how feedback, increasing returns, and historical sequence can stabilize technologies or standards even when later dominance does not prove inherent superiority [16, 17]. Merton and Barber’s history of serendipity also demonstrates that the language of accidental discovery has a long intellectual and institutional history [18].
+
+Statistics supplies tools for probability, variation, inference, and missing data, but it does not turn luck into a directly observed quantity. The central statistical lesson for this project was simpler: conclusions depend on how cases enter the record and what remains unobserved. A consistently coded selected sample can still give a biased answer to a population question.
+
+The project organized these traditions into philosophy, economics, psychology, statistics, and additional work in management, sociology, political philosophy, and complex systems [19, 20]. This review was not merely introductory. It produced the distinctions that governed the later study design: control versus uncertainty; risk versus deeper uncertainty; circumstance versus action; prior information versus hindsight; individual characteristics versus environmental conditions; and causal mechanisms versus retrospective evaluations.
+
+Our contribution is therefore not a claim that earlier fields overlooked luck. It is an attempt to connect their separate insights in a form that can discipline historical and comparative research.
+
+---
+
+## C. What Do We Mean by Luck?
 
 The word luck often performs too many jobs at once.
 
@@ -136,13 +156,13 @@ A weak analysis invents alternatives with the benefit of hindsight. A stronger a
 
 Before an uncertain event is resolved, we can describe risk, exposure, possible gains, and possible losses. Only after the event and its consequences become known can we evaluate whether the uncertainty turned out favorably or unfavorably.
 
-This before-and-after distinction is essential. Fischhoff’s classic work on hindsight showed that people who know an outcome tend to see it as more predictable than people who do not know it [4]. Historical narratives face the same danger. Once we know that penicillin became transformative, early observations can appear as obvious steps toward an inevitable discovery. They were not.
+This before-and-after distinction is essential. Fischhoff’s classic work on hindsight showed that people who know an outcome tend to see it as more predictable than people who do not know it [13]. Historical narratives face the same danger. Once we know that penicillin became transformative, early observations can appear as obvious steps toward an inevitable discovery. They were not.
 
 Luck, under this framework, is not the cause of the outcome. The causes remain the observation, knowledge, decisions, resources, institutions, experiments, collaboration, production, competition, and many other mechanisms involved. Luck is an evaluation of how uncertainty mattered within that causal process.
 
 ---
 
-## C. From Possibility to Outcome
+## D. From Possibility to Outcome
 
 Opportunity is often described as if it were an object placed in front of an actor. The actor either sees it or misses it.
 
@@ -194,7 +214,35 @@ The value of the sequence is modest but practical. It prevents us from calling e
 
 ---
 
-## D. Why Winners Are Easier to Explain
+## E. Research Design and Case Selection
+
+The empirical work was designed in two layers.
+
+The first was a broad comparative corpus. We selected cases across five domains to ask whether similar relationships appeared in very different settings: scientific discovery, technological development, business adaptation, long-run historical change, and political development. The aim was not to estimate how common a mechanism is in the world. It was to expose proposed explanations to different periods, regions, institutions, outcomes, and levels of analysis.
+
+The corpus was deliberately capped rather than allowed to expand indefinitely. Early selections leaned too heavily toward famous Western successes. The design was revised to include non-Western cases, failure and nonvalidation, delayed development, unrealized opportunities, public infrastructure, distributed collaboration, and cases in which power or institutional constraint mattered. Later audits classified files by what they could actually support rather than rewarding agreement with the framework [21].
+
+The selected empirical cases were:
+
+| Domain | Historical cases selected | Additional comparative studies |
+| --- | --- | --- |
+| Science | Alexander Fleming and penicillin; Wilhelm Röntgen and X-rays; Post-it Notes; CRISPR; Percy Spencer and the microwave oven; Penzias and Wilson and the cosmic microwave background; artemisinin and Tu Youyou; the Raman effect and C. V. Raman; Ibn al-Haytham’s *Book of Optics*; Shuji Nakamura and the blue LED; cold fusion; gravitational waves and LIGO | Unrealized scientific opportunities; domain synthesis |
+| Technology | transistor; integrated circuit; Internet; World Wide Web; GPS; smartphone; M-Pesa; WeChat ecosystem; Sony Walkman; Betamax; India Stack and UPI; Linux | Domain synthesis |
+| Business | Amazon; Netflix; Apple; Microsoft; Berkshire Hathaway; Kodak | Opportunity recognition; strategic timing; organizational adaptation; resource reallocation; unrealized business opportunities; business ecosystem evolution; domain synthesis |
+| History | Black Death; Industrial Revolution; Meiji Restoration; fall of the Soviet Union; Age of Exploration; Digital Revolution | Historical contingency; path dependence; institutional evolution; historical turning points; unrealized historical opportunities; civilizational adaptation; domain synthesis |
+| Politics | United States Constitution; French Revolution; European integration; democratic transitions; decolonization; China’s reform and opening | Political opportunity; institutional legitimacy; collective decision-making; policy adaptation; unrealized political opportunities; governance evolution; domain synthesis |
+
+These labels should not be mistaken for uniform observations. Some files are bounded historical cases; others are thematic comparisons. Nor were all cases retained with equal confidence. The later measurement review deferred Betamax from the pilot because the available evidence did not fit the required design, reclassified Microsoft because it functioned better as a case of cumulative advantage and selection than as a simple opportunity-recognition case, and retained Kodak only conditionally because the claim depended on distinguishing technical recognition from organizational pursuit and commercial realization.
+
+The comparative design also evolved as weaknesses became visible. The science and technology files generally offered more detailed sequences of observation, development, validation, adoption, and selection. Several shorter business, history, and politics files required stronger reconstruction of prior information, feasible alternatives, affected parties, power, and competing explanations. Disclosing those weaknesses is part of the design, not a reason to erase the work. The corpus helped reveal where a common vocabulary traveled well and where it risked flattening important differences.
+
+The second layer was narrower and more demanding. Fleming and cold fusion were used as measurement exercises with fixed evidence boundaries, separate coding records, explicit stage definitions, and documented adjudication. Their purpose was to test whether reviewers could distinguish availability, access, recognition, action, result, and closure within known cases. Only after that test did we examine whether a broader public-data study could support population claims.
+
+This sequence matters. The broad corpus generated and challenged concepts. The bounded exercises tested whether selected concepts could be applied consistently. The attempted sampling frame tested whether those measurements could answer a population question. Each layer answered a different question, and success at one layer did not guarantee success at the next.
+
+---
+
+## F. Why Winners Are Easier to Explain
 
 The study of luck quickly became a study of selection.
 
@@ -216,9 +264,9 @@ The difference is not just that survivors appear more often. They appear in grea
 
 ### Success can be mistaken for ability
 
-Suppose a risky strategy produces highly variable outcomes. If failed firms disappear while successful firms remain visible, the surviving sample may make the risky strategy look consistently effective. Denrell [1] shows how such undersampling of failure can produce myths about management.
+Suppose a risky strategy produces highly variable outcomes. If failed firms disappear while successful firms remain visible, the surviving sample may make the risky strategy look consistently effective. Denrell [15] shows how such undersampling of failure can produce myths about management.
 
-The same issue appears in science. Merton [2] described how established reputation can attract credit and resources, which may generate further output and recognition. Later prominence may therefore reflect both contribution and a self-reinforcing reward process.
+The same issue appears in science. Merton [14] described how established reputation can attract credit and resources, which may generate further output and recognition. Later prominence may therefore reflect both contribution and a self-reinforcing reward process.
 
 These selection problems led us to emphasize unrealized alternatives: ideas that were not noticed, proposals that were rejected, projects that were abandoned, and paths that closed.
 
@@ -230,7 +278,7 @@ This requirement became central to our later empirical difficulty. We wanted evi
 
 ---
 
-## E. Two Historical Exercises
+## G. Two Historical Exercises
 
 To learn whether the six-step opportunity sequence could be used consistently, we conducted two bounded historical exercises.
 
@@ -254,7 +302,7 @@ These were useful failures. They showed that a plausible framework was still too
 
 The project revised the rules before releasing later evidence. It fixed the relevant time horizon, separated candidate outcomes, clarified whose recognition was being coded, and distinguished component results within bundled claims.
 
-Under the revised design, the separate coding records agreed on all 12 candidate-by-time classifications and all 72 stage judgments [5].
+Under the revised design, the separate coding records agreed on all 12 candidate-by-time classifications and all 72 stage judgments [22].
 
 The proper conclusion was narrow. The exercise did not validate a general theory of scientific discovery. It showed that early recognition, later action, eventual result, and the contributions of different actors could be separated within one historical episode after the rules were made precise.
 
@@ -270,7 +318,7 @@ The exercise separated three ideas:
 - a new nuclear process;
 - and a useful source of energy.
 
-Before later evidence was released, the coding records agreed on the relevant stages and broad categories. After the fuller historical record was introduced, the coders still agreed on the final classification of all three ideas, while differing on three of 18 more detailed stage components [6].
+Before later evidence was released, the coding records agreed on the relevant stages and broad categories. After the fuller historical record was introduced, the coders still agreed on the final classification of all three ideas, while differing on three of 18 more detailed stage components [23].
 
 The disagreement produced an important clarification.
 
@@ -282,7 +330,7 @@ Together, the two exercises supported the usefulness of the opportunity sequence
 
 ---
 
-## F. The Attempt to Expand the Study
+## H. The Attempt to Expand the Study
 
 After the two exercises, we considered adding more famous cases from technology and business. That would have increased variety, but it would not have solved the selection problem.
 
@@ -341,7 +389,7 @@ That difference is important. A claim may be plausible and still not be identifi
 
 ---
 
-## G. What We Learned
+## I. What We Learned
 
 The project began with broad ideas about luck, unequal opportunity, adaptation, and survivorship. Several survived. Others became narrower.
 
@@ -393,7 +441,7 @@ The decision to stop preserved the value of the validated distinctions while pre
 
 ---
 
-## H. Implications and Limitations
+## J. Implications and Limitations
 
 The framework has several possible uses.
 
@@ -421,11 +469,11 @@ Fourth, realistic alternatives are difficult to define. Too narrow a comparison 
 
 Fifth, records are produced and preserved selectively. Even excellent archives cannot fully recover what was never noticed, never written down, or deliberately concealed.
 
-Finally, the framework does not resolve moral or political questions about responsibility, fairness, praise, blame, or compensation. The literature on moral luck shows why factors beyond control complicate judgment [3]. Our framework can make those factors more explicit, but it cannot decide how society should respond to them.
+Finally, the framework does not resolve moral or political questions about responsibility, fairness, praise, blame, or compensation. The literature on moral luck shows why factors beyond control complicate judgment [1–3]. Our framework can make those factors more explicit, but it cannot decide how society should respond to them.
 
 ---
 
-## I. Final Discussion
+## K. Final Discussion
 
 The Research on Luck project did not end with a general theory capable of explaining success and failure across fields. That was not the result.
 
@@ -453,18 +501,52 @@ Where those separations cannot be supported, the appropriate conclusion is not t
 
 ## References
 
-[1] Denrell, J. (2003). “Vicarious Learning, Under-Sampling of Failure, and the Myths of Management.” *Organization Science*, 14(3), 227–243. https://doi.org/10.1287/orsc.14.2.227.15164
+[1] Nagel, T. (1979). “Moral Luck.” In *Mortal Questions*. Cambridge University Press.
 
-[2] Merton, R. K. (1968). “The Matthew Effect in Science.” *Science*, 159(3810), 56–63. https://doi.org/10.1126/science.159.3810.56
+[2] Williams, B. (1981). “Moral Luck.” In *Moral Luck: Philosophical Papers 1973–1980*. Cambridge University Press.
 
 [3] Nelkin, D. K. “Moral Luck.” *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-luck/
 
-[4] Fischhoff, B. (1975). “Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment under Uncertainty.” *Journal of Experimental Psychology: Human Perception and Performance*, 1(3), 288–299. https://doi.org/10.1037/0096-1523.1.3.288
+[4] Knight, F. H. (1921). *Risk, Uncertainty and Profit*. Houghton Mifflin.
 
-[5] Research on Luck Project. (2026). [“FLEM-01 Methodological Synthesis and Stage 2 Recommendation.”](Measurement/18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md)
+[5] Keynes, J. M. (1921). *A Treatise on Probability*. Macmillan.
 
-[6] Research on Luck Project. (2026). [“CF-01 Pass B Agreement and Adjudication.”](References/30-CF-01-Pass-B-Agreement-and-Adjudication.md)
+[6] Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
 
-[7] Research on Luck Project. (2026). [“Stage 2 Science Feasibility and Sampling Frame.”](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md)
+[7] Dworkin, R. (1981). “What Is Equality? Part 2: Equality of Resources.” *Philosophy & Public Affairs*, 10(4), 283–345.
 
-[8] Research on Luck Project. (2026). [“Project Synthesis and Closeout.”](PROJECT-SYNTHESIS-AND-CLOSEOUT.md)
+[8] Roemer, J. E. (1998). *Equality of Opportunity*. Harvard University Press.
+
+[9] Heider, F. (1958). *The Psychology of Interpersonal Relations*. Wiley.
+
+[10] Weiner, B. (1985). “An Attributional Theory of Achievement Motivation and Emotion.” *Psychological Review*, 92(4), 548–573. https://doi.org/10.1037/0033-295X.92.4.548
+
+[11] Langer, E. J. (1975). “The Illusion of Control.” *Journal of Personality and Social Psychology*, 32(2), 311–328. https://doi.org/10.1037/0022-3514.32.2.311
+
+[12] Tversky, A., and Kahneman, D. (1974). “Judgment under Uncertainty: Heuristics and Biases.” *Science*, 185(4157), 1124–1131. https://doi.org/10.1126/science.185.4157.1124
+
+[13] Fischhoff, B. (1975). “Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment under Uncertainty.” *Journal of Experimental Psychology: Human Perception and Performance*, 1(3), 288–299. https://doi.org/10.1037/0096-1523.1.3.288
+
+[14] Merton, R. K. (1968). “The Matthew Effect in Science.” *Science*, 159(3810), 56–63. https://doi.org/10.1126/science.159.3810.56
+
+[15] Denrell, J. (2003). “Vicarious Learning, Under-Sampling of Failure, and the Myths of Management.” *Organization Science*, 14(3), 227–243. https://doi.org/10.1287/orsc.14.2.227.15164
+
+[16] Arthur, W. B. (1989). “Competing Technologies, Increasing Returns, and Lock-In by Historical Events.” *The Economic Journal*, 99(394), 116–131. https://doi.org/10.2307/2234208
+
+[17] David, P. A. (1985). “Clio and the Economics of QWERTY.” *American Economic Review*, 75(2), 332–337.
+
+[18] Merton, R. K., and Barber, E. (2004). *The Travels and Adventures of Serendipity*. Princeton University Press.
+
+[19] Research on Luck Project. (2026). [“Literature Overview.”](Literature/01-Literature-Overview.md)
+
+[20] Research on Luck Project. (2026). [“Cross-Disciplinary Synthesis.”](Literature/02-Cross-Disciplinary-Synthesis.md)
+
+[21] Research on Luck Project. (2026). [“Empirical Case Architecture-Alignment Audit.”](Empirical%20Studies/CASE-ALIGNMENT-AUDIT.md)
+
+[22] Research on Luck Project. (2026). [“FLEM-01 Methodological Synthesis and Stage 2 Recommendation.”](Measurement/18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md)
+
+[23] Research on Luck Project. (2026). [“CF-01 Pass B Agreement and Adjudication.”](References/30-CF-01-Pass-B-Agreement-and-Adjudication.md)
+
+[24] Research on Luck Project. (2026). [“Stage 2 Science Feasibility and Sampling Frame.”](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md)
+
+[25] Research on Luck Project. (2026). [“Project Synthesis and Closeout.”](PROJECT-SYNTHESIS-AND-CLOSEOUT.md)
