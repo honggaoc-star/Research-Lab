@@ -22,11 +22,11 @@ Original document layers have been preserved where intellectual history warrante
 
 ## Current Phase
 
-The project is entering an **evidence-strengthening and integration phase**.
+The current project cycle is **complete and closed pending a separate reopening decision**.
 
-The main question is no longer whether more concepts or cases can be added. It is whether the existing propositions can be specified, measured, compared, challenged, and supported more rigorously.
+The architecture, comparative corpus, bounded validation stream, Proposition 4 theory revision, project synthesis, and accessible working paper are complete. The result is a developed research architecture with limited construct evidence—not a validated general theory.
 
-FLEM-01 has completed the project’s first Tier 1 validation cycle. Pass A identified instrument ambiguity; Pass B produced complete agreement across 12 candidate-checkpoint classifications and 72 stage-code comparisons. The result provisionally validates the instrument within one episode, not Proposition 4 or the General Theory.
+No additional case, proposition test, empirical design, or document series follows automatically.
 
 ## Immediate Validation Sequence
 
@@ -38,6 +38,7 @@ FLEM-01 has completed the project’s first Tier 1 validation cycle. Pass A iden
 6. **Completed — Stage 2 Science feasibility and sampling-frame design.** The [design record](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) rejects the existing purposive Science corpus as a population and gives a narrowed GO only to Stage 2A frame construction.
 7. **Completed — Bounded candidate-frame reconnaissance.** NSF proposals, arXiv/bioRxiv submissions, and ClinicalTrials.gov registrations were tested as public-source frame families. None observes original recognition and nonrecognition symmetrically.
 8. **Closed — Original Stage 2 Science scaling.** Preserve the bounded pilot findings and narrow Proposition 4’s evidence claim. Do not pursue a post-entry uptake or validation study without a separate explicit decision.
+9. **Completed — Project synthesis and working paper.** The [closeout synthesis](PROJECT-SYNTHESIS-AND-CLOSEOUT.md) preserves the full intellectual and methodological record; the [working paper](WORKING-PAPER.md) presents the central argument in accessible language.
 
 ## Priority 1 — Evidence and Citations
 
@@ -52,9 +53,9 @@ Citation expansion should proceed claim-by-claim rather than through undifferent
 
 ## Priority 2 — Identification and Validation
 
-The first bounded design, FLEM-01, and the Cold Fusion controlled replication are complete and methodologically synthesized. The pilot has received a conditional GO to Stage 2 Science design. The immediate task is to establish an outcome-independent Science sampling frame and evidence regime before substantive coding.
+The first bounded design, FLEM-01, and the Cold Fusion controlled replication are complete and methodologically synthesized. The proposed Stage 2 Science scaling design was stopped after bounded reconnaissance found no public denominator containing recognition and nonrecognition symmetrically.
 
-Convert candidate relationships into bounded research designs, especially:
+No immediate validation task is active. If the project is explicitly reopened, candidate relationships should be converted into bounded research designs, especially:
 
 - exposure and opportunity access;
 - recognition and pursuit;
@@ -151,7 +152,11 @@ Create a proposition-to-evidence map identifying supporting cases, negative case
 
 Do not automatically expand this into a review or test of all 22 propositions. Any next proposition-level study requires a separate project decision based on expected value, evidence access, and a bounded stopping rule.
 
-### E — Cross-Project Transfer Review
+### E — Final Synthesis and Communication
+
+**Completed.** The [project synthesis](PROJECT-SYNTHESIS-AND-CLOSEOUT.md) records what was retained, supported, narrowed, unidentified, abandoned, closed, and deferred. The [working paper](WORKING-PAPER.md) translates the project into a public-facing argument about luck, opportunity, hindsight, selection, and observability.
+
+### F — Cross-Project Transfer Review
 
 Evaluate whether distinctions such as system/trajectory, capability/outcome, selection/superiority, adaptation/beneficial change, and ex ante/ex post should enhance Dynamic Social Systems.
 
