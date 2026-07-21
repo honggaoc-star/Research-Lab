@@ -147,7 +147,9 @@ Create a proposition-to-evidence map identifying supporting cases, negative case
 
 ### D — Theory Review
 
-Reassess all 22 propositions after validation studies. Promote, narrow, reclassify, or remove them according to evidence.
+**Proposition 4 closeout completed.** The recognition proposition is retained as a bounded hypothesis, its comparative designation and immediate population-testing priority are removed, and the observability limit is recorded in General Theory and the proposition-to-evidence map.
+
+Do not automatically expand this into a review or test of all 22 propositions. Any next proposition-level study requires a separate project decision based on expected value, evidence access, and a bounded stopping rule.
 
 ### E — Cross-Project Transfer Review
 
