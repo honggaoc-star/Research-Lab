@@ -127,6 +127,8 @@ The [pilot decision gate](Measurement/19-Pilot-Decision-Gate-and-Stage-2-Directi
 
 The [Stage 2 Science feasibility and sampling-frame record](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) now closes **Stage 2A** after a bounded three-candidate reconnaissance. NSF public data enumerate funded awards rather than a comparable proposal population; arXiv, bioRxiv, and ClinicalTrials.gov become enumerable only after an actor has recognized or pursued a possibility. None provides a public denominator containing both recognized and unrecognized opportunities. The original Stage 2 Science scaling design is therefore stopped. The existing Science cases remain purposive calibration material, and any post-entry uptake or validation study would require a separate explicit decision. This result neither validates nor rejects Proposition 4 and does not establish causal effects, prevalence, or cross-domain portability.
 
+The validation stream and its theory closeout are now complete. [Proposition 4](General%20Theory/01-Core-Propositions.md) is retained as a bounded hypothesis—no longer a comparative conjecture or immediate population-testing priority—and the observability limit is integrated into the [proposition-to-evidence map](References/01-Proposition-to-Evidence-Map.md). No additional Measurement file or proposition-level study follows automatically.
+
 The broader phase remains evidence strengthening and repository integration. Priorities include claim-level citations, source quality, negative and disconfirming evidence, cross-document terminology, figure regeneration, and bounded tests that can distinguish capability, exposure, selection, and inherited advantage.
 
 ## Long-Term Goal
