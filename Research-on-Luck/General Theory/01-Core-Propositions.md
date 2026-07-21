@@ -52,13 +52,15 @@ Interactions among systems and environments may create, remove, redistribute, tr
 
 A test requires evidence about the opportunity relationship before and after a transition, the affected system, access conditions, and plausible competing explanations.
 
-# Proposition 4 — H/C
+# Proposition 4 — H
 
-## Opportunity Recognition Is Uneven
+## Opportunity Recognition May Be Uneven
 
 Systems exposed to similar conditions may differ in what they perceive and interpret as actionable. Recognition may depend on information access, prior knowledge, search, incentives, institutions, cognitive diversity, and historical position.
 
 Recognition should be measured through contemporaneous evidence rather than inferred from later success. False recognition, disagreement, and recognition without pursuit are necessary comparison cases.
+
+Completed bounded validation provisionally supports separating recognition from adjacent opportunity stages within known episodes. It does not establish how often recognition differs, whether recognition independently affects pursuit or realization, or whether the construct transfers across domains. Population inference requires an outcome-independent denominator containing both recognition and nonrecognition; the tested public Science sources did not provide one.
 
 # Proposition 5 — D/H
 
@@ -245,7 +247,7 @@ These are conceptual and methodological commitments, not validated causal findin
 
 The current cases suggest—but do not yet validate—relationships involving:
 
-- unequal opportunity recognition;
+- potentially unequal opportunity recognition, retained as a bounded hypothesis after within-episode validation but without population identification;
 - institutional enabling and constraint;
 - learning and nonlearning;
 - adaptive response;
@@ -264,6 +266,12 @@ The project does not yet establish:
 - a single quantitative measure of luck;
 - reliable prediction of contingent events;
 - or a complete separation of exposure, capability, selection, and inherited advantage.
+
+# Post-Validation Status Note
+
+Validation Study 1 is closed. Proposition 4 remains in the theory because the recognition distinction survived bounded coding tests, but its comparative designation and immediate population-testing priority have been removed. This is a narrowing of evidentiary status, not a rejection of the hypothesis.
+
+The result illustrates Proposition 21: measurement success within known cases does not authorize population claims when the relevant denominator is unobservable.
 
 # Standards for Future Revision
 
