@@ -33,7 +33,7 @@ FLEM-01 has completed the project’s first Tier 1 validation cycle. Pass A iden
 1. **Completed — FLEM-01 methodological synthesis.** Preserve the frozen record suite, extract reusable findings, and distinguish construct validation from theoretical validation.
 2. **Completed — Protocol and instrument Version 0.2.** Retain two independent coders while replacing routine independent audit with coordinator preflight, disagreement-only adjudication, and trigger-based escalation.
 3. **Completed — Repository status and roadmap synchronization.**
-4. **In progress — Cold Fusion feasibility and Tier 2 packet.** Feasibility and coordinator preflight have passed, three candidate claims and the minimum justified disclosure structure are frozen, and the blinded Pass A packet is ready. Two independent Pass A records remain pending.
+4. **In progress — Cold Fusion Tier 2 controlled replication.** Feasibility and coordinator preflight passed; the two independent Pass A records are locked with complete stage-code and category agreement; and the single Pass B packet through 26 November 1989 is frozen. Two independent cumulative Pass B records remain pending.
 5. **Then — Pilot decision gate.** Decide whether Betamax, Microsoft, and Kodak are all required before a within-domain Stage 2 design.
 
 ## Priority 1 — Evidence and Citations
@@ -140,7 +140,7 @@ Create a proposition-to-evidence map identifying supporting cases, negative case
 
 ### C — Bounded Validation Studies
 
-**In progress.** Validation Study 1 targets recognition without realization. FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion has passed its Tier 2 feasibility and coordinator-preflight gates; its blinded Pass A packet is frozen and independent coding is pending. Advancement to a within-domain Stage 2 study requires a successful contrasting test and an explicit pilot decision.
+**In progress.** Validation Study 1 targets recognition without realization. FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion has passed its Tier 2 feasibility and coordinator-preflight gates; Pass A is complete with no audit trigger, and its single cumulative Pass B packet is frozen for independent coding. Advancement to a within-domain Stage 2 study requires a successful contrasting test and an explicit pilot decision.
 
 ### D — Theory Review
 
