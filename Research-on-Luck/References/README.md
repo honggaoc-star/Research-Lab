@@ -11,6 +11,10 @@ The directory currently contains the first evidence map and the first validation
 - [01 — Proposition-to-Evidence Map, Tranche 1](01-Proposition-to-Evidence-Map.md) — evaluates Propositions 4, 6, 7, and 19, including competing explanations, missing evidence, and bounded validation priorities.
 - [02 — Fleming and Penicillin Pre-Outcome Evidence Dossier](02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md) — freezes the FLEM-01 Pass A boundary, separates four candidate opportunities, records page-specific primary evidence, and quarantines later outcomes and builder interpretations.
 - [03 — Fleming and Penicillin Pass A Coder Packet](03-Fleming-Penicillin-Pass-A-Coder-Packet.md) — provides a clean independent-coding instrument using only Fleming’s complete 1929 paper.
+- [04 — Fleming Pass A Coder 1 Record](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) — preserves Independent Coder 1’s locked submission verbatim.
+- [05 — Fleming Pass A Coder 2 Record](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) — preserves Independent Coder 2’s locked submission verbatim.
+- [06 — Fleming Pass A Agreement and Adjudication](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md) — reports raw agreement, preserves the 01C disagreements, adjudicates the applicable rules, and closes Pass A.
+- [07 — Fleming Bounded Pass B Coder Packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) — fixes the Pass B horizon, candidate-specific realization rules, actor boundaries, provisional source manifest, and release gate; Version 0.1 remains a construction draft.
 
 ## Evidence Priorities
 
@@ -99,9 +103,11 @@ Validation packets should be versioned and frozen before coding. New evidence sh
 
 ## Current Status
 
-The first evidence map, reusable recognition instrument, FLEM-01 source dossier, and clean Pass A coder packet are complete.
+The first evidence map and reusable recognition instrument are complete. FLEM-01 Pass A is closed: the dossier and coder packet are frozen, both independent records are locked, and the agreement and adjudication report is published.
 
-The next deliverable is two locked, independent Pass A coding records. Only after both are complete should Pass B evidence be released. Expansion to cold fusion, Betamax, Microsoft, or Kodak should wait until the first coding disagreement and adjudication cycle has tested the instrument.
+Pass A produced 23/24 stage-code agreement (95.8%) and 3/4 final-category agreement (75%). The substantive evidence judgments converged; the 01C differences exposed ambiguity in the timing rule for realization and overlap between Categories 5 and 6.
+
+The bounded Pass B packet is now at construction-draft Version 0.1. It may be frozen and released only after the complete primary texts, claim-level locators, production evidence, disconfirming evidence, and independent boundary check satisfy its release gate. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
 
 ## Long-Term Goal
 
