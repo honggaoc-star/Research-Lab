@@ -76,7 +76,7 @@ Fourth, the proposed distinctions can be applied consistently within carefully b
 
 Fifth, consistent classification within known cases does not solve the population problem. We cannot estimate the prevalence or effect of recognition if unrecognized possibilities leave no countable record.
 
-Finally, a useful research framework must be able to stop. The failure to find a defensible denominator did not show that recognition is never uneven. It showed that the proposed public-data design could not answer that question. The correct response was to narrow the claim, not to manufacture a sample from famous cases.
+Finally, a useful research framework must recognize its evidentiary boundary. The absence of a defensible denominator did not show that recognition is never uneven. It showed that the proposed public-data design could not answer that question. The correct response was to narrow the claim, not to manufacture a sample from famous cases.
 
 The rest of the paper explains how we reached these conclusions.
 
@@ -504,7 +504,7 @@ Several limitations should be emphasized.
 
 First, the historical cases were selected for analytical value. They are not representative.
 
-Second, the validation exercises used a human-directed, AI-assisted workflow. More conventional human coding would be needed to evaluate whether the instrument transfers across researchers, disciplines, and interpretive traditions.
+Second, the pilot exercises used a human-directed, AI-assisted workflow. More conventional human coding would be needed to evaluate whether the instrument transfers across researchers, disciplines, and interpretive traditions.
 
 Third, the broader case collection spans very different fields and levels of analysis. Similar language across science, business, technology, history, and politics does not prove that the same mechanism operates in each.
 
