@@ -56,15 +56,22 @@ Observed recognition differences may reflect:
 - institutional incentives;
 - or selection of famous cases.
 
-## Missing Evidence
+## Validation Result and Observability Limit
 
-Priority evidence includes dated proposals, laboratory records, internal memoranda, rejected alternatives, resource commitments, decision rights, and comparable actors exposed to similar information.
+The completed [Recognition without Realization validation stream](../Measurement/16-Validation-Study-Recognition-Without-Realization.md) produced two bounded results:
+
+- FLEM-01 and CF-01 provisionally show that recognition can be coded separately from access, pursuit, realization, foreclosure, and later credibility within known episodes;
+- the [Stage 2A feasibility and sampling-frame record](../Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) shows that the tested public sources do not supply an outcome-independent denominator containing both recognized and unrecognized opportunities.
+
+Public lists generally begin when an actor submits, posts, proposes, or registers a possibility. Those acts already evidence recognition and often pursuit. Nonrecognition leaves no directly enumerable record, while retrospective recovery recreates hindsight, fame, archival, and survivor selection.
+
+Further population testing would require a bounded private or future source that preserves comparable rejected, abandoned, and unrecognized possibilities without selecting them by later outcome. No such source is presently established.
 
 ## Current Judgment
 
-**Retain — hypothesis; test priority.**
+**Retain — bounded hypothesis; narrow evidence claim; close immediate population-testing priority.**
 
-Uneven recognition is plausible and the negative cases make the construct more discriminating. The current cases do not estimate its prevalence or independent effect on realization.
+Uneven recognition remains plausible, and the completed pilot makes the construct more discriminating within known episodes. The evidence supports provisional codeability, not prevalence, independent effect, cross-domain portability, or population-level generality. The original Stage 2 Science scaling design is closed. Any post-entry uptake study would test a different focal system and relationship and requires separate authorization.
 
 # Proposition 6 — Adaptive Capacity May Mediate Responses
 
@@ -181,13 +188,13 @@ Proposition 19 should govern promotion of other propositions. It is not itself e
 | Level ambiguity | High | Very high | High | Very high |
 | Feasible counterfactual need | High | High | Very high | High |
 | Current causal identification | Weak | Very weak | Mechanism-specific and weak | Not applicable |
-| Immediate priority | Process evidence | Independent capability indicators | Loop specification | Comparison discipline |
+| Immediate priority | Validation stream closed; no population inference | Independent capability indicators | Loop specification | Comparison discipline |
 
 # Recommended Validation Sequence
 
 ## Study 1 — Recognition without Realization
 
-Compare recognized opportunities that were pursued, rejected, delayed, falsely perceived, or foreclosed. Use contemporaneous evidence and keep access, authority, and resource constraints separate from recognition.
+**Closed.** FLEM-01 and CF-01 completed bounded construct and instrument validation. The subsequent Science frame reconnaissance found no suitable public denominator for original recognition-versus-nonrecognition scaling. Preserve the pilot findings, do not treat the existing cases as a sample, and do not reopen the stream without materially different evidence access.
 
 ## Study 2 — Capability before Outcome
 
@@ -205,9 +212,9 @@ Have domain-specific evidence coded without imposing the project’s preferred l
 
 The first map supports retaining all four propositions, but not at equal theoretical rank.
 
-- Proposition 4 remains a plausible relational hypothesis.
+- Proposition 4 remains a plausible but bounded relational hypothesis; within-episode codeability is provisionally supported, while its prevalence and effects remain unidentified and its immediate validation stream is closed.
 - Proposition 6 is important but presently underidentified and especially vulnerable to survivor and outcome selection.
 - Proposition 7 contains a strong analytical requirement, while its substantive mechanisms remain case-specific.
 - Proposition 19 is best treated as a methodological constraint on theory promotion.
 
-The immediate research value lies in narrowing and testing these propositions, not accumulating additional illustrative cases.
+The immediate research value lies in integrating bounded results and exercising selective stop decisions, not accumulating additional illustrative cases or automatically moving from one proposition to the next.
