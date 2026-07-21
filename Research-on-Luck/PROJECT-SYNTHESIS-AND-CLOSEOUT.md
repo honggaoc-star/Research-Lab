@@ -335,9 +335,15 @@ The proposition-to-evidence map made the uneven status of the theory explicit an
 
 ---
 
-## 10. Validation Study 1: Recognition without Realization
+## 10. Pilot Studies: Making Recognition Testable
 
-The first validation study asked whether potential, access, recognition, pursuit, realization, and foreclosure could be coded without relying on later success.
+The theoretical framework contains multiple definitional, relational, comparative, and methodological propositions. The immediate purpose of the pilot studies was not to prove or disprove those propositions statistically. It was to determine whether selected propositions could be translated into observable implications and investigated through a reproducible procedure.
+
+The ex ante pilot question was:
+
+> Can potential, access, recognition, pursuit, realization, and foreclosure be defined clearly enough that independent reviewers can apply them to bounded historical evidence, explain material disagreements, and avoid reading the known outcome backward into the earlier record?
+
+The pilot therefore examined whether the unit, actor, time horizon, evidence boundary, and decision rules could be specified; whether adjacent stages could be distinguished; whether disagreements could diagnose correctable instrument problems; and whether the procedure could accommodate recognition that did not lead to a valid or realized outcome.
 
 The unit of analysis was the **opportunity episode**:
 
@@ -355,7 +361,9 @@ The design used:
 - adjudication;
 - and risk-tiered review.
 
-The purpose was construct validation, not causal estimation.
+The purpose was instrument development and bounded methodological demonstration, not causal estimation or population inference.
+
+Fleming and Cold Fusion were selected purposively for diagnostic contrast, not as a statistical sample of luck-related events. Fleming offered an unexpected observation, dated records, multiple actors, a long delay between early recognition and later realization, and an unusually strong hindsight risk. Cold Fusion offered clear recognition and pursuit followed by contested replication and nonconfirmation. Together they tested whether the method could separate early recognition from later realization and historical recognition from later evidentiary credibility. Their rich documentation made them suitable pilot cases while also limiting any claim of general representativeness.
 
 ### FLEM-01
 
@@ -368,7 +376,7 @@ Pass A exposed genuine instrument problems:
 - actor-level recognition and later collective realization could be conflated;
 - and bundled candidates required component coding.
 
-Those were not treated as coder failure. They were evidence that the instrument needed revision.
+Those were treated as informative pilot outcomes. They showed where the instrument needed revision.
 
 The bounded Pass B design introduced:
 
@@ -404,7 +412,7 @@ CF-01 therefore supported continued use of the construct within bounded known ep
 
 ---
 
-## 11. What the Validation Supported
+## 11. What the Pilots Established
 
 The completed episodes provisionally supported the following:
 
@@ -418,9 +426,13 @@ The completed episodes provisionally supported the following:
 - outcome disclosure can be controlled through bounded evidence passes;
 - and material disagreement can be localized and corrected through prospective rules.
 
-These are measurement and construct findings.
+These are bounded methodological findings. They show practical ways to freeze evidence, define an opportunity episode, separate stages, preserve the ex ante information boundary, compare independent judgments, and use disagreement to refine decision rules.
 
-They do not establish:
+The individual coding judgments were nested within two selected historical episodes; they were not independent observations drawn from a defined population. The pilots therefore did not statistically settle any general proposition.
+
+A positive pilot outcome means that a proposed method appears feasible for investigating a selected proposition under the tested conditions. A negative, mixed, or indeterminate outcome means that the definitions, evidence, case boundary, or procedure require revision—or that the present method has reached an evidentiary boundary. Neither outcome automatically accepts or rejects the substantive proposition.
+
+The pilots do not establish:
 
 - that recognition is generally uneven;
 - how often nonrecognition occurs;
@@ -447,7 +459,7 @@ This decision prevented the pilot from becoming an indefinite sequence of famous
 
 ---
 
-## 13. Stage 2A and the Observability Limit
+## 13. Stage 2A and the Observability Boundary
 
 The Stage 2 design required an outcome-independent denominator containing varied trajectories.
 
@@ -483,9 +495,9 @@ All three candidate families exposed the same structural problem:
 4. private, abandoned, and pre-entry possibilities are not publicly enumerable;
 5. and retrospective reconstruction recreates the selection problems the design sought to control.
 
-The Stage 2 Science scaling attempt was therefore stopped.
+The Stage 2 Science feasibility study therefore completed the portion supportable by the available public evidence and did not proceed to population estimation.
 
-This was an identification failure, not a falsification of Proposition 4.
+This established an identification boundary, not a falsification of Proposition 4. It also specified what a future design would need: an outcome-independent entry process, records created before recognition or pursuit, and comparable evidence for possibilities that entered and did not enter the observable record.
 
 ---
 
@@ -508,11 +520,11 @@ This was an identification failure, not a falsification of Proposition 4.
 | **Abandoned** | Treating famous cases or the existing Science corpus as a representative sample. |
 | **Abandoned** | Continuing heterogeneous pilot cases merely because they were initially listed. |
 | **Abandoned** | Producing a universal quantitative luck index in the current program. |
-| **Closed** | The original Stage 2 Science population-scaling design. |
+| **Completed within current bounds** | The Stage 2 Science feasibility design reached the limit of the available public evidence before population scaling. |
 | **Deferred** | Any post-entry study of community recognition, validation, or uptake. It would be a different research question and requires separate authorization. |
 | **Deferred** | Cross-project transfer to Dynamic Social Systems pending a separate value assessment. |
 
-No central proposition was rejected solely because it could not be identified with the available data. But failure of identification prevented promotion and required narrower claims.
+No central proposition was rejected solely because it could not be identified with the available data. But the identification boundary prevented promotion and required narrower claims.
 
 ---
 
@@ -560,7 +572,7 @@ The initial pilot listed five heterogeneous cases.
 
 A weaker process might have selected successes and failures from the existing corpus and called them a sample.
 
-**Correction:** the project required a source-generated denominator, tested three concrete frame families, and stopped when none measured recognition and nonrecognition symmetrically.
+**Correction:** the project required a source-generated denominator, tested three concrete frame families, and concluded the feasibility assessment when none measured recognition and nonrecognition symmetrically.
 
 ---
 
@@ -596,17 +608,29 @@ The project treats survival, fame, documentation, and outcome visibility as sele
 
 Foundations, Formalization, Measurement, Empirical Studies, Comparative Studies, and General Theory form a traceable research chain.
 
-### Bounded construct validation
+### Practical testing pathways
 
-The project demonstrated that one central construct could be operationalized, independently coded, revised, replicated, and narrowed.
+The project demonstrated how selected propositions could be translated into observable stages, frozen evidence, independent judgments, disagreement records, prospective rule revisions, and explicit decision gates. It thereby developed practical starting points for later research without claiming statistical settlement.
 
 ### A documented observability limit
 
 The project showed why nonrecognition cannot be inferred from silence and why public post-entry sources cannot identify original recognition prevalence.
 
-### A functioning stop discipline
+### A functioning boundary discipline
 
-The project stopped a planned empirical expansion when its denominator could not be defended. This is evidence that the research architecture can exclude as well as accommodate claims.
+The project concluded a planned empirical expansion when its denominator could not be defended. This is evidence that the research architecture can identify how far a method can presently carry a claim and what a future design would require.
+
+---
+
+## 16A. Methodological Contribution and Future Testing
+
+The framework should be judged partly by whether it enables later researchers to formulate clearer questions and more decisive tests.
+
+Different propositions will require different methods. Bounded historical coding may be appropriate for stage distinctions. Prospective idea registries or private organizational archives may be needed to study recognition and nonrecognition. Experiments may test hindsight, information access, or recognition under controlled conditions. Longitudinal and comparative designs may examine selection, feedback, and trajectory change.
+
+Future evidence may support, restrict, revise, or reject individual propositions. A researcher may also devise a substantially better method than those piloted here. Any of these outcomes would advance the inquiry. The project’s purpose is not to protect its propositions from revision, but to make claims about luck sufficiently coherent and explicit that evidence can engage them.
+
+The project therefore contributes a reasonable theoretical framework, a family of propositions with different evidence statuses, several practical testing procedures, and a record of the current procedures’ reach. It does not claim that the present pilots supplied the final empirical verdict.
 
 ---
 
