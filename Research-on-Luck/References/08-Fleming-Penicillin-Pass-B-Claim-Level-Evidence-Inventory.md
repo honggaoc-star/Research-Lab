@@ -2,7 +2,7 @@
 
 ## Status
 
-**FLEM-01-B Evidence Inventory, Version 1.0-RC1 — 20 July 2026**
+**FLEM-01-B Evidence Inventory, Version 1.0-RC2 — 20 July 2026**
 
 This inventory supports the [bounded Pass B coder packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md). It is an auditable release candidate, not a final coding result. It records what each included source can and cannot establish before the packet is frozen.
 
@@ -69,7 +69,7 @@ The inventory is claim-level rather than narrative. Evidence IDs identify source
 |---|---:|---|---|---|---|
 | F-B3-01 | 41–42 | The War Production Board reports that 1944 penicillin output was almost eighty times 1943 output | 01D operational scale and trajectory | Direct official report | Aggregate U.S. production; does not identify each contributing firm, laboratory, or technique |
 | F-B3-02 | 41–42 | Average output in 1944 was below 150 billion units per month, with planned expansion toward about 400 billion units per month in 1945 | 01D scale, production capacity, and institutional pursuit | Direct official report | The 1945 figure is a plan, not a realized quantity at the report date |
-| F-B3-03 | 41–42 | Quality improved, clinical use increased, and civilian distribution began on 1 May 1944 | 01D realization breadth and access transition | Direct official report | “Quality” and “clinical usage” are not operationally detailed in this passage |
+| F-B3-03 | 41–42 | The report states that quality improved, clinical use increased, and civilian distribution was made possible on 1 May 1944 | 01D realization breadth and enabled civilian access | Direct official report | “Made possible” does not establish that actual civilian distribution began on that date; “quality” and “clinical usage” are not operationally detailed in this passage |
 | F-B4-01 | 109–110 | The 1945 WPB table reports Army sodium-penicillin output in thousands of 100,000-Oxford-unit ampules: 72 in the fourth quarter of 1943, 10,276 in 1944, and 12,621 from January through July 1945 | 01D reproducible production at operationally consequential scale | Direct official tabulation | Army supply only; 1945 data are preliminary and end in July, not December |
 | F-B4-02 | 109–110 | Cumulative Army output through July 1945 is reported as 22,968 thousand 100,000-unit ampules | 01D scale realization by B3 | Direct official tabulation | Does not measure total civilian, Navy, British, or global production and must not be presented as total output |
 
@@ -119,5 +119,7 @@ The core source set necessarily contains outcome evidence because Pass B tests f
 
 ## Freeze Recommendation
 
-This inventory is suitable for an independent packet-boundary audit. After a checker confirms the four primary-source files, printed pagination, evidence IDs, and the exclusion decisions, the packet may advance from **Version 1.0-RC1** to frozen **Version 1.0** without changing the analytical thresholds.
+This RC2 inventory resolves `AUD-M01` by restoring the WPB report's “made possible” wording and removing the inference that actual civilian distribution began on 1 May 1944. It also participates in resolution of `AUD-C01` through the separate [frozen Pass A candidate-boundary manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md).
+
+The inventory is suitable for the bounded RC2 re-audit. Freeze requires an independent reviewer to verify both findings against the permitted materials and approve the release gate.
 
