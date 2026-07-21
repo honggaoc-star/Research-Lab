@@ -6,7 +6,7 @@ The **Measurement** directory connects the conceptual and formal architecture of
 
 It contains two complementary layers:
 
-- files **01–07**, which preserve the first-generation empirical framework;
+- files **01–06**, which preserve the first-generation empirical framework;
 - files **10–15**, which operationalize the newer Foundations and Formalization architecture.
 
 The numbering offset is intentional. Files 08 and 09 remain unused.
@@ -29,7 +29,7 @@ Measurement asks:
 
 ---
 
-## Preserved Original Layer: 01–07
+## Preserved Original Layer: 01–06
 
 The original documents remain substantively intact.
 
@@ -41,7 +41,6 @@ The original documents remain substantively intact.
 | [04-Opportunity-and-Exposure.md](04-Opportunity-and-Exposure.md) | Examines opportunity spaces, exposure, access, and dynamic change. |
 | [05-Trajectory-and-Dynamics.md](05-Trajectory-and-Dynamics.md) | Develops longitudinal indicators of divergence, convergence, persistence, and turning points. |
 | [06-Validation-and-Identification.md](06-Validation-and-Identification.md) | Addresses validation, causal identification, competing explanations, robustness, and falsifiability. |
-| [07-Research-Framework.md](07-Research-Framework.md) | Integrates the original empirical workflow and forms of evidence. |
 
 These files preserve the project’s earlier measurement stage.
 
