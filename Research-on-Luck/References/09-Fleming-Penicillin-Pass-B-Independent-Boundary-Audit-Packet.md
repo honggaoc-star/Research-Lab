@@ -2,9 +2,9 @@
 
 ## Status
 
-**Audit instrument FLEM-01-B-AUDIT, Version 1.0 — 20 July 2026**
+**Audit instrument FLEM-01-B-AUDIT, Version 1.1 — RC2 re-audit edition, 20 July 2026**
 
-This instrument is for an independent reviewer of the [Pass B Version 1.0-RC1 coder packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) and its [claim-level evidence inventory](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md).
+This instrument is for an independent reviewer of the [Pass B Version 1.0-RC2 coder packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) and its [claim-level evidence inventory](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md). The [locked RC1 audit](10-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Locked.md) is preserved separately.
 
 The reviewer audits packet construction. The reviewer does **not** code the Fleming opportunities, adjudicate Pass B, or decide what the historical evidence ultimately proves.
 
@@ -24,15 +24,27 @@ Prior general knowledge of penicillin is permitted but must be disclosed. The au
 
 Review only:
 
-1. [07 — Bounded Pass B Coder Packet, Version 1.0-RC1](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md)
-2. [08 — Pass B Claim-Level Evidence Inventory, Version 1.0-RC1](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md)
-3. F-P1 — Fleming's [1929 paper](https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf)
-4. F-B1 — Chain et al.'s [1940 paper](https://www.ndorms.ox.ac.uk/files/news/19400824_florey_penicillinasachemotherapeuticagent_lancet.pdf)
-5. F-B2 — Abraham et al.'s [1941 paper](https://www.jameslindlibrary.org/wp-data/uploads/2014/07/Abraham_EP_1941.pdf)
-6. F-B3 — War Production Board, [*War Production in 1944*](https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450/pdf/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450.pdf)
-7. F-B4 — War Production Board, [*Wartime Production Achievements and the Reconversion Outlook*](https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f/pdf/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f.pdf)
+1. [07 — Bounded Pass B Coder Packet, Version 1.0-RC2](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md)
+2. [08 — Pass B Claim-Level Evidence Inventory, Version 1.0-RC2](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md)
+3. [11 — Frozen Pass A Candidate-Boundary Manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md)
+4. F-P1 — Fleming's [1929 paper](https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf)
+5. F-B1 — Chain et al.'s [1940 paper](https://www.ndorms.ox.ac.uk/files/news/19400824_florey_penicillinasachemotherapeuticagent_lancet.pdf)
+6. F-B2 — Abraham et al.'s [1941 paper](https://www.jameslindlibrary.org/wp-data/uploads/2014/07/Abraham_EP_1941.pdf)
+7. F-B3 — War Production Board, [*War Production in 1944*](https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450/pdf/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450.pdf)
+8. F-B4 — War Production Board, [*Wartime Production Achievements and the Reconversion Outlook*](https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f/pdf/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f.pdf)
 
-Do not consult the locked coder records, Pass A adjudication, empirical case narrative, biographies, Nobel materials, or later histories unless necessary to document an audit problem. Any external consultation must be logged.
+Do not consult the locked coder records, Pass A adjudication, empirical case narrative, biographies, Nobel materials, or later histories unless necessary to document an audit problem. The candidate-boundary manifest is the sole permitted Pass A boundary reference. Any external consultation must be logged.
+
+## RC2 Re-Audit Scope
+
+A new independent reviewer may use the locked RC1 audit as the record that all undisputed checks were completed. The reviewer must independently verify:
+
+1. `AUD-C01`: files 07 and 08 preserve the exact 01A–01D wording in file 11, and file 11's provenance points to the frozen source instrument without exposing outcome-bearing materials;
+2. `AUD-M01`: F-B3-03 now reproduces “civilian distribution was made possible” without converting enablement into actual distribution;
+3. no RC2 edit changes a candidate, threshold, horizon, source boundary, evidence ID, or undisputed claim beyond what those findings require; and
+4. all new or changed relative links resolve.
+
+The reviewer may complete only the two affected audit rows plus the RC2 re-audit record below. Any newly discovered critical or major problem requires return for revision.
 
 ## Audit Standard
 
@@ -164,6 +176,19 @@ Assign stable IDs: `AUD-C01` for critical, `AUD-M01` for major, `AUD-m01` for mi
 | Finding ID | Severity | File and section | Problem | Why it matters | Required correction | Verification after correction |
 |---|---|---|---|---|---|---|
 | | | | | | | |
+
+## RC2 Finding Re-Audit
+
+| Prior finding | Corrected? | Verification evidence | New issue introduced? | Reviewer conclusion |
+|---|---|---|---|---|
+| AUD-C01 | | | | |
+| AUD-M01 | | | | |
+
+| RC2 integrity check | Pass / fail / indeterminate | Evidence or problem |
+|---|---|---|
+| Changes are confined to the two finding dispositions and related version/link/status updates | | |
+| No candidate, threshold, horizon, source boundary, or undisputed evidence claim changed | | |
+| New and changed repository-relative links resolve | | |
 
 ## Decision
 
