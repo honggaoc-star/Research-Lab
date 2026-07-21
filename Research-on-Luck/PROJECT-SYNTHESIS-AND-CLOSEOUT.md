@@ -333,6 +333,8 @@ Still others are methodological constraints, especially the requirement that com
 
 The proposition-to-evidence map made the uneven status of the theory explicit and selected Proposition 4—opportunity recognition—as the first bounded validation target.
 
+For a complete listing of the 22 propositions, their classifications, qualifications, and current evidentiary status, see [Core Propositions](General%20Theory/01-Core-Propositions.md).
+
 ---
 
 ## 10. Pilot Studies: Making Recognition Testable
@@ -698,6 +700,12 @@ Reopening requires:
 A private archive or future source containing comparable rejected, abandoned, and pre-entry possibilities could justify reconsidering Proposition 4. A public post-entry dataset could justify a different study of community uptake or validation, but only after explicit approval of the redesigned theoretical target.
 
 No new Measurement document, empirical domain, case series, or proposition test follows automatically from this closeout.
+
+---
+
+### Literature currency
+
+The project’s intellectual foundation does not end with the early work most often cited in the initial synthesis. Substantial post-2003 scholarship examines moral and epistemic luck, beliefs about luck, superstition and performance, randomness and unequal success, outcome effects, merit, and apparent skill. The working paper now identifies representative later work and distinguishes luck-specific scholarship from adjacent research on uncertainty, attribution, selection, path dependence, and cumulative advantage. This is a focused currency correction rather than a reopening of the literature program.
 
 ---
 
