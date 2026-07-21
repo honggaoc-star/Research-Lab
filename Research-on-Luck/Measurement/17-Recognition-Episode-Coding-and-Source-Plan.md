@@ -2,11 +2,13 @@
 
 ## Status and Purpose
 
-**Template Version 0.1**
+**Template Version 0.2 — prospective after FLEM-01**
 
 This document operationalizes [Validation Study 1](16-Validation-Study-Recognition-Without-Realization.md). It is a reusable instrument for constructing opportunity episodes, collecting sources, conducting two-pass coding, and preserving disagreements.
 
 It does not determine whether recognition causes pursuit or realization. It tests whether recognition can be identified independently of those later stages and of outcome hindsight.
+
+Version 0.2 incorporates the [FLEM-01 methodological synthesis](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md). It leaves the frozen FLEM-01 record suite unchanged and governs later episodes prospectively.
 
 ## Analytical Boundaries
 
@@ -36,11 +38,18 @@ Individual recognition is not organizational recognition. Observation is not nec
 | Pass A information cutoff | |
 | Full-trajectory horizon | |
 | Realization criterion | |
+| Realization threshold and required evidence | |
+| Conjunctive components, if any | |
+| Scale criterion, if any | |
+| Required Pass B checkpoints and rationale | |
+| Review tier | |
 | Boundary rationale | |
 
 ## Stage Coding Form
 
 Use **supported**, **not supported**, **contested**, **not yet observable**, or **indeterminate**. “Not supported” means the assembled packet lacks adequate affirmative evidence; it does not prove absence.
+
+For conjunctive components, use the same five evidence statuses. “Partial” may qualify the evidence narrative but is not a sixth code. Record **threshold-realization confidence** separately from **causal-effect confidence** whenever observed realization does not establish comparative causal effect.
 
 | Stage | Operational question | Code | Evidence IDs | Alternative interpretation | Confidence |
 |---|---|---|---|---|---|
@@ -97,6 +106,26 @@ A later source may locate archives or expose disagreement but should not establi
 | Outcome-leakage flag and reason | |
 | Included in Pass A? | |
 
+## Version 0.2 Preflight Checklist
+
+Before freeze, the coordinator must verify:
+
+- the candidate wording was fixed before outcome interpretation;
+- the focal system and all relevant nested systems are explicit;
+- the Pass A cutoff and full-trajectory horizon are dated;
+- the realization threshold is observable and candidate-specific;
+- conjunctive components and any scale criterion are defined;
+- every affirmative stage inference has directly relevant evidence;
+- competing and disconfirming evidence searches are logged;
+- Pass A contains no avoidable outcome cues;
+- the number of Pass B checkpoints is the minimum required by the trajectory;
+- coder instructions contain no proposed classification;
+- procedural-exposure and contamination rules are pre-registered;
+- filenames are stable before locked records refer to them; and
+- all relative links resolve before release.
+
+A failed material item blocks coordinator freeze. Independent audit is required only when a trigger in the review section applies.
+
 ## Source-Collection Procedure
 
 1. Fix the episode, cutoff, and realization criterion.
@@ -107,8 +136,8 @@ A later source may locate archives or expose disagreement but should not establi
 6. Build Pass A using only information available by the cutoff.
 7. quarantine later development, outcome, and retrospective celebration for Pass B.
 8. Record gaps; do not fill them through plausible narrative.
-9. Have a second researcher check the packet for hidden outcome cues.
-10. Freeze and version the packet before independent coding.
+9. Have the coordinator complete the preflight, including hidden-outcome-cue and actor-boundary checks.
+10. Freeze and version the packet before independent coding, or escalate when an audit trigger applies.
 
 ## Collection Stop Rules
 
@@ -132,6 +161,8 @@ Coders receive sources available through the cutoff and code potential, access, 
 
 Coders receive later pursuit, realization, foreclosure, and retrospective evidence. They recode the later stages and may revise earlier stages only with a stated evidentiary reason.
 
+Use one Pass B release by default. Add sequential checkpoints only when distinct transitions are necessary to test the trajectory and cannot be evaluated without preserving intermediate locks. The packet plan must justify every checkpoint before coding begins.
+
 ### Revision Log
 
 | Episode | Field changed | Pass A code | Pass B code | New evidence ID | Reason | Hindsight-sensitive? |
@@ -149,7 +180,9 @@ Coders receive later pursuit, realization, foreclosure, and retrospective eviden
 | Realization | | |
 | Foreclosure | | |
 | Primary recognition category | | |
-| Confidence | | |
+| Threshold-realization confidence | | |
+| Causal-effect confidence | | |
+| Procedural exposure or contamination | | |
 | Main ambiguity | | |
 
 Coders should record decisions independently before seeing one another’s forms.
@@ -161,7 +194,39 @@ Coders should record decisions independently before seeing one another’s forms
 
 Adjudication resolves application of rules; it should not erase substantive uncertainty or force agreement where evidence remains inadequate.
 
-## First Packet Specification: FLEM-01
+## Comparison, Adjudication, and Conditional Audit
+
+After both records are locked, generate a fixed comparison covering stage codes, recognition category, focal-system boundary, component status, revisions, and the two confidence fields.
+
+Adjudicate only differences that change a stage code, category, actor boundary, component determination, admissibility decision, or reported methodological conclusion. Preserve stylistic and nonmaterial confidence differences without decisioning.
+
+Independent audit is triggered only by:
+
+- a candidate change after evidence collection;
+- a contestable realization criterion or horizon;
+- a material actor or system dispute;
+- a central ex ante inference carried by retrospective evidence;
+- unresolved outcome leakage;
+- unstable conjunctive-component definitions;
+- substantive unauthorized exposure;
+- a material coder disagreement;
+- an unresolved source conflict; or
+- proposed promotion of a major theoretical claim.
+
+## Procedural-Exposure Log
+
+| Person or role | Timing | Information encountered | Authorized? | Substantive risk | Disposition |
+|---|---|---|---|---|---|
+
+Duplicated protocol language with no evidence or proposed coding exposure may be classified as a non-substantive procedural deviation. Exposure to unauthorized evidence, another coder's judgment, or a proposed classification requires documented admissibility review and may trigger recoding.
+
+## Immutable Record Suite
+
+Freeze stable numbered filenames before coder release. Locked records may reference earlier locked records but must not silently incorporate later edits. Verify relative links before release. Later corrections require a documented superseding record; they must not rewrite a locked submission.
+
+## Historical First Packet Specification: FLEM-01
+
+FLEM-01 is completed and frozen. The table below preserves the original specification as methodological history; Version 0.2 does not alter it.
 
 | Field | Specification |
 |---|---|
@@ -179,6 +244,8 @@ Adjudication resolves application of rules; it should not erase substantive unce
 The corresponding preliminary source packet is [References 02](../References/02-Fleming-Penicillin-Pre-Outcome-Evidence-Packet.md).
 
 ## Reporting
+
+Each completed episode should publish the minimum record suite needed for reproducibility. A separate independent audit record is published only when an audit trigger is activated.
 
 Each completed episode should publish:
 
