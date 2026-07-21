@@ -29,8 +29,8 @@ The project produced:
 - a proposition-to-evidence map;
 - one completed construct-validation stream;
 - two independently coded benchmark episodes;
-- a failed but informative population-scaling attempt;
-- and a theory revision based on that failure.
+- a population-scaling feasibility study that established the current identification boundary;
+- and a theory revision based on that evidentiary boundary.
 
 The project did **not** produce:
 
@@ -622,7 +622,7 @@ The project concluded a planned empirical expansion when its denominator could n
 
 ---
 
-## 16A. Methodological Contribution and Future Testing
+### Methodological contribution and future testing
 
 The framework should be judged partly by whether it enables later researchers to formulate clearer questions and more decisive tests.
 
@@ -711,13 +711,13 @@ The working paper should not reproduce the repository inventory. It should devel
 - opportunity-stage analysis;
 - survivorship and selection;
 - bounded recognition validation;
-- and the observability limit revealed by the failed scaling attempt.
+- and the observability limit revealed by the scaling feasibility study.
 
 The paper should distinguish clearly among:
 
 - conceptual contribution;
 - provisional measurement support;
-- identification failure;
+- identification boundaries;
 - and theoretical falsification.
 
 The synthesis records the full journey. The working paper should transform that journey into a focused external argument.
