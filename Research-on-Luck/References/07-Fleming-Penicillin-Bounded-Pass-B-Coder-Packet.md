@@ -4,7 +4,7 @@
 
 **Packet FLEM-01-B, Version 1.0-RC1 — auditable release candidate, 20 July 2026**
 
-**Not yet released for independent coding.** The analytical boundary, primary-source manifest, claim-level evidence inventory, realization rules, coder forms, and freeze gate are complete. One independent packet-boundary audit is required before the status may change to frozen Version 1.0.
+**Not yet released for independent coding.** The analytical boundary, primary-source manifest, claim-level evidence inventory, realization rules, coder forms, and freeze gate are complete. One independent packet-boundary audit using the [Version 1.0 audit instrument](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) is required before the status may change to frozen Version 1.0.
 
 Pass A is closed. See the [agreement and adjudication report](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md). The [Coder 1](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) and [Coder 2](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) submissions remain locked and must not be edited.
 
@@ -211,7 +211,7 @@ If any answer reveals leakage, revise the affected code and log the revision.
 
 ## Freeze Gate
 
-Version 1.0 may be frozen only when an independent checker confirms:
+Version 1.0 may be frozen only when an independent checker completes and locks the [boundary-audit record](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) and confirms:
 
 - all four Pass B primary files open and are complete;
 - printed page ranges match the manifest;
