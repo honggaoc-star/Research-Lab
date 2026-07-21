@@ -22,6 +22,13 @@ The directory currently contains the first evidence map and the first validation
 - [12 — Fleming Pass B RC1 Audit Findings Disposition](12-Fleming-Penicillin-Pass-B-RC1-Audit-Findings-Disposition.md) — maps both audit findings to bounded RC2 corrections and records the re-audit requirement.
 - [13 — Fleming Pass B Locked RC2 Boundary Re-Audit](13-Fleming-Penicillin-Pass-B-RC2-Independent-Boundary-Re-Audit-Locked.md) — preserves the independent reviewer’s approval record verbatim, with zero unresolved findings.
 - [14 — Fleming Pass B Version 1.0 Freeze and Release Record](14-Fleming-Penicillin-Pass-B-Version-1.0-Freeze-and-Release-Record.md) — records the frozen artifacts, approval provenance, immutability rule, and sequential coder-release controls.
+- [15 — Fleming Pass B Alpha B1 Locked Record](15-Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md) — preserves Independent Coder Alpha’s locked B1 submission verbatim.
+- [16 — Fleming Pass B Alpha B2 Locked Record](16-Fleming-Penicillin-Pass-B-Alpha-B2-Locked.md) — preserves Independent Coder Alpha’s locked B2 submission verbatim.
+- [17 — Fleming Pass B Alpha Complete Locked Record](17-Fleming-Penicillin-Pass-B-Alpha-Complete-Locked.md) — preserves Independent Coder Alpha’s locked B3 and final submission verbatim.
+- [18 — Fleming Pass B Beta B1 Locked Record](18-Fleming-Penicillin-Pass-B-Beta-B1-Locked.md) — preserves Independent Coder Beta’s locked B1 submission verbatim.
+- [19 — Fleming Pass B Beta B2 Locked Record](19-Fleming-Penicillin-Pass-B-Beta-B2-Locked.md) — preserves Independent Coder Beta’s locked B2 submission verbatim.
+- [20 — Fleming Pass B Beta Complete Locked Record](20-Fleming-Penicillin-Pass-B-Beta-Complete-Locked.md) — preserves Independent Coder Beta’s locked B3 and final submission verbatim.
+- [21 — Fleming Pass B Agreement and Adjudication](21-Fleming-Pass-B-Agreement-and-Adjudication.md) — reports complete stage-code and classification agreement, adjudicates terminology and procedural matters, and closes FLEM-01 Pass B.
 
 ## Evidence Priorities
 
@@ -118,7 +125,9 @@ The bounded Pass B packet and its claim-level evidence inventory are now frozen 
 
 The independent RC1 audit returned one critical boundary-verification finding and one major source-paraphrase finding. Both corrections were implemented in Version 1.0-RC2 and documented separately. The locked RC2 re-audit approved freeze with zero unresolved findings.
 
-Version 1.0 is frozen and released for two independent Pass B coding records under the packet’s sequential B1–B3 disclosure and locking controls. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
+Version 1.0 was released to two independent coders under sequential B1–B3 disclosure and locking controls. The six locked [Alpha B1](15-Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md), [Alpha B2](16-Fleming-Penicillin-Pass-B-Alpha-B2-Locked.md), [Alpha complete](17-Fleming-Penicillin-Pass-B-Alpha-Complete-Locked.md), [Beta B1](18-Fleming-Penicillin-Pass-B-Beta-B1-Locked.md), [Beta B2](19-Fleming-Penicillin-Pass-B-Beta-B2-Locked.md), and [Beta complete](20-Fleming-Penicillin-Pass-B-Beta-Complete-Locked.md) records are now published verbatim.
+
+The [Pass B agreement and adjudication report](21-Fleming-Pass-B-Agreement-and-Adjudication.md) closes FLEM-01 Pass B. Alpha and Beta agreed on all 12 candidate-checkpoint classifications and all 72 stage-code comparisons. A B1 component-terminology difference and Beta’s disclosed procedural exposure were documented without changing any locked substantive code. The complete Fleming two-pass cycle is ready for bounded methodological synthesis before a new empirical episode is opened.
 
 ## Long-Term Goal
 
