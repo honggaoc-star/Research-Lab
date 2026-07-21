@@ -47,7 +47,7 @@ These files preserve the project’s earlier measurement stage.
 
 ---
 
-## Additive Operational and Validation Layer: 10–19
+## Additive Operational and Validation Layer: 10–20
 
 | Document | Purpose |
 | --- | --- |
@@ -61,6 +61,7 @@ These files preserve the project’s earlier measurement stage.
 | [17-Recognition-Episode-Coding-and-Source-Plan.md](17-Recognition-Episode-Coding-and-Source-Plan.md) | Provides the reusable episode record, source log, blinded coding forms, adjudication procedure, and the first packet specification. |
 | [18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) | Synthesizes the completed Fleming cycle, adopts risk-tiered review, and recommends Cold Fusion as the next controlled replication. |
 | [19-Pilot-Decision-Gate-and-Stage-2-Direction.md](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) | Closes the heterogeneous pilot with a conditional GO to Stage 2 Science design and records the dispositions of Betamax, Microsoft, and Kodak. |
+| [20-Stage-2-Science-Feasibility-and-Sampling-Frame.md](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) | Determines that the existing Science corpus is not a sampling frame and authorizes only bounded Stage 2A frame construction before substantive coding. |
 
 ---
 
@@ -169,7 +170,7 @@ Depth remains preferable to adding further empirical domains.
 
 ## Current Status
 
-The additive measurement architecture is complete through file 15. Files 16–19 now contain the bounded validation protocol, the reusable Version 0.2 instrument, the completed FLEM-01 methodological synthesis, and the pilot decision gate.
+The additive measurement architecture is complete through file 15. Files 16–20 now contain the bounded validation protocol, the reusable Version 0.2 instrument, the completed FLEM-01 methodological synthesis, the pilot decision gate, and the Stage 2 Science feasibility and sampling-frame design.
 
 The Empirical Studies architecture audit and the first proposition-to-evidence map are complete. Validation Study 1 now tests whether recognition can be coded separately from access, authority, pursuit, realization, and outcome hindsight.
 
@@ -181,6 +182,8 @@ The [FLEM-01 methodological synthesis](18-FLEM-01-Methodological-Synthesis-and-S
 
 The Cold Fusion Tier 2 feasibility gate passed and the controlled replication is complete. The [feasibility and preflight record](../References/22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md) froze three separately codeable candidates and the bounded Pass A/Pass B design. The two independent Pass A records achieved 18/18 stage-code and 3/3 category agreement, and the [Pass A disposition](../References/26-CF-01-Pass-A-Agreement-and-Exposure-Disposition.md) found no audit trigger. The cumulative [Alpha](../References/28-CF-01-Pass-B-Coder-Alpha-Locked.md) and [Coder B](../References/29-CF-01-Pass-B-Coder-B-Locked.md) Pass B records achieved 15/18 strict stage-component agreement and 3/3 final-category agreement. Their [agreement and adjudication report](../References/30-CF-01-Pass-B-Agreement-and-Adjudication.md) resolves the recognition-status allocation ambiguity, classifies all three candidates as premature recognition rather than established falsehood, and closes CF-01 without independent audit.
 
-The [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained conditionally as an optional later portability or boundary-stress test. The next action is to prepare a bounded Science feasibility and sampling-frame record before substantive Stage 2 coding.
+The [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained conditionally as an optional later portability or boundary-stress test.
+
+The [Stage 2 Science feasibility and sampling-frame record](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) narrows that authorization. The existing purposive Science corpus remains a calibration resource, not a population. The project may proceed to bounded Stage 2A candidate-frame reconnaissance, but substantive coding, prevalence estimates, and recognition–outcome analysis remain blocked until one concrete outcome-independent frame passes the explicit feasibility gate.
 
 Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
