@@ -19,6 +19,17 @@ The inventory is claim-level rather than narrative. Evidence IDs identify source
 | Attribution rule | Fleming, Oxford team, clinical collaborators, and production network remain separate focal systems |
 | Full-trajectory horizon | 31 December 1945 |
 
+## Fixed Candidate Opportunities
+
+The authoritative wording is reproduced from the outcome-free [frozen Pass A candidate-boundary manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md):
+
+- **01A:** scientific characterization of the antibacterial substance;
+- **01B:** use of selective inhibition as a bacteriological isolation tool;
+- **01C:** local therapeutic or antiseptic application against susceptible microbes;
+- **01D:** development as a stable, purified, systemically administered, scalable medicine.
+
+Each candidate remains separate. Recognition of one does not entail recognition of another.
+
 ## Core Primary-Source Manifest
 
 | Source ID | Complete citation and stable copy | Source status | Checkpoint role | Inclusion decision |
