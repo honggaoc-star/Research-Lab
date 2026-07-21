@@ -2,7 +2,7 @@
 
 ## Status
 
-**Protocol Version 0.2 — Construct-validation pilot complete; narrowed GO to Stage 2A Science frame construction**
+**Protocol Version 0.2 — Construct-validation pilot complete; original Stage 2 Science scaling closed after reconnaissance**
 
 This document specifies the first bounded validation study arising from the [Proposition-to-Evidence Map](../References/01-Proposition-to-Evidence-Map.md). It concerns Proposition 4: opportunity recognition is uneven.
 
@@ -311,4 +311,4 @@ The Tier 2 Cold Fusion controlled replication is complete. It shows that Version
 
 The [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) records a conditional GO to Stage 2 Science design. Betamax is deferred; Microsoft is reclassified as a possible within-system episode population; and Kodak is retained conditionally as an optional later portability or boundary-stress test.
 
-The [Stage 2 feasibility and sampling-frame record](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) narrows the next phase to bounded Stage 2A frame construction. The existing Science corpus is calibration material, not a population. Substantive coding remains blocked until one concrete outcome-independent frame passes the feasibility gate. These decisions do not validate Proposition 4, causal effects, prevalence, or cross-domain portability.
+The [Stage 2 feasibility and sampling-frame record](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) documents the completed three-candidate reconnaissance. The existing Science corpus is calibration material, not a population, and none of the tested public-source families observes original recognition and nonrecognition symmetrically. The original Stage 2 Science scaling design is therefore closed. Any study of post-entry uptake, validation, or realization would be a separate redesign requiring explicit authorization. These decisions do not validate or reject Proposition 4, establish causal effects or prevalence, or demonstrate cross-domain portability.
