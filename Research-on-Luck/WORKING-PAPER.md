@@ -98,6 +98,10 @@ Statistics supplies tools for probability, variation, inference, and missing dat
 
 The project organized these traditions into philosophy, economics, psychology, statistics, and additional work in management, sociology, political philosophy, and complex systems [19, 20]. This review was not merely introductory. It produced the distinctions that governed the later study design: control versus uncertainty; risk versus deeper uncertainty; circumstance versus action; prior information versus hindsight; individual characteristics versus environmental conditions; and causal mechanisms versus retrospective evaluations.
 
+Research on luck did not end with the early foundational works. Post-2003 philosophy developed extensive work on epistemic luck, moral luck, political luck, and the relationship between luck and knowledge [26–29]. Psychology examined beliefs about good luck, superstition, planning, confidence, and performance, including both prominent experimental results and subsequent replication concerns [30–32]. Modeling and finance research examined how randomness or path-dependent access can generate unequal success and apparent performance persistence without corresponding differences in talent or skill [33, 34]. Recent preregistered experiments also connect harmful outcomes, hindsight, and judgments of negligence and culpability [35].
+
+These later studies do not form one unified theory. Some examine objective random variation, others perceived luck, moral evaluation, superstition, distributive fairness, or selection. Their diversity reinforces the project’s starting problem: the word *luck* connects several research traditions that study different objects and use different methods.
+
 Our contribution is therefore not a claim that earlier fields overlooked luck. It is an attempt to connect their separate insights in a form that can discipline historical and comparative research.
 
 ---
@@ -282,7 +286,9 @@ This requirement became central to our later empirical difficulty. We wanted evi
 
 To learn whether the six-step opportunity sequence could be made researchable, we conducted two bounded pilot studies.
 
-The framework contains a family of propositions, each of which may require a different empirical design. The ex ante purpose of these pilots was not to prove or disprove a general proposition statistically. It was to determine whether one selected set of distinctions could be translated into observable evidence and an auditable procedure.
+The framework contains 22 propositions spanning analytical definitions, empirical hypotheses, comparative claims, and methodological requirements. For a complete listing of the propositions, their classifications, qualifications, and current evidentiary status, see [Core Propositions](General%20Theory/01-Core-Propositions.md).
+
+Each proposition may require a different empirical design. The ex ante purpose of these pilots was not to prove or disprove a general proposition statistically. It was to determine whether one selected set of distinctions could be translated into observable evidence and an auditable procedure.
 
 The pilot question was:
 
@@ -595,3 +601,23 @@ Where those separations cannot be supported, the appropriate conclusion is not t
 [24] Research on Luck Project. (2026). [“Stage 2 Science Feasibility and Sampling Frame.”](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md)
 
 [25] Research on Luck Project. (2026). [“Project Synthesis and Closeout.”](PROJECT-SYNTHESIS-AND-CLOSEOUT.md)
+
+[26] Pritchard, D. (2005). *Epistemic Luck*. Oxford University Press. https://doi.org/10.1093/019928038X.001.0001
+
+[27] Pritchard, D., and Whittington, L. J., eds. (2015). *The Philosophy of Luck*. Wiley Blackwell.
+
+[28] Church, I. M., and Hartman, R. J., eds. (2019). *The Routledge Handbook of the Philosophy and Psychology of Luck*. Routledge.
+
+[29] Lang, G. (2021). *Strokes of Luck: A Study in Moral and Political Philosophy*. Oxford University Press.
+
+[30] Day, L., and Maltby, J. (2005). “‘With Good Luck’: Belief in Good Luck and Cognitive Planning.” *Personality and Individual Differences*, 39(7), 1217–1226. https://doi.org/10.1016/j.paid.2005.04.011
+
+[31] Damisch, L., Stoberock, B., and Mussweiler, T. (2010). “Keep Your Fingers Crossed! How Superstition Improves Performance.” *Psychological Science*, 21(7), 1014–1020. https://doi.org/10.1177/0956797610372631
+
+[32] Calin-Jageman, R. J., and Caldwell, T. L. (2014). “Replication of the Superstition and Performance Study by Damisch, Stoberock, and Mussweiler (2010).” *Social Psychology*, 45(3), 239–245. https://doi.org/10.1027/1864-9335/a000190
+
+[33] Pluchino, A., Biondo, A. E., and Rapisarda, A. (2018). “Talent versus Luck: The Role of Randomness in Success and Failure.” *Advances in Complex Systems*, 21(3–4), 1850014. https://doi.org/10.1142/S0219525918500145
+
+[34] Cong, L. W. (2022). “Persistent Blessings of Luck: Theory and an Application to Venture Capital.” *The Review of Financial Studies*, 35(3), 1183–1221. https://doi.org/10.1093/rfs/hhab055
+
+[35] Kneer, M., and Skoczeń, I. (2023). “Outcome Effects, Moral Luck and the Hindsight Bias.” *Cognition*, 232, 105258. https://doi.org/10.1016/j.cognition.2022.105258
