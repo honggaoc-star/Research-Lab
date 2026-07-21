@@ -60,7 +60,7 @@ These files preserve the project’s earlier measurement stage.
 | [17-Recognition-Episode-Coding-and-Source-Plan.md](17-Recognition-Episode-Coding-and-Source-Plan.md) | Provides the reusable episode record, source log, blinded coding forms, adjudication procedure, and the first packet specification. |
 | [18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) | Synthesizes the completed Fleming cycle, adopts risk-tiered review, and recommends Cold Fusion as the next controlled replication. |
 | [19-Pilot-Decision-Gate-and-Stage-2-Direction.md](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) | Closes the heterogeneous pilot with a conditional GO to Stage 2 Science design and records the dispositions of Betamax, Microsoft, and Kodak. |
-| [20-Stage-2-Science-Feasibility-and-Sampling-Frame.md](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) | Determines that the existing Science corpus is not a sampling frame and authorizes only bounded Stage 2A frame construction before substantive coding. |
+| [20-Stage-2-Science-Feasibility-and-Sampling-Frame.md](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) | Tests three public-source frame families, finds none suitable for original recognition-versus-nonrecognition scaling, and closes Stage 2A. |
 
 ---
 
@@ -183,6 +183,6 @@ The Cold Fusion Tier 2 feasibility gate passed and the controlled replication is
 
 The [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained conditionally as an optional later portability or boundary-stress test.
 
-The [Stage 2 Science feasibility and sampling-frame record](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) narrows that authorization. The existing purposive Science corpus remains a calibration resource, not a population. The project may proceed to bounded Stage 2A candidate-frame reconnaissance, but substantive coding, prevalence estimates, and recognition–outcome analysis remain blocked until one concrete outcome-independent frame passes the explicit feasibility gate.
+The [Stage 2 Science feasibility and sampling-frame record](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) now includes the completed three-candidate reconnaissance. NSF public award data are selected on funding, while arXiv, bioRxiv, and ClinicalTrials.gov become enumerable only after recognition or pursuit has occurred. None supplies a denominator containing both recognized and unrecognized opportunities. Stage 2A is therefore closed with a STOP for the original scaling design. The pilot findings remain bounded construct evidence; any post-entry redesign requires a separate explicit decision.
 
 Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
