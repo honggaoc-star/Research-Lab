@@ -2,15 +2,17 @@
 
 ## Status
 
-**Step 6 design record — NARROWED GO to Stage 2A frame construction; NO-GO to substantive Stage 2 coding**
+**Step 6 design record, Version 0.2 — STOP original Stage 2 Science scaling; separate redesign only by explicit decision**
 
 This record implements the condition established by the [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md). It evaluates whether the Science domain presently supports an outcome-independent episode population suitable for a larger study of recognition without realization.
 
-The answer is divided:
+The initial design decision was divided:
 
-- **Yes:** Science remains the best domain in which to construct and test a sampling frame.
-- **No:** the current repository case corpus is not itself a sampling frame and should not be converted into one retrospectively.
-- **Decision:** proceed only to a bounded Stage 2A frame-construction and evidence-feasibility phase. Do not begin full episode coding or estimate recognition–outcome relationships yet.
+- **Yes:** Science was the best domain in which to test whether a sampling frame could be constructed.
+- **No:** the current repository case corpus was not itself a sampling frame and could not be converted into one retrospectively.
+- **Initial decision:** permit only bounded Stage 2A candidate-frame reconnaissance.
+
+That reconnaissance is now complete. None of the three bounded candidates supplies an outcome-independent denominator containing both recognized and unrecognized scientific opportunities. The current decision is therefore to **stop the original Stage 2 Science scaling attempt**.
 
 ## Decision Question
 
@@ -311,45 +313,82 @@ Stop Stage 2 Science if:
 
 Stopping Stage 2 Science would not invalidate the pilot. It would show that the construct is not presently scalable under an adequate sampling design.
 
-## Current Decision
+## Stage 2A Candidate-Frame Reconnaissance
 
-**NARROWED GO to Stage 2A frame construction.**
+The reconnaissance was limited to three concrete public-source families. The test asked whether each source could enumerate entries independently of later outcome **and** include the absence of recognition rather than beginning after recognition had already occurred.
 
-The conceptual and procedural design is feasible enough to justify bounded source reconnaissance. Population and evidence feasibility are not yet established.
+| Candidate | Official source capability | Construct fit | Evidence symmetry | Decision |
+|---|---|---|---|---|
+| NSF proposal cohort | The [NSF Award Search](https://www.nsf.gov/funding/award-search) enumerates funded projects, while the [proposal process](https://www.nsf.gov/funding/overview) also produces declined decisions that are not exposed as a comparable public proposal corpus. | A submitted proposal evidences recognition; the public denominator is additionally selected on award. | Failed at the public-source level. | Reject |
+| arXiv or bioRxiv submission cohort | arXiv provides [daily OAI-PMH metadata for all submissions](https://info.arxiv.org/help/bulk_data.html). The [bioRxiv API](https://api.biorxiv.org/) provides date-bounded preprint metadata and links to later publication where available. | Submission already evidences recognition and pursuit by the originating team. A study could examine later publication or community uptake, but not recognition versus nonrecognition under the present focal-system definition. | Strong for posted items; absent for ideas never submitted. | Redesign only |
+| ClinicalTrials.gov registration cohort | ClinicalTrials.gov provides structured [study records](https://clinicaltrials.gov/data-api/about-api/study-data-structure) and visible [record histories](https://clinicaltrials.gov/study-basics/how-to-read-study-record). | Registration already evidences a recognized and substantially pursued research possibility. The frame could study completion, reporting, or realization after registration, not uneven recognition. | Stronger after registration; no denominator of unregistered opportunities. | Redesign only |
 
-Accordingly:
+### Reconnaissance Result
 
-- do not code the current Science case corpus as a Stage 2 sample;
-- do not select a balanced set of successes and failures retrospectively;
-- do not estimate prevalence or causal effects;
-- do not create additional heterogeneous case narratives;
-- compare concrete bounded frame candidates;
-- test the strongest candidates with outcome-independent feasibility slices;
-- and return to the GO, NARROW, REDESIGN, or STOP gate before substantive coding.
+The candidates reveal the same structural problem:
 
-## Immediate Next Action
+1. source-generated public lists become enumerable only after an actor has articulated, submitted, posted, proposed, or registered a possibility;
+2. those acts are themselves evidence of recognition and usually pursuit;
+3. unrecognized possibilities do not generate records by definition;
+4. abandoned or rejected ideas before formal entry are not publicly enumerable in a comparable way;
+5. and later attempts to reconstruct them would recreate the hindsight, fame, and archival-selection problems the design was intended to avoid.
 
-Prepare a short candidate-frame comparison using concrete, accessible sources. Record the comparison as a revision to this file or as a compact supporting record only if the evidence inventory becomes too large for this decision document.
+This is not merely a data-volume problem. It is a mismatch between the original estimand and the observable entry processes.
 
-No file 21 is authorized by default. The project should prefer a verified frame over a longer document series.
+## Final Gate Decision
+
+**STOP the original Stage 2 Science scaling attempt.**
+
+Do not:
+
+- code the existing Science corpus as a sample;
+- build an artificial balance of realized and unrealized cases;
+- estimate the prevalence or effect of recognition;
+- continue searching indefinitely for a denominator of unrecognized opportunities;
+- or add further candidate-frame documents.
+
+The completed FLEM-01 and CF-01 cycles remain valid as bounded construct and instrument tests. The stop decision concerns scalability and population inference, not the usefulness of the recognition distinction.
+
+## Possible Redesign — Not Authorized Automatically
+
+A different study could begin at a documented entry point and ask a narrower question, such as:
+
+> Among publicly posted or registered scientific claims, what predicts later community recognition, continued pursuit, validation, publication, completion, or realization?
+
+This would change:
+
+- the focal system from the originating actor to a scientific audience, institution, or validation community;
+- the recognition event from initial opportunity recognition to post-entry uptake;
+- the eligible population to submitted or registered records;
+- and the theoretical target from the original form of Proposition 4 to a narrower diffusion, selection, or validation relationship.
+
+That study may be feasible with arXiv, bioRxiv, or ClinicalTrials.gov, but it is not a continuation by default. It requires a separate decision that the redesigned question is important enough to justify the work and remains sufficiently connected to Research on Luck.
+
+## Project-Level Interpretation
+
+The bounded reconnaissance has served its purpose. It prevented a purposive case collection from being misrepresented as a population and exposed a genuine observability limit:
+
+> recognition can be coded within known episodes, but the prevalence and effects of recognition cannot be estimated from public records when nonrecognition leaves no enumerable trace.
+
+This result should narrow the evidence claim for Proposition 4. It should not trigger additional exploratory case accumulation.
 
 ## Claims Authorized by This Record
 
 This record supports the following limited conclusions:
 
-- Science remains the preferred domain for Stage 2 frame construction;
-- the existing Science corpus is a calibration resource, not a population;
-- a bounded documentary cohort is the most promising frame family;
-- and source reconnaissance is justified.
+- the recognition construct remains provisionally codeable within bounded known episodes;
+- the existing Science corpus is calibration material, not a population;
+- none of the three tested public-source families observes original recognition and nonrecognition symmetrically;
+- and the original Stage 2 Science population design is not presently feasible.
 
 It does not establish:
 
-- that a viable concrete frame exists;
-- that Proposition 4 is validated;
-- that recognition predicts pursuit or realization;
-- that the recognition construct is cross-domain portable;
-- or that a larger study should begin.
+- that Proposition 4 is false;
+- that recognition predicts or does not predict pursuit or realization;
+- that no private or future data source could ever support the study;
+- that the construct is cross-domain portable;
+- or that a redesigned post-entry study should begin.
 
 ## Final Disposition
 
-**Proceed to Stage 2A frame construction under a narrowed design. Do not begin substantive Stage 2 coding until one concrete frame passes the explicit feasibility gate.**
+**Close Stage 2A with a STOP for the original scaling design. Preserve the pilot findings, narrow the claim, and require explicit authorization before pursuing any post-entry redesign. No file 21 is authorized.**
