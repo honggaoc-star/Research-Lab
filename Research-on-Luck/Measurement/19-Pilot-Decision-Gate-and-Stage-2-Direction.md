@@ -103,9 +103,9 @@ The design should compare recognition with subsequent pursuit and realization wh
 
 The next planned record is:
 
-- [20-Stage-2-Science-Feasibility-and-Sampling-Frame.md](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md)
+- `20-Stage-2-Science-Feasibility-and-Sampling-Frame.md`
 
-This forward link identifies the intended next deliverable; the file should be created only when the feasibility and sampling-frame design is ready for review.
+This filename identifies the intended next deliverable; the file should be created only when the feasibility and sampling-frame design is ready for review.
 
 ## Claims Authorized by This Gate
 
