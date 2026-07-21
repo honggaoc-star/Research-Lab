@@ -2,9 +2,9 @@
 
 ## Status
 
-**Packet FLEM-01-B, Version 1.0-RC2 — corrected release candidate, 20 July 2026**
+**Packet FLEM-01-B, Version 1.0 — frozen 20 July 2026**
 
-**Not yet released for independent coding.** The [locked RC1 audit](10-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Locked.md) returned one critical and one major finding. RC2 supplies the missing outcome-free candidate-boundary manifest and corrects F-B3-03; the actions and scope controls are recorded in the [RC1 findings disposition](12-Fleming-Penicillin-Pass-B-RC1-Audit-Findings-Disposition.md). A bounded independent re-audit using the updated [Version 1.1 audit instrument](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) is required before freeze.
+**Frozen and released for independent Pass B coding.** The [locked RC1 audit](10-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Locked.md) returned one critical and one major finding; the [RC1 findings disposition](12-Fleming-Penicillin-Pass-B-RC1-Audit-Findings-Disposition.md) documents their bounded correction. The [locked RC2 re-audit](13-Fleming-Penicillin-Pass-B-RC2-Independent-Boundary-Re-Audit-Locked.md) resolved both findings and approved freeze with zero unresolved critical, major, or minor findings.
 
 Pass A is closed. See the [agreement and adjudication report](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md). The [Coder 1](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) and [Coder 2](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) submissions remain locked and must not be edited.
 
@@ -209,9 +209,9 @@ If any answer reveals leakage, revise the affected code and log the revision.
 | Packet ambiguities | |
 | Recommended rule revision | |
 
-## Freeze Gate
+## Freeze Record
 
-Version 1.0 may be frozen only after a new independent reviewer completes the RC2 checks in the [boundary-audit instrument](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md), explicitly verifies disposition of `AUD-C01` and `AUD-M01`, and confirms:
+The freeze gate was satisfied by the [locked RC2 re-audit](13-Fleming-Penicillin-Pass-B-RC2-Independent-Boundary-Re-Audit-Locked.md), which confirmed:
 
 - all four Pass B primary files open and are complete;
 - printed page ranges match the manifest;
@@ -223,5 +223,5 @@ Version 1.0 may be frozen only after a new independent reviewer completes the RC
 - sequential-release instructions prevent checkpoint leakage;
 - and all repository-relative links resolve.
 
-If the RC2 reviewer finds only new locator or transcription errors, correct them and issue RC3. Any change to a candidate, threshold, horizon, or source boundary requires a documented protocol revision before freeze.
+Version 1.0 is immutable during independent coding. Any later correction or proposed change to a candidate, threshold, horizon, source boundary, evidence ID, or rule requires a new version, a documented protocol revision, and an explicit recoding decision.
 
