@@ -19,7 +19,9 @@ The directory currently contains the first evidence map and the first validation
 - [09 — Fleming Pass B Independent Boundary-Audit Packet](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) — Version 1.1 provides the RC2 re-audit instrument and preserves the full audit framework.
 - [10 — Fleming Pass B Locked RC1 Boundary Audit](10-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Locked.md) — preserves the independent reviewer’s completed record verbatim; RC1 was returned with `AUD-C01` and `AUD-M01`.
 - [11 — Frozen Pass A Candidate-Boundary Manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md) — supplies the exact outcome-free 01A–01D wording and frozen-source provenance required to resolve `AUD-C01`.
-- [12 — Fleming Pass B RC1 Audit Findings Disposition](12-Fleming-Penicillin-Pass-B-RC1-Audit-Findings-Disposition.md) — maps both audit findings to bounded RC2 corrections and records the remaining re-audit requirement.
+- [12 — Fleming Pass B RC1 Audit Findings Disposition](12-Fleming-Penicillin-Pass-B-RC1-Audit-Findings-Disposition.md) — maps both audit findings to bounded RC2 corrections and records the re-audit requirement.
+- [13 — Fleming Pass B Locked RC2 Boundary Re-Audit](13-Fleming-Penicillin-Pass-B-RC2-Independent-Boundary-Re-Audit-Locked.md) — preserves the independent reviewer’s approval record verbatim, with zero unresolved findings.
+- [14 — Fleming Pass B Version 1.0 Freeze and Release Record](14-Fleming-Penicillin-Pass-B-Version-1.0-Freeze-and-Release-Record.md) — records the frozen artifacts, approval provenance, immutability rule, and sequential coder-release controls.
 
 ## Evidence Priorities
 
@@ -112,11 +114,11 @@ The first evidence map and reusable recognition instrument are complete. FLEM-01
 
 Pass A produced 23/24 stage-code agreement (95.8%) and 3/4 final-category agreement (75%). The substantive evidence judgments converged; the 01C differences exposed ambiguity in the timing rule for realization and overlap between Categories 5 and 6.
 
-The bounded Pass B packet and its claim-level evidence inventory are now at Version 1.0-RC1. Complete primary texts are identified for the 1940 and 1941 Oxford reports, and contemporaneous War Production Board records carry the production-scale claims. The manifest no longer relies on retrospective institutional histories for a core inference.
+The bounded Pass B packet and its claim-level evidence inventory are now frozen as Version 1.0. Complete primary texts are identified for the 1940 and 1941 Oxford reports, and contemporaneous War Production Board records carry the production-scale claims. The manifest no longer relies on retrospective institutional histories for a core inference.
 
-The independent RC1 audit is complete and locked. It returned one critical boundary-verification finding and one major source-paraphrase finding. Both corrections are implemented in Version 1.0-RC2 and documented separately.
+The independent RC1 audit returned one critical boundary-verification finding and one major source-paraphrase finding. Both corrections were implemented in Version 1.0-RC2 and documented separately. The locked RC2 re-audit approved freeze with zero unresolved findings.
 
-A new independent reviewer must now verify the two dispositions using the Version 1.1 re-audit instrument. RC2 remains unfrozen and unavailable to coders until a locked approval record is received. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
+Version 1.0 is frozen and released for two independent Pass B coding records under the packet’s sequential B1–B3 disclosure and locking controls. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
 
 ## Long-Term Goal
 
