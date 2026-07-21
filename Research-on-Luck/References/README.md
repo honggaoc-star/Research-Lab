@@ -14,7 +14,8 @@ The directory currently contains the first evidence map and the first validation
 - [04 — Fleming Pass A Coder 1 Record](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) — preserves Independent Coder 1’s locked submission verbatim.
 - [05 — Fleming Pass A Coder 2 Record](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) — preserves Independent Coder 2’s locked submission verbatim.
 - [06 — Fleming Pass A Agreement and Adjudication](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md) — reports raw agreement, preserves the 01C disagreements, adjudicates the applicable rules, and closes Pass A.
-- [07 — Fleming Bounded Pass B Coder Packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) — fixes the Pass B horizon, candidate-specific realization rules, actor boundaries, provisional source manifest, and release gate; Version 0.1 remains a construction draft.
+- [07 — Fleming Bounded Pass B Coder Packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) — Version 1.0-RC1 fixes the Pass B horizon, sequential checkpoints, candidate-specific realization rules, actor boundaries, coder forms, and freeze gate.
+- [08 — Fleming Pass B Claim-Level Evidence Inventory](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md) — supplies the complete primary-source manifest, page-level claim map, limitations, coverage audit, exclusion decisions, and source-bundle verification.
 
 ## Evidence Priorities
 
@@ -107,7 +108,9 @@ The first evidence map and reusable recognition instrument are complete. FLEM-01
 
 Pass A produced 23/24 stage-code agreement (95.8%) and 3/4 final-category agreement (75%). The substantive evidence judgments converged; the 01C differences exposed ambiguity in the timing rule for realization and overlap between Categories 5 and 6.
 
-The bounded Pass B packet is now at construction-draft Version 0.1. It may be frozen and released only after the complete primary texts, claim-level locators, production evidence, disconfirming evidence, and independent boundary check satisfy its release gate. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
+The bounded Pass B packet and its claim-level evidence inventory are now at Version 1.0-RC1. Complete primary texts are identified for the 1940 and 1941 Oxford reports, and contemporaneous War Production Board records carry the production-scale claims. The manifest no longer relies on retrospective institutional histories for a core inference.
+
+One independent packet-boundary audit remains before freeze and coder release. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
 
 ## Long-Term Goal
 
