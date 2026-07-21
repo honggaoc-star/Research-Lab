@@ -47,7 +47,7 @@ These files preserve the project’s earlier measurement stage.
 
 ---
 
-## Additive Operational and Validation Layer: 10–17
+## Additive Operational and Validation Layer: 10–18
 
 | Document | Purpose |
 | --- | --- |
@@ -59,6 +59,7 @@ These files preserve the project’s earlier measurement stage.
 | [15-Identification-Validation-and-Measurement-Summary.md](15-Identification-Validation-and-Measurement-Summary.md) | Integrates identification, validation, triangulation, robustness, evidence grading, and reporting. |
 | [16-Validation-Study-Recognition-Without-Realization.md](16-Validation-Study-Recognition-Without-Realization.md) | Specifies a construct-validation pilot for coding recognition independently of access, pursuit, realization, and hindsight. |
 | [17-Recognition-Episode-Coding-and-Source-Plan.md](17-Recognition-Episode-Coding-and-Source-Plan.md) | Provides the reusable episode record, source log, blinded coding forms, adjudication procedure, and the first packet specification. |
+| [18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) | Synthesizes the completed Fleming cycle, adopts risk-tiered review, and recommends Cold Fusion as the next controlled replication. |
 
 ---
 
@@ -167,7 +168,7 @@ Depth remains preferable to adding further empirical domains.
 
 ## Current Status
 
-The additive measurement architecture is complete through file 15. Files 16–17 begin the bounded validation-study phase and provide both the pilot protocol and its reusable evidence instrument.
+The additive measurement architecture is complete through file 15. Files 16–18 now contain the bounded validation protocol, the reusable Version 0.2 instrument, and the completed FLEM-01 methodological synthesis.
 
 The Empirical Studies architecture audit and the first proposition-to-evidence map are complete. Validation Study 1 now tests whether recognition can be coded separately from access, authority, pursuit, realization, and outcome hindsight.
 
@@ -175,6 +176,8 @@ The protocol is a construct-validation pilot, not a causal estimate. Its five pu
 
 The 01C disagreement showed that the instrument needs an explicit cutoff-timing rule for realization and a non-overlapping boundary between Categories 5 and 6. The [bounded Pass B packet](../References/07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) applies those rules prospectively, fixes sequential B1–B3 checkpoints and a 1945 horizon, preserves actor-level attribution, and adds component coding for the bundled 01D candidate. Its [claim-level evidence inventory](../References/08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md) supplies primary-source coverage and counterevidence for characterization, local therapeutic use, systemic treatment, purification, stability, and wartime scale. The RC1 audit findings were corrected and documented in the [audit disposition](../References/12-Fleming-Penicillin-Pass-B-RC1-Audit-Findings-Disposition.md); the locked [RC2 re-audit](../References/13-Fleming-Penicillin-Pass-B-RC2-Independent-Boundary-Re-Audit-Locked.md) then approved freeze with zero unresolved findings. The packet and inventory were frozen as Version 1.0 and released to two independent coders under sequential B1–B3 disclosure and locking controls. The locked [Alpha B1](../References/15-Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md), [Alpha B2](../References/16-Fleming-Penicillin-Pass-B-Alpha-B2-Locked.md), [Alpha complete](../References/17-Fleming-Penicillin-Pass-B-Alpha-Complete-Locked.md), [Beta B1](../References/18-Fleming-Penicillin-Pass-B-Beta-B1-Locked.md), [Beta B2](../References/19-Fleming-Penicillin-Pass-B-Beta-B2-Locked.md), and [Beta complete](../References/20-Fleming-Penicillin-Pass-B-Beta-Complete-Locked.md) records are published verbatim. The [Pass B agreement and adjudication report](../References/21-Fleming-Pass-B-Agreement-and-Adjudication.md) records 12/12 candidate-checkpoint classification agreement and 72/72 stage-code agreement and closes FLEM-01 Pass B.
 
-The complete Fleming two-pass cycle now supports bounded methodological synthesis. Advancement to another empirical episode should retain reliable stage separation, recoverable ex ante information, explicit decision rules, component-level coding for conjunctive candidates, and stricter isolation of coder setup from audit discussion.
+The [FLEM-01 methodological synthesis](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) now closes the methodological-learning phase. It treats FLEM-01 as provisional construct validation, not validation of Proposition 4, and incorporates the episode’s lessons prospectively into Version 0.2 of the [validation protocol](16-Validation-Study-Recognition-Without-Realization.md) and [coding instrument](17-Recognition-Episode-Coding-and-Source-Plan.md).
+
+The next gated episode is Cold Fusion as a Tier 2 controlled replication. It will retain two independent coders but replace routine independent auditing with coordinator preflight, disagreement-only adjudication, and audit triggered only by material boundary, leakage, evidence, exposure, or coding problems. Advancement to a within-domain Stage 2 study remains deferred until this contrasting episode tests premature or false recognition and corrective replication.
 
 Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
