@@ -40,9 +40,9 @@ Capability requires evidence concerning perception, search, learning, coordinati
 
 # 6. Selection and Unrealized Evidence
 
-The empirical strategy makes visible failed and abandoned pursuits, missed and foreclosed opportunities, nonresponders, excluded groups, non-survivors, alternative trajectories, and changing reference classes.
+The empirical strategy seeks evidence concerning failed and abandoned pursuits, missed and foreclosed opportunities, nonresponders, excluded groups, non-survivors, alternative trajectories, and changing reference classes.
 
-This broadens evidence beyond selected winners without treating every hindsight possibility as a valid counterfactual.
+The completed recognition-validation stream demonstrates an important limit: unrealized and unrecognized possibilities are not equally observable. Public records often begin only after recognition or pursuit, and retrospective recovery can reproduce hindsight and survivor selection. The contribution is therefore a requirement to expose missing paths and observability limits—not a claim that the repository has recovered a representative population of them.
 
 # 7. Relationship-Centered Formalization
 
