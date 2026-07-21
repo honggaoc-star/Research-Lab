@@ -36,7 +36,8 @@ FLEM-01 has completed the project’s first Tier 1 validation cycle. Pass A iden
 4. **Completed — Cold Fusion Tier 2 controlled replication.** Pass A achieved complete stage and category agreement. Pass B achieved 15/18 strict stage-component agreement and 3/3 final-category agreement; all three candidates were adjudicated as premature recognition without categorical falsehood or foreclosure, and no independent audit was required.
 5. **Completed — Pilot decision gate.** The [decision record](Measurement/19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained conditionally.
 6. **Completed — Stage 2 Science feasibility and sampling-frame design.** The [design record](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) rejects the existing purposive Science corpus as a population and gives a narrowed GO only to Stage 2A frame construction.
-7. **Next — Bounded candidate-frame reconnaissance.** Compare concrete source-generated frame candidates, test the strongest candidates with outcome-independent feasibility slices, and return to the GO, NARROW, REDESIGN, or STOP gate before substantive coding.
+7. **Completed — Bounded candidate-frame reconnaissance.** NSF proposals, arXiv/bioRxiv submissions, and ClinicalTrials.gov registrations were tested as public-source frame families. None observes original recognition and nonrecognition symmetrically.
+8. **Closed — Original Stage 2 Science scaling.** Preserve the bounded pilot findings and narrow Proposition 4’s evidence claim. Do not pursue a post-entry uptake or validation study without a separate explicit decision.
 
 ## Priority 1 — Evidence and Citations
 
@@ -142,7 +143,7 @@ Create a proposition-to-evidence map identifying supporting cases, negative case
 
 ### C — Bounded Validation Studies
 
-**Pilot complete; Stage 2A frame construction authorized narrowly.** Validation Study 1 targets recognition without realization. FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion is complete as the Tier 2 contrasting episode. Its Pass B agreement record closes the cycle without independent audit and identifies a prospective Version 0.3 clarification separating the historical Recognition stage from the later credibility of the recognized target. The [pilot decision gate](Measurement/19-Pilot-Decision-Gate-and-Stage-2-Direction.md) conditionally authorized Stage 2 Science design; the subsequent [feasibility record](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) narrows this to source reconnaissance and frame testing. Substantive Stage 2 coding remains unauthorized until one concrete outcome-independent frame passes the gate.
+**Validation stream complete; original Stage 2 scaling closed.** FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion is complete as the Tier 2 contrasting episode. The [pilot decision gate](Measurement/19-Pilot-Decision-Gate-and-Stage-2-Direction.md) conditionally authorized a Science feasibility test; the completed [Stage 2A reconnaissance](Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) found that tested public sources become enumerable only after recognition or select on funded outcomes. The stream therefore stops before substantive population coding. Proposition 4 remains a bounded hypothesis, not a population-level result.
 
 ### D — Theory Review
 
