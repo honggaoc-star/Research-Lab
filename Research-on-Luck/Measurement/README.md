@@ -47,7 +47,7 @@ These files preserve the project’s earlier measurement stage.
 
 ---
 
-## Additive Operational and Validation Layer: 10–18
+## Additive Operational and Validation Layer: 10–19
 
 | Document | Purpose |
 | --- | --- |
@@ -60,6 +60,7 @@ These files preserve the project’s earlier measurement stage.
 | [16-Validation-Study-Recognition-Without-Realization.md](16-Validation-Study-Recognition-Without-Realization.md) | Specifies a construct-validation pilot for coding recognition independently of access, pursuit, realization, and hindsight. |
 | [17-Recognition-Episode-Coding-and-Source-Plan.md](17-Recognition-Episode-Coding-and-Source-Plan.md) | Provides the reusable episode record, source log, blinded coding forms, adjudication procedure, and the first packet specification. |
 | [18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) | Synthesizes the completed Fleming cycle, adopts risk-tiered review, and recommends Cold Fusion as the next controlled replication. |
+| [19-Pilot-Decision-Gate-and-Stage-2-Direction.md](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) | Closes the heterogeneous pilot with a conditional GO to Stage 2 Science design and records the dispositions of Betamax, Microsoft, and Kodak. |
 
 ---
 
@@ -168,7 +169,7 @@ Depth remains preferable to adding further empirical domains.
 
 ## Current Status
 
-The additive measurement architecture is complete through file 15. Files 16–18 now contain the bounded validation protocol, the reusable Version 0.2 instrument, and the completed FLEM-01 methodological synthesis.
+The additive measurement architecture is complete through file 15. Files 16–19 now contain the bounded validation protocol, the reusable Version 0.2 instrument, the completed FLEM-01 methodological synthesis, and the pilot decision gate.
 
 The Empirical Studies architecture audit and the first proposition-to-evidence map are complete. Validation Study 1 now tests whether recognition can be coded separately from access, authority, pursuit, realization, and outcome hindsight.
 
@@ -178,6 +179,8 @@ The 01C disagreement showed that the instrument needs an explicit cutoff-timing 
 
 The [FLEM-01 methodological synthesis](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) now closes the methodological-learning phase. It treats FLEM-01 as provisional construct validation, not validation of Proposition 4, and incorporates the episode’s lessons prospectively into Version 0.2 of the [validation protocol](16-Validation-Study-Recognition-Without-Realization.md) and [coding instrument](17-Recognition-Episode-Coding-and-Source-Plan.md).
 
-The Cold Fusion Tier 2 feasibility gate has passed. The [feasibility and preflight record](../References/22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md) freezes three separately codeable candidates and the bounded Pass A/Pass B design; the [blinded Pass A coder packet](../References/23-CF-01-Tier-2-Pass-A-Coder-Packet.md) is frozen and ready for two independent coders. Routine independent auditing remains replaced by coordinator preflight, disagreement-only adjudication, and audit triggered only by material boundary, leakage, evidence, exposure, or coding problems. The two independent Pass A records are locked with 18/18 stage-code and 3/3 category agreement. The [Pass A disposition](../References/26-CF-01-Pass-A-Agreement-and-Exposure-Disposition.md) found no audit trigger. The cumulative [Alpha](../References/28-CF-01-Pass-B-Coder-Alpha-Locked.md) and [Coder B](../References/29-CF-01-Pass-B-Coder-B-Locked.md) Pass B records are also locked. Their [agreement and adjudication report](../References/30-CF-01-Pass-B-Agreement-and-Adjudication.md) records 15/18 strict stage-component agreement and 3/3 final-category agreement, resolves a recognition-status allocation ambiguity, classifies all three candidates as premature recognition rather than established falsehood, and closes CF-01 without independent audit. The next action is the pilot decision gate: determine whether additional heterogeneous cases are needed before a within-domain Stage 2 design.
+The Cold Fusion Tier 2 feasibility gate passed and the controlled replication is complete. The [feasibility and preflight record](../References/22-CF-01-Tier-2-Feasibility-and-Preflight-Record.md) froze three separately codeable candidates and the bounded Pass A/Pass B design. The two independent Pass A records achieved 18/18 stage-code and 3/3 category agreement, and the [Pass A disposition](../References/26-CF-01-Pass-A-Agreement-and-Exposure-Disposition.md) found no audit trigger. The cumulative [Alpha](../References/28-CF-01-Pass-B-Coder-Alpha-Locked.md) and [Coder B](../References/29-CF-01-Pass-B-Coder-B-Locked.md) Pass B records achieved 15/18 strict stage-component agreement and 3/3 final-category agreement. Their [agreement and adjudication report](../References/30-CF-01-Pass-B-Agreement-and-Adjudication.md) resolves the recognition-status allocation ambiguity, classifies all three candidates as premature recognition rather than established falsehood, and closes CF-01 without independent audit.
+
+The [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained conditionally as an optional later portability or boundary-stress test. The next action is to prepare a bounded Science feasibility and sampling-frame record before substantive Stage 2 coding.
 
 Future validation documents should be added only when they operationalize a specific mapped proposition or relationship.
