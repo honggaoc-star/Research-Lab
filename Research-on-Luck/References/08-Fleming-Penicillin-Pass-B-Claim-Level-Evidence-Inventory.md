@@ -2,9 +2,9 @@
 
 ## Status
 
-**FLEM-01-B Evidence Inventory, Version 1.0-RC2 — 20 July 2026**
+**FLEM-01-B Evidence Inventory, Version 1.0 — frozen 20 July 2026**
 
-This inventory supports the [bounded Pass B coder packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md). It is an auditable release candidate, not a final coding result. It records what each included source can and cannot establish before the packet is frozen.
+This frozen inventory supports the released [bounded Pass B coder packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md). It is an evidence instrument, not a coding result. It records what each included source can and cannot establish and remains immutable during independent coding.
 
 The inventory is claim-level rather than narrative. Evidence IDs identify source passages; they do not supply codes. Coders must decide whether the evidence satisfies the fixed stage and realization rules.
 
@@ -128,9 +128,9 @@ The core source set necessarily contains outcome evidence because Pass B tests f
 | Retrospective synthesis required to carry a core claim | No |
 | Remaining source-access blocker | None identified |
 
-## Freeze Recommendation
+## Freeze Record
 
-This RC2 inventory resolves `AUD-M01` by restoring the WPB report's “made possible” wording and removing the inference that actual civilian distribution began on 1 May 1944. It also participates in resolution of `AUD-C01` through the separate [frozen Pass A candidate-boundary manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md).
+This inventory resolved `AUD-M01` by restoring the WPB report's “made possible” wording and removing the inference that actual civilian distribution began on 1 May 1944. It also participated in resolution of `AUD-C01` through the separate [frozen Pass A candidate-boundary manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md).
 
-The inventory is suitable for the bounded RC2 re-audit. Freeze requires an independent reviewer to verify both findings against the permitted materials and approve the release gate.
+The locked [RC2 independent boundary re-audit](13-Fleming-Penicillin-Pass-B-RC2-Independent-Boundary-Re-Audit-Locked.md) approved the corrected packet for freeze with zero unresolved critical, major, or minor findings. This inventory was therefore frozen as Version 1.0 on 20 July 2026; no substantive content changed at freeze.
 
