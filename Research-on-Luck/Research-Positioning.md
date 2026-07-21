@@ -37,7 +37,7 @@ Related constructs are often studied separately or used interchangeably. The pro
 
 ### Outcome and Survivor Selection
 
-Many accounts begin with visible winners, survivors, institutions, discoveries, or technologies. This can turn outcomes into evidence of merit or capability. The project makes selection, unsuccessful cases, and unrealized alternatives central to explanation.
+Many accounts begin with visible winners, survivors, institutions, discoveries, or technologies. This can turn outcomes into evidence of merit or capability. The project makes selection, unsuccessful cases, and unrealized alternatives central to explanation while recognizing that missing and unrecognized paths may not be publicly enumerable. Selection awareness requires reporting that observability limit rather than claiming to have corrected it fully.
 
 ### Weak Ex Ante–Ex Post Separation
 
@@ -122,7 +122,7 @@ The project currently claims that its architecture makes luck attribution and re
 - reliable prediction of contingent events;
 - or normative rankings of institutions or societies.
 
-Its strongest current outputs are conceptual distinctions, research designs, comparative conjectures, and provisional propositions.
+Its strongest current outputs are conceptual distinctions, bounded research designs, comparative conjectures, provisional propositions, and demonstrated willingness to stop an empirical design when its denominator cannot be observed.
 
 ## Long-Term Position
 
