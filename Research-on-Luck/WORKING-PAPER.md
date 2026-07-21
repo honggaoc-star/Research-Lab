@@ -280,11 +280,27 @@ This requirement became central to our later empirical difficulty. We wanted evi
 
 ## G. Two Historical Exercises
 
-To learn whether the six-step opportunity sequence could be used consistently, we conducted two bounded historical exercises.
+To learn whether the six-step opportunity sequence could be made researchable, we conducted two bounded pilot studies.
 
-The purpose was not to prove that recognition causes success. It was to test whether different reviewers, working from controlled evidence, could separate availability, access, recognition, action, result, and closure without simply reading the answer backward from history.
+The framework contains a family of propositions, each of which may require a different empirical design. The ex ante purpose of these pilots was not to prove or disprove a general proposition statistically. It was to determine whether one selected set of distinctions could be translated into observable evidence and an auditable procedure.
+
+The pilot question was:
+
+> Can different reviewers, working from controlled historical evidence, distinguish availability, access, recognition, action, result, and closure; explain material disagreements; and avoid reading the known outcome backward into the earlier record?
+
+A useful pilot would identify the actor, unit, time horizon, and evidence boundary; distinguish adjacent stages; expose ambiguity in the rules; and remain capable of recording recognition even when the recognized possibility was not later validated or realized.
 
 The project used a human-directed, AI-assisted research workflow to assemble sources, freeze evidence boundaries, produce separate coding records, compare results, and document disagreements. The exercises should therefore be read as tests of procedural clarity and reproducibility within that workflow, not as conventional estimates of agreement among a representative sample of human historians.
+
+The cases were selected purposively for diagnostic value, not as a statistical sample of luck-related events. Both were unusually well documented and scientifically bounded. That made them useful for developing a method, but it also limited what could be inferred beyond them.
+
+### Why these cases?
+
+Fleming and penicillin offered an unexpected observation, dated early evidence, multiple contributors, a long separation between initial recognition and eventual large-scale realization, and a powerful risk of hindsight. The case tested whether the method could separate what Fleming observed and pursued from what later researchers, institutions, and manufacturers achieved.
+
+Cold fusion offered the contrasting pattern: serious recognition, action, and public attention followed by replication difficulty and lack of broad confirmation. It tested whether the method could record genuine historical recognition without treating recognition as proof that the underlying claim was valid.
+
+Together, the cases varied the later status of what had been recognized. They did not provide variation representative of science as a whole, much less the full range of luck-related events in life.
 
 ### Fleming and penicillin
 
@@ -298,7 +314,7 @@ First, the timing of “realization” was unclear. Did realization occur when a
 
 Second, two final categories overlapped. A delayed or partial pursuit could also be described as pursuit without realization, depending on the chosen cutoff.
 
-These were useful failures. They showed that a plausible framework was still too ambiguous for consistent use.
+These were informative pilot outcomes. They showed that a plausible framework was still too ambiguous for consistent use.
 
 The project revised the rules before releasing later evidence. It fixed the relevant time horizon, separated candidate outcomes, clarified whose recognition was being coded, and distinguished component results within bundled claims.
 
@@ -328,9 +344,28 @@ The cold-fusion exercise therefore helped separate “they recognized and pursue
 
 Together, the two exercises supported the usefulness of the opportunity sequence within known cases. They did not tell us how often recognition is absent or whether recognition improves outcomes.
 
+### What alternative pilot outcomes mean
+
+A positive pilot outcome does not confirm the substantive proposition. It means that the proposed method appears feasible for investigating that proposition under the tested conditions.
+
+A negative, mixed, or indeterminate pilot outcome does not automatically reject the proposition. It may show that the concepts are insufficiently defined, the evidence cannot distinguish them, the case boundary is unstable, the procedure requires revision, or the current method has reached an evidentiary boundary.
+
+The possible interpretations are therefore asymmetric:
+
+| Pilot outcome | Appropriate interpretation |
+| --- | --- |
+| Reviewers apply the categories consistently | Bounded methodological feasibility |
+| Disagreement is resolved through clearer prospective rules | The pilot improved the instrument |
+| Persistent disagreement remains | The instrument, evidence, or case boundary is inadequate for this use |
+| Recognition precedes later realization | The sequence is documented in that case, not established generally |
+| Recognition precedes nonconfirmation | Recognition is not sufficient for validity or realization |
+| The method works in selected cases but no population frame exists | Local study is possible; population inference is not presently identified |
+
+The many stage judgments within each exercise were nested within only two selected historical episodes. They should not be treated as independent statistical observations. The pilots demonstrated ways of conducting later tests; they did not statistically settle the propositions.
+
 ---
 
-## H. The Attempt to Expand the Study
+## H. How Far the Current Design Could Go
 
 After the two exercises, we considered adding more famous cases from technology and business. That would have increased variety, but it would not have solved the selection problem.
 
@@ -345,7 +380,7 @@ A suitable group needed several features.
 - We needed to count exclusions and missing records.
 - Most importantly, the group had to contain both recognition and nonrecognition.
 
-We first rejected our own collection of scientific cases. It had been assembled to illustrate different mechanisms, not through a neutral entry rule. Adding failures to a collection of successes would not make it representative if both were chosen after their outcomes were known.
+We first determined that our own collection of scientific cases was unsuitable for this purpose. It had been assembled to illustrate different mechanisms, not through a neutral entry rule. Adding failures to a collection of successes would not make it representative if both were chosen after their outcomes were known.
 
 We then examined three public sources.
 
@@ -381,9 +416,9 @@ In statistical terms, we lacked a denominator. In ordinary terms, we could see t
 
 A private laboratory archive might contain abandoned notes, rejected internal proposals, and unused observations. A future data system might record research ideas before formal selection. Such sources could reopen the question. But none was available in the public-source design we tested.
 
-We therefore stopped the expansion.
+We therefore completed the feasible portion of the present design without proceeding to population estimation.
 
-This decision did not show that recognition is equally distributed. It showed that the proposed evidence could not establish whether it is uneven.
+This result did not show that recognition is equally distributed. It showed that the proposed evidence could not establish whether it is uneven.
 
 That difference is important. A claim may be plausible and still not be identifiable with available data. Good research should distinguish “false” from “not answered by this design.”
 
@@ -427,17 +462,25 @@ The penicillin and cold-fusion exercises showed that a classification scheme cou
 
 That success did not make the selected episodes representative. Measurement consistency and population identification are separate achievements.
 
-### A negative design result can improve theory
+### An evidentiary boundary can improve theory
 
-The failed expansion narrowed the recognition claim from “recognition is uneven” to “recognition may be uneven.”
+The Stage 2 feasibility work narrowed the recognition claim from “recognition is uneven” to “recognition may be uneven.”
 
 That may appear to be a small wording change. It represents a meaningful shift from a comparative claim suggested by famous cases to a bounded hypothesis that remains unconfirmed at the population level.
+
+### A framework can enable tests beyond the present project
+
+A theoretical framework need not conduct every decisive test itself. Its contribution may be to organize concepts, derive propositions, identify observable implications, and make later disagreement productive.
+
+Different propositions in this framework may require different methods. Historical coding can examine stage distinctions. Prospective idea registries or private archives may be needed to observe recognition and nonrecognition. Experiments could test hindsight or information access. Longitudinal designs could examine feedback, selection, and trajectory change.
+
+Future researchers may develop methods substantially more powerful than those used here. Their evidence may support, restrict, revise, or reject individual propositions. Each would be a valuable outcome. The purpose of the framework is not to secure acceptance of every claim; it is to make claims about luck clear enough that evidence can engage them.
 
 ### Stopping is part of research
 
 A broad research program can always generate another case, another distinction, or another possible data source. Without a stopping rule, the project becomes an archive of interesting ideas rather than a testable inquiry.
 
-The decision to stop preserved the value of the validated distinctions while preventing a weak empirical claim.
+The decision to conclude the study at its evidentiary boundary preserved the value of the piloted distinctions while preventing a weak empirical claim.
 
 ---
 
@@ -475,9 +518,9 @@ Finally, the framework does not resolve moral or political questions about respo
 
 ## K. Final Discussion
 
-The Research on Luck project did not end with a general theory capable of explaining success and failure across fields. That was not the result.
+The Research on Luck project developed a theoretical framework from which multiple propositions about uncertainty, opportunity, recognition, action, selection, and outcomes can be derived. It did not seek to settle all of those propositions in the present empirical exercise.
 
-It ended with something narrower.
+The project also developed something practical: several ways to move from a broad claim toward an observable and challengeable question.
 
 We learned that luck claims become more informative when they are tied to a particular person or group, a specific period, an information set, a realistic comparison, and a documented course of events.
 
@@ -486,6 +529,8 @@ We learned that opportunity is not a single moment. A possibility must be reacha
 We learned that success, survival, and visibility are selected outcomes. They cannot serve as direct measures of ability.
 
 We learned that known historical cases can support careful classification, but they cannot answer population questions merely because the classifications are consistent.
+
+We learned that a pilot can make a proposition testable without accepting or rejecting it, and that future methods may carry the inquiry farther than the methods presently available.
 
 Most importantly, we learned that the absence of recognition is difficult to observe for a simple reason: what no one noticed often left no record.
 
