@@ -67,6 +67,8 @@ The layers organize analysis; they do not impose one universal causal or tempora
 - [Roadmap](ROADMAP.md) — current development priorities.
 - [Research Positioning](Research-Positioning.md) — scope and relationship to existing scholarship.
 - [Contributions](Contributions.md) — current contribution claims and limits.
+- [Project Synthesis and Closeout](PROJECT-SYNTHESIS-AND-CLOSEOUT.md) — authoritative internal account of the intellectual journey, evidence, revisions, limits, and final status.
+- [Working Paper](WORKING-PAPER.md) — accessible public-facing argument about luck, opportunity, selection, and the evidence that remains unseen.
 
 No Applications, Finance, Organizations, or root-level Notes domain is part of the current project scope.
 
@@ -129,7 +131,7 @@ The [Stage 2 Science feasibility and sampling-frame record](Measurement/20-Stage
 
 The validation stream and its theory closeout are now complete. [Proposition 4](General%20Theory/01-Core-Propositions.md) is retained as a bounded hypothesis—no longer a comparative conjecture or immediate population-testing priority—and the observability limit is integrated into the [proposition-to-evidence map](References/01-Proposition-to-Evidence-Map.md). No additional Measurement file or proposition-level study follows automatically.
 
-The broader phase remains evidence strengthening and repository integration. Priorities include claim-level citations, source quality, negative and disconfirming evidence, cross-document terminology, figure regeneration, and bounded tests that can distinguish capability, exposure, selection, and inherited advantage.
+The current Research on Luck cycle is complete. The [project synthesis](PROJECT-SYNTHESIS-AND-CLOSEOUT.md) consolidates the full internal record, while the [working paper](WORKING-PAPER.md) presents the central argument in plain language for a general audience. Further empirical work, proposition testing, or cross-project transfer requires a separate decision rather than automatic continuation.
 
 ## Long-Term Goal
 
