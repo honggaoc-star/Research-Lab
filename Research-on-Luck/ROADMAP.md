@@ -34,7 +34,8 @@ FLEM-01 has completed the project’s first Tier 1 validation cycle. Pass A iden
 2. **Completed — Protocol and instrument Version 0.2.** Retain two independent coders while replacing routine independent audit with coordinator preflight, disagreement-only adjudication, and trigger-based escalation.
 3. **Completed — Repository status and roadmap synchronization.**
 4. **Completed — Cold Fusion Tier 2 controlled replication.** Pass A achieved complete stage and category agreement. Pass B achieved 15/18 strict stage-component agreement and 3/3 final-category agreement; all three candidates were adjudicated as premature recognition without categorical falsehood or foreclosure, and no independent audit was required.
-5. **Next — Pilot decision gate.** Decide whether Betamax, Microsoft, and Kodak are all required before a within-domain Stage 2 design.
+5. **Completed — Pilot decision gate.** The [decision record](Measurement/19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained conditionally.
+6. **Next — Stage 2 Science feasibility and sampling frame.** Define an outcome-independent episode population, evidence requirements, inclusion and exclusion rules, reliability subsample, and stop conditions before substantive coding.
 
 ## Priority 1 — Evidence and Citations
 
@@ -49,7 +50,7 @@ Citation expansion should proceed claim-by-claim rather than through undifferent
 
 ## Priority 2 — Identification and Validation
 
-The first bounded design, FLEM-01, is complete and methodologically synthesized. The immediate task is controlled replication under Version 0.2, beginning with Cold Fusion, before advancing to a within-domain Stage 2 study.
+The first bounded design, FLEM-01, and the Cold Fusion controlled replication are complete and methodologically synthesized. The pilot has received a conditional GO to Stage 2 Science design. The immediate task is to establish an outcome-independent Science sampling frame and evidence regime before substantive coding.
 
 Convert candidate relationships into bounded research designs, especially:
 
@@ -140,7 +141,7 @@ Create a proposition-to-evidence map identifying supporting cases, negative case
 
 ### C — Bounded Validation Studies
 
-**In progress.** Validation Study 1 targets recognition without realization. FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion is complete as the Tier 2 contrasting episode. Its Pass B agreement record closes the cycle without independent audit and identifies a prospective Version 0.3 clarification separating the historical Recognition stage from the later credibility of the recognized target. Advancement to a within-domain Stage 2 study requires a successful contrasting test and an explicit pilot decision.
+**Pilot complete; Stage 2 design conditionally authorized.** Validation Study 1 targets recognition without realization. FLEM-01 is complete as the first Tier 1 episode, its methodological synthesis is published, and the protocol and instrument are Version 0.2. Cold Fusion is complete as the Tier 2 contrasting episode. Its Pass B agreement record closes the cycle without independent audit and identifies a prospective Version 0.3 clarification separating the historical Recognition stage from the later credibility of the recognized target. The [pilot decision gate](Measurement/19-Pilot-Decision-Gate-and-Stage-2-Direction.md) authorizes Stage 2 Science design conditionally, pending a defensible sampling frame, evidence-feasibility assessment, reliability plan, and pre-specified stop conditions.
 
 ### D — Theory Review
 
