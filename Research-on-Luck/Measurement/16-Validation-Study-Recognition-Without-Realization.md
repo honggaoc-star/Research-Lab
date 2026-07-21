@@ -2,7 +2,7 @@
 
 ## Status
 
-**Protocol Version 0.2 — Construct-validation pilot; prospective after FLEM-01**
+**Protocol Version 0.2 — Construct-validation pilot complete; conditional GO to Stage 2 Science design**
 
 This document specifies the first bounded validation study arising from the [Proposition-to-Evidence Map](../References/01-Proposition-to-Evidence-Map.md). It concerns Proposition 4: opportunity recognition is uneven.
 
@@ -107,9 +107,9 @@ The construct-validation pilot uses five existing cases selected for outcome and
 |---|---|---|
 | [Fleming and Penicillin](../Empirical%20Studies/Science/01-Alexander-Fleming-and-Penicillin.md) | Separating initial observation, interpretation, later development, and institutional realization | Recognition followed by delayed realization |
 | [Cold Fusion](../Empirical%20Studies/Science/11-Cold-Fusion.md) | Distinguishing recognition from premature interpretation and independent validation | False or premature recognition |
-| [Betamax](../Empirical%20Studies/Technology/10-Betamax.md) | Separating recognition of a broad opportunity from recognition of selection conditions | Pursuit without dominant realization |
-| [Microsoft](../Empirical%20Studies/Business/04-Microsoft.md) | Coding multiple episodes within one organization across different outcomes | Within-system recognition variation |
-| [Kodak](../Empirical%20Studies/Business/06-Kodak.md) | Separating technical awareness, organizational recognition, divided pursuit, and foreclosure | Recognition with partial pursuit and unrealized paths |
+| [Betamax](../Empirical%20Studies/Technology/10-Betamax.md) | Separating recognition of a broad opportunity from recognition of selection conditions | Deferred portability test |
+| [Microsoft](../Empirical%20Studies/Business/04-Microsoft.md) | Coding multiple episodes within one organization across different outcomes | Reclassified as a possible within-system episode population |
+| [Kodak](../Empirical%20Studies/Business/06-Kodak.md) | Separating technical awareness, organizational recognition, divided pursuit, and foreclosure | Conditionally retained boundary-stress test |
 
 These cases are purposive and heterogeneous. They test construct portability and expose ambiguity. They cannot estimate prevalence, effect size, or cross-domain generality.
 
@@ -117,7 +117,7 @@ These cases are purposive and heterogeneous. They test construct portability and
 
 - **FLEM-01 — completed and methodologically closed.** The episode provisionally demonstrated separability of recognition, pursuit, realization, and actor attribution.
 - **Cold Fusion — Tier 2 controlled replication complete.** Pass A produced complete stage and category agreement. Pass B produced 15/18 strict stage-component agreement and 3/3 final-category agreement; all three candidates were classified as premature recognition without categorical falsehood or foreclosure. The recognition-row differences were resolved under the frozen historical-recognition rule, and no independent audit was required.
-- **Betamax, Microsoft, and Kodak — retained but gated.** Their necessity and ordering will be reconsidered after Cold Fusion rather than assumed in advance.
+- **Pilot decision gate — completed.** The [decision record](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) gives a conditional GO to Stage 2 Science design. Betamax is deferred, Microsoft is reclassified as a possible within-system episode population, and Kodak is retained only as an optional later portability or boundary-stress test.
 
 ## Episode Construction
 
@@ -272,7 +272,7 @@ The pilot should expose these problems rather than claim to solve all of them.
 
 ## Stage 2 Design
 
-If the pilot succeeds, Stage 2 should use a within-domain episode population rather than another heterogeneous case collection.
+The pilot has passed its explicit decision gate conditionally. Stage 2 should use a within-domain Science episode population or auditable sampling frame rather than another heterogeneous case collection.
 
 The preferred design should:
 
@@ -307,4 +307,6 @@ The five pilot cases are not independent or representative. A successful pilot w
 
 FLEM-01 provides provisional evidence that recognition can be separated from access, pursuit, realization, and later collective attribution in one delayed-realization episode. It does not establish portability, prevalence, causal effect, or the validity of Proposition 4.
 
-The Tier 2 Cold Fusion controlled replication is complete. It shows that Version 0.2 can distinguish historical recognition from later evidentiary appraisal, nonrealization from foreclosure, and premature recognition from categorical falsehood without reproducing FLEM-01’s full audit burden. Advancement to Stage 2 now depends on the explicit pilot decision gate: determine whether Betamax, Microsoft, or Kodak would add necessary construct information before selecting a within-domain population.
+The Tier 2 Cold Fusion controlled replication is complete. It shows that Version 0.2 can distinguish historical recognition from later evidentiary appraisal, nonrealization from foreclosure, and premature recognition from categorical falsehood without reproducing FLEM-01’s full audit burden.
+
+The [pilot decision gate](19-Pilot-Decision-Gate-and-Stage-2-Direction.md) records a conditional GO to Stage 2 Science design. Betamax is deferred; Microsoft is reclassified as a possible within-system episode population; and Kodak is retained conditionally as an optional later portability or boundary-stress test. The next task is a bounded Science feasibility and sampling-frame design. This decision does not validate Proposition 4, causal effects, prevalence, or cross-domain portability.
