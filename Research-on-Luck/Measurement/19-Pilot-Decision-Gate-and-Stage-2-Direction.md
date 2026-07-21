@@ -2,7 +2,7 @@
 
 ## Status
 
-**Step 5 decision record — conditional GO completed through the Stage 2 feasibility gate**
+**Step 5 decision record — pilot gate completed; Stage 2A subsequently stopped after reconnaissance**
 
 This record closes the heterogeneous construct-validation pilot decision gate for [Validation Study 1](16-Validation-Study-Recognition-Without-Realization.md). It relies on the completed FLEM-01 Tier 1 cycle, the completed CF-01 Tier 2 controlled replication, and the risk-tiered protocol established in the [FLEM-01 methodological synthesis](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md).
 
@@ -105,7 +105,7 @@ The planned record is now complete:
 
 - [20-Stage-2-Science-Feasibility-and-Sampling-Frame.md](20-Stage-2-Science-Feasibility-and-Sampling-Frame.md)
 
-It gives a narrowed GO to Stage 2A frame construction and a NO-GO to substantive Stage 2 coding until one concrete outcome-independent frame passes the feasibility gate.
+Version 0.2 records the completed three-candidate reconnaissance and stops the original Stage 2 Science scaling attempt because no tested public source observes recognition and nonrecognition symmetrically.
 
 ## Claims Authorized by This Gate
 
@@ -143,4 +143,4 @@ Otherwise, the project should proceed through the Stage 2 gate without adding fu
 - **Betamax:** deferred.
 - **Microsoft:** reclassified as a possible within-system episode population.
 - **Kodak:** retained conditionally as an optional later portability or boundary-stress test.
-- **Immediate next action:** execute bounded Stage 2A candidate-frame reconnaissance under the completed feasibility and sampling-frame record.
+- **Subsequent disposition:** the bounded reconnaissance is complete. The original Stage 2 Science scaling design is closed; any post-entry redesign requires a separate explicit decision.
