@@ -2,21 +2,28 @@
 
 ## Status
 
-**Packet FLEM-01-B, Version 0.1 — source-construction draft, 20 July 2026**
+**Packet FLEM-01-B, Version 1.0-RC1 — auditable release candidate, 20 July 2026**
 
-**Not yet released for independent coding.** The analytical boundary, realization rules, and candidate source manifest are specified below. Version 1.0 may be frozen only after every included source has been obtained in a stable, page-addressable form and checked for completeness and hidden narrative substitution.
+**Not yet released for independent coding.** The analytical boundary, primary-source manifest, claim-level evidence inventory, realization rules, coder forms, and freeze gate are complete. One independent packet-boundary audit is required before the status may change to frozen Version 1.0.
 
-Pass A is closed. See the [agreement and adjudication report](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md). The two [Coder 1](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) and [Coder 2](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) records remain locked and must not be edited.
+Pass A is closed. See the [agreement and adjudication report](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md). The [Coder 1](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) and [Coder 2](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) submissions remain locked and must not be edited.
+
+The separate [Pass B claim-level evidence inventory](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md) is part of this release candidate. Coders receive the primary sources and the evidence-ID table, but not builder classifications.
 
 ## Pass B Question
 
-Using the bounded post-1929 evidence, determine how pursuit, realization, and foreclosure changed for each fixed opportunity, which focal system produced each transition, and whether any Pass A recognition code should change for an evidentiary—not outcome-plausibility—reason.
+Using the bounded post-1929 evidence, determine:
+
+1. how pursuit, realization, and foreclosure changed for each fixed opportunity;
+2. which focal system produced each transition;
+3. whether any Pass A recognition code should change for a direct evidentiary reason;
+4. and whether exposure to outcome evidence creates a hindsight-sensitive revision.
 
 Pass B is not a general history of penicillin and does not ask who “deserves credit.”
 
 ## Fixed Candidate Opportunities
 
-The candidate definitions remain unchanged:
+Candidate definitions remain unchanged:
 
 - **01A:** scientific characterization of the antibacterial substance;
 - **01B:** use of selective inhibition as a bacteriological isolation tool;
@@ -30,71 +37,100 @@ No broader label such as “the penicillin opportunity” may replace these cand
 | Field | Specification |
 |---|---|
 | Opening | Pass A cutoff: Fleming's 1929 paper |
-| Checkpoint B1 | 24 August 1940: Oxford team reports animal chemotherapeutic evidence |
-| Checkpoint B2 | 16 August 1941: Oxford team reports production, properties, and early clinical use |
-| Checkpoint B3 | 31 December 1945: wartime production and clinical availability can be evaluated |
+| B1 | 24 August 1940: Oxford-team preclinical report |
+| B2 | 16 August 1941: Oxford-team production and clinical report |
+| B3 | 31 December 1945: wartime production and operational access horizon |
 | Full-trajectory horizon | 31 December 1945 |
-| Evidence after horizon | Excluded except as source-finding or historiographical context; cannot establish a pre-horizon state without corroboration |
+| Evidence after horizon | Excluded from core coding; may locate sources but cannot establish a pre-horizon state without corroboration |
 
-The 1945 horizon is chosen because it permits a bounded evaluation of systemic therapeutic use and wartime scale without extending into the later global antibiotic era.
+The 1945 horizon permits bounded evaluation of systemic therapeutic use and wartime scale without extending into the later global antibiotic era.
 
 ## System and Attribution Boundary
 
-Pass B introduces later focal systems because the trajectory moved beyond Fleming. Each affirmative transition must be attributed to exactly one supported level:
+Every affirmative transition must be attributed to one supported level:
 
 1. **Fleming as investigator at St Mary's**;
-2. **Oxford research team** led by Howard Florey and including Ernst Chain, Norman Heatley, Edward Abraham, and other named contributors;
-3. **clinical collaborators and institutions** identified by the included records;
-4. **British–United States public, laboratory, and industrial production network**; or
-5. **indeterminate or multi-level system** when the evidence does not support a narrower attribution.
+2. **Oxford research team**, with named contributors where the evidence permits;
+3. **clinical collaborators and institutions** identified in the primary record;
+4. **United States wartime production network**, for the WPB evidence;
+5. **multi-level system** when joint action is directly supported; or
+6. **indeterminate level** when the packet cannot support a narrower attribution.
 
-Evidence of realization at Levels 2–4 must not be recoded as Fleming-level pursuit, capability, or realization. System succession is an empirical transition, not permission to merge actors.
+Evidence at Levels 2–4 must not be recoded as Fleming-level pursuit, capability, or realization. System succession is a transition to record, not permission to merge actors.
+
+## Primary-Source Bundle
+
+Coders receive exactly these core sources:
+
+| Source ID | Source | Checkpoint |
+|---|---|---|
+| F-P1 | Fleming, [1929 paper](https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf), pp. 226–236 | Pass A anchor |
+| F-B1 | Chain et al., [1940 *Lancet* report](https://www.ndorms.ox.ac.uk/files/news/19400824_florey_penicillinasachemotherapeuticagent_lancet.pdf), pp. 226–228 | B1 |
+| F-B2 | Abraham et al., [1941 *Lancet* report](https://www.jameslindlibrary.org/wp-data/uploads/2014/07/Abraham_EP_1941.pdf), pp. 177–189 | B2 |
+| F-B3 | U.S. War Production Board, [*War Production in 1944*](https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450/pdf/GOVPUB-P32_4800-9e92e30522a253276362395c30ab5450.pdf), pp. 41–42 | B3 |
+| F-B4 | U.S. War Production Board, [*Wartime Production Achievements and the Reconversion Outlook*](https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f/pdf/GOVPUB-P32_4800-042ea7e5f3aabaa77ec650cc3aa0938f.pdf), pp. 109–110 | B3 |
+
+The [evidence inventory](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md) specifies claim-level roles, directness, counterevidence, exclusions, and coverage. Nobel lectures, biographies, modern histories, archive catalogues, and retrospective institutional summaries are not part of the core coder bundle.
 
 ## Candidate-Specific Realization Rules
 
 | Opportunity | Realization threshold by the horizon | What does not suffice |
 |---|---|---|
 | 01A | Reproducible characterization materially beyond the 1929 filtrate-level account, with explicit properties or composition reported by a named focal system | Later fame, naming, or therapeutic success alone |
-| 01B | Demonstrated use of selective inhibition to isolate a target organism; broader adoption may change scope or confidence but is not required for initial realization | Antibacterial selectivity without an isolation procedure |
+| 01B | Demonstrated use of selective inhibition to isolate a target organism | Antibacterial selectivity without an isolation procedure |
 | 01C | Documented local administration against susceptible infection with an observed therapeutic or antiseptic effect | Irrigation, tolerability, proposal, or experiments in progress without an efficacy result |
-| 01D | All conjunctive elements supported: sufficiently stable handling; material purified enough for controlled administration; systemic administration with demonstrated therapeutic effect; and reproducible production at operationally consequential scale | Animal toxicity alone, mouse efficacy alone, one clinical case alone, or industrial output without systemic efficacy |
+| 01D | Every conjunctive element supported: sufficiently stable handling; material purified enough for controlled administration; systemic administration with observed therapeutic effect; and reproducible production at operationally consequential scale | Animal toxicity alone, mouse efficacy alone, one clinical case alone, or industrial output without systemic efficacy |
 
-**Conjunctive rule for 01D:** potential, access, pursuit, and realization must state which components are supported. A positive realization code requires every component of the defined candidate by the selected horizon.
+### Previously realized candidates
 
-## Timing Rules
+Pass A adjudicated 01A and 01B as realized by the 1929 cutoff. Pass B may record extension, replication, persistence, or changed system level, but it must not erase initial realization or manufacture a second initial-realization date. Reversal requires direct evidence that the Pass A threshold itself was misapplied.
 
-- Use **not yet observable** when the checkpoint precedes the candidate's predefined evaluation horizon or when the supplied trajectory has not yet reached an assessable point.
-- Use **not supported** when the relevant checkpoint or horizon permits assessment but the packet lacks adequate affirmative evidence.
-- Code **foreclosure** only from affirmative evidence that the specified focal system lost feasibility or access. Constraint, abandonment, inactivity, or missing evidence alone is insufficient.
-- Category 5 is used only when recognition is followed by delay before supported pursuit or when the predefined pursuit threshold is only partly met. Once pursuit is supported and realization is not, use Category 6.
+### Conjunctive rule for 01D
 
-## Candidate Source Manifest
+For potential, access, pursuit, and realization, list the status of each component separately:
 
-These sources are candidates for Version 1.0. Inclusion is not final until complete texts and exact locators are verified.
+- stability;
+- purification adequate for controlled administration;
+- systemic administration and therapeutic effect;
+- reproducible production at operationally consequential scale.
 
-| ID | Source | Date | Intended role | Status and limitation |
-|---|---|---:|---|---|
-| F-P1 | Fleming, [“On the Antibacterial Action of Cultures of a Penicillium”](https://www.ndorms.ox.ac.uk/files/news/19290510_afleming_ontheantibacterilactionofculturesofapenicillium_bjep.pdf), pp. 226–236 | 1929 | Pass A anchor | Already frozen; not new Pass B evidence |
-| F-B1 | Chain et al., [“Penicillin as a Chemotherapeutic Agent”](https://doi.org/10.1016/S0140-6736(01)08728-1), *The Lancet* 236, pp. 226–228 | 1940 | Oxford-team pursuit, purification/handling claims, animal systemic effect | Original article; complete page-addressable copy must be archived or stably linked before freeze |
-| F-B2 | Abraham et al., [“Further Observations on Penicillin”](https://doi.org/10.1016/S0140-6736(00)72122-2), *The Lancet* 238, pp. 177–189 | 1941 | Production methods, properties, systemic administration, and early clinical outcomes | Original article; complete text and page locators required before freeze |
-| F-B3 | [Bodleian catalogue: Archive of Sir Edward Penley Abraham](https://archives.bodleian.ox.ac.uk/repositories/2/resources/2673) | contemporary records, later catalogue | Archival source map for Oxford-team roles and records | Catalogue context only unless specific files are retrieved and logged |
-| F-B4 | [Bodleian catalogue: Sir William Dunn School of Pathology historical papers](https://archives.bodleian.ox.ac.uk/repositories/2/resources/3272) | contemporary records, later catalogue | Archival source map for team and institutional materials | Catalogue context only unless specific records are retrieved |
-| F-B5 | [USDA Agricultural Research Service, “Penicillin: Opening the Era of Antibiotics”](https://www.ars.usda.gov/midwest-area/peoria-il/national-center-for-agricultural-utilization-research/docs/penicillin-opening-the-era-of-antibiotics/) | retrospective official account | Leads and context for Peoria fermentation work | Outcome-aware; cannot alone establish actor-level recognition or exact production transitions |
-| F-B6 | [American Chemical Society, “Penicillin Production through Deep-tank Fermentation”](https://www.acs.org/education/whatischemistry/landmarks/penicillin.html) | retrospective with cited records | Production-system evidence and source leads | Exact underlying production records should carry quantitative claims where accessible |
-| F-B7 | Fleming, [Nobel Lecture, “Penicillin”](https://www.nobelprize.org/prizes/medicine/1945/fleming/lecture/) | 11 Dec. 1945 | Retrospective actor account within the horizon | Outcome-aware and self-retrospective; use for attributed recollection, not uncorroborated earlier state |
-| F-B8 | Florey, [Nobel Lecture, “Penicillin”](https://www.nobelprize.org/prizes/medicine/1945/florey/lecture/) | 11 Dec. 1945 | Retrospective Oxford-team account within the horizon | Same retrospective limitation; exact PDF pagination required |
+A positive realization code requires all four components by the selected checkpoint. The realizing system may be multi-level; no single actor must personally perform every component.
 
-## Required Source Work Before Version 1.0
+## Timing and Category Rules
 
-1. Obtain complete, page-addressable copies of F-B1 and F-B2.
-2. Extract claim-level evidence separately for stability, purification, systemic delivery, efficacy, and scale.
-3. Locate at least one primary production record through government, laboratory, or industrial archives for the B3 scale assessment.
-4. Seek disconfirming or limiting evidence, including instability, production bottlenecks, treatment failures, toxicity, spectrum limits, and unresolved purification problems.
-5. Conduct an outcome-leakage audit and remove source titles, captions, or summaries that tell coders how to classify earlier recognition.
-6. Have a checker who did not build the packet confirm the source boundary and locators.
-7. Freeze the exact source files, evidence IDs, and checksum or stable locator list as Version 1.0.
+- Use **not yet observable** when the checkpoint precedes the predefined evaluation point.
+- Use **not supported** when assessment is possible but affirmative evidence is inadequate.
+- Code **foreclosure** only from affirmative evidence that the specified focal system lost feasibility or access. Constraint, inactivity, abandonment, or missing evidence alone is insufficient.
+- Use Category 5 only for documented delay before supported pursuit or when the predefined pursuit threshold is partly but not fully met.
+- Once pursuit is supported and realization is not, use Category 6.
+- A later system's realization does not automatically change an earlier system's category.
 
-## Pass B Coding Form
+## Evidence Use Rules
+
+1. Cite source ID and printed page for every affirmative code.
+2. Preserve limitations listed in the evidence inventory.
+3. Distinguish an author conclusion from independently controlled evidence.
+4. Do not convert aggregate WPB production figures into firm-level or inventor-level attribution.
+5. Treat planned production separately from realized output.
+6. Treat 1945 preliminary Army output separately from total U.S. or global production.
+7. Do not infer 1929 recognition from the fact of later success.
+
+## Sequential Coding Procedure
+
+Coders complete the checkpoints in order:
+
+1. Reopen their own locked Pass A record.
+2. Review F-B1 and code B1 before opening F-B2, F-B3, or F-B4.
+3. Lock the B1 form.
+4. Review F-B2 and code B2 before opening F-B3 or F-B4.
+5. Lock the B2 form.
+6. Review F-B3 and F-B4 and code B3.
+7. Complete the mandatory revision and hindsight-control logs.
+8. Lock the complete Pass B record before viewing the other coder's record.
+
+Sequential release prevents B3-scale evidence from silently determining B1 or B2 judgments.
+
+## Checkpoint Coding Form
 
 Complete one record for each candidate at B1, B2, and B3.
 
@@ -102,7 +138,7 @@ Complete one record for each candidate at B1, B2, and B3.
 |---|---|
 | Candidate and checkpoint | |
 | Focal system and level | |
-| New evidence IDs | |
+| New evidence IDs and pages | |
 | Potential: code and reason | |
 | Access: code and reason | |
 | Recognition: retain/revise, code and reason | |
@@ -114,33 +150,78 @@ Complete one record for each candidate at B1, B2, and B3.
 | Strongest alternative coding | |
 | Confidence | |
 
+For 01D, append:
+
+| Component | Supported, not supported, contested, not yet observable, or indeterminate | Evidence IDs | Focal system |
+|---|---|---|---|
+| Stability | | | |
+| Purification adequate for controlled administration | | | |
+| Systemic administration and therapeutic effect | | | |
+| Reproducible production at operationally consequential scale | | | |
+
 ## Mandatory Revision Log
 
-| Opportunity | Field changed | Pass A code | Pass B code | New evidence ID | Evidentiary reason | Hindsight-sensitive? |
+| Opportunity | Field changed | Pass A code | Pass B code | New evidence ID and page | Evidentiary reason | Hindsight-sensitive? |
 |---|---|---|---|---|---|---|
 | | | | | | | |
 
 A recognition revision is permitted only if new evidence directly changes what can be supported about the earlier actor, candidate, purpose, timing, or system level. Later success by another system is not such evidence.
 
+## System-Succession Log
+
+| Checkpoint | Candidate | Prior focal system | New focal system | Transferred material or information | New capability or resource | Evidence IDs |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
 ## Final Classification Table
 
-| Opportunity | B1 category | B2 category | B3 category | Realizing system, if any | Confidence | Main ambiguity |
-|---|---|---|---|---|---|---|
-| 01A | | | | | | |
-| 01B | | | | | | |
-| 01C | | | | | | |
-| 01D | | | | | | |
+| Opportunity | Pass A | B1 | B2 | B3 | Realizing system, if changed | Confidence | Main ambiguity |
+|---|---|---|---|---|---|---|---|
+| 01A | 7 | | | | | | |
+| 01B | 7 | | | | | | |
+| 01C | 6 | | | | | | |
+| 01D | 1 | | | | | | |
 
-## Release Gate
+## Hindsight-Control Check
 
-Version 1.0 may be released only when:
+Before submission, answer:
 
-- the source manifest is closed under the stated stop rules;
-- every affirmative claim is page-addressable;
-- the primary production evidence is adequate for the scale component of 01D;
-- candidate-specific realization tests remain unchanged;
-- the actor/system boundary has passed independent checking;
-- and coders receive the same frozen files without builder annotations.
+- Did later realization cause me to enlarge Fleming's 1929 recognition target?
+- Did I attribute Oxford-team work to Fleming?
+- Did I attribute production-network scale to the Oxford team or one company without evidence?
+- Did I treat “therapeutic penicillin” as chemically pure without qualification?
+- Did I treat a production plan as realized output?
+- Did I treat Army ampule data as total production?
+- Would my B1 or B2 code change if I had not yet seen B3?
 
-Until then, this document records progress toward Pass B but is not a coding packet.
+If any answer reveals leakage, revise the affected code and log the revision.
+
+## Submission Record
+
+| Field | Entry |
+|---|---|
+| Coder identifier | |
+| Date completed | |
+| Own Pass A record reviewed | |
+| Sequential-release procedure followed | |
+| External information accidentally consulted | |
+| Fields potentially affected | |
+| Packet ambiguities | |
+| Recommended rule revision | |
+
+## Freeze Gate
+
+Version 1.0 may be frozen only when an independent checker confirms:
+
+- all four Pass B primary files open and are complete;
+- printed page ranges match the manifest;
+- each evidence ID maps to the stated passage;
+- every 01D component has direct primary evidence by B3;
+- limiting and disconfirming evidence is preserved;
+- retrospective sources carry no core claim;
+- the actor/system boundary is unchanged;
+- sequential-release instructions prevent checkpoint leakage;
+- and all repository-relative links resolve.
+
+If the checker finds only locator or transcription errors, correct them and issue RC2. Any change to a candidate, threshold, horizon, or source boundary requires a documented protocol revision before freeze.
 
