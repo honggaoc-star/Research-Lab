@@ -119,7 +119,11 @@ The project has completed a major Version 2.1 architectural alignment across:
 - Comparative Studies;
 - and General Theory.
 
-The next phase is evidence strengthening and repository integration. Priorities include citations, source quality, negative and disconfirming evidence, cross-document terminology, figure regeneration, and tests that can distinguish capability, exposure, selection, and inherited advantage.
+The project has also completed its first full validation episode, FLEM-01. Independent Pass A coding exposed realization-timing and category-boundary ambiguity; the prospective Pass B design then produced 12/12 candidate-checkpoint classification agreement and 72/72 stage-code agreement across Alpha and Beta. The episode provisionally supports separability of recognition, pursuit, realization, and actor attribution within one bounded historical trajectory. It does not validate Proposition 4 or establish cross-case portability.
+
+The [FLEM-01 methodological synthesis](Measurement/18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md) closes the Tier 1 learning cycle. The [validation protocol](Measurement/16-Validation-Study-Recognition-Without-Realization.md) and [coding instrument](Measurement/17-Recognition-Episode-Coding-and-Source-Plan.md) are now Version 0.2. The next gated episode is Cold Fusion as a Tier 2 controlled replication using two independent coders, coordinator preflight, disagreement-only adjudication, and conditional rather than routine independent audit.
+
+The broader phase remains evidence strengthening and repository integration. Priorities include claim-level citations, source quality, negative and disconfirming evidence, cross-document terminology, figure regeneration, and bounded tests that can distinguish capability, exposure, selection, and inherited advantage.
 
 ## Long-Term Goal
 
