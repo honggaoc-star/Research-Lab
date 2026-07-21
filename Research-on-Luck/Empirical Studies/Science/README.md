@@ -269,3 +269,13 @@ Each case audit should identify direct observations, reconstructions, mechanism 
 ### Editorial rule
 
 The case inventory is stable. Revisions should be targeted to material conceptual or evidentiary gaps. Additional cases are warranted only when they add a mechanism or boundary condition not represented by the existing corpus.
+
+---
+
+## Relationship to Stage 2 Recognition Study
+
+The existing Science corpus is purposive and mechanism-oriented. It supplies benchmark episodes, boundary tests, and calibration material; it is not an outcome-independent sampling frame.
+
+The [Stage 2 Science feasibility and sampling-frame record](../../Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) authorizes only bounded Stage 2A frame construction. Existing cases should enter a later empirical sample only if they qualify independently under a source-generated population rule frozen before outcomes are classified.
+
+No additional Science case should be added merely to balance realized and unrealized outcomes. The immediate empirical priority is a reproducible denominator, evidence-symmetry testing, and explicit missingness—not expansion of the narrative corpus.
