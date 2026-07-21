@@ -16,6 +16,7 @@ The directory currently contains the first evidence map and the first validation
 - [06 — Fleming Pass A Agreement and Adjudication](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md) — reports raw agreement, preserves the 01C disagreements, adjudicates the applicable rules, and closes Pass A.
 - [07 — Fleming Bounded Pass B Coder Packet](07-Fleming-Penicillin-Bounded-Pass-B-Coder-Packet.md) — Version 1.0-RC1 fixes the Pass B horizon, sequential checkpoints, candidate-specific realization rules, actor boundaries, coder forms, and freeze gate.
 - [08 — Fleming Pass B Claim-Level Evidence Inventory](08-Fleming-Penicillin-Pass-B-Claim-Level-Evidence-Inventory.md) — supplies the complete primary-source manifest, page-level claim map, limitations, coverage audit, exclusion decisions, and source-bundle verification.
+- [09 — Fleming Pass B Independent Boundary-Audit Packet](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) — provides the clean release-gate instrument for exhaustive source, locator, threshold, attribution, timing, counterevidence, and coder-usability review.
 
 ## Evidence Priorities
 
@@ -110,7 +111,7 @@ Pass A produced 23/24 stage-code agreement (95.8%) and 3/4 final-category agreem
 
 The bounded Pass B packet and its claim-level evidence inventory are now at Version 1.0-RC1. Complete primary texts are identified for the 1940 and 1941 Oxford reports, and contemporaneous War Production Board records carry the production-scale claims. The manifest no longer relies on retrospective institutional histories for a core inference.
 
-One independent packet-boundary audit remains before freeze and coder release. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
+The Version 1.0 independent boundary-audit instrument is ready. A fresh reviewer must complete and lock it before RC1 can be frozen and released to coders. Builder preflight checks do not substitute for that independent decision. Expansion to cold fusion, Betamax, Microsoft, or Kodak remains deferred until the Fleming two-pass cycle is complete.
 
 ## Long-Term Goal
 
