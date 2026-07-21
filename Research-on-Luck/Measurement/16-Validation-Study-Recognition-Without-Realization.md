@@ -2,11 +2,24 @@
 
 ## Status
 
-**Protocol Version 0.1 — Construct-validation pilot**
+**Protocol Version 0.2 — Construct-validation pilot; prospective after FLEM-01**
 
 This document specifies the first bounded validation study arising from the [Proposition-to-Evidence Map](../References/01-Proposition-to-Evidence-Map.md). It concerns Proposition 4: opportunity recognition is uneven.
 
 The study does not assume that recognition causes realization. Its first task is to determine whether recognition and adjacent opportunity stages can be identified consistently without relying on realized outcomes.
+
+## Version 0.2 Revision
+
+Version 0.2 incorporates the completed [FLEM-01 methodological synthesis](18-FLEM-01-Methodological-Synthesis-and-Stage-2-Recommendation.md). It applies prospectively and does not revise the frozen FLEM-01 packets or coder records.
+
+The revision:
+
+- retains two independent coders for benchmark episodes;
+- replaces routine independent packet audits with coordinator preflight and conditional escalation;
+- uses only the number of outcome checkpoints required by the episode;
+- standardizes component-status, realization-threshold, confidence, and contamination rules;
+- limits adjudication to substantive disagreements;
+- and introduces risk-tiered review for later replication and within-domain studies.
 
 ## Research Question
 
@@ -100,6 +113,12 @@ The construct-validation pilot uses five existing cases selected for outcome and
 
 These cases are purposive and heterogeneous. They test construct portability and expose ambiguity. They cannot estimate prevalence, effect size, or cross-domain generality.
 
+### Pilot Progress
+
+- **FLEM-01 — completed and methodologically closed.** The episode provisionally demonstrated separability of recognition, pursuit, realization, and actor attribution.
+- **Cold Fusion — next controlled replication, subject to feasibility and packet preflight.** It will test premature or false recognition and corrective replication within Science.
+- **Betamax, Microsoft, and Kodak — retained but gated.** Their necessity and ordering will be reconsidered after Cold Fusion rather than assumed in advance.
+
 ## Episode Construction
 
 The pilot should decompose each case into one or more episodes rather than assigning one label to the entire case.
@@ -153,16 +172,28 @@ The difference between Pass A and Pass B is a direct indicator of hindsight-sens
 
 ## Coding Procedure
 
-1. Define the episode and level before reading outcome evidence.
-2. Assemble the pre-outcome packet.
-3. Have at least two coders classify stages independently.
-4. Record disagreement before reconciliation.
-5. Release the full-trajectory packet.
-6. Recode pursuit, realization, and foreclosure.
-7. Record changes to recognition coding.
-8. Adjudicate using stated rules, not outcome plausibility.
-9. Preserve indeterminate cases.
-10. Report case-specific and cross-case ambiguities.
+1. Define the episode, focal system, candidate, cutoff, realization criterion, horizon, and required checkpoint structure.
+2. Assemble and log the pre-outcome evidence before interpreting the full trajectory.
+3. Complete the Version 0.2 preflight checklist for boundary stability, source sufficiency, outcome leakage, actor attribution, component definitions, and link integrity.
+4. Have the coordinator freeze the packet when no independent-audit trigger is active.
+5. Have two coders classify Pass A independently and lock both records before comparison or later release.
+6. Release the minimum full-trajectory packet or sequential checkpoints required by the research question.
+7. Lock later codes and every recognition revision with the new evidence and reason.
+8. Generate a fixed-matrix comparison of stage codes, categories, actor boundaries, component statuses, and confidence fields.
+9. Adjudicate only substantive disagreements under pre-registered rules and preserve indeterminate cases.
+10. Escalate to independent audit only when a material trigger applies; otherwise publish the agreement record and methodological limitations.
+
+## Review Architecture
+
+| Tier | Use | Review requirement |
+|---|---|---|
+| Tier 1 — Full validation | New instrument or materially ambiguous episode | Two independent coders plus independent packet audit |
+| Tier 2 — Controlled replication | Subsequent episode using Version 0.2 | Coordinator preflight and freeze, two independent coders, disagreement-only adjudication, conditional audit |
+| Tier 3 — Larger empirical study | Within-domain episode population | Double-coded reliability subsample, exception review, and aggregate validity tests |
+
+An independent audit is triggered by a post-collection candidate change, contestable realization criterion, material actor-boundary dispute, central retrospective inference, unresolved outcome leakage, unstable conjunctive components, substantive unauthorized exposure, material coder disagreement, unresolved source conflict, or proposed promotion of a major theoretical claim.
+
+Minor wording or confidence differences do not trigger review unless they alter a substantive conclusion.
 
 ## Reliability and Validity Tests
 
@@ -274,6 +305,6 @@ The five pilot cases are not independent or representative. A successful pilot w
 
 ## Current Conclusion
 
-Recognition without realization is an appropriate first validation study because it can fail in informative ways.
+FLEM-01 provides provisional evidence that recognition can be separated from access, pursuit, realization, and later collective attribution in one delayed-realization episode. It does not establish portability, prevalence, causal effect, or the validity of Proposition 4.
 
-If recognition cannot be coded without knowing the outcome, Proposition 4 must be narrowed or reclassified. If it can be separated reliably from access, pursuit, and realization, the project will have a stronger basis for a within-domain test of its relationship to subsequent trajectories.
+The next step is a Tier 2 Cold Fusion episode testing premature or false recognition and corrective replication. Advancement to Stage 2 remains gated until that contrasting episode shows whether Version 0.2 reduces ambiguity without reproducing FLEM-01’s full audit burden.
