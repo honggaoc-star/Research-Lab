@@ -286,7 +286,7 @@ This requirement became central to our later empirical difficulty. We wanted evi
 
 To learn whether the six-step opportunity sequence could be made researchable, we conducted two bounded pilot studies.
 
-The framework contains 22 propositions spanning analytical definitions, empirical hypotheses, comparative claims, and methodological requirements. For a complete listing of the propositions, their classifications, qualifications, and current evidentiary status, see [Core Propositions](General%20Theory/01-Core-Propositions.md).
+The framework contains 22 propositions spanning analytical definitions, empirical hypotheses, comparative claims, and methodological requirements. For a complete listing of the 22 propositions, their classifications, qualifications, and current evidentiary status, see [Core Propositions](General%20Theory/01-Core-Propositions.md).
 
 Each proposition may require a different empirical design. The ex ante purpose of these pilots was not to prove or disprove a general proposition statistically. It was to determine whether one selected set of distinctions could be translated into observable evidence and an auditable procedure.
 
