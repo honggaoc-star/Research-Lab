@@ -2,9 +2,9 @@
 
 ## Status
 
-**Packet FLEM-01-B, Version 1.0-RC1 — auditable release candidate, 20 July 2026**
+**Packet FLEM-01-B, Version 1.0-RC2 — corrected release candidate, 20 July 2026**
 
-**Not yet released for independent coding.** The analytical boundary, primary-source manifest, claim-level evidence inventory, realization rules, coder forms, and freeze gate are complete. One independent packet-boundary audit using the [Version 1.0 audit instrument](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) is required before the status may change to frozen Version 1.0.
+**Not yet released for independent coding.** The [locked RC1 audit](10-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Locked.md) returned one critical and one major finding. RC2 supplies the missing outcome-free candidate-boundary manifest and corrects F-B3-03. A bounded independent re-audit using the updated [Version 1.0 audit instrument](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) is required before freeze.
 
 Pass A is closed. See the [agreement and adjudication report](06-Fleming-Penicillin-Pass-A-Agreement-and-Adjudication.md). The [Coder 1](04-Fleming-Penicillin-Pass-A-Coder-1-Record.md) and [Coder 2](05-Fleming-Penicillin-Pass-A-Coder-2-Record.md) submissions remain locked and must not be edited.
 
@@ -23,7 +23,7 @@ Pass B is not a general history of penicillin and does not ask who “deserves c
 
 ## Fixed Candidate Opportunities
 
-Candidate definitions remain unchanged:
+Candidate definitions remain unchanged. Their authoritative wording and frozen-source provenance are isolated in the outcome-free [Pass A candidate-boundary manifest](11-Fleming-Penicillin-Frozen-Pass-A-Candidate-Boundary-Manifest.md):
 
 - **01A:** scientific characterization of the antibacterial substance;
 - **01B:** use of selective inhibition as a bacteriological isolation tool;
@@ -211,7 +211,7 @@ If any answer reveals leakage, revise the affected code and log the revision.
 
 ## Freeze Gate
 
-Version 1.0 may be frozen only when an independent checker completes and locks the [boundary-audit record](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md) and confirms:
+Version 1.0 may be frozen only after a new independent reviewer completes the RC2 checks in the [boundary-audit instrument](09-Fleming-Penicillin-Pass-B-Independent-Boundary-Audit-Packet.md), explicitly verifies disposition of `AUD-C01` and `AUD-M01`, and confirms:
 
 - all four Pass B primary files open and are complete;
 - printed page ranges match the manifest;
@@ -223,5 +223,5 @@ Version 1.0 may be frozen only when an independent checker completes and locks t
 - sequential-release instructions prevent checkpoint leakage;
 - and all repository-relative links resolve.
 
-If the checker finds only locator or transcription errors, correct them and issue RC2. Any change to a candidate, threshold, horizon, or source boundary requires a documented protocol revision before freeze.
+If the RC2 reviewer finds only new locator or transcription errors, correct them and issue RC3. Any change to a candidate, threshold, horizon, or source boundary requires a documented protocol revision before freeze.
 
