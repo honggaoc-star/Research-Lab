@@ -276,6 +276,6 @@ The case inventory is stable. Revisions should be targeted to material conceptua
 
 The existing Science corpus is purposive and mechanism-oriented. It supplies benchmark episodes, boundary tests, and calibration material; it is not an outcome-independent sampling frame.
 
-The [Stage 2 Science feasibility and sampling-frame record](../../Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) authorizes only bounded Stage 2A frame construction. Existing cases should enter a later empirical sample only if they qualify independently under a source-generated population rule frozen before outcomes are classified.
+The [Stage 2 Science feasibility and sampling-frame record](../../Measurement/20-Stage-2-Science-Feasibility-and-Sampling-Frame.md) documents the completed Stage 2A reconnaissance. None of the three tested public-source frame families observes original recognition and nonrecognition symmetrically, so the scaling attempt is closed before substantive coding. Existing cases remain calibration material and should not be reclassified as sampled observations.
 
-No additional Science case should be added merely to balance realized and unrealized outcomes. The immediate empirical priority is a reproducible denominator, evidence-symmetry testing, and explicit missingness—not expansion of the narrative corpus.
+No additional Science case should be added merely to balance realized and unrealized outcomes. Any redesigned study of post-entry uptake, validation, or realization requires a separate explicit decision rather than automatic continuation of this stream.
