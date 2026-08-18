@@ -4,7 +4,7 @@
 
 **B3 checkpoint:** 31 December 1945  
 **Authorized B3 evidence:** U.S. War Production Board, *War Production in 1944* (1945), printed pp. 41–42; U.S. War Production Board, *Wartime Production Achievements and the Reconversion Outlook* (9 October 1945), printed pp. 109–110.  
-**Fixed prior checkpoints:** [B1 locked record](./Fleming-Pass-B-Alpha-B1-Locked.md) and [B2 locked record](./Fleming-Pass-B-Alpha-B2-Locked.md), consulted without revision.  
+**Fixed prior checkpoints:** [B1 locked record](./15-Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md) and [B2 locked record](./16-Fleming-Penicillin-Pass-B-Alpha-B2-Locked.md), consulted without revision.<br>
 **Coding boundary:** Cumulative evidence through 31 December 1945; only the authorized B3 pages, the fixed protocol, and Coder Alpha’s locked B1 and B2 records were used.
 
 ## 01A — Scientific characterization of the antibacterial substance
