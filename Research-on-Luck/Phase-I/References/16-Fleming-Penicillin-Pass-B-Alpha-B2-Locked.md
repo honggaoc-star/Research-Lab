@@ -4,7 +4,7 @@
 
 **Checkpoint:** 16 August 1941  
 **Authorized B2 source:** E. P. Abraham et al., “Further Observations on Penicillin,” *The Lancet* 238 (16 August 1941), printed pp. 177–189.  
-**Prior checkpoint:** [Fleming-Pass-B-Alpha-B1-Locked.md](./Fleming-Pass-B-Alpha-B1-Locked.md), consulted without revision.  
+**Prior checkpoint:** [Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md](./15-Fleming-Penicillin-Pass-B-Alpha-B1-Locked.md), consulted without revision.<br>
 **Coding boundary:** Cumulative trajectory through B2, using only the locked B1 record, the fixed protocol, and the authorized B2 source.
 
 ## 01A — Scientific characterization of the antibacterial substance
