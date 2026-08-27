@@ -19,6 +19,14 @@ Major Phase I outputs:
 - [Foundations](Phase-I/Foundations/README.md), [formalization](Phase-I/Formalization/README.md), and [measurement](Phase-I/Measurement/README.md)
 - [Empirical studies](Phase-I/Empirical%20Studies/README.md) and [general theory](Phase-I/General%20Theory/README.md)
 
-## Later Phases
+## Phase II
 
-A second phase will be created separately. It may reuse, reinterpret, place downstream, or retire selected Phase I constructs, but it will not retroactively revise Phase I. No Phase II theory is presented or formalized here.
+Phase II is the active continuation of the project. It may reuse, reinterpret, place downstream, or retire selected Phase I constructs, but it does not retroactively revise Phase I. Current Phase II materials include the [Conceptual Checkpoint II](Research-on-Luck-Phase-II-Conceptual-Checkpoint-II.md) and subsequent research development.
+
+## Essays
+
+[Essays](Essays/README.md) contains reader-facing synthesis outputs produced from the broader research project. Essays stand on their own and are kept separate from the phase-specific research record.
+
+Current essay:
+
+- [Luck in a Puzzling World: An Essay](Essays/Luck-in-a-Puzzling-World/README.md) — v1.0, August 2026
