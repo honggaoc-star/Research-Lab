@@ -6,6 +6,8 @@ The Dynamic Social Systems research program develops a general framework for und
 
 The project began as an investigation of social inequality. As the framework developed, inequality became one substantive application of a broader theory of social development, allocation, institutional adaptation, and system evolution.
 
+**Project status:** Closed as an active exploratory project in August 2026. Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md), version 1.0. The repository's earlier framework, formalization, literature, validation, evidence, applications, red-team, and working-paper materials are retained as the research record rather than retroactively rewritten to match the essay.
+
 ---
 
 ## Central Research Question
@@ -64,12 +66,13 @@ The framework does not assume that society has a single controller, common objec
 
 ## Research Architecture
 
-The repository separates the research program into distinct scientific functions.
+The repository separates the research program into distinct scientific functions and preserves the completed essay separately from the exploratory research record.
 
 ```text
 Research-Lab/
 └── Social-Systems/
     ├── README.md
+    ├── Essays/
     ├── Framework/
     ├── Formalization/
     ├── Literature/
@@ -81,6 +84,14 @@ Research-Lab/
     ├── Red-Team/
     └── Archive/
 ```
+
+### `Essays/`
+
+Contains reader-facing synthesis outputs that emerged from the broader exploration while remaining distinct from the underlying research record.
+
+Current essay:
+
+- [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md) — v1.0, August 2026
 
 ### `Framework/`
 
@@ -94,7 +105,7 @@ The Framework is broader than any individual mathematical model or empirical app
 
 Develops bounded mathematical and computational representations of selected mechanisms within the conceptual framework.
 
-Current formalization tracks include:
+Formalization tracks include:
 
 * Minimum State Vector;
 * Institutional Translation;
@@ -158,15 +169,13 @@ Applies the general framework to substantive research domains.
 
 The first major application is social inequality, including the evolution of income, wealth, opportunity, mobility, political influence, and exposure to risk.
 
-Additional applications may be developed only where the common framework generates useful and testable insights.
+Additional applications were to be developed only where the common framework generated useful and testable insights.
 
 ### `Working-Paper/`
 
-Develops the circulation-quality manuscript.
+Preserves the earlier circulation-manuscript development record.
 
-The working paper synthesizes the central theoretical contribution, selected formal results, relevant literature, evidence, applications, limitations, and implications.
-
-It is a communication layer rather than the repository’s technical source of truth.
+Those materials synthesize the theoretical contribution, selected formal results, relevant literature, evidence, applications, limitations, and implications as they stood during the exploratory program. They are retained for traceability; the completed reader-facing essay is maintained separately under `Essays/`.
 
 ### `Figures/`
 
@@ -186,7 +195,7 @@ Archived materials are retained for traceability but should not be treated as cu
 
 ## Scientific Workflow
 
-The research program follows an iterative rather than strictly linear process:
+The research program followed an iterative rather than strictly linear process:
 
 ```text
 Framework
@@ -202,7 +211,7 @@ Applications
 Working Paper
 ```
 
-Results may also move backward through the sequence:
+Results could also move backward through the sequence:
 
 ```text
 Evidence
@@ -214,7 +223,7 @@ Framework narrowing or clarification
 Further validation
 ```
 
-The intended cycle is:
+The intended cycle was:
 
 1. define the conceptual architecture;
 2. formalize a bounded mechanism;
@@ -226,25 +235,21 @@ The intended cycle is:
 
 ---
 
-## Current Research Priorities
+## Project Closeout
 
-The immediate priorities are:
+The active Dynamic Social Systems exploration is closed as of August 2026.
 
-1. preserve the conceptual distinction between the general Framework and its bounded formal models;
-2. complete the remaining approved formalization tracks;
-3. translate formal mechanisms into testable propositions and measurable variables;
-4. conduct historical and empirical testing under the Validation protocols;
-5. document negative, null, and contradictory evidence;
-6. complete the social-inequality application as the first end-to-end demonstration;
-7. prepare a concise circulation-quality working paper.
+The closeout does **not** mean that every exploratory framework claim has been established, that every planned empirical test was completed, or that the earlier technical architecture should be treated as a universal theory of social systems. The repository is intentionally preserved so that the path of exploration, formalization, challenge, and partial validation remains inspectable.
 
-The project should now emphasize depth, integration, and testing rather than continued expansion of the foundational architecture.
+The completed essay, [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md), carries forward the parts of the exploration that survived into a focused reader-facing argument about causal attribution, feedback, trajectories, intervention, adaptation, causal separability, causal salience, and evolving relationships.
+
+No further expansion of this project is planned. New questions arising from the work should begin as separate projects rather than being added indefinitely to this repository.
 
 ---
 
 ## Research Standards
 
-All major theoretical and empirical work should meet the following standards:
+All major theoretical and empirical work was expected to meet the following standards:
 
 * explicit system boundaries;
 * clearly defined concepts and variables;
@@ -263,11 +268,8 @@ The framework should not receive explanatory credit for patterns already fully a
 
 ## Current Status
 
-The conceptual framework and validation architecture are substantially developed.
+**Closed — August 2026.**
 
-Formalization is active, with major progress completed in Institutional Translation and Endogenous Transition Dynamics. The Evidence phase is now the principal bridge between the theoretical architecture and the first full application.
+The Dynamic Social Systems repository is retained as the research record of the completed exploratory project. Its principal reader-facing output is [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md), v1.0.
 
-The framework remains provisional. Its concepts, models, and scope may be narrowed or revised as they are tested against historical evidence, empirical data, competing theories, and adversarial review.
-
-The long-term objective is not to construct a universal model of society. It is to develop a disciplined and extensible research framework for studying how institutions, heterogeneity, contingency, adaptation, and recursive feedback jointly shape social-system evolution.
-
+The earlier framework, models, evidence plans, applications, validation materials, and adversarial reviews remain available for traceability and possible future reference, but they should not be read as an ongoing commitment to expand or complete every strand of the original program.
