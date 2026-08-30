@@ -1,7 +1,7 @@
 # World as a Puzzling System: An Essay
 
-**Version:** 1.0  
-**Date:** August 2026  
+**Version:** 1.0<br>
+**Date:** August 2026<br>
 **Author:** Honggao Cao
 
 *World as a Puzzling System: An Essay* examines causal attribution in evolving systems where consequences become later causes, feedback can maintain apparently stable states, trajectories can reveal distinctions that endpoints conceal, and intervention or observation can change the system being understood.
