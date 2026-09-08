@@ -78,7 +78,7 @@ Knowledge therefore develops both vertically within each repository and horizont
 
 Investigates how institutions, individuals, incentives, and social interactions produce the long-term evolution of complex social systems.
 
-**Status:** The active exploratory project closed in August 2026. Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.0. The underlying research materials remain preserved in the [Social-Systems](Social-Systems/README.md) record.
+**Status:** The active exploratory project closed in August 2026. Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.0. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.0, is housed in the same thematic area without reopening the project. The underlying research materials remain preserved in the [Social-Systems](Social-Systems/README.md) record.
 
 ---
 
@@ -87,6 +87,14 @@ Investigates how institutions, individuals, incentives, and social interactions 
 Investigates luck, uncertainty, opportunity, discovery, and innovation across multiple disciplines through literature synthesis, formalization, measurement, comparative case studies, and evolving theoretical development.
 
 **Completed essay output:** [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md), v1.0, August 2026. The phase-specific research record remains available under [Research-on-Luck](Research-on-Luck/README.md).
+
+---
+
+## Life Perspectives
+
+A thematic essay area for independent reader-facing writing on life as lived through time, choices, commitments, relationships, work, resources, uncertainty, and changing stages. It is not presented as a formal research program.
+
+**Current essay:** [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md), v1.0, September 2026. See [Life Perspectives](Life-Perspectives/README.md) for the thematic record.
 
 ---
 
@@ -161,11 +169,13 @@ Over time, this cumulative process may contribute toward an increasingly integra
 
 Research Lab is an evolving scientific program.
 
-As of August 2026, two reader-facing essays have reached frozen v1.0 releases:
+As of September 2026, four reader-facing essays have public v1.0 releases:
 
 * [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md)
 * [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md)
+* [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md)
+* [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md)
 
-The Dynamic Social Systems exploration is closed as an active project, while its research record remains preserved. The Research on Luck phase history is likewise retained as its own record and is not rewritten by the essay closeouts.
+The Dynamic Social Systems exploration is closed as an active project, while its research record remains preserved; the later Society essay does not reopen it. The Research on Luck phase history is likewise retained as its own record and is not rewritten by the essay closeouts. Life Perspectives is a thematic essay area rather than a formal research program.
 
 New questions should be allowed to mature through fresh exploratory work rather than being forced into completed outputs or indefinitely extending earlier projects.
