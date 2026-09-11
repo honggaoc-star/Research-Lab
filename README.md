@@ -72,13 +72,23 @@ Knowledge therefore develops both vertically within each repository and horizont
 
 ---
 
-# Research Programs and Completed Essay Outputs
+# Research Programs and Completed Writing
 
 ## Dynamic Social Systems
 
 Investigates how institutions, individuals, incentives, and social interactions produce the long-term evolution of complex social systems.
 
 **Status:** The active exploratory project closed in August 2026. Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.0. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.0, is housed in the same thematic area without reopening the project. The underlying research materials remain preserved in the [Social-Systems](Social-Systems/README.md) record.
+
+---
+
+## Social Systems Synthesis
+
+A completed, research-informed manuscript follows how individual capabilities, resources, relationships, institutions, and luck become consequential together. It connects the conditions producing outcomes at a particular time with the histories that formed them, then asks what counts as improvement.
+
+**Completed manuscript:** [*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md), Honggao Cao, September 2026. [Read the PDF](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.pdf) · [Word manuscript](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.docx).
+
+This manuscript has its own publication record and does not reopen the earlier Dynamic Social Systems exploration.
 
 ---
 
@@ -169,12 +179,13 @@ Over time, this cumulative process may contribute toward an increasingly integra
 
 Research Lab is an evolving scientific program.
 
-As of September 2026, four reader-facing essays have public v1.0 releases:
+As of September 2026, the reader-facing writing includes four v1.0 essays and a completed September 2026 manuscript:
 
 * [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md)
 * [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md)
 * [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md)
 * [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md)
+* **Completed September 2026 manuscript:** [*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md)
 
 The Dynamic Social Systems exploration is closed as an active project, while its research record remains preserved; the later Society essay does not reopen it. The Research on Luck phase history is likewise retained as its own record and is not rewritten by the essay closeouts. Life Perspectives is a thematic essay area rather than a formal research program.
 
