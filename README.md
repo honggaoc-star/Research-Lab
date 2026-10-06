@@ -74,6 +74,16 @@ Knowledge therefore develops both vertically within each repository and horizont
 
 # Research Programs and Completed Writing
 
+## Working Papers
+
+[Working Papers](Working-Papers/README.md) contains independently publishable research papers that do not currently belong to a single established Research Lab program. They are listed together by publication type rather than treated as one unified theory or series.
+
+* [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md) — September 2026. [Read the PDF](Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.0.pdf).
+* [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md) — September 2026. [Read the PDF](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.0.pdf).
+* [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md) — October 2026. [Read the PDF](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf).
+
+---
+
 ## Dynamic Social Systems
 
 Investigates how institutions, individuals, incentives, and social interactions produce the long-term evolution of complex social systems.
@@ -179,14 +189,17 @@ Over time, this cumulative process may contribute toward an increasingly integra
 
 Research Lab is an evolving scientific program.
 
-As of September 2026, the reader-facing writing includes four v1.0 essays and a completed September 2026 manuscript:
+As of October 2026, the reader-facing writing includes three public working-paper releases, four v1.0 essays, and a completed September 2026 manuscript:
 
+* **Working Paper v1.0 (September 2026):** [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md)
+* **Working Paper v1.0 (September 2026):** [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md)
+* **Working Paper v1.0 (October 2026):** [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md)
 * [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md)
 * [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md)
 * [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md)
 * [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md)
 * **Completed September 2026 manuscript:** [*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md)
 
-The Dynamic Social Systems exploration is closed as an active project, while its research record remains preserved; the later Society essay does not reopen it. The Research on Luck phase history is likewise retained as its own record and is not rewritten by the essay closeouts. Life Perspectives is a thematic essay area rather than a formal research program.
+The Working Papers collection groups independent papers by publication type and does not establish a new formal research program. The Dynamic Social Systems exploration is closed as an active project, while its research record remains preserved; the later Society essay does not reopen it. The Research on Luck phase history is likewise retained as its own record and is not rewritten by the essay closeouts. Life Perspectives is a thematic essay area rather than a formal research program.
 
 New questions should be allowed to mature through fresh exploratory work rather than being forced into completed outputs or indefinitely extending earlier projects.
