@@ -1,205 +1,100 @@
 # Research Lab
 
-## An Interdisciplinary Research Program on Adaptive Systems, Opportunity, Intelligence, and Institutional Evolution
+Research Lab is an independent interdisciplinary research-and-writing collection. It brings together working papers, essays, manuscripts, active research, completed projects, and preserved development records across questions involving uncertainty, opportunity, intelligence, institutions, social systems, and human experience.
 
----
+The repository does not impose one overarching theory on this work. Some projects share concepts or inform one another; others stand alone. Each paper, essay, manuscript, and research program should be read according to its own question, evidence, methods, status, and limits.
 
-## Overview
+## Read the Public Work
 
-Research Lab is a long-term interdisciplinary research program dedicated to understanding how complex systems evolve under uncertainty.
+### Working Papers
 
-Rather than focusing on a single academic discipline, the Lab investigates recurring mechanisms that appear across social systems, scientific discovery, technological innovation, institutions, organizations, markets, public policy, and human decision-making.
+[Working Papers](Working-Papers/README.md) is the canonical inventory of public working-paper releases. It currently contains four independent v1.0 papers grouped by publication type rather than as a numbered series or unified research program.
 
-Each repository explores a distinct research question while contributing evidence toward a broader understanding of adaptive systems and their evolution.
+1. [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.0.pdf) — Working Paper v1.0, September 2026. [Research record](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md).
+2. [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.0.pdf) — Working Paper v1.0, September 2026. [Research record](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md).
+3. [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md).
+4. [*AI Evolution as an Advancing Approximation Frontier*](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md).
 
-The objective is not merely to produce individual studies, but to develop a cumulative research program in which evidence collected from multiple domains progressively refines broader theoretical understanding.
+These are public working-paper releases. Inclusion does not imply peer review, journal publication, external acceptance, or institutional endorsement.
 
----
+### Completed Manuscript
 
-# Research Philosophy
+[*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md), Honggao Cao, September 2026, is a completed research-informed manuscript about how capabilities, resources, relationships, institutions, and luck become consequential together.
 
-The Lab follows four guiding principles.
+[Read the PDF](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.pdf) · [Word manuscript](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.docx) · [Manuscript record](Social-Systems-Synthesis/README.md)
 
-## 1. Cross-Disciplinary Research
+The manuscript has its own publication and development record. It does not reopen the earlier Dynamic Social Systems exploration.
 
-Complex phenomena rarely respect disciplinary boundaries.
+### Essays
 
-The Lab therefore synthesizes ideas from philosophy, economics, psychology, statistics, computer science, sociology, political science, management, engineering, history, and related fields.
+The essay collections contain reader-facing work that stands apart from the phase-specific or exploratory records from which some of it emerged.
 
-Different disciplines contribute complementary perspectives rather than competing explanations.
+- [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md) — v1.0, August 2026
+- [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md) — v1.0, August 2026
+- [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.0, September 2026
+- [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md) — v1.0, September 2026
 
----
+The [Life Perspectives](Life-Perspectives/README.md) area is a thematic home for independent essays, not a formal research program.
 
-## 2. Evidence Before Theory
+## Research Programs and Preserved Records
 
-The Lab does not begin with predetermined conclusions.
+### Research on Luck
 
-Instead, theory develops through an iterative process involving literature review, formalization, measurement, empirical investigation, comparative synthesis, and continual revision.
+[Research on Luck](Research-on-Luck/README.md) is a continuing interdisciplinary project organized into distinct phases.
 
-General theories are therefore regarded as evolving products of accumulated evidence rather than fixed starting assumptions.
+- **Phase I — completed.** The [Phase I record](Research-on-Luck/Phase-I/README.md) preserves the first research cycle, including its foundations, formalization, measurement, empirical studies, propositions, revisions, and identification limits. The [project synthesis and closeout](Research-on-Luck/Phase-I/PROJECT-SYNTHESIS-AND-CLOSEOUT.md) is the authoritative internal closeout record.
+- **Phase II — active.** Phase II continues the project while preserving Phase I as a completed historical record. It may reuse, reinterpret, place downstream, or retire Phase I constructs without retroactively rewriting that phase. The current public checkpoint is [Conceptual Checkpoint II](Research-on-Luck/Research-on-Luck-Phase-II-Conceptual-Checkpoint-II.md).
+- **Essay output.** [*Luck in a Puzzling World*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md) is a standalone reader-facing essay rather than a substitute for either phase record.
 
----
+### Dynamic Social Systems
 
-## 3. Independent Validation
+[Dynamic Social Systems](Social-Systems/README.md) is a **closed exploratory project**. Its active exploration ended in August 2026. The repository preserves the earlier framework, formalization, literature, evidence, applications, validation, red-team, and working-paper materials for traceability; those materials should not be read as a current commitment to complete every exploratory strand or as an established universal theory of social systems.
 
-Each research domain functions as an independent source of evidence.
+Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.0. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.0, is housed in the same thematic area without reopening the project or changing its closed status.
 
-Patterns observed repeatedly across multiple domains provide stronger support than observations confined to a single field.
+### Historical and Development Materials
 
-Differences between domains are treated as opportunities for theoretical refinement rather than inconsistencies to be eliminated.
+Research notes, intermediate models, validation records, archived drafts, negative findings, and superseded structures remain in place where they document how a project developed. Preservation does not make every historical claim current. Project-level READMEs and closeout records identify which materials are completed outputs, active work, bounded exploratory work, or historical records.
 
----
+Earlier Lab-wide planning documents—including the [Mission](Mission.md), [Program Architecture](Program-Architecture.md), [Vocabulary](Vocabulary.md), and [Research Observations](Research-Observations.md)—are also preserved as development history. Where those documents describe a single cumulative adaptive-systems program, this README and the relevant project-level status records provide the current portfolio orientation.
 
-## 4. Continuous Refinement
+## How to Interpret Status
 
-Scientific understanding evolves.
+- **Public release** identifies a reader-facing working paper or essay made available in a stated version.
+- **Completed** identifies a finished output or research phase. It does not imply peer review, external acceptance, or the completion of every possible extension.
+- **Active** identifies work that is still being developed. At present, Research-on-Luck Phase II is the active research phase represented here.
+- **Closed exploratory project** identifies an investigation that is no longer being expanded as a project, even though its materials and completed outputs remain available.
+- **Preserved historical record** identifies earlier or superseded work retained for traceability rather than presented as the repository's current position.
 
-Repositories, models, and theoretical frameworks are expected to change as additional evidence becomes available.
+These descriptions apply at the level of the relevant paper, essay, manuscript, phase, or project. A completed output does not automatically close its broader research area, and a later essay does not automatically reopen a closed project.
 
-Revision is considered a normal part of scientific progress.
+## Research Approach
 
----
+The collection is interdisciplinary because its questions often cross established fields. Depending on the project, the work may draw on philosophy, economics, psychology, statistics, computer science, sociology, political science, management, engineering, history, or related areas.
 
-# Research Architecture
+Methods are chosen for the question rather than imposed repository-wide. They include literature synthesis, conceptual clarification, formalization, measurement design, case analysis, comparative work, adversarial review, and reader-facing synthesis. Claims should remain proportionate to the evidence available, and limitations, negative findings, and changes in direction should remain visible.
 
-Individual repositories investigate different aspects of complex adaptive systems.
+Connections across projects may be useful, but they are hypotheses or interpretive links to be evaluated—not a requirement that every project contribute to one general theory. New questions should be allowed to begin as separate exploratory work when that preserves clearer boundaries.
 
-Each repository maintains its own literature, formalization, empirical evidence, and domain-specific conclusions.
+## Repository Map
 
-At the same time, repositories contribute to a broader research program by identifying mechanisms that may recur across multiple domains.
+| Area | Status | Contents |
+|---|---|---|
+| [Working Papers](Working-Papers/README.md) | Four public v1.0 releases | Independent publishable papers and their research records |
+| [Research on Luck](Research-on-Luck/README.md) | Phase I completed; Phase II active | Phase-specific research, evidence, conceptual development, and essay output |
+| [Dynamic Social Systems](Social-Systems/README.md) | Closed exploratory project | Preserved framework, formalization, evidence, validation, applications, critiques, and essays |
+| [Social Systems Synthesis](Social-Systems-Synthesis/README.md) | Completed manuscript | Accepted manuscript files and preserved draft-development record |
+| [Life Perspectives](Life-Perspectives/README.md) | Thematic essay area | Independent reader-facing essays outside a formal research program |
 
-Knowledge therefore develops both vertically within each repository and horizontally across repositories.
+## Current Status
 
----
+As of October 2026:
 
-# Research Programs and Completed Writing
+- the canonical [Working Papers inventory](Working-Papers/README.md) contains four public v1.0 releases;
+- four v1.0 essays are available across the Research on Luck, Social Systems, and Life Perspectives areas;
+- *How We Get Where We Are* is a completed September 2026 manuscript;
+- Research-on-Luck Phase I is completed and preserved, while Phase II is active;
+- the Dynamic Social Systems exploration is closed, with its research record retained;
+- publication files, project records, and historical development materials remain in their established locations.
 
-## Working Papers
-
-[Working Papers](Working-Papers/README.md) contains independently publishable research papers that do not currently belong to a single established Research Lab program. They are listed together by publication type rather than treated as one unified theory or series.
-
-* [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md) — September 2026. [Read the PDF](Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.0.pdf).
-* [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md) — September 2026. [Read the PDF](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.0.pdf).
-* [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md) — October 2026. [Read the PDF](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf).
-
----
-
-## Dynamic Social Systems
-
-Investigates how institutions, individuals, incentives, and social interactions produce the long-term evolution of complex social systems.
-
-**Status:** The active exploratory project closed in August 2026. Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.0. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.0, is housed in the same thematic area without reopening the project. The underlying research materials remain preserved in the [Social-Systems](Social-Systems/README.md) record.
-
----
-
-## Social Systems Synthesis
-
-A completed, research-informed manuscript follows how individual capabilities, resources, relationships, institutions, and luck become consequential together. It connects the conditions producing outcomes at a particular time with the histories that formed them, then asks what counts as improvement.
-
-**Completed manuscript:** [*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md), Honggao Cao, September 2026. [Read the PDF](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.pdf) · [Word manuscript](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.docx).
-
-This manuscript has its own publication record and does not reopen the earlier Dynamic Social Systems exploration.
-
----
-
-## Research on Luck
-
-Investigates luck, uncertainty, opportunity, discovery, and innovation across multiple disciplines through literature synthesis, formalization, measurement, comparative case studies, and evolving theoretical development.
-
-**Completed essay output:** [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md), v1.0, August 2026. The phase-specific research record remains available under [Research-on-Luck](Research-on-Luck/README.md).
-
----
-
-## Life Perspectives
-
-A thematic essay area for independent reader-facing writing on life as lived through time, choices, commitments, relationships, work, resources, uncertainty, and changing stages. It is not presented as a formal research program.
-
-**Current essay:** [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md), v1.0, September 2026. See [Life Perspectives](Life-Perspectives/README.md) for the thematic record.
-
----
-
-## Emerging Research Directions
-
-Several additional research programs are under consideration.
-
-Current directions include:
-
-* Intelligence as adaptive mechanism
-* Decision-making under uncertainty
-* Opportunity dynamics
-* Institutional adaptation
-* Evolution of knowledge
-* Complex adaptive systems
-
-These topics will mature through exploratory work before becoming independent repositories.
-
----
-
-# Common Research Workflow
-
-Although each repository addresses different questions, they generally follow a common research process:
-
-Literature
-
-↓
-
-Foundations
-
-↓
-
-Formalization
-
-↓
-
-Measurement
-
-↓
-
-Case Studies
-
-↓
-
-Comparative Synthesis
-
-↓
-
-General Theory
-
-↓
-
-Applications
-
-This workflow allows theoretical understanding to emerge progressively from multiple independent forms of evidence.
-
----
-
-# Long-Term Vision
-
-The long-term objective of the Research Lab is to construct a coherent, empirically grounded understanding of how adaptive systems evolve.
-
-Rather than producing isolated theories for individual disciplines, the Lab seeks to identify recurring mechanisms that remain robust across diverse domains of human activity.
-
-As additional repositories are completed, relationships among their findings will be continually evaluated.
-
-Over time, this cumulative process may contribute toward an increasingly integrated scientific understanding of adaptation, opportunity, intelligence, institutions, and societal evolution.
-
----
-
-# Current Status
-
-Research Lab is an evolving scientific program.
-
-As of October 2026, the reader-facing writing includes three public working-paper releases, four v1.0 essays, and a completed September 2026 manuscript:
-
-* **Working Paper v1.0 (September 2026):** [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md)
-* **Working Paper v1.0 (September 2026):** [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md)
-* **Working Paper v1.0 (October 2026):** [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md)
-* [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md)
-* [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md)
-* [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md)
-* [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md)
-* **Completed September 2026 manuscript:** [*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md)
-
-The Working Papers collection groups independent papers by publication type and does not establish a new formal research program. The Dynamic Social Systems exploration is closed as an active project, while its research record remains preserved; the later Society essay does not reopen it. The Research on Luck phase history is likewise retained as its own record and is not rewritten by the essay closeouts. Life Perspectives is a thematic essay area rather than a formal research program.
-
-New questions should be allowed to mature through fresh exploratory work rather than being forced into completed outputs or indefinitely extending earlier projects.
+This status summary describes a portfolio of distinct outputs and projects. It does not convert them into a single theory, erase their phase boundaries, or treat preserved exploratory materials as current conclusions.
