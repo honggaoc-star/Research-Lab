@@ -2,7 +2,7 @@
 
 *Significance, Persistence, and the Composition of Unresolved Inquiry*
 
-**Version:** 1.0<br>
+**Version:** 1.1<br>
 **Date:** September 2026<br>
 **Author:** Honggao Cao
 
@@ -10,12 +10,19 @@ This paper examines how significant and difficult questions become prominent amo
 
 ## Files
 
-- [PDF](Why-Important-Questions-Are-Often-Difficult-v1.0.pdf) — recommended reading copy
-- [Word](Why-Important-Questions-Are-Often-Difficult-v1.0.docx) — editable/source document
+- [PDF](Why-Important-Questions-Are-Often-Difficult-v1.1.pdf) — recommended reading copy
+- [Word](Why-Important-Questions-Are-Often-Difficult-v1.1.docx) — editable/source document
+
+## Version history
+
+v1.1 is the current recommended edition. The previous v1.0 edition remains available:
+
+- [PDF](Why-Important-Questions-Are-Often-Difficult-v1.0.pdf) — historical reading copy
+- [Word](Why-Important-Questions-Are-Often-Difficult-v1.0.docx) — historical editable/source document
 
 ## Status
 
-Version 1.0 is the public working-paper release.
+Version 1.1 is the current recommended public working-paper release.
 
 ## Related Working Papers
 

@@ -29,4 +29,4 @@ Phase II is the active continuation of the project. It may reuse, reinterpret, p
 
 Current essay:
 
-- [Luck in a Puzzling World: An Essay](Essays/Luck-in-a-Puzzling-World/README.md) — v1.0, August 2026
+- [Luck in a Puzzling World: An Essay](Essays/Luck-in-a-Puzzling-World/README.md) — v1.1, August 2026

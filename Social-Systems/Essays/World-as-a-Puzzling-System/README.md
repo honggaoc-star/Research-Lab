@@ -1,6 +1,6 @@
 # World as a Puzzling System: An Essay
 
-**Version:** 1.0<br>
+**Version:** 1.1<br>
 **Date:** August 2026<br>
 **Author:** Honggao Cao
 
@@ -10,9 +10,16 @@ The essay emerged from the broader Dynamic Social Systems exploration and relate
 
 ## Files
 
-- [World-as-a-Puzzling-System-v1.0.pdf](World-as-a-Puzzling-System-v1.0.pdf) — recommended reading copy
-- [World-as-a-Puzzling-System-v1.0.docx](World-as-a-Puzzling-System-v1.0.docx) — editable/source document
+- [World-as-a-Puzzling-System-v1.1.pdf](World-as-a-Puzzling-System-v1.1.pdf) — recommended reading copy
+- [World-as-a-Puzzling-System-v1.1.docx](World-as-a-Puzzling-System-v1.1.docx) — editable/source document
+
+## Version history
+
+v1.1 is the current recommended edition. The previous v1.0 edition remains available:
+
+- [World-as-a-Puzzling-System-v1.0.pdf](World-as-a-Puzzling-System-v1.0.pdf) — historical reading copy
+- [World-as-a-Puzzling-System-v1.0.docx](World-as-a-Puzzling-System-v1.0.docx) — historical editable/source document
 
 ## Status
 
-Version 1.0 is the frozen public release of this essay. The Dynamic Social Systems exploration is closed as an active project as of August 2026. Future ideas arising from this work should begin as separate research projects rather than retroactively changing this version or reopening the completed exploration.
+Version 1.1 is the current recommended public release of this essay. The Dynamic Social Systems exploration is closed as an active project as of August 2026. Future ideas arising from this work should begin as separate research projects rather than retroactively changing this version or reopening the completed exploration.
