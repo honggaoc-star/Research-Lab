@@ -6,4 +6,4 @@ These essays are standalone outputs rather than research-phase records. The unde
 
 ## Published essays
 
-- [Luck in a Puzzling World: An Essay](Luck-in-a-Puzzling-World/README.md) — v1.0, August 2026
+- [Luck in a Puzzling World: An Essay](Luck-in-a-Puzzling-World/README.md) — v1.1, August 2026

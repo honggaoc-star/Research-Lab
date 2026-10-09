@@ -8,6 +8,8 @@ The project began as an investigation of social inequality. As the framework dev
 
 **Project status:** Closed as an active exploratory project in August 2026. Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md), version 1.0. A later independent essay, [*Society as a System in Pursuit of Outcomes: An Essay*](Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), is housed here by thematic fit without reopening the project or changing its research record. The repository's earlier framework, formalization, literature, validation, evidence, applications, red-team, and working-paper materials are retained rather than retroactively rewritten to match either essay.
 
+Current recommended editions: [*World as a Puzzling System* v1.1](Essays/World-as-a-Puzzling-System/README.md) and [*Society as a System in Pursuit of Outcomes* v1.1](Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md). The v1.0 references in the project status record describe the historical editions.
+
 ---
 
 ## Central Research Question
@@ -91,8 +93,8 @@ Contains reader-facing outputs that emerged from the broader exploration, togeth
 
 Current essays:
 
-- [*Society as a System in Pursuit of Outcomes: An Essay*](Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.0, September 2026; later independent thematic essay
-- [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md) — v1.0, August 2026
+- [*Society as a System in Pursuit of Outcomes: An Essay*](Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.1, September 2026; later independent thematic essay
+- [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md) — v1.1, August 2026
 
 ### `Framework/`
 
@@ -270,6 +272,8 @@ The framework should not receive explanatory credit for patterns already fully a
 ## Current Status
 
 **Closed — August 2026.**
+
+Current recommended editions: [*World as a Puzzling System* v1.1](Essays/World-as-a-Puzzling-System/README.md) and [*Society as a System in Pursuit of Outcomes* v1.1](Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md). The v1.0 references in the project status record describe the historical editions.
 
 The Dynamic Social Systems repository is retained as the research record of the completed exploratory project. Its principal reader-facing output is [*World as a Puzzling System: An Essay*](Essays/World-as-a-Puzzling-System/README.md), v1.0. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.0, is housed in the same thematic area without changing the project's closed status.
 

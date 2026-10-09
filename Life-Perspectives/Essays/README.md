@@ -4,4 +4,4 @@ This folder contains independent reader-facing essays in the Life Perspectives t
 
 ## Published essays
 
-- [Life as an Unfolding Process: An Essay](Life-as-an-Unfolding-Process/README.md) — v1.0, September 2026
+- [Life as an Unfolding Process: An Essay](Life-as-an-Unfolding-Process/README.md) — v1.1, September 2026

@@ -6,4 +6,4 @@ It is not presented as a formal research program. The area provides a modest, ex
 
 ## Essays
 
-- [*Life as an Unfolding Process: An Essay*](Essays/Life-as-an-Unfolding-Process/README.md) — v1.0, September 2026
+- [*Life as an Unfolding Process: An Essay*](Essays/Life-as-an-Unfolding-Process/README.md) — v1.1, September 2026

@@ -4,7 +4,9 @@
 
 **Honggao Cao · September 2026**
 
-[**Read the manuscript (PDF)**](Manuscript/How_We_Get_Where_We_Are.pdf) · [Word manuscript](Manuscript/How_We_Get_Where_We_Are.docx)
+**Current recommended edition: v1.1.**
+
+[**Read the manuscript (PDF)**](Manuscript/How-We-Get-Where-We-Are-v1.1.pdf) · [Word manuscript (editable copy)](Manuscript/How-We-Get-Where-We-Are-v1.1.docx)
 
 ## About the manuscript
 
@@ -16,7 +18,7 @@ The discussion connects two views. The **point-in-time view** examines how peopl
 
 The inquiry also reaches beyond the division of existing resources. It considers how productive capacity is built, how cooperation is sustained, how interruptions redirect activity, and how rules can change. Explaining a trajectory then opens a further question: what counts as improvement, for whom, through which means, and over what period?
 
-The manuscript is written for interested readers without requiring specialist knowledge of every subject it discusses. Research on housing, farming, health care, technology, finance, and irrigation is connected through concrete examples and three illustrations. Empirical studies, hypothetical comparisons, and the mathematical accumulation illustration serve distinct purposes: demonstrating a possible connection is different from establishing what produced a particular observed outcome.
+The manuscript is written for interested readers without requiring specialist knowledge of every subject it discusses. Research on housing, farming, health care, technology, finance, and irrigation is connected through concrete examples and three interior figures, with an approved cover illustration. Empirical studies, hypothetical comparisons, and the mathematical accumulation illustration serve distinct purposes: demonstrating a possible connection is different from establishing what produced a particular observed outcome.
 
 ## Reading guide
 
@@ -30,9 +32,13 @@ The Preface explains the interest behind the inquiry. The Introduction poses the
 | 4 | How Do Social Systems Build—and Reallocate—Capacity? | 19 |
 | 5 | Why Do Similar Starting Points Diverge? | 25 |
 | 6 | How Do Outcomes Become Later Conditions? | 31 |
-| 7 | What Counts as Improvement? | 40 |
+| 7 | What Counts as Improvement? | 42 |
 
-The Conclusion begins on page 46 and brings the connections together. The 53-page PDF includes three figures, two tables, a calculation note, and a consolidated reference list. Its Contents provides navigation to the chapters and supporting material.
+The Conclusion begins on page 48 and brings the connections together. The 54-page PDF includes three interior figures and the approved cover illustration, two tables, a calculation note, and a consolidated reference list. References begins on page 51. Its Contents provides navigation to the chapters and supporting material.
+
+## Version history
+
+v1.1 is the current recommended edition. The earlier unversioned edition remains available: [historical PDF](Manuscript/How_We_Get_Where_We_Are.pdf) · [historical Word manuscript](Manuscript/How_We_Get_Where_We_Are.docx).
 
 ## Project files
 
@@ -40,12 +46,14 @@ The Conclusion begins on page 46 and brings the connections together. The 53-pag
 Social-Systems-Synthesis/
 ├── README.md
 ├── Manuscript/
+│   ├── How-We-Get-Where-We-Are-v1.1.docx
+│   ├── How-We-Get-Where-We-Are-v1.1.pdf
 │   ├── How_We_Get_Where_We_Are.docx
 │   └── How_We_Get_Where_We_Are.pdf
 └── Draft-Development/
 ```
 
-**`Manuscript/`** contains the accepted final manuscript files. The Word document is the editable master; the PDF is the reader-facing copy for circulation and publication.
+**`Manuscript/`** contains the accepted final manuscript files. The v1.1 Word document is the current editable master; the matching v1.1 PDF is the recommended reader-facing copy. The unversioned files are preserved historical copies.
 
 **`Draft-Development/`** is reserved for the development history: earlier drafts, reviews, research notes, and revision records. Those materials provide context but do not replace the accepted manuscript.
 

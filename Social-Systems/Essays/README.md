@@ -6,5 +6,5 @@ These essays are standalone outputs rather than replacements for the underlying 
 
 ## Published essays
 
-- [Society as a System in Pursuit of Outcomes: An Essay](Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.0, September 2026
-- [World as a Puzzling System: An Essay](World-as-a-Puzzling-System/README.md) — v1.0, August 2026
+- [Society as a System in Pursuit of Outcomes: An Essay](Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.1, September 2026
+- [World as a Puzzling System: An Essay](World-as-a-Puzzling-System/README.md) — v1.1, August 2026

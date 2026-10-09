@@ -1,6 +1,6 @@
 # AI Evolution as an Advancing Approximation Frontier
 
-**Version:** 1.0<br>
+**Version:** 1.1<br>
 **Date:** October 2026<br>
 **Author:** Honggao Cao
 
@@ -8,12 +8,19 @@ This paper examines AI development as an advancing approximation process in whic
 
 ## Files
 
-- [PDF](AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.0.pdf) — recommended reading copy
-- [Word](AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.0.docx) — editable/source document
+- [PDF](AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf) — recommended reading copy
+- [Word](AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.docx) — editable/source document
+
+## Version history
+
+v1.1 is the current recommended edition. The previous v1.0 edition remains available:
+
+- [PDF](AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.0.pdf) — historical reading copy
+- [Word](AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.0.docx) — historical editable/source document
 
 ## Status
 
-Version 1.0 is the public working-paper release.
+Version 1.1 is the current recommended public working-paper release.
 
 ## Related Working Papers
 

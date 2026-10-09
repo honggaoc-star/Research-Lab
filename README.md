@@ -8,20 +8,20 @@ The repository does not impose one overarching theory on this work. Some project
 
 ### Working Papers
 
-[Working Papers](Working-Papers/README.md) is the canonical inventory of public working-paper releases. It currently contains four independent v1.0 papers grouped by publication type rather than as a numbered series or unified research program.
+[Working Papers](Working-Papers/README.md) is the canonical inventory of public working-paper releases. It currently contains four independent v1.1 papers grouped by publication type rather than as a numbered series or unified research program.
 
-1. [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.0.pdf) — Working Paper v1.0, September 2026. [Research record](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md).
-2. [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.0.pdf) — Working Paper v1.0, September 2026. [Research record](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md).
-3. [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md).
-4. [*AI Evolution as an Advancing Approximation Frontier*](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md).
+1. [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.1.pdf) — Working Paper v1.1, September 2026. [Research record](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md).
+2. [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.1.pdf) — Working Paper v1.1, September 2026. [Research record](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md).
+3. [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.pdf) — Working Paper v1.1, October 2026. [Research record](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md).
+4. [*AI Evolution as an Advancing Approximation Frontier*](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf) — Working Paper v1.1, October 2026. [Research record](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md).
 
 These are public working-paper releases. Inclusion does not imply peer review, journal publication, external acceptance, or institutional endorsement.
 
 ### Completed Manuscript
 
-[*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md), Honggao Cao, September 2026, is a completed research-informed manuscript about how capabilities, resources, relationships, institutions, and luck become consequential together.
+[*How We Get Where We Are: People, Institutions, and Luck in an Unequal World*](Social-Systems-Synthesis/README.md), Honggao Cao, September 2026, is a completed research-informed manuscript (current edition v1.1) about how capabilities, resources, relationships, institutions, and luck become consequential together.
 
-[Read the PDF](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.pdf) · [Word manuscript](Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.docx) · [Manuscript record](Social-Systems-Synthesis/README.md)
+[Read the PDF](Social-Systems-Synthesis/Manuscript/How-We-Get-Where-We-Are-v1.1.pdf) · [Word manuscript](Social-Systems-Synthesis/Manuscript/How-We-Get-Where-We-Are-v1.1.docx) · [Manuscript record](Social-Systems-Synthesis/README.md)
 
 The manuscript has its own publication and development record. It does not reopen the earlier Dynamic Social Systems exploration.
 
@@ -29,12 +29,21 @@ The manuscript has its own publication and development record. It does not reope
 
 The essay collections contain reader-facing work that stands apart from the phase-specific or exploratory records from which some of it emerged.
 
-- [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md) — v1.0, August 2026
-- [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md) — v1.0, August 2026
-- [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.0, September 2026
-- [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md) — v1.0, September 2026
+- [*Luck in a Puzzling World: An Essay*](Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md) — v1.1, August 2026
+- [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md) — v1.1, August 2026
+- [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md) — v1.1, September 2026
+- [*Life as an Unfolding Process: An Essay*](Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md) — v1.1, September 2026
 
 The [Life Perspectives](Life-Perspectives/README.md) area is a thematic home for independent essays, not a formal research program.
+
+## Related AI-Risk-Management publications
+
+These publications are maintained in their established AI-Risk-Management project homes. Each landing page recommends the current PDF, provides the editable Word copy, and preserves earlier editions.
+
+- [*An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems*](https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/README.md) — v1.3
+- [*Plausible Mechanisms for Hallucination in Generative AI Systems*](https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/README.md) — v1.2
+- [*AI Provenance and the Evaluation of Intellectual Work*](https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md) — v1.1
+- [*Return-Weighted Risk for Navigating an Evolving AI Landscape*](https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/README.md) — v1.2
 
 ## Research Programs and Preserved Records
 
@@ -50,7 +59,7 @@ The [Life Perspectives](Life-Perspectives/README.md) area is a thematic home for
 
 [Dynamic Social Systems](Social-Systems/README.md) is a **closed exploratory project**. Its active exploration ended in August 2026. The repository preserves the earlier framework, formalization, literature, evidence, applications, validation, red-team, and working-paper materials for traceability; those materials should not be read as a current commitment to complete every exploratory strand or as an established universal theory of social systems.
 
-Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.0. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.0, is housed in the same thematic area without reopening the project or changing its closed status.
+Its principal completed reader-facing synthesis is [*World as a Puzzling System: An Essay*](Social-Systems/Essays/World-as-a-Puzzling-System/README.md), v1.1. The later independent [*Society as a System in Pursuit of Outcomes: An Essay*](Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md), v1.1, is housed in the same thematic area without reopening the project or changing its closed status.
 
 ### Historical and Development Materials
 
@@ -80,7 +89,7 @@ Connections across projects may be useful, but they are hypotheses or interpreti
 
 | Area | Status | Contents |
 |---|---|---|
-| [Working Papers](Working-Papers/README.md) | Four public v1.0 releases | Independent publishable papers and their research records |
+| [Working Papers](Working-Papers/README.md) | Four public v1.1 releases | Independent publishable papers and their research records |
 | [Research on Luck](Research-on-Luck/README.md) | Phase I completed; Phase II active | Phase-specific research, evidence, conceptual development, and essay output |
 | [Dynamic Social Systems](Social-Systems/README.md) | Closed exploratory project | Preserved framework, formalization, evidence, validation, applications, critiques, and essays |
 | [Social Systems Synthesis](Social-Systems-Synthesis/README.md) | Completed manuscript | Accepted manuscript files and preserved draft-development record |
@@ -90,9 +99,9 @@ Connections across projects may be useful, but they are hypotheses or interpreti
 
 As of October 2026:
 
-- the canonical [Working Papers inventory](Working-Papers/README.md) contains four public v1.0 releases;
-- four v1.0 essays are available across the Research on Luck, Social Systems, and Life Perspectives areas;
-- *How We Get Where We Are* is a completed September 2026 manuscript;
+- the canonical [Working Papers inventory](Working-Papers/README.md) contains four public v1.1 releases;
+- four v1.1 essays are available across the Research on Luck, Social Systems, and Life Perspectives areas;
+- *How We Get Where We Are* is a completed September 2026 manuscript, with v1.1 the current recommended edition;
 - Research-on-Luck Phase I is completed and preserved, while Phase II is active;
 - the Dynamic Social Systems exploration is closed, with its research record retained;
 - publication files, project records, and historical development materials remain in their established locations.

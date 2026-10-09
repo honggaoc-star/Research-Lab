@@ -1,6 +1,6 @@
 # Luck in a Puzzling World: An Essay
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Date:** August 2026  
 **Author:** Honggao Cao
 
@@ -10,9 +10,16 @@ The essay is a reader-facing synthesis produced from the broader Research on Luc
 
 ## Files
 
-- [Luck-in-a-Puzzling-World-v1.0.pdf](Luck-in-a-Puzzling-World-v1.0.pdf) — recommended reading copy
-- [Luck-in-a-Puzzling-World-v1.0.docx](Luck-in-a-Puzzling-World-v1.0.docx) — editable/source document
+- [Luck-in-a-Puzzling-World-v1.1.pdf](Luck-in-a-Puzzling-World-v1.1.pdf) — recommended reading copy
+- [Luck-in-a-Puzzling-World-v1.1.docx](Luck-in-a-Puzzling-World-v1.1.docx) — editable/source document
+
+## Version history
+
+v1.1 is the current recommended edition. The previous v1.0 edition remains available:
+
+- [Luck-in-a-Puzzling-World-v1.0.pdf](Luck-in-a-Puzzling-World-v1.0.pdf) — historical reading copy
+- [Luck-in-a-Puzzling-World-v1.0.docx](Luck-in-a-Puzzling-World-v1.0.docx) — historical editable/source document
 
 ## Status
 
-Version 1.0 is the frozen public release of this essay. Future research on luck may continue separately without retroactively changing this version.
+Version 1.1 is the current recommended public release of this essay. Future research on luck may continue separately without retroactively changing this version.

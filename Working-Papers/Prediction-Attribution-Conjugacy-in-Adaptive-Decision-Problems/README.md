@@ -1,6 +1,6 @@
 # Prediction–Attribution Conjugacy in Adaptive Decision Problems
 
-**Version:** 1.0<br>
+**Version:** 1.1<br>
 **Date:** October 2026<br>
 **Author:** Honggao Cao
 
@@ -8,12 +8,19 @@ This paper examines adaptive decision problems in which decision makers form str
 
 ## Files
 
-- [PDF](Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf) — recommended reading copy
-- [Word](Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.docx) — editable/source document
+- [PDF](Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.pdf) — recommended reading copy
+- [Word](Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.docx) — editable/source document
+
+## Version history
+
+v1.1 is the current recommended edition. The previous v1.0 edition remains available:
+
+- [PDF](Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf) — historical reading copy
+- [Word](Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.docx) — historical editable/source document
 
 ## Status
 
-Version 1.0 is the public working-paper release.
+Version 1.1 is the current recommended public working-paper release.
 
 ## Related Working Papers
 
