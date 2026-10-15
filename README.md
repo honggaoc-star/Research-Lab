@@ -8,12 +8,15 @@ The repository does not impose one overarching theory on this work. Some project
 
 ### Working Papers
 
-[Working Papers](Working-Papers/README.md) is the canonical inventory of public working-paper releases. It currently contains four independent v1.1 papers grouped by publication type rather than as a numbered series or unified research program.
+[Working Papers](Working-Papers/README.md) is the canonical inventory of public working-paper releases. It currently contains seven independent papers: four v1.1 editions and three v1.0 editions. They are grouped by publication type rather than as a numbered series or unified research program.
 
 1. [*Why Important Questions Are Often Difficult*](Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.1.pdf) — Working Paper v1.1, September 2026. [Research record](Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md).
 2. [*The World Might Not Be as Complex as We Thought*](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.1.pdf) — Working Paper v1.1, September 2026. [Research record](Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md).
 3. [*Prediction–Attribution Conjugacy in Adaptive Decision Problems*](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.pdf) — Working Paper v1.1, October 2026. [Research record](Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md).
 4. [*AI Evolution as an Advancing Approximation Frontier*](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf) — Working Paper v1.1, October 2026. [Research record](Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md).
+5. [*Inequality in the Context of a Mechanical Model of Society*](Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society-v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/README.md).
+6. [*The Value and Evolution of Governance*](Working-Papers/The_Value_and_Evolution_of_Governance/The_Value_and_Evolution_of_Governance_v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/The_Value_and_Evolution_of_Governance/README.md).
+7. [*A Second Life: Opportunity, Choice, and Luck Along the Roads Not Taken*](Working-Papers/A-Second-Life/A_Second_Life_v1.0.pdf) — Working Paper v1.0, October 2026. [Research record](Working-Papers/A-Second-Life/README.md).
 
 These are public working-paper releases. Inclusion does not imply peer review, journal publication, external acceptance, or institutional endorsement.
 
@@ -89,7 +92,7 @@ Connections across projects may be useful, but they are hypotheses or interpreti
 
 | Area | Status | Contents |
 |---|---|---|
-| [Working Papers](Working-Papers/README.md) | Four public v1.1 releases | Independent publishable papers and their research records |
+| [Working Papers](Working-Papers/README.md) | Seven public releases: four v1.1 and three v1.0 | Independent publishable papers and their research records |
 | [Research on Luck](Research-on-Luck/README.md) | Phase I completed; Phase II active | Phase-specific research, evidence, conceptual development, and essay output |
 | [Dynamic Social Systems](Social-Systems/README.md) | Closed exploratory project | Preserved framework, formalization, evidence, validation, applications, critiques, and essays |
 | [Social Systems Synthesis](Social-Systems-Synthesis/README.md) | Completed manuscript | Accepted manuscript files and preserved draft-development record |
@@ -99,7 +102,7 @@ Connections across projects may be useful, but they are hypotheses or interpreti
 
 As of October 2026:
 
-- the canonical [Working Papers inventory](Working-Papers/README.md) contains four public v1.1 releases;
+- the canonical [Working Papers inventory](Working-Papers/README.md) contains seven public releases: four v1.1 editions and three v1.0 editions;
 - four v1.1 essays are available across the Research on Luck, Social Systems, and Life Perspectives areas;
 - *How We Get Where We Are* is a completed September 2026 manuscript, with v1.1 the current recommended edition;
 - Research-on-Luck Phase I is completed and preserved, while Phase II is active;
